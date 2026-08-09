@@ -1,46 +1,32 @@
 {
-  "fetched_at": "2026-08-08T02:17:20.294690+00:00",
+  "fetched_at": "2026-08-09T02:25:01.803770+00:00",
   "stories": [
     {
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief",
-      "published": "Fri, 07 Aug 2026 21:19:57 +0000",
+      "title": "The AI Apocalypse Is Here",
+      "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+      "summary": "<p>Article URL: <a href=\"https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/\">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227521\">https://news.ycombinator.com/item?id=49227521</a></p>",
+      "published": "Sun, 09 Aug 2026 01:28:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "summary": "<p>Article URL: <a href=\"https://www.databricks.com/blog/managing-ai-coding-costs-scale\">https://www.databricks.com/blog/managing-ai-coding-costs-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214468\">https://news.ycombinator.com/item?id=49214468</a></p>\n<p>Points: 16",
-      "published": "Fri, 07 Aug 2026 18:25:17 +0000",
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "summary": "<p>Article URL: <a href=\"https://classicbits.net/coding-and-software/my-software/monosol/\">https://classicbits.net/coding-and-software/my-software/monosol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224020\">https://news.ycombinator.com/item?id=49224020</a></p>\n<p>Points",
+      "published": "Sat, 08 Aug 2026 17:42:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "<p>Article URL: <a href=\"https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\">https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</a><",
-      "published": "Fri, 07 Aug 2026 17:36:30 +0000",
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "summary": "<p>Article URL: <a href=\"https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223082\">https://news.ycombinator.com/item?id=49223082</a></p>\n<p>Points: 327<",
+      "published": "Sat, 08 Aug 2026 16:04:51 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213029\">https://news.ycombinator.com/item?i",
-      "published": "Fri, 07 Aug 2026 16:39:36 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "summary": "<p>Article URL: <a href=\"https://www.noemamag.com/why-is-everyone-in-tech-so-sad/\">https://www.noemamag.com/why-is-everyone-in-tech-so-sad/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209539\">https://news.ycombinator.com/item?id=49209539</a></p>\n<p>Points: 435</p>\n<p># C",
-      "published": "Fri, 07 Aug 2026 12:42:27 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: Wyzer Programming Language",
-      "url": "https://github.com/Wyzer-Lang/wyzer",
-      "summary": "<p>So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i b",
-      "published": "Fri, 07 Aug 2026 12:28:55 +0000",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/7/openai-timeline/\">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220609\">https://news.ycombinator.com/item?id=49220609</a></p>\n<p>Points: 347</p>\n<p># Comment",
+      "published": "Sat, 08 Aug 2026 10:57:44 +0000",
       "source": "Hacker News"
     }
   ]
