@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-08-10T02:29:45.223546+00:00",
+  "fetched_at": "2026-08-11T02:23:21.374078+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs, which is essential for building and testing modern applications. This repository is updated continuously and features a wide range of APIs.",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "How can we rely on external APIs without losing control over our application's core functionality?",
-      "head_fake": "A library of pre-built APIs to speed up development."
+      "title": "TensorFlow: An Open Source Machine Learning Framework",
+      "description": "A widely used open-source machine learning framework that allows developers to build and train various types of models.",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "big_question": "Can TensorFlow be used to develop more efficient and effective AI models than its competitors?",
+      "head_fake": "Building AI models has never been easier with TensorFlow's extensive libraries and APIs."
     },
     {
       "type": "repo",
-      "title": "huggingface/transformers",
-      "description": "The model-definition framework for state-of-the-art machine learning models in text, vision, audio, and speech processing is a powerful tool for developers to build and deploy custom AI models. This can be leveraged to create personalized experiences and automate tasks.",
-      "url": "https://github.com/huggingface/transformers",
-      "big_question": "Can we combine the capabilities of transformer models with other machine learning techniques to create more robust and flexible AI applications?",
-      "head_fake": "A collection of pre-trained AI models to build chatbots."
+      "title": "React: The Library for Web and Native User Interfaces",
+      "description": "A popular front-end framework for building reusable UI components and managing state changes in web and mobile applications.",
+      "url": "https://github.com/react/react",
+      "big_question": "Can React be used to develop more accessible and interactive web applications?",
+      "head_fake": "Creating responsive UI components has never been faster with React's declarative code and virtual DOM."
     },
     {
       "type": "hn",
-      "title": "The Hacker's Renaissance (2025)",
-      "description": "This article explores the resurgence of interest in hacking and cyberpunk culture, highlighting the intersection of technology and art in the contemporary era.",
-      "url": "https://phrack.org/issues/72/19#article",
-      "big_question": "How can we strike a balance between the creative potential of hacking and its security implications?",
-      "head_fake": "Explore the latest developments in hacking and cyberpunk culture."
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "description": "A lightweight and efficient language model that can be deployed on various devices and platforms, with a focus on AI development and deployment.",
+      "url": "https://cactuscompute.com/needle",
+      "big_question": "Can Needle2 be used to develop more efficient and effective AI models for edge computing and IoT applications?",
+      "head_fake": "Build and deploy AI models on the edge with Needle2's cutting-edge architecture and optimized performance."
     },
     {
       "type": "competition",
-      "title": "NLP Task: Question Answering",
-      "description": "This task involves training models to answer questions posed in a given text. It's a critical component of modern AI systems, enabling them to understand and respond to natural language inputs.",
-      "url": "https://www.kaggle.com/competitions/nlp-question-answering",
-      "big_question": "How can we balance the trade-off between accuracy and computational efficiency in question-answering systems?",
-      "head_fake": "Build a chatbot that can answer user queries."
-    },
-    {
-      "type": "competition",
-      "title": "Computer Vision Task: Object Detection",
-      "description": "This task requires developing models that can accurately detect and classify objects within images or videos. It has numerous real-world applications, such as self-driving cars and surveillance systems.",
-      "url": "https://www.kaggle.com/competitions/computer-vision-object-detection",
-      "big_question": "What are the most effective techniques for improving the real-time performance of object detection systems?",
-      "head_fake": "Create a system that can detect and track objects in a video feed."
+      "title": "Stoa Markets: A Marketplace for GPUs and AI Servers",
+      "description": "A marketplace for buying and selling GPUs and AI servers, with a focus on ease of use and accessibility.",
+      "url": "https://www.stoaexchange.com",
+      "big_question": "Can Stoa Markets revolutionize the field of AI development by making GPUs and AI servers more accessible and affordable?",
+      "head_fake": "Buy and sell GPUs and AI servers with ease using Stoa Markets' intuitive interface and competitive pricing."
     },
     {
       "type": "floater",
-      "title": "Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that any individual can achieve their goals through the power of AI. is an open-source project that seeks to create a platform for democratized AI development, enabling users to build and customize their own AI agents.",
+      "title": "AutoGPT: The Vision of Accessible AI for Everyone",
+      "description": "An AI assistant designed to make AI development more accessible and user-friendly, with a focus on automating repetitive tasks.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "big_question": "Can we create a user-friendly platform for building and deploying custom AI models without relying on extensive expertise in AI development?",
-      "head_fake": "Build a custom AI platform to automate tasks and manage workflows."
+      "big_question": "Can AutoGPT revolutionize the field of AI development by making it more accessible to non-technical users?",
+      "head_fake": "AutoGPT is the ultimate AI assistant for anyone looking to automate their workflow or develop new AI models."
+    },
+    {
+      "type": "floater",
+      "title": "Open-Source Greptile Alternative",
+      "description": "A community-driven project that provides an open-source alternative to Greptile, a popular tool for generating AI-powered content.",
+      "url": "https://github.com/Juror-AI/juror",
+      "big_question": "Can the Open-Source Greptile Alternative revolutionize the field of AI content generation by making it more accessible and transparent?",
+      "head_fake": "Create AI-powered content with ease using the Open-Source Greptile Alternative's extensive features and customization options."
     },
     {
       "type": "repo",
-      "title": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. is an open-source project that aims to create a flexible and accessible AI platform, enabling users to build custom agents for various tasks.",
-      "url": "https://github.com/openclaw/openclaw",
-      "big_question": "How can we ensure the security and trustworthiness of personal AI assistants as they become more integrated into daily life?",
-      "head_fake": "Build a custom AI assistant to manage your tasks and schedule."
+      "title": "FreeCodeCamp: An Open-Source Codebase and Curriculum",
+      "description": "A comprehensive learning platform and open-source codebase that provides a wide range of coding challenges, projects, and resources.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "Can FreeCodeCamp be used to develop more efficient and effective coding education programs?",
+      "head_fake": "Learning to code has never been more fun and engaging with FreeCodeCamp's interactive challenges and projects."
     },
     {
-      "type": "competition",
-      "title": "Reinforcement Learning Challenge",
-      "description": "This competition focuses on developing agents that can learn and improve through trial and error, with the ultimate goal of achieving peak performance in a variety of environments.",
-      "url": "https://www.kaggle.com/competitions/reinforcement-learning",
-      "big_question": "What are the key strategies for balancing exploration and exploitation in reinforcement learning scenarios?",
-      "head_fake": "Train an AI agent to play a complex game through trial and error."
+      "type": "repo",
+      "title": "Langflow: A Powerful Tool for Building and Deploying AI-Powered Agents and Workflows",
+      "description": "A comprehensive platform for building and deploying AI-powered agents and workflows, with a focus on ease of use and customizability.",
+      "url": "https://github.com/langflow-ai/langflow",
+      "big_question": "Can Langflow be used to develop more efficient and effective AI-powered agents and workflows?",
+      "head_fake": "Build and deploy AI-powered agents and workflows with ease using Langflow's intuitive interface and extensive features."
     }
   ]
 }
