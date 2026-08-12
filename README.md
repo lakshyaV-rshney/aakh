@@ -1,6 +1,6 @@
 # Aakh
 
-**v1.1.0** — [Live](https://lucky191234.github.io/aakh/)
+**v1.1.0** — [Live](https://lakshyav-rshney.github.io/aakh/)
 
 A self-updating morning dashboard. Pulls trending repos, open hackathons, and developer news every night. Ready before you wake up.
 
