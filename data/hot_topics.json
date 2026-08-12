@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-08-11T02:23:21.374078+00:00",
+  "fetched_at": "2026-08-12T04:10:58.647415+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "TensorFlow: An Open Source Machine Learning Framework",
-      "description": "A widely used open-source machine learning framework that allows developers to build and train various types of models.",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "big_question": "Can TensorFlow be used to develop more efficient and effective AI models than its competitors?",
-      "head_fake": "Building AI models has never been easier with TensorFlow's extensive libraries and APIs."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "How can I find and use free APIs in my projects?",
+      "head_fake": "A curated list of APIs for developers"
     },
     {
       "type": "repo",
-      "title": "React: The Library for Web and Native User Interfaces",
-      "description": "A popular front-end framework for building reusable UI components and managing state changes in web and mobile applications.",
-      "url": "https://github.com/react/react",
-      "big_question": "Can React be used to develop more accessible and interactive web applications?",
-      "head_fake": "Creating responsive UI components has never been faster with React's declarative code and virtual DOM."
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How can I learn programming and web development for free?",
+      "head_fake": "Learn to code for free with freeCodeCamp"
     },
     {
       "type": "hn",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "description": "A lightweight and efficient language model that can be deployed on various devices and platforms, with a focus on AI development and deployment.",
-      "url": "https://cactuscompute.com/needle",
-      "big_question": "Can Needle2 be used to develop more efficient and effective AI models for edge computing and IoT applications?",
-      "head_fake": "Build and deploy AI models on the edge with Needle2's cutting-edge architecture and optimized performance."
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "description": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "big_question": "Can AI-generated content be trusted in medical research?",
+      "head_fake": "AI-generated content in medical research"
     },
     {
-      "type": "competition",
-      "title": "Stoa Markets: A Marketplace for GPUs and AI Servers",
-      "description": "A marketplace for buying and selling GPUs and AI servers, with a focus on ease of use and accessibility.",
-      "url": "https://www.stoaexchange.com",
-      "big_question": "Can Stoa Markets revolutionize the field of AI development by making GPUs and AI servers more accessible and affordable?",
-      "head_fake": "Buy and sell GPUs and AI servers with ease using Stoa Markets' intuitive interface and competitive pricing."
-    },
-    {
-      "type": "floater",
-      "title": "AutoGPT: The Vision of Accessible AI for Everyone",
-      "description": "An AI assistant designed to make AI development more accessible and user-friendly, with a focus on automating repetitive tasks.",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "big_question": "Can AutoGPT revolutionize the field of AI development by making it more accessible to non-technical users?",
-      "head_fake": "AutoGPT is the ultimate AI assistant for anyone looking to automate their workflow or develop new AI models."
+      "type": "bugbounty",
+      "title": "Bug Bounty Program",
+      "description": "Join our bug bounty program and earn rewards for finding bugs",
+      "url": "https://example.com/bugbounty",
+      "big_question": "How can I participate in a bug bounty program?",
+      "head_fake": "Bug bounty program"
     },
     {
       "type": "floater",
-      "title": "Open-Source Greptile Alternative",
-      "description": "A community-driven project that provides an open-source alternative to Greptile, a popular tool for generating AI-powered content.",
-      "url": "https://github.com/Juror-AI/juror",
-      "big_question": "Can the Open-Source Greptile Alternative revolutionize the field of AI content generation by making it more accessible and transparent?",
-      "head_fake": "Create AI-powered content with ease using the Open-Source Greptile Alternative's extensive features and customization options."
+      "title": "TensorFlow Tutorial",
+      "description": "Learn TensorFlow with this comprehensive tutorial",
+      "url": "https://www.tensorflow.org/tutorials",
+      "big_question": "How can I learn TensorFlow?",
+      "head_fake": "TensorFlow tutorial"
+    },
+    {
+      "type": "floater",
+      "title": "AI and Machine Learning Conference",
+      "description": "Attend this conference to learn about the latest advancements in AI and machine learning",
+      "url": "https://example.com/conference",
+      "big_question": "What are the latest advancements in AI and machine learning?",
+      "head_fake": "AI and machine learning conference"
     },
     {
       "type": "repo",
-      "title": "FreeCodeCamp: An Open-Source Codebase and Curriculum",
-      "description": "A comprehensive learning platform and open-source codebase that provides a wide range of coding challenges, projects, and resources.",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "Can FreeCodeCamp be used to develop more efficient and effective coding education programs?",
-      "head_fake": "Learning to code has never been more fun and engaging with FreeCodeCamp's interactive challenges and projects."
+      "title": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Where can I find free programming books?",
+      "head_fake": "Free programming books"
     },
     {
       "type": "repo",
-      "title": "Langflow: A Powerful Tool for Building and Deploying AI-Powered Agents and Workflows",
-      "description": "A comprehensive platform for building and deploying AI-powered agents and workflows, with a focus on ease of use and customizability.",
-      "url": "https://github.com/langflow-ai/langflow",
-      "big_question": "Can Langflow be used to develop more efficient and effective AI-powered agents and workflows?",
-      "head_fake": "Build and deploy AI-powered agents and workflows with ease using Langflow's intuitive interface and extensive features."
+      "title": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "big_question": "What is TensorFlow and how can I use it?",
+      "head_fake": "TensorFlow open source framework"
     }
   ]
 }
