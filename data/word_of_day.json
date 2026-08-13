@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-12T04:10:57.420631+00:00",
+  "fetched_at": "2026-08-13T02:41:43.758007+00:00",
   "word_of_day": {
-    "word": "kinetic",
-    "phonetic": "/k\u026a\u02c8n\u025bt\u026ak/",
-    "part_of_speech": "adjective",
-    "definition": "Relating to motion",
+    "word": "ephemeral",
+    "phonetic": "/\u0259\u02c8f\u025b.m\u0259.\u0279\u0259l/",
+    "part_of_speech": "noun",
+    "definition": "Something which lasts for a short period of time.",
     "example": "",
-    "date": "August 12, 2026",
-    "source_url": "https://www.merriam-webster.com/dictionary/kinetic"
+    "date": "August 13, 2026",
+    "source_url": "https://www.merriam-webster.com/dictionary/ephemeral"
   }
 }

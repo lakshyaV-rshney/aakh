@@ -1,53 +1,53 @@
 {
-  "fetched_at": "2026-08-12T04:10:58.647415+00:00",
+  "fetched_at": "2026-08-13T02:41:45.224650+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "How can I find and use free APIs in my projects?",
-      "head_fake": "A curated list of APIs for developers"
-    },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can I learn programming and web development for free?",
-      "head_fake": "Learn to code for free with freeCodeCamp"
+      "big_question": "How can I learn to code and build projects with freeCodeCamp?",
+      "head_fake": "freeCodeCamp"
+    },
+    {
+      "type": "repo",
+      "title": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "big_question": "How can I use TensorFlow for machine learning projects?",
+      "head_fake": "TensorFlow"
     },
     {
       "type": "hn",
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "description": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "big_question": "Can AI-generated content be trusted in medical research?",
-      "head_fake": "AI-generated content in medical research"
+      "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
+      "description": "Article URL: https://www.ballet.dev/",
+      "url": "https://www.ballet.dev/",
+      "big_question": "How can I automate workflows with Ballet?",
+      "head_fake": "Ballet"
     },
     {
       "type": "bugbounty",
-      "title": "Bug Bounty Program",
-      "description": "Join our bug bounty program and earn rewards for finding bugs",
-      "url": "https://example.com/bugbounty",
-      "big_question": "How can I participate in a bug bounty program?",
-      "head_fake": "Bug bounty program"
+      "title": "Bug bounty program for AI-powered coding agents",
+      "description": "Report bugs and win rewards",
+      "url": "https://example.com/ai-coding-agent-bug-bounty",
+      "big_question": "How can I participate in the bug bounty program?",
+      "head_fake": "Bug Bounty"
     },
     {
       "type": "floater",
-      "title": "TensorFlow Tutorial",
-      "description": "Learn TensorFlow with this comprehensive tutorial",
-      "url": "https://www.tensorflow.org/tutorials",
-      "big_question": "How can I learn TensorFlow?",
-      "head_fake": "TensorFlow tutorial"
+      "title": "AI-powered coding agent",
+      "description": "Automate your coding workflow with AI",
+      "url": "https://example.com/ai-coding-agent",
+      "big_question": "How can I use AI to automate my coding workflow?",
+      "head_fake": "AI Coding Agent"
     },
     {
       "type": "floater",
-      "title": "AI and Machine Learning Conference",
-      "description": "Attend this conference to learn about the latest advancements in AI and machine learning",
-      "url": "https://example.com/conference",
-      "big_question": "What are the latest advancements in AI and machine learning?",
-      "head_fake": "AI and machine learning conference"
+      "title": "Machine learning for beginners",
+      "description": "Learn machine learning with TensorFlow and Keras",
+      "url": "https://example.com/ml-for-beginners",
+      "big_question": "How can I learn machine learning?",
+      "head_fake": "Machine Learning"
     },
     {
       "type": "repo",
@@ -55,15 +55,15 @@
       "description": ":books: Freely available programming books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "big_question": "Where can I find free programming books?",
-      "head_fake": "Free programming books"
+      "head_fake": "Free Programming Books"
     },
     {
       "type": "repo",
-      "title": "tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "big_question": "What is TensorFlow and how can I use it?",
-      "head_fake": "TensorFlow open source framework"
+      "title": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visu",
+      "url": "https://github.com/n8n-io/n8n",
+      "big_question": "How can I automate workflows with n8n?",
+      "head_fake": "n8n"
     }
   ]
 }

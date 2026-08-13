@@ -1,32 +1,60 @@
 {
-  "fetched_at": "2026-08-12T04:10:57.116006+00:00",
+  "fetched_at": "2026-08-13T02:41:43.528237+00:00",
   "stories": [
     {
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "summary": "<p>Article URL: <a href=\"https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/\">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267057\">h",
-      "published": "Wed, 12 Aug 2026 02:05:42 +0000",
+      "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
+      "url": "https://www.ballet.dev/",
+      "summary": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+      "published": "Thu, 13 Aug 2026 00:01:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Grok Bot",
-      "url": "https://x.ai/bot",
-      "summary": "<p>Article URL: <a href=\"https://x.ai/bot\">https://x.ai/bot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261514\">https://news.ycombinator.com/item?id=49261514</a></p>\n<p>Points: 189</p>\n<p># Comments: 160</p>",
-      "published": "Tue, 11 Aug 2026 17:23:09 +0000",
+      "title": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "summary": "<p>Article URL: <a href=\"https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html\">https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279928\">https://news.ycombinator.com/item?id=49279928</a>",
+      "published": "Wed, 12 Aug 2026 23:26:21 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "summary": "<p>Article URL: <a href=\"https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=492",
-      "published": "Tue, 11 Aug 2026 16:57:09 +0000",
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=492",
+      "published": "Wed, 12 Aug 2026 16:51:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "summary": "<p>Article URL: <a href=\"https://stolen-thoughts.com/\">https://stolen-thoughts.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257876\">https://news.ycombinator.com/item?id=49257876</a></p>\n<p>Points: 539</p>\n<p># Comments: 227</p>",
-      "published": "Tue, 11 Aug 2026 13:22:00 +0000",
+      "title": "Lovable raises $400M Series C",
+      "url": "https://lovable.dev/blog/series-c",
+      "summary": "<p>Article URL: <a href=\"https://lovable.dev/blog/series-c\">https://lovable.dev/blog/series-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274858\">https://news.ycombinator.com/item?id=49274858</a></p>\n<p>Points: 98</p>\n<p># Comments: 95</p>",
+      "published": "Wed, 12 Aug 2026 16:20:34 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "summary": "<p>Article URL: <a href=\"https://openrouter.ai/deepseek/deepseek-v4-pro-0813\">https://openrouter.ai/deepseek/deepseek-v4-pro-0813</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274600\">https://news.ycombinator.com/item?id=49274600</a></p>\n<p>Points: 765</p>\n<p># Comments: 2",
+      "published": "Wed, 12 Aug 2026 16:04:50 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "summary": "<p><a href=\"https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274027\">https://news.ycombinator.com/item?id=49274027</a",
+      "published": "Wed, 12 Aug 2026 15:32:50 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\">https://tailscale.com/blog/sqlite-wal-reset-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272832\">https://news.ycombinator.com/item?id=49272832</a></p>\n<p>Points: 815</p>\n<p># Comments: 149</p>",
+      "published": "Wed, 12 Aug 2026 14:22:30 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "summary": "<p>Article URL: <a href=\"https://amiga-news.de/en/news/AN-2026-08-00070-EN.html\">https://amiga-news.de/en/news/AN-2026-08-00070-EN.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272655\">https://news.ycombinator.com/item?id=49272655</a></p>\n<p>Points: 240</p>\n<p># Comme",
+      "published": "Wed, 12 Aug 2026 14:09:11 +0000",
       "source": "Hacker News"
     }
   ]
