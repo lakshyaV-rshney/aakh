@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-08-13T02:41:45.224650+00:00",
+  "fetched_at": "2026-08-14T02:40:18.455359+00:00",
   "hot_topics": [
+    {
+      "type": "repo",
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "How can I find free APIs for my project?",
+      "head_fake": "Discover the power of free APIs"
+    },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can I learn to code and build projects with freeCodeCamp?",
-      "head_fake": "freeCodeCamp"
-    },
-    {
-      "type": "repo",
-      "title": "tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "big_question": "How can I use TensorFlow for machine learning projects?",
-      "head_fake": "TensorFlow"
+      "big_question": "How can I improve my coding skills?",
+      "head_fake": "Learn to code with freeCodeCamp"
     },
     {
       "type": "hn",
-      "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
-      "description": "Article URL: https://www.ballet.dev/",
-      "url": "https://www.ballet.dev/",
-      "big_question": "How can I automate workflows with Ballet?",
-      "head_fake": "Ballet"
+      "title": "How AI text watermarking works",
+      "description": "Article URL: https://declaude.org/watermarking/",
+      "url": "https://declaude.org/watermarking/",
+      "big_question": "How can I protect my AI-generated content?",
+      "head_fake": "AI text watermarking explained"
     },
     {
-      "type": "bugbounty",
-      "title": "Bug bounty program for AI-powered coding agents",
-      "description": "Report bugs and win rewards",
-      "url": "https://example.com/ai-coding-agent-bug-bounty",
-      "big_question": "How can I participate in the bug bounty program?",
-      "head_fake": "Bug Bounty"
-    },
-    {
-      "type": "floater",
-      "title": "AI-powered coding agent",
-      "description": "Automate your coding workflow with AI",
-      "url": "https://example.com/ai-coding-agent",
-      "big_question": "How can I use AI to automate my coding workflow?",
-      "head_fake": "AI Coding Agent"
+      "type": "competition",
+      "title": "AI Hackathon",
+      "description": "Build the next AI-powered project and win prizes",
+      "url": "https://aihackathon.com",
+      "big_question": "How can I participate in an AI hackathon?",
+      "head_fake": "Join the AI Hackathon"
     },
     {
       "type": "floater",
-      "title": "Machine learning for beginners",
-      "description": "Learn machine learning with TensorFlow and Keras",
-      "url": "https://example.com/ml-for-beginners",
-      "big_question": "How can I learn machine learning?",
-      "head_fake": "Machine Learning"
+      "title": "AI Newsletters",
+      "description": "Stay up-to-date with the latest AI news and research",
+      "url": "https://www.aicurves.com/newsletters",
+      "big_question": "How can I stay informed about AI?",
+      "head_fake": "Subscribe to AI Newsletters"
+    },
+    {
+      "type": "floater",
+      "title": "AI Communities",
+      "description": "Join online communities to connect with AI enthusiasts and experts",
+      "url": "https://www.aicurves.com/communities",
+      "big_question": "How can I connect with others in the AI community?",
+      "head_fake": "Join AI Communities"
     },
     {
       "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "Where can I find free programming books?",
-      "head_fake": "Free Programming Books"
+      "title": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. ",
+      "url": "https://github.com/openclaw/openclaw",
+      "big_question": "Can I build my own AI assistant?",
+      "head_fake": "Build your own AI assistant with OpenClaw"
     },
     {
       "type": "repo",
-      "title": "n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visu",
-      "url": "https://github.com/n8n-io/n8n",
-      "big_question": "How can I automate workflows with n8n?",
-      "head_fake": "n8n"
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "big_question": "How can I improve my software development skills?",
+      "head_fake": "Unlock your superpowers with Obra"
     }
   ]
 }

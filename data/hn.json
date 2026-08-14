@@ -1,60 +1,46 @@
 {
-  "fetched_at": "2026-08-13T02:41:43.528237+00:00",
+  "fetched_at": "2026-08-14T02:40:16.934929+00:00",
   "stories": [
     {
-      "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
-      "url": "https://www.ballet.dev/",
-      "summary": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
-      "published": "Thu, 13 Aug 2026 00:01:43 +0000",
+      "title": "How AI text watermarking works",
+      "url": "https://declaude.org/watermarking/",
+      "summary": "<p>Article URL: <a href=\"https://declaude.org/watermarking/\">https://declaude.org/watermarking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49292932\">https://news.ycombinator.com/item?id=49292932</a></p>\n<p>Points: 82</p>\n<p># Comments: 50</p>",
+      "published": "Thu, 13 Aug 2026 23:16:55 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "summary": "<p>Article URL: <a href=\"https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html\">https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279928\">https://news.ycombinator.com/item?id=49279928</a>",
-      "published": "Wed, 12 Aug 2026 23:26:21 +0000",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "summary": "<p>Article URL: <a href=\"https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290768\">https://news.ycombinator.com/item?id=49290768</a></p>\n<p>Points: 69</p>",
+      "published": "Thu, 13 Aug 2026 19:25:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=492",
-      "published": "Wed, 12 Aug 2026 16:51:25 +0000",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289844\">https://news.ycombinator.com/item?id=4928",
+      "published": "Thu, 13 Aug 2026 18:10:02 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Lovable raises $400M Series C",
-      "url": "https://lovable.dev/blog/series-c",
-      "summary": "<p>Article URL: <a href=\"https://lovable.dev/blog/series-c\">https://lovable.dev/blog/series-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274858\">https://news.ycombinator.com/item?id=49274858</a></p>\n<p>Points: 98</p>\n<p># Comments: 95</p>",
-      "published": "Wed, 12 Aug 2026 16:20:34 +0000",
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "summary": "<p><a href=\"https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash\" rel=\"nofollow\">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289112\">https://news.ycombinator.com/item?id=49289112</a></p>\n<p>P",
+      "published": "Thu, 13 Aug 2026 17:23:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "summary": "<p>Article URL: <a href=\"https://openrouter.ai/deepseek/deepseek-v4-pro-0813\">https://openrouter.ai/deepseek/deepseek-v4-pro-0813</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274600\">https://news.ycombinator.com/item?id=49274600</a></p>\n<p>Points: 765</p>\n<p># Comments: 2",
-      "published": "Wed, 12 Aug 2026 16:04:50 +0000",
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "summary": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/ocr-4-1\">https://docs.mistral.ai/models/ocr-4-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288889\">https://news.ycombinator.com/item?id=49288889</a></p>\n<p>Points: 256</p>\n<p># Comments: 102</p>",
+      "published": "Thu, 13 Aug 2026 17:05:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "summary": "<p><a href=\"https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\" rel=\"nofollow\">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274027\">https://news.ycombinator.com/item?id=49274027</a",
-      "published": "Wed, 12 Aug 2026 15:32:50 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\">https://tailscale.com/blog/sqlite-wal-reset-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272832\">https://news.ycombinator.com/item?id=49272832</a></p>\n<p>Points: 815</p>\n<p># Comments: 149</p>",
-      "published": "Wed, 12 Aug 2026 14:22:30 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "summary": "<p>Article URL: <a href=\"https://amiga-news.de/en/news/AN-2026-08-00070-EN.html\">https://amiga-news.de/en/news/AN-2026-08-00070-EN.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272655\">https://news.ycombinator.com/item?id=49272655</a></p>\n<p>Points: 240</p>\n<p># Comme",
-      "published": "Wed, 12 Aug 2026 14:09:11 +0000",
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "summary": "<p>Article URL: <a href=\"https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html\">https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288293\">https://news.ycombinator.com/item?id=49288293</a></p>\n<p>Points: 92</p>\n<",
+      "published": "Thu, 13 Aug 2026 16:22:05 +0000",
       "source": "Hacker News"
     }
   ]
