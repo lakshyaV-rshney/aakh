@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T02:40:18.528534+00:00",
-  "date_label": "Friday, 14 August 2026",
+  "generated_at": "2026-08-15T01:46:41.900522+00:00",
+  "date_label": "Saturday, 15 August 2026",
   "is_monday": false,
   "word_of_day": {
-    "word": "perspicuous",
+    "word": "ephemeral",
     "part_of_speech": "adjective",
-    "definition": "Clearly expressed and easily understood.",
-    "example": "Her perspicuous explanation made the complex topic accessible to everyone.",
-    "date": "August 14, 2026"
+    "definition": "Lasting for a very short time.",
+    "example": "The ephemeral beauty of cherry blossoms makes them all the more precious.",
+    "date": "August 15, 2026"
   },
   "hot_topics": [
     {
@@ -15,8 +15,8 @@
       "title": "public-apis/public-apis",
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
-      "big_question": "How can I find free APIs for my project?",
-      "head_fake": "Discover the power of free APIs"
+      "big_question": "How can I find the best APIs for my project?",
+      "head_fake": "APIs for developers"
     },
     {
       "type": "repo",
@@ -24,55 +24,55 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "big_question": "How can I improve my coding skills?",
-      "head_fake": "Learn to code with freeCodeCamp"
+      "head_fake": "Learn to code"
     },
     {
       "type": "hn",
-      "title": "How AI text watermarking works",
-      "description": "Article URL: https://declaude.org/watermarking/",
-      "url": "https://declaude.org/watermarking/",
-      "big_question": "How can I protect my AI-generated content?",
-      "head_fake": "AI text watermarking explained"
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "description": "Article URL: <a href=\"https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "big_question": "What are the implications of Firefox dropping uBlock Origin support?",
+      "head_fake": "Firefox and uBlock Origin"
+    },
+    {
+      "type": "hn",
+      "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
+      "description": "Doing research with agents is fun until they blow way past budget, jumble the",
+      "url": "https://github.com/lajosdeme/mole",
+      "big_question": "How can I use Mole for research?",
+      "head_fake": "Mole research agent"
     },
     {
       "type": "competition",
-      "title": "AI Hackathon",
-      "description": "Build the next AI-powered project and win prizes",
-      "url": "https://aihackathon.com",
-      "big_question": "How can I participate in an AI hackathon?",
-      "head_fake": "Join the AI Hackathon"
+      "title": "Hackathon for AI and Machine Learning",
+      "description": "Join our hackathon and showcase your skills in AI and machine learning",
+      "url": "https://example.com/hackathon",
+      "big_question": "How can I participate in the hackathon?",
+      "head_fake": "AI hackathon"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Bug Bounty Program for Web Developers",
+      "description": "Join our bug bounty program and earn rewards for finding bugs in web applications",
+      "url": "https://example.com/bugbounty",
+      "big_question": "How can I participate in the bug bounty program?",
+      "head_fake": "Bug bounty program"
     },
     {
       "type": "floater",
-      "title": "AI Newsletters",
-      "description": "Stay up-to-date with the latest AI news and research",
-      "url": "https://www.aicurves.com/newsletters",
-      "big_question": "How can I stay informed about AI?",
-      "head_fake": "Subscribe to AI Newsletters"
+      "title": "New AI Framework Released",
+      "description": "A new AI framework has been released with improved performance and features",
+      "url": "https://example.com/ai-framework",
+      "big_question": "What are the benefits of the new AI framework?",
+      "head_fake": "New AI framework"
     },
     {
       "type": "floater",
-      "title": "AI Communities",
-      "description": "Join online communities to connect with AI enthusiasts and experts",
-      "url": "https://www.aicurves.com/communities",
-      "big_question": "How can I connect with others in the AI community?",
-      "head_fake": "Join AI Communities"
-    },
-    {
-      "type": "repo",
-      "title": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. ",
-      "url": "https://github.com/openclaw/openclaw",
-      "big_question": "Can I build my own AI assistant?",
-      "head_fake": "Build your own AI assistant with OpenClaw"
-    },
-    {
-      "type": "repo",
-      "title": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "big_question": "How can I improve my software development skills?",
-      "head_fake": "Unlock your superpowers with Obra"
+      "title": "Upcoming Conference on AI and Machine Learning",
+      "description": "Join our conference and learn about the latest advancements in AI and machine learning",
+      "url": "https://example.com/conference",
+      "big_question": "What are the topics covered in the conference?",
+      "head_fake": "AI conference"
     }
   ],
   "repos": [
@@ -80,7 +80,7 @@
       "name": "public-apis/public-apis",
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
-      "stars": 455992,
+      "stars": 458601,
       "language": "Python",
       "created_at": "2016-03-20T23:49:42Z",
       "pushed_at": "2026-08-13T21:07:34Z",
@@ -105,10 +105,10 @@
       "name": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "stars": 453974,
+      "stars": 454015,
       "language": "TypeScript",
       "created_at": "2014-12-24T17:49:19Z",
-      "pushed_at": "2026-08-13T21:20:52Z",
+      "pushed_at": "2026-08-14T18:40:06Z",
       "topics": [
         "careers",
         "certification",
@@ -132,10 +132,10 @@
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
       "url": "https://github.com/openclaw/openclaw",
-      "stars": 386210,
+      "stars": 386315,
       "language": "TypeScript",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-08-14T02:39:42Z",
+      "pushed_at": "2026-08-15T01:45:53Z",
       "topics": [
         "ai",
         "assistant",
@@ -151,10 +151,10 @@
       "name": "nilbuild/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "url": "https://github.com/nilbuild/developer-roadmap",
-      "stars": 364364,
+      "stars": 364418,
       "language": "TypeScript",
       "created_at": "2017-03-15T13:45:52Z",
-      "pushed_at": "2026-08-13T18:34:59Z",
+      "pushed_at": "2026-08-14T17:26:59Z",
       "topics": [
         "angular-roadmap",
         "backend-roadmap",
@@ -181,7 +181,7 @@
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "stars": 271784,
+      "stars": 272192,
       "language": "Shell",
       "created_at": "2025-10-09T19:45:18Z",
       "pushed_at": "2026-08-13T00:36:31Z",
@@ -201,10 +201,10 @@
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
       "url": "https://github.com/react/react",
-      "stars": 247239,
+      "stars": 247234,
       "language": "JavaScript",
       "created_at": "2013-05-24T16:15:54Z",
-      "pushed_at": "2026-08-13T15:44:43Z",
+      "pushed_at": "2026-08-14T17:33:13Z",
       "topics": [
         "declarative",
         "frontend",
@@ -219,10 +219,10 @@
       "name": "torvalds/linux",
       "description": "Linux kernel source tree",
       "url": "https://github.com/torvalds/linux",
-      "stars": 242767,
+      "stars": 242856,
       "language": "C",
       "created_at": "2011-09-04T22:48:12Z",
-      "pushed_at": "2026-08-14T02:12:23Z",
+      "pushed_at": "2026-08-14T22:58:33Z",
       "topics": [],
       "trending_multiday": true
     },
@@ -230,7 +230,7 @@
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 239998,
+      "stars": 240164,
       "language": "JavaScript",
       "created_at": "2026-01-18T00:51:51Z",
       "pushed_at": "2026-08-13T22:58:25Z",
@@ -250,10 +250,10 @@
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 230185,
+      "stars": 230662,
       "language": "Python",
       "created_at": "2025-07-22T22:22:28Z",
-      "pushed_at": "2026-08-14T02:37:56Z",
+      "pushed_at": "2026-08-15T01:44:47Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -275,7 +275,7 @@
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
-      "stars": 216514,
+      "stars": 217614,
       "language": "Shell",
       "created_at": "2026-02-03T11:15:53Z",
       "pushed_at": "2026-08-13T09:06:37Z",
@@ -286,10 +286,10 @@
       "name": "n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 200539,
+      "stars": 200639,
       "language": "TypeScript",
       "created_at": "2019-06-22T09:24:21Z",
-      "pushed_at": "2026-08-14T01:40:59Z",
+      "pushed_at": "2026-08-15T01:14:54Z",
       "topics": [
         "ai",
         "apis",
@@ -318,10 +318,10 @@
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "url": "https://github.com/anomalyco/opencode",
-      "stars": 197153,
+      "stars": 197520,
       "language": "TypeScript",
       "created_at": "2025-04-30T20:08:00Z",
-      "pushed_at": "2026-08-14T02:38:22Z",
+      "pushed_at": "2026-08-15T01:36:00Z",
       "topics": [],
       "trending_multiday": true
     },
@@ -329,10 +329,10 @@
       "name": "tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "url": "https://github.com/tensorflow/tensorflow",
-      "stars": 197006,
+      "stars": 197024,
       "language": "C++",
       "created_at": "2015-11-07T01:19:20Z",
-      "pushed_at": "2026-08-14T02:29:56Z",
+      "pushed_at": "2026-08-15T01:38:28Z",
       "topics": [
         "deep-learning",
         "deep-neural-networks",
@@ -349,10 +349,10 @@
       "name": "microsoft/vscode",
       "description": "Visual Studio Code",
       "url": "https://github.com/microsoft/vscode",
-      "stars": 188671,
+      "stars": 188691,
       "language": "TypeScript",
       "created_at": "2015-09-03T20:23:38Z",
-      "pushed_at": "2026-08-14T02:33:00Z",
+      "pushed_at": "2026-08-15T01:45:46Z",
       "topics": [
         "editor",
         "electron",
@@ -366,10 +366,10 @@
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 186603,
+      "stars": 186604,
       "language": "Python",
       "created_at": "2023-03-16T09:21:07Z",
-      "pushed_at": "2026-08-14T02:27:40Z",
+      "pushed_at": "2026-08-15T01:35:08Z",
       "topics": [
         "agentic-ai",
         "agents",
@@ -389,10 +389,10 @@
       "name": "avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "url": "https://github.com/avelino/awesome-go",
-      "stars": 181000,
+      "stars": 181068,
       "language": "Go",
       "created_at": "2014-07-06T13:42:15Z",
-      "pushed_at": "2026-08-13T13:50:42Z",
+      "pushed_at": "2026-08-14T23:38:22Z",
       "topics": [
         "awesome",
         "awesome-list",
@@ -407,10 +407,10 @@
       "name": "ollama/ollama",
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "url": "https://github.com/ollama/ollama",
-      "stars": 178489,
+      "stars": 178511,
       "language": "Go",
       "created_at": "2023-06-26T19:39:32Z",
-      "pushed_at": "2026-08-13T22:38:02Z",
+      "pushed_at": "2026-08-14T21:36:30Z",
       "topics": [
         "deepseek",
         "gemma",
@@ -434,7 +434,7 @@
       "name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
       "url": "https://github.com/anthropics/skills",
-      "stars": 169086,
+      "stars": 169408,
       "language": "Python",
       "created_at": "2025-09-22T15:53:31Z",
       "pushed_at": "2026-08-13T18:09:56Z",
@@ -447,10 +447,10 @@
       "name": "firecrawl/firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
       "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 167019,
+      "stars": 167445,
       "language": "TypeScript",
       "created_at": "2024-04-15T21:02:29Z",
-      "pushed_at": "2026-08-14T00:14:11Z",
+      "pushed_at": "2026-08-15T00:45:42Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -478,10 +478,10 @@
       "name": "huggingface/transformers",
       "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "url": "https://github.com/huggingface/transformers",
-      "stars": 164083,
+      "stars": 164084,
       "language": "Python",
       "created_at": "2018-10-29T13:56:00Z",
-      "pushed_at": "2026-08-13T23:55:53Z",
+      "pushed_at": "2026-08-14T22:31:03Z",
       "topics": [
         "audio",
         "deep-learning",
@@ -509,45 +509,38 @@
   "competitions": [],
   "hn_stories": [
     {
-      "title": "How AI text watermarking works",
-      "url": "https://declaude.org/watermarking/",
-      "summary": "<p>Article URL: <a href=\"https://declaude.org/watermarking/\">https://declaude.org/watermarking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49292932\">https://news.ycombinator.com/item?id=49292932</a></p>\n<p>Points: 82</p>\n<p># Comments: 50</p>",
-      "published": "Thu, 13 Aug 2026 23:16:55 +0000",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "summary": "<p>Article URL: <a href=\"https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html\">https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</a></p>\n<p>Comments URL: <a href=\"https:",
+      "published": "Fri, 14 Aug 2026 19:03:20 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "summary": "<p>Article URL: <a href=\"https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290768\">https://news.ycombinator.com/item?id=49290768</a></p>\n<p>Points: 69</p>",
-      "published": "Thu, 13 Aug 2026 19:25:38 +0000",
+      "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
+      "url": "https://github.com/lajosdeme/mole",
+      "summary": "<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I ",
+      "published": "Fri, 14 Aug 2026 18:52:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289844\">https://news.ycombinator.com/item?id=4928",
-      "published": "Thu, 13 Aug 2026 18:10:02 +0000",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "summary": "<p>Article URL: <a href=\"https://rustdesk.com/blog/unattended-remote-access-wayland/\">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300759\">https://news.ycombinator.com/item?id=49300759</a></p>\n<p>Points: 217</p>\n",
+      "published": "Fri, 14 Aug 2026 16:12:52 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "summary": "<p><a href=\"https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash\" rel=\"nofollow\">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289112\">https://news.ycombinator.com/item?id=49289112</a></p>\n<p>P",
-      "published": "Thu, 13 Aug 2026 17:23:22 +0000",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.byhand.ai/\">https://www.byhand.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300568\">https://news.ycombinator.com/item?id=49300568</a></p>\n<p>Points: 202</p>\n<p># Comments: 17</p>",
+      "published": "Fri, 14 Aug 2026 15:58:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "summary": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/ocr-4-1\">https://docs.mistral.ai/models/ocr-4-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288889\">https://news.ycombinator.com/item?id=49288889</a></p>\n<p>Points: 256</p>\n<p># Comments: 102</p>",
-      "published": "Thu, 13 Aug 2026 17:05:12 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "summary": "<p>Article URL: <a href=\"https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html\">https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288293\">https://news.ycombinator.com/item?id=49288293</a></p>\n<p>Points: 92</p>\n<",
-      "published": "Thu, 13 Aug 2026 16:22:05 +0000",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "summary": "<p>Article URL: <a href=\"https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=493",
+      "published": "Fri, 14 Aug 2026 15:43:10 +0000",
       "source": "Hacker News"
     }
   ]

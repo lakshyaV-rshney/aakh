@@ -1,46 +1,39 @@
 {
-  "fetched_at": "2026-08-14T02:40:16.934929+00:00",
+  "fetched_at": "2026-08-15T01:46:39.756784+00:00",
   "stories": [
     {
-      "title": "How AI text watermarking works",
-      "url": "https://declaude.org/watermarking/",
-      "summary": "<p>Article URL: <a href=\"https://declaude.org/watermarking/\">https://declaude.org/watermarking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49292932\">https://news.ycombinator.com/item?id=49292932</a></p>\n<p>Points: 82</p>\n<p># Comments: 50</p>",
-      "published": "Thu, 13 Aug 2026 23:16:55 +0000",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "summary": "<p>Article URL: <a href=\"https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html\">https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</a></p>\n<p>Comments URL: <a href=\"https:",
+      "published": "Fri, 14 Aug 2026 19:03:20 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "summary": "<p>Article URL: <a href=\"https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290768\">https://news.ycombinator.com/item?id=49290768</a></p>\n<p>Points: 69</p>",
-      "published": "Thu, 13 Aug 2026 19:25:38 +0000",
+      "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
+      "url": "https://github.com/lajosdeme/mole",
+      "summary": "<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I ",
+      "published": "Fri, 14 Aug 2026 18:52:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289844\">https://news.ycombinator.com/item?id=4928",
-      "published": "Thu, 13 Aug 2026 18:10:02 +0000",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "summary": "<p>Article URL: <a href=\"https://rustdesk.com/blog/unattended-remote-access-wayland/\">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300759\">https://news.ycombinator.com/item?id=49300759</a></p>\n<p>Points: 217</p>\n",
+      "published": "Fri, 14 Aug 2026 16:12:52 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "summary": "<p><a href=\"https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash\" rel=\"nofollow\">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289112\">https://news.ycombinator.com/item?id=49289112</a></p>\n<p>P",
-      "published": "Thu, 13 Aug 2026 17:23:22 +0000",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.byhand.ai/\">https://www.byhand.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300568\">https://news.ycombinator.com/item?id=49300568</a></p>\n<p>Points: 202</p>\n<p># Comments: 17</p>",
+      "published": "Fri, 14 Aug 2026 15:58:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "summary": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/ocr-4-1\">https://docs.mistral.ai/models/ocr-4-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288889\">https://news.ycombinator.com/item?id=49288889</a></p>\n<p>Points: 256</p>\n<p># Comments: 102</p>",
-      "published": "Thu, 13 Aug 2026 17:05:12 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "summary": "<p>Article URL: <a href=\"https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html\">https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288293\">https://news.ycombinator.com/item?id=49288293</a></p>\n<p>Points: 92</p>\n<",
-      "published": "Thu, 13 Aug 2026 16:22:05 +0000",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "summary": "<p>Article URL: <a href=\"https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=493",
+      "published": "Fri, 14 Aug 2026 15:43:10 +0000",
       "source": "Hacker News"
     }
   ]

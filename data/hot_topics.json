@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-08-14T02:40:18.455359+00:00",
+  "fetched_at": "2026-08-15T01:46:41.813864+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "public-apis/public-apis",
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
-      "big_question": "How can I find free APIs for my project?",
-      "head_fake": "Discover the power of free APIs"
+      "big_question": "How can I find the best APIs for my project?",
+      "head_fake": "APIs for developers"
     },
     {
       "type": "repo",
@@ -15,55 +15,55 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "big_question": "How can I improve my coding skills?",
-      "head_fake": "Learn to code with freeCodeCamp"
+      "head_fake": "Learn to code"
     },
     {
       "type": "hn",
-      "title": "How AI text watermarking works",
-      "description": "Article URL: https://declaude.org/watermarking/",
-      "url": "https://declaude.org/watermarking/",
-      "big_question": "How can I protect my AI-generated content?",
-      "head_fake": "AI text watermarking explained"
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "description": "Article URL: <a href=\"https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "big_question": "What are the implications of Firefox dropping uBlock Origin support?",
+      "head_fake": "Firefox and uBlock Origin"
+    },
+    {
+      "type": "hn",
+      "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
+      "description": "Doing research with agents is fun until they blow way past budget, jumble the",
+      "url": "https://github.com/lajosdeme/mole",
+      "big_question": "How can I use Mole for research?",
+      "head_fake": "Mole research agent"
     },
     {
       "type": "competition",
-      "title": "AI Hackathon",
-      "description": "Build the next AI-powered project and win prizes",
-      "url": "https://aihackathon.com",
-      "big_question": "How can I participate in an AI hackathon?",
-      "head_fake": "Join the AI Hackathon"
+      "title": "Hackathon for AI and Machine Learning",
+      "description": "Join our hackathon and showcase your skills in AI and machine learning",
+      "url": "https://example.com/hackathon",
+      "big_question": "How can I participate in the hackathon?",
+      "head_fake": "AI hackathon"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Bug Bounty Program for Web Developers",
+      "description": "Join our bug bounty program and earn rewards for finding bugs in web applications",
+      "url": "https://example.com/bugbounty",
+      "big_question": "How can I participate in the bug bounty program?",
+      "head_fake": "Bug bounty program"
     },
     {
       "type": "floater",
-      "title": "AI Newsletters",
-      "description": "Stay up-to-date with the latest AI news and research",
-      "url": "https://www.aicurves.com/newsletters",
-      "big_question": "How can I stay informed about AI?",
-      "head_fake": "Subscribe to AI Newsletters"
+      "title": "New AI Framework Released",
+      "description": "A new AI framework has been released with improved performance and features",
+      "url": "https://example.com/ai-framework",
+      "big_question": "What are the benefits of the new AI framework?",
+      "head_fake": "New AI framework"
     },
     {
       "type": "floater",
-      "title": "AI Communities",
-      "description": "Join online communities to connect with AI enthusiasts and experts",
-      "url": "https://www.aicurves.com/communities",
-      "big_question": "How can I connect with others in the AI community?",
-      "head_fake": "Join AI Communities"
-    },
-    {
-      "type": "repo",
-      "title": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. ",
-      "url": "https://github.com/openclaw/openclaw",
-      "big_question": "Can I build my own AI assistant?",
-      "head_fake": "Build your own AI assistant with OpenClaw"
-    },
-    {
-      "type": "repo",
-      "title": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "big_question": "How can I improve my software development skills?",
-      "head_fake": "Unlock your superpowers with Obra"
+      "title": "Upcoming Conference on AI and Machine Learning",
+      "description": "Join our conference and learn about the latest advancements in AI and machine learning",
+      "url": "https://example.com/conference",
+      "big_question": "What are the topics covered in the conference?",
+      "head_fake": "AI conference"
     }
   ]
 }
