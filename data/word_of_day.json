@@ -1,10 +1,12 @@
 {
-  "fetched_at": "2026-08-15T01:46:40.261592+00:00",
+  "fetched_at": "2026-08-16T01:54:38.025513+00:00",
   "word_of_day": {
-    "word": "ephemeral",
-    "part_of_speech": "adjective",
-    "definition": "Lasting for a very short time.",
-    "example": "The ephemeral beauty of cherry blossoms makes them all the more precious.",
-    "date": "August 15, 2026"
+    "word": "sanguine",
+    "phonetic": "/\u02c8s\u00e6\u014b.\u0261w\u026an/",
+    "part_of_speech": "noun",
+    "definition": "Blood colour; red.",
+    "example": "",
+    "date": "August 16, 2026",
+    "source_url": "https://www.merriam-webster.com/dictionary/sanguine"
   }
 }

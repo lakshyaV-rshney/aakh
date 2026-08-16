@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-08-15T01:46:39.756784+00:00",
+  "fetched_at": "2026-08-16T01:54:37.699965+00:00",
   "stories": [
     {
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "summary": "<p>Article URL: <a href=\"https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html\">https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</a></p>\n<p>Comments URL: <a href=\"https:",
-      "published": "Fri, 14 Aug 2026 19:03:20 +0000",
+      "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "summary": "<p><a href=\"https://www.nature.com/articles/s41573-026-01496-2\" rel=\"nofollow\">https://www.nature.com/articles/s41573-026-01496-2</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313367\">https://news.ycombinator.com/item?id=49313367</a></p>\n<p>Points: 86</p>\n<p># Comme",
+      "published": "Sat, 15 Aug 2026 19:12:53 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
-      "url": "https://github.com/lajosdeme/mole",
-      "summary": "<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I ",
-      "published": "Fri, 14 Aug 2026 18:52:48 +0000",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\">https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313047\">https://news.ycombinator.com/item",
+      "published": "Sat, 15 Aug 2026 18:33:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "<p>Article URL: <a href=\"https://rustdesk.com/blog/unattended-remote-access-wayland/\">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300759\">https://news.ycombinator.com/item?id=49300759</a></p>\n<p>Points: 217</p>\n",
-      "published": "Fri, 14 Aug 2026 16:12:52 +0000",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "summary": "<p>Article URL: <a href=\"https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312845\">https://news.ycombinator.com/item?id=49312845</a></p>\n<p>Points: 410<",
+      "published": "Sat, 15 Aug 2026 18:13:02 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "summary": "<p>Article URL: <a href=\"https://www.byhand.ai/\">https://www.byhand.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300568\">https://news.ycombinator.com/item?id=49300568</a></p>\n<p>Points: 202</p>\n<p># Comments: 17</p>",
-      "published": "Fri, 14 Aug 2026 15:58:59 +0000",
+      "title": "I Remain a Skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "summary": "<p>Article URL: <a href=\"https://blog.jsbarretto.com/post/i-remain-a-skeptic\">https://blog.jsbarretto.com/post/i-remain-a-skeptic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312053\">https://news.ycombinator.com/item?id=49312053</a></p>\n<p>Points: 66</p>\n<p># Comments: 41",
+      "published": "Sat, 15 Aug 2026 16:42:58 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=493",
-      "published": "Fri, 14 Aug 2026 15:43:10 +0000",
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "summary": "<p>Article URL: <a href=\"https://www.dampfkraft.com/ghost-characters.html\">https://www.dampfkraft.com/ghost-characters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310926\">https://news.ycombinator.com/item?id=49310926</a></p>\n<p>Points: 169</p>\n<p># Comments: 57</p>",
+      "published": "Sat, 15 Aug 2026 14:34:04 +0000",
       "source": "Hacker News"
     }
   ]

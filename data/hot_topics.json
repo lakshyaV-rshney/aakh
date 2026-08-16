@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-08-15T01:46:41.813864+00:00",
+  "fetched_at": "2026-08-16T01:54:39.387593+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "How can I find the best APIs for my project?",
-      "head_fake": "APIs for developers"
-    },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How can I learn to code and build projects?",
+      "head_fake": "freeCodeCamp"
+    },
+    {
+      "type": "repo",
+      "title": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "big_question": "How can I apply machine learning to real-world problems?",
+      "head_fake": "TensorFlow"
+    },
+    {
+      "type": "hn",
+      "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
+      "description": "Article URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "big_question": "How is AI being used in drug discovery?",
+      "head_fake": "Nature"
+    },
+    {
+      "type": "hn",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "description": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "big_question": "How does AI compare to human memory?",
+      "head_fake": "David Piffer"
+    },
+    {
+      "type": "floater",
+      "title": "Bug Bounty",
+      "description": "Identify and report vulnerabilities in software to earn rewards",
+      "url": "https://hackerone.com/",
+      "big_question": "How can I contribute to software security?",
+      "head_fake": "HackerOne"
+    },
+    {
+      "type": "floater",
+      "title": "Compete in coding challenges",
+      "description": "Test your skills and compete with other developers",
+      "url": "https://codeforces.com/",
       "big_question": "How can I improve my coding skills?",
-      "head_fake": "Learn to code"
+      "head_fake": "CodeForces"
     },
     {
-      "type": "hn",
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "description": "Article URL: <a href=\"https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "big_question": "What are the implications of Firefox dropping uBlock Origin support?",
-      "head_fake": "Firefox and uBlock Origin"
+      "type": "repo",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "big_question": "How can I develop skills for a career in software engineering?",
+      "head_fake": "Matt Pocock"
     },
     {
-      "type": "hn",
-      "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
-      "description": "Doing research with agents is fun until they blow way past budget, jumble the",
-      "url": "https://github.com/lajosdeme/mole",
-      "big_question": "How can I use Mole for research?",
-      "head_fake": "Mole research agent"
-    },
-    {
-      "type": "competition",
-      "title": "Hackathon for AI and Machine Learning",
-      "description": "Join our hackathon and showcase your skills in AI and machine learning",
-      "url": "https://example.com/hackathon",
-      "big_question": "How can I participate in the hackathon?",
-      "head_fake": "AI hackathon"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Bug Bounty Program for Web Developers",
-      "description": "Join our bug bounty program and earn rewards for finding bugs in web applications",
-      "url": "https://example.com/bugbounty",
-      "big_question": "How can I participate in the bug bounty program?",
-      "head_fake": "Bug bounty program"
-    },
-    {
-      "type": "floater",
-      "title": "New AI Framework Released",
-      "description": "A new AI framework has been released with improved performance and features",
-      "url": "https://example.com/ai-framework",
-      "big_question": "What are the benefits of the new AI framework?",
-      "head_fake": "New AI framework"
-    },
-    {
-      "type": "floater",
-      "title": "Upcoming Conference on AI and Machine Learning",
-      "description": "Join our conference and learn about the latest advancements in AI and machine learning",
-      "url": "https://example.com/conference",
-      "big_question": "What are the topics covered in the conference?",
-      "head_fake": "AI conference"
+      "type": "repo",
+      "title": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "url": "https://github.com/react/react",
+      "big_question": "How can I build fast and scalable user interfaces?",
+      "head_fake": "React"
     }
   ]
 }
