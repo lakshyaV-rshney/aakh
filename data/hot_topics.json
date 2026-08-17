@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-08-16T01:54:39.387593+00:00",
+  "fetched_at": "2026-08-17T01:52:04.681711+00:00",
   "hot_topics": [
+    {
+      "type": "repo",
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "How can I find the best APIs for my project?",
+      "head_fake": "APIs for developers"
+    },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can I learn to code and build projects?",
-      "head_fake": "freeCodeCamp"
-    },
-    {
-      "type": "repo",
-      "title": "tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "big_question": "How can I apply machine learning to real-world problems?",
-      "head_fake": "TensorFlow"
-    },
-    {
-      "type": "hn",
-      "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
-      "description": "Article URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "big_question": "How is AI being used in drug discovery?",
-      "head_fake": "Nature"
-    },
-    {
-      "type": "hn",
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "description": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "big_question": "How does AI compare to human memory?",
-      "head_fake": "David Piffer"
-    },
-    {
-      "type": "floater",
-      "title": "Bug Bounty",
-      "description": "Identify and report vulnerabilities in software to earn rewards",
-      "url": "https://hackerone.com/",
-      "big_question": "How can I contribute to software security?",
-      "head_fake": "HackerOne"
-    },
-    {
-      "type": "floater",
-      "title": "Compete in coding challenges",
-      "description": "Test your skills and compete with other developers",
-      "url": "https://codeforces.com/",
       "big_question": "How can I improve my coding skills?",
-      "head_fake": "CodeForces"
+      "head_fake": "Learn to code"
+    },
+    {
+      "type": "hn",
+      "title": "Rhombus 1.1 is now available",
+      "description": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "big_question": "What's new in Rhombus?",
+      "head_fake": "Rhombus update"
+    },
+    {
+      "type": "hn",
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "big_question": "What's happening with Cloudflare?",
+      "head_fake": "Cloudflare issue"
+    },
+    {
+      "type": "bugbounty",
+      "title": "An open-source, candle-only crypto pump detector\u2013looking for ML contributors",
+      "description": "Article URL: https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "big_question": "How can I contribute to this project?",
+      "head_fake": "Crypto pump detector"
+    },
+    {
+      "type": "floater",
+      "title": "MathCode, Mathematical Coding Agent",
+      "description": "Article URL: https://math-ai-org.github.io/mathcode/",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "big_question": "What is MathCode?",
+      "head_fake": "MathCode"
+    },
+    {
+      "type": "floater",
+      "title": "The AI Credit Resale Economy",
+      "description": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "big_question": "What is the AI Credit Resale Economy?",
+      "head_fake": "AI Credit Resale Economy"
     },
     {
       "type": "repo",
-      "title": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills",
-      "big_question": "How can I develop skills for a career in software engineering?",
-      "head_fake": "Matt Pocock"
-    },
-    {
-      "type": "repo",
-      "title": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "url": "https://github.com/react/react",
-      "big_question": "How can I build fast and scalable user interfaces?",
-      "head_fake": "React"
+      "title": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Where can I find free programming books?",
+      "head_fake": "Free programming books"
     }
   ]
 }

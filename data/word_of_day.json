@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-16T01:54:38.025513+00:00",
+  "fetched_at": "2026-08-17T01:52:03.430709+00:00",
   "word_of_day": {
-    "word": "sanguine",
-    "phonetic": "/\u02c8s\u00e6\u014b.\u0261w\u026an/",
+    "word": "melancholy",
+    "phonetic": "/\u02c8mel\u0259nk\u0259li/",
     "part_of_speech": "noun",
-    "definition": "Blood colour; red.",
+    "definition": "Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.",
     "example": "",
-    "date": "August 16, 2026",
-    "source_url": "https://www.merriam-webster.com/dictionary/sanguine"
+    "date": "August 17, 2026",
+    "source_url": "https://www.merriam-webster.com/dictionary/melancholy"
   }
 }

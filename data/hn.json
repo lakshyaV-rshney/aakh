@@ -1,39 +1,81 @@
 {
-  "fetched_at": "2026-08-16T01:54:37.699965+00:00",
+  "fetched_at": "2026-08-17T01:52:03.133124+00:00",
   "stories": [
     {
-      "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "summary": "<p><a href=\"https://www.nature.com/articles/s41573-026-01496-2\" rel=\"nofollow\">https://www.nature.com/articles/s41573-026-01496-2</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313367\">https://news.ycombinator.com/item?id=49313367</a></p>\n<p>Points: 86</p>\n<p># Comme",
-      "published": "Sat, 15 Aug 2026 19:12:53 +0000",
+      "title": "Rhombus 1.1 is now available",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325384\">https://news.ycombinator.com/item?id=49325384</a></p>\n<p>Points: 8</p>\n<p># Comment",
+      "published": "Mon, 17 Aug 2026 00:48:21 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\">https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313047\">https://news.ycombinator.com/item",
-      "published": "Sat, 15 Aug 2026 18:33:25 +0000",
+      "title": "The federal keyword lists that canceled billions in research funding",
+      "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+      "summary": "<p>Article URL: <a href=\"https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/\">https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/</a></p>\n<p>Comments URL: <a href=\"http",
+      "published": "Mon, 17 Aug 2026 00:14:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "summary": "<p>Article URL: <a href=\"https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312845\">https://news.ycombinator.com/item?id=49312845</a></p>\n<p>Points: 410<",
-      "published": "Sat, 15 Aug 2026 18:13:02 +0000",
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>\n<p>Comments URL: <a href=\"https:",
+      "published": "Sun, 16 Aug 2026 21:07:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I Remain a Skeptic",
-      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-      "summary": "<p>Article URL: <a href=\"https://blog.jsbarretto.com/post/i-remain-a-skeptic\">https://blog.jsbarretto.com/post/i-remain-a-skeptic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312053\">https://news.ycombinator.com/item?id=49312053</a></p>\n<p>Points: 66</p>\n<p># Comments: 41",
-      "published": "Sat, 15 Aug 2026 16:42:58 +0000",
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\">https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</a></p>\n<p>Comments URL: <a href=\"https://news",
+      "published": "Sun, 16 Aug 2026 20:31:16 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A spectre is haunting Unicode",
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "summary": "<p>Article URL: <a href=\"https://www.dampfkraft.com/ghost-characters.html\">https://www.dampfkraft.com/ghost-characters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310926\">https://news.ycombinator.com/item?id=49310926</a></p>\n<p>Points: 169</p>\n<p># Comments: 57</p>",
-      "published": "Sat, 15 Aug 2026 14:34:04 +0000",
+      "title": "An open-source, candle-only crypto pump detector\u2013looking for ML contributors",
+      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "summary": "<p>Article URL: <a href=\"https://github.com/aleks-ent/pump-dump-crypto-screener\">https://github.com/aleks-ent/pump-dump-crypto-screener</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323256\">https://news.ycombinator.com/item?id=49323256</a></p>\n<p>Points: 3</p>\n<p># Comment",
+      "published": "Sun, 16 Aug 2026 20:16:30 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Red queen hypothesis \u2013 a new way forward for self-improving AI",
+      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "summary": "<p>Article URL: <a href=\"https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai\">https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323136\">https://news.ycombina",
+      "published": "Sun, 16 Aug 2026 20:01:13 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "summary": "<p>Article URL: <a href=\"https://math-ai-org.github.io/mathcode/\">https://math-ai-org.github.io/mathcode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322330\">https://news.ycombinator.com/item?id=49322330</a></p>\n<p>Points: 61</p>\n<p># Comments: 18</p>",
+      "published": "Sun, 16 Aug 2026 18:17:10 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "summary": "<p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc \u2014 I had to go to the Analytics dashboard, Add the site to the analyti",
+      "published": "Sun, 16 Aug 2026 17:49:46 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "summary": "<p>Article URL: <a href=\"https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core\">https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manua",
+      "published": "Sun, 16 Aug 2026 15:16:06 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "summary": "<p>Article URL: <a href=\"https://vectoral.com/blog/who-are-the-token-brokers\">https://vectoral.com/blog/who-are-the-token-brokers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320611\">https://news.ycombinator.com/item?id=49320611</a></p>\n<p>Points: 225</p>\n<p># Comments: 8",
+      "published": "Sun, 16 Aug 2026 14:44:55 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+      "url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "summary": "<p>Article URL: <a href=\"https://tasklet.ai/careers/head-of-design-engineering\">https://tasklet.ai/careers/head-of-design-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319892\">https://news.ycombinator.com/item?id=49319892</a></p>\n<p>Points: 0</p>\n<p># Comments:",
+      "published": "Sun, 16 Aug 2026 13:30:27 +0000",
       "source": "Hacker News"
     }
   ]
