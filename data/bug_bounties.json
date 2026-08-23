@@ -1,0 +1,35 @@
+{
+  "fetched_at": "2026-08-23T17:40:42.474366+00:00",
+  "bug_bounties": [
+    {
+      "title": "OpenAI",
+      "url": "https://bugcrowd.com/openai",
+      "bounty": "$6,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Meta",
+      "url": "https://www.facebook.com/whitehat",
+      "bounty": "$300,000",
+      "source": "Meta"
+    },
+    {
+      "title": "Google",
+      "url": "https://bughunters.google.com/",
+      "bounty": "$31,337",
+      "source": "Google"
+    },
+    {
+      "title": "Apple",
+      "url": "https://security.apple.com/bounty/",
+      "bounty": "$1,000,000",
+      "source": "Apple"
+    },
+    {
+      "title": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/msrc/bounty",
+      "bounty": "$250,000",
+      "source": "Microsoft"
+    }
+  ]
+}

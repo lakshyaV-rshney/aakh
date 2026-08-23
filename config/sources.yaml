@@ -1,0 +1,80 @@
+# Aakh v1.2.0 — sources config
+# Edit this file to control what gets pulled each night.
+
+github:
+  since_days: 7
+  languages:
+    - python
+    - javascript
+    - typescript
+    - rust
+    - go
+    - c
+    - cpp
+    - java
+    - shell
+    - kotlin
+    - swift
+  min_stars: 20
+  per_language: 10
+
+competitions:
+  sources:
+    - name: Unstop
+      url: https://unstop.com/hackathons
+    - name: Devpost
+      url: https://devpost.com/hackathons?open_to=public&order_by=deadline
+    - name: MLH
+      # Update this year every January
+      mlh_year: 2026
+  min_days_remaining: 3
+
+hackernews:
+  rss_url: https://hnrss.org/frontpage?count=100
+  limit: 100
+  keywords:
+    - python
+    - javascript
+    - rust
+    - open source
+    - AI
+    - ML
+    - research
+    - tool
+    - database
+    - compiler
+    - linux
+    - security
+    - LLM
+    - startup
+
+word_of_day:
+  # Free Dictionary API — no key needed
+  api_url: https://api.dictionaryapi.dev/api/v2/entries/en
+
+audio:
+  # edge-tts voices (max 4)
+  voices:
+    - name: "Neerja (Indian English)"
+      voice: "en-IN-NeerjaNeural"
+      file: "morning_neerja.mp3"
+    - name: "Prabhat (Indian English)"
+      voice: "en-IN-PrabhatNeural"
+      file: "morning_prabhat.mp3"
+    - name: "Guy (US English)"
+      voice: "en-US-GuyNeural"
+      file: "morning_guy.mp3"
+    - name: "Ryan (British English)"
+      voice: "en-GB-RyanNeural"
+      file: "morning_ryan.mp3"
+
+groq:
+  # Model to use for LLM ranking (update if Groq deprecates the current one)
+  # See available models: https://console.groq.com/docs/models
+  model: "qwen/qwen3.6-27b"
+
+activity:
+  digest_path: "activity_today.md"
+  fallback_prompt: >
+    No activity digest found for today. Rank based on general
+    student interest in software development and CS research.

@@ -1,0 +1,38 @@
+name: Nightly Refresh
+
+on:
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python scripts/fetch_github_trending.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - run: python scripts/fetch_competitions.py
+      - run: python scripts/fetch_hackernews_rss.py
+      - run: python scripts/fetch_word_of_day.py
+      - run: python scripts/fetch_bug_bounties.py
+      - run: python scripts/rank_hot_topics.py
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      - run: python scripts/build_dashboard_data.py
+      - run: python scripts/generate_audio.py
+      - run: |
+          mkdir -p docs/data docs/audio
+          cp data/data.json docs/data/data.json
+      - run: |
+          git config user.name "aakh-bot"
+          git config user.email "aakh-bot@users.noreply.github.com"
+          git add data/
+          git add -f docs/data/ docs/audio/
+          git diff --cached --quiet || git commit -m "chore: nightly refresh $(date -u +'%Y-%m-%d')"
+          git push
+      - run: echo "::error::Nightly refresh failed"
+        if: failure()

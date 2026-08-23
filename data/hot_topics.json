@@ -1,0 +1,69 @@
+{
+  "fetched_at": "2026-08-23T17:25:43.336415+00:00",
+  "hot_topics": [
+    {
+      "type": "repo",
+      "title": "developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "big_question": "Which specialization path aligns best with your long-term career goals?",
+      "head_fake": "Navigate your dev journey with community-voted milestones and curated resources."
+    },
+    {
+      "type": "repo",
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "How can you systematically master data structures and algorithms for interviews?",
+      "head_fake": "Practice CS fundamentals with 800+ clean, well-documented implementations."
+    },
+    {
+      "type": "hn",
+      "title": "NanoGPT Speedrun Frontier",
+      "description": "A research project exploring rapid training and optimization techniques for GPT-style models.",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "big_question": "Can we train capable language models in hours instead of days?",
+      "head_fake": "Pushing the boundaries of efficient AI training with open-source benchmarks."
+    },
+    {
+      "type": "hn",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "description": "A faithful emulator of the original IBM PC and compatibles, written from scratch in Rust.",
+      "url": "https://martypc.net/",
+      "big_question": "What does it take to perfectly replicate 40-year-old hardware in a modern language?",
+      "head_fake": "Cycle-accurate nostalgia meets Rust's memory safety guarantees."
+    },
+    {
+      "type": "competition",
+      "title": "Reverie Hacks 2026",
+      "description": "A multi-week online hackathon with over $3M in prizes — open to all skill levels.",
+      "url": "https://reverie-hacks-2026.devpost.com/",
+      "big_question": "What could you build in three weeks with the right team and motivation?",
+      "head_fake": "Big prize pools attract serious builders — and serious learning opportunities."
+    },
+    {
+      "type": "floater",
+      "title": "n8n — workflow automation with native AI",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
+      "big_question": "Can visual programming finally replace boilerplate glue code?",
+      "head_fake": "The low-code movement is eating internal tooling — and n8n is open source."
+    },
+    {
+      "type": "floater",
+      "title": "DeepSeek Harness — everything is a plugin",
+      "description": "DeepSeek's new agent harness where every capability is a composable plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "big_question": "Is a plugin-first architecture the future of AI agent frameworks?",
+      "head_fake": "10 days old and already 187k stars — the ecosystem is moving fast."
+    },
+    {
+      "type": "bugbounty",
+      "title": "HackerOne Programs",
+      "description": "Dozens of companies actively paying for security vulnerabilities — from startups to Fortune 500s.",
+      "url": "https://hackerone.com/directory/programs",
+      "big_question": "Could ethical hacking be your first paid open-source contribution?",
+      "head_fake": "Security skills compound — every bug you find sharpens your instincts."
+    }
+  ]
+}

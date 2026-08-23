@@ -1,0 +1,183 @@
+{
+  "generated_at": "2026-08-23T17:02:50.859309+00:00",
+  "date_label": "Sunday, 23 August 2026",
+  "is_monday": false,
+  "word_of_day": {
+    "word": "ubiquitous",
+    "phonetic": "",
+    "part_of_speech": "adjective",
+    "definition": "Being everywhere at once: omnipresent.",
+    "example": "To Hindus, Jews, Christians, and Muslims, God is ubiquitous.",
+    "date": "August 23, 2026",
+    "source_url": "https://www.merriam-webster.com/dictionary/ubiquitous"
+  },
+  "hot_topics": [
+    {
+      "type": "repo",
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "How can I find the best APIs for my project?",
+      "head_fake": "APIs for developers"
+    },
+    {
+      "type": "repo",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How can I improve my coding skills?",
+      "head_fake": "Learn to code"
+    },
+    {
+      "type": "hn",
+      "title": "Rhombus 1.1 is now available",
+      "description": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "big_question": "What's new in Rhombus?",
+      "head_fake": "Rhombus update"
+    },
+    {
+      "type": "hn",
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "big_question": "What's happening with Cloudflare?",
+      "head_fake": "Cloudflare issue"
+    },
+    {
+      "type": "bugbounty",
+      "title": "An open-source, candle-only crypto pump detector\u2013looking for ML contributors",
+      "description": "Article URL: https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "big_question": "How can I contribute to this project?",
+      "head_fake": "Crypto pump detector"
+    },
+    {
+      "type": "floater",
+      "title": "MathCode, Mathematical Coding Agent",
+      "description": "Article URL: https://math-ai-org.github.io/mathcode/",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "big_question": "What is MathCode?",
+      "head_fake": "MathCode"
+    },
+    {
+      "type": "floater",
+      "title": "The AI Credit Resale Economy",
+      "description": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "big_question": "What is the AI Credit Resale Economy?",
+      "head_fake": "AI Credit Resale Economy"
+    },
+    {
+      "type": "repo",
+      "title": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Where can I find free programming books?",
+      "head_fake": "Free programming books"
+    }
+  ],
+  "repos": [],
+  "competitions": [
+    {
+      "title": "AI & Innovation Day @ AITR Indore",
+      "url": "https://ai-innovation-day-31076.devpost.com/",
+      "deadline": "Aug 20 - 23, 2026",
+      "prize": "\u20b9 <span data-currency-value>0</span>",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -1099
+    },
+    {
+      "title": "Reverie Hacks 2026",
+      "url": "https://reverie-hacks-2026.devpost.com/",
+      "deadline": "Aug 02 - 24, 2026",
+      "prize": "$<span data-currency-value>3,047,814</span>",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -751
+    },
+    {
+      "title": "QuantumHacks",
+      "url": "https://quantumhacks.devpost.com/",
+      "deadline": "Jun 21 - Aug 24, 2026",
+      "prize": "$<span data-currency-value>1,000</span>",
+      "source": "Devpost",
+      "closing_soon": false
+    },
+    {
+      "title": "ImpactForge",
+      "url": "https://impactforge.devpost.com/",
+      "deadline": "Jun 19 - Aug 24, 2026",
+      "prize": "$<span data-currency-value>300</span>",
+      "source": "Devpost",
+      "closing_soon": false
+    },
+    {
+      "title": "NeuralSprint",
+      "url": "https://neuralsprint.devpost.com/",
+      "deadline": "Jun 18 - Aug 24, 2026",
+      "prize": "$<span data-currency-value>150</span>",
+      "source": "Devpost",
+      "closing_soon": false
+    },
+    {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - 24, 2026",
+      "prize": "$<span data-currency-value>0</span>",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -732
+    },
+    {
+      "title": "Gemini Builds",
+      "url": "https://gemini-builds.devpost.com/",
+      "deadline": "Aug 12 - 24, 2026",
+      "prize": "$<span data-currency-value>0</span>",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -741
+    },
+    {
+      "title": "Melbourne Hack 2026",
+      "url": "https://melbourne-hack-2026.devpost.com/",
+      "deadline": "Aug 21 - 24, 2026",
+      "prize": "$<span data-currency-value>900</span>",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -732
+    }
+  ],
+  "bug_bounties": [],
+  "hn_stories": [
+    {
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "url": "https://skylens.yantraai.app/",
+      "summary": "<p>Article URL: <a href=\"https://skylens.yantraai.app/\">https://skylens.yantraai.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407309\">https://news.ycombinator.com/item?id=49407309</a></p>\n<p>Points: 36</p>\n<p># Comments: 17</p>",
+      "published": "Sun, 23 Aug 2026 09:27:40 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "summary": "<p>Article URL: <a href=\"https://martypc.net/\">https://martypc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405816\">https://news.ycombinator.com/item?id=49405816</a></p>\n<p>Points: 154</p>\n<p># Comments: 55</p>",
+      "published": "Sun, 23 Aug 2026 03:13:16 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/research/nanogpt-speedrun\">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49404380\">https://news.ycombinator.com/item?id=49404380</a></p>\n<p>Points: 127</p>\n<p># Com",
+      "published": "Sat, 22 Aug 2026 22:14:27 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "summary": "<p>Article URL: <a href=\"https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402781\">https://news.ycombinator.com/item?id=49402781</a></p>\n<p>Po",
+      "published": "Sat, 22 Aug 2026 19:07:46 +0000",
+      "source": "Hacker News"
+    }
+  ]
+}

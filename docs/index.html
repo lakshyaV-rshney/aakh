@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aakh</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- TOP BAR -->
+  <div class="top-bar">
+    <div class="top-bar-left">
+      <span class="top-bar-logo">Aakh</span>
+      <span id="date-label" class="top-bar-date"></span>
+    </div>
+    <div class="top-bar-right">
+      <span id="generated-at" class="top-bar-time"></span>
+      <button id="audio-trigger" class="icon-btn" hidden title="Listen"></button>
+      <button id="theme-toggle" class="icon-btn" title="Toggle theme"></button>
+    </div>
+  </div>
+
+  <!-- PINNED ROW — hidden until user pins something -->
+  <div id="pinned-section" class="pinned-section" hidden>
+    <span class="pinned-label">
+      <span id="pin-label-icon"></span>
+      Pinned
+    </span>
+    <div id="pinned-list" class="pinned-list"></div>
+  </div>
+
+  <!-- HERO: word of the day -->
+  <header class="hero">
+    <p class="wotd-label">Word of the day</p>
+    <h1 id="wotd-word" class="wotd-word">—</h1>
+    <p id="wotd-pos" class="wotd-pos"></p>
+    <p id="wotd-def" class="wotd-def"></p>
+    <p id="wotd-example" class="wotd-example" hidden></p>
+  </header>
+
+  <main class="main-grid">
+
+    <!-- MONDAY BANNER -->
+    <div id="monday-banner" class="monday-banner" hidden>
+      <span id="monday-icon"></span>
+      <span>Monday — repos that trended all week, competitions closing soon.</span>
+    </div>
+
+    <!-- HOT TOPICS -->
+    <section class="section">
+      <div class="section-header">
+        <span class="section-tag">For you</span>
+        <h2 class="section-title">Hot picks today</h2>
+        <p class="section-sub">2 repos · 2 stories · 1 competition · 1 bug bounty · 2 wildcards</p>
+      </div>
+      <div id="hot-topics-list" class="hot-list"></div>
+    </section>
+
+    <!-- REPOS + COMPETITIONS -->
+    <div class="twin-cols">
+      <section class="section">
+        <div class="section-header">
+          <span class="section-tag">GitHub</span>
+          <h2 class="section-title" id="repos-title">Rising repos</h2>
+        </div>
+        <div id="repos-list" class="scroll-list"></div>
+      </section>
+
+      <section class="section">
+        <div class="section-header">
+          <span class="section-tag">Compete</span>
+          <h2 class="section-title">Open hackathons</h2>
+        </div>
+        <div id="comps-list" class="scroll-list"></div>
+      </section>
+    </div>
+
+    <!-- BUG BOUNTIES + HN -->
+    <div class="twin-cols">
+      <section class="section">
+        <div class="section-header">
+          <span class="section-tag">Bug Bounty</span>
+          <h2 class="section-title">Open programs</h2>
+        </div>
+        <div id="bounties-list" class="scroll-list"></div>
+      </section>
+
+      <section class="section">
+        <div class="section-header">
+          <span class="section-tag">Hacker News</span>
+          <h2 class="section-title">Top stories</h2>
+        </div>
+        <div id="hn-list" class="hn-list"></div>
+      </section>
+    </div>
+
+  </main>
+
+  <footer class="footer">
+    <span>Aakh v1.2.0 — built for mornings, not scrolling</span>
+  </footer>
+
+  <!-- AUDIO POPUP -->
+  <div id="audio-overlay" class="audio-overlay" hidden></div>
+  <div id="audio-popup" class="audio-popup" hidden>
+    <div class="audio-popup-header">
+      <span class="audio-popup-title">Morning Briefing</span>
+      <button id="audio-close" class="icon-btn" title="Close"></button>
+    </div>
+    <p id="audio-np-text" class="audio-np-text">Aakh morning briefing</p>
+    <div class="audio-progress-wrap">
+      <input type="range" id="audio-seek" class="audio-seek" value="0" min="0" step="0.1" />
+      <div class="audio-times">
+        <span id="audio-current">0:00</span>
+        <span id="audio-duration">—</span>
+      </div>
+    </div>
+    <div class="audio-controls">
+      <button id="audio-restart" class="icon-btn audio-ctrl" title="Restart"></button>
+      <button id="audio-playpause" class="audio-play-btn" title="Play / Pause"></button>
+      <button id="audio-skip" class="icon-btn audio-ctrl" title="Skip 15s"></button>
+    </div>
+    <div class="audio-row">
+      <span class="audio-row-label">Speed</span>
+      <div class="audio-speed-btns">
+        <button class="speed-btn" data-speed="0.75">0.75x</button>
+        <button class="speed-btn speed-active" data-speed="1">1x</button>
+        <button class="speed-btn" data-speed="1.25">1.25x</button>
+        <button class="speed-btn" data-speed="1.5">1.5x</button>
+        <button class="speed-btn" data-speed="2">2x</button>
+      </div>
+    </div>
+    <div class="audio-row">
+      <span class="audio-row-label">Voice</span>
+      <select id="voice-select" class="voice-select">
+        <option value="morning_neerja.mp3">Neerja — Indian English</option>
+        <option value="morning_prabhat.mp3">Prabhat — Indian English</option>
+        <option value="morning_guy.mp3">Guy — US English</option>
+        <option value="morning_ryan.mp3">Ryan — British English</option>
+      </select>
+    </div>
+    <p class="audio-hint">Tap play, pocket your phone, ride.</p>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
