@@ -1,81 +1,109 @@
 {
-  "fetched_at": "2026-08-23T17:40:16.563334+00:00",
+  "fetched_at": "2026-08-25T02:48:13.030658+00:00",
   "stories": [
     {
-      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-      "url": "https://skylens.yantraai.app/",
-      "summary": "<p>Article URL: <a href=\"https://skylens.yantraai.app/\">https://skylens.yantraai.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407309\">https://news.ycombinator.com/item?id=49407309</a></p>\n<p>Points: 36</p>\n<p># Comments: 17</p>",
-      "published": "Sun, 23 Aug 2026 09:27:40 +0000",
+      "title": "How Universities Should Prepare Founders",
+      "url": "https://paulgraham.com/prepare.html",
+      "summary": "<p>Article URL: <a href=\"https://paulgraham.com/prepare.html\">https://paulgraham.com/prepare.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428121\">https://news.ycombinator.com/item?id=49428121</a></p>\n<p>Points: 29</p>\n<p># Comments: 22</p>",
+      "published": "Tue, 25 Aug 2026 01:40:39 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "summary": "<p>Article URL: <a href=\"https://martypc.net/\">https://martypc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405816\">https://news.ycombinator.com/item?id=49405816</a></p>\n<p>Points: 154</p>\n<p># Comments: 55</p>",
-      "published": "Sun, 23 Aug 2026 03:13:16 +0000",
+      "title": "Was Modern Art a CIA Psy-Op?",
+      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+      "summary": "<p>Article URL: <a href=\"https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428080\">https://news.ycombinator.com/item?id=49428080</a></p>\n<p>Points: 9</p>\n<p",
+      "published": "Tue, 25 Aug 2026 01:35:00 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/research/nanogpt-speedrun\">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49404380\">https://news.ycombinator.com/item?id=49404380</a></p>\n<p>Points: 127</p>\n<p># Com",
-      "published": "Sat, 22 Aug 2026 22:14:27 +0000",
+      "title": "What languages are agent skills written in?",
+      "url": "https://plicara.ai/research/agent-skill-languages/",
+      "summary": "<p>Article URL: <a href=\"https://plicara.ai/research/agent-skill-languages/\">https://plicara.ai/research/agent-skill-languages/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49427825\">https://news.ycombinator.com/item?id=49427825</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p",
+      "published": "Tue, 25 Aug 2026 00:52:27 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "summary": "<p>Article URL: <a href=\"https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402781\">https://news.ycombinator.com/item?id=49402781</a></p>\n<p>Po",
-      "published": "Sat, 22 Aug 2026 19:07:46 +0000",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "summary": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=1ptvdtcm\">https://developer.apple.com/news/?id=1ptvdtcm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426564\">https://news.ycombinator.com/item?id=49426564</a></p>\n<p>Points: 256</p>\n<p># Comments: 59</p>",
+      "published": "Mon, 24 Aug 2026 22:13:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "summary": "<p>Article URL: <a href=\"https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402232\">https://news.ycombinator.com/",
-      "published": "Sat, 22 Aug 2026 18:14:16 +0000",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "summary": "<p>Article URL: <a href=\"https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424",
+      "published": "Mon, 24 Aug 2026 19:03:06 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Thinking in Python",
-      "url": "https://thinkinginpython.com/",
-      "summary": "<p>Article URL: <a href=\"https://thinkinginpython.com/\">https://thinkinginpython.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402202\">https://news.ycombinator.com/item?id=49402202</a></p>\n<p>Points: 251</p>\n<p># Comments: 50</p>",
-      "published": "Sat, 22 Aug 2026 18:10:49 +0000",
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+      "summary": "<p>Article URL: <a href=\"https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4\">https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423495\">https://news.ycombinator.com/item?id=4942",
+      "published": "Mon, 24 Aug 2026 17:53:14 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "summary": "<p>Article URL: <a href=\"https://quantumi.sh/public/labs.html\">https://quantumi.sh/public/labs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49400408\">https://news.ycombinator.com/item?id=49400408</a></p>\n<p>Points: 438</p>\n<p># Comments: 132</p>",
-      "published": "Sat, 22 Aug 2026 14:54:07 +0000",
+      "title": "Where did all the public bathrooms go?",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "summary": "<p>Article URL: <a href=\"https://daily.jstor.org/where-did-all-the-public-bathrooms-go/\">https://daily.jstor.org/where-did-all-the-public-bathrooms-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422800\">https://news.ycombinator.com/item?id=49422800</a></p>\n<p>Points: 17",
+      "published": "Mon, 24 Aug 2026 17:07:01 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "LiteLLM (YC W23) Is Hiring \u2013 Rust / Performance Engineers",
-      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-      "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6\">https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390910\">https://news.ycombinator.com/item?id=49390910</a></p>",
-      "published": "Fri, 21 Aug 2026 17:00:23 +0000",
+      "title": "Show HN: PicoMQ \u2013 Durable Streams over HTTP, on object storage",
+      "url": "https://picomq.com/",
+      "summary": "<p>PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade.<p>S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library. Coo",
+      "published": "Mon, 24 Aug 2026 16:08:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/\">https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4938795",
-      "published": "Fri, 21 Aug 2026 13:43:33 +0000",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "summary": "<p>Article URL: <a href=\"https://larsfaye.com/articles/ai-coding-will-prevent-expertise\">https://larsfaye.com/articles/ai-coding-will-prevent-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421554\">https://news.ycombinator.com/item?id=49421554</a></p>\n<p>Points: 48",
+      "published": "Mon, 24 Aug 2026 15:52:33 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
-      "url": "https://vetto.ai/companies/programbench-vetted.html",
-      "summary": "<p>Article URL: <a href=\"https://vetto.ai/companies/programbench-vetted.html\">https://vetto.ai/companies/programbench-vetted.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49375176\">https://news.ycombinator.com/item?id=49375176</a></p>\n<p>Points: 27</p>\n<p># Comments: 1<",
-      "published": "Thu, 20 Aug 2026 14:35:08 +0000",
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "summary": "<p>Article URL: <a href=\"https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/\">https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421489\">https://news.ycombinator.com/item?id=49421489</a></p>\n<p>Points: 333<",
+      "published": "Mon, 24 Aug 2026 15:48:45 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "An open-source, candle-only crypto pump detector\u2013looking for ML contributors",
-      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
-      "summary": "<p>Article URL: <a href=\"https://github.com/aleks-ent/pump-dump-crypto-screener\">https://github.com/aleks-ent/pump-dump-crypto-screener</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323256\">https://news.ycombinator.com/item?id=49323256</a></p>\n<p>Points: 3</p>\n<p># Comment",
-      "published": "Sun, 16 Aug 2026 20:16:30 +0000",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "summary": "<p>Article URL: <a href=\"https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\">https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421158\">https://news.ycombinator.com/item?id=49421158</a></p>",
+      "published": "Mon, 24 Aug 2026 15:28:04 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "summary": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/pricing\">https://developers.openai.com/api/docs/pricing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421074\">https://news.ycombinator.com/item?id=49421074</a></p>\n<p>Points: 303</p>\n<p># Comments: 271</p>",
+      "published": "Mon, 24 Aug 2026 15:22:43 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+      "url": "https://ssx360.github.io/rack-02/?src=hn",
+      "summary": "<p>Article URL: <a href=\"https://ssx360.github.io/rack-02/?src=hn\">https://ssx360.github.io/rack-02/?src=hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49419351\">https://news.ycombinator.com/item?id=49419351</a></p>\n<p>Points: 177</p>\n<p># Comments: 32</p>",
+      "published": "Mon, 24 Aug 2026 13:17:11 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SeL4 security proofs now complete on AArch64",
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "summary": "<p>Article URL: <a href=\"https://proofcraft.systems/news-2026/#2026-08-21\">https://proofcraft.systems/news-2026/#2026-08-21</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49418255\">https://news.ycombinator.com/item?id=49418255</a></p>\n<p>Points: 173</p>\n<p># Comments: 38</p>",
+      "published": "Mon, 24 Aug 2026 11:32:51 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "summary": "<p><a href=\"https://xcancel.com/paulg/status/2091544343589060625\" rel=\"nofollow\">https://xcancel.com/paulg/status/2091544343589060625</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49412396\">https://news.ycombinator.com/item?id=49412396</a></p>\n<p>Points: 517</p>\n<p># ",
+      "published": "Sun, 23 Aug 2026 20:38:09 +0000",
       "source": "Hacker News"
     }
   ]

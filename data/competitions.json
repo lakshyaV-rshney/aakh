@@ -1,74 +1,74 @@
 {
-  "fetched_at": "2026-08-23T17:48:39.454670+00:00",
+  "fetched_at": "2026-08-25T02:48:11.593355+00:00",
   "competitions": [
-    {
-      "title": "AI & Innovation Day @ AITR Indore",
-      "url": "https://ai-innovation-day-31076.devpost.com/",
-      "deadline": "Aug 20 - 23, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Reverie Hacks 2026",
-      "url": "https://reverie-hacks-2026.devpost.com/",
-      "deadline": "Aug 02 - 24, 2026",
-      "prize": "$3,047,814",
-      "source": "Devpost"
-    },
-    {
-      "title": "QuantumHacks",
-      "url": "https://quantumhacks.devpost.com/",
-      "deadline": "Jun 21 - Aug 24, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "NeuralSprint",
-      "url": "https://neuralsprint.devpost.com/",
-      "deadline": "Jun 18 - Aug 24, 2026",
-      "prize": "$150",
-      "source": "Devpost"
-    },
-    {
-      "title": "ImpactForge",
-      "url": "https://impactforge.devpost.com/",
-      "deadline": "Jun 19 - Aug 24, 2026",
-      "prize": "$300",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - 24, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Gemini Builds",
-      "url": "https://gemini-builds.devpost.com/",
-      "deadline": "Aug 12 - 24, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Melbourne Hack 2026",
-      "url": "https://melbourne-hack-2026.devpost.com/",
-      "deadline": "Aug 21 - 24, 2026",
-      "prize": "$900",
-      "source": "Devpost"
-    },
-    {
-      "title": "Inspire Hackathon ",
-      "url": "https://inspire-hackathon.devpost.com/",
-      "deadline": "Aug 14 - 24, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "INNOVIK 6.0 \u2013 International Hackathon 2026 | Indore Edition",
       "url": "https://innovik6-indore.devpost.com/",
       "deadline": "Aug 10 - 25, 2026",
       "prize": "\u20b9 200,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Africa Deep Tech Challenge 2026",
+      "url": "https://adtc-2026.devpost.com/",
+      "deadline": "Jun 17 - Aug 25, 2026",
+      "prize": "$16,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - 25, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Fund My Crazy by Google",
+      "url": "https://google-ai-workshop-hackathon.devpost.com/",
+      "deadline": "Jun 24 - Aug 25, 2026",
+      "prize": "\u20b9 100,093,499",
+      "source": "Devpost"
+    },
+    {
+      "title": "The Great Agent Hackathon",
+      "url": "https://the-great-agent-hackathon.devpost.com/",
+      "deadline": "Jul 23 - Aug 25, 2026",
+      "prize": "\u20b9 100,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Create with Gemini",
+      "url": "https://create-with-gemini.devpost.com/",
+      "deadline": "Aug 12 - 25, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Brainwave 2026 \u2013 Midnight Track",
+      "url": "https://brainwave-2026-midnight-track.devpost.com/",
+      "deadline": "Aug 10 - 26, 2026",
+      "prize": "$220",
+      "source": "Devpost"
+    },
+    {
+      "title": "Obour G12 Capstone Teams ",
+      "url": "https://ob-g12-capstone-teams.devpost.com/",
+      "deadline": "Aug 23 - 27, 2026",
+      "prize": "MEX$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "RescueHacks",
+      "url": "https://rescue-hacks-30680.devpost.com/",
+      "deadline": "Aug 22 - 29, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Prometheus August AI Challenge",
+      "url": "https://august-ai-challenge-31059.devpost.com/",
+      "deadline": "Aug 18 - 30, 2026",
+      "prize": "$1,500",
       "source": "Devpost"
     }
   ]
