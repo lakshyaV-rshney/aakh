@@ -216,15 +216,13 @@ function renderHotTopics(hotTopics) {
 
 // ── Repos ─────────────────────────────────────────────────────────────────────
 
-function renderRepos(repos, isMonday) {
+function renderRepos(repos) {
   const c = document.getElementById("repos-list");
   if (!c) return;
   c.innerHTML = "";
   if (!repos?.length) { const e = el("p","empty"); e.append("No repos."); c.appendChild(e); return; }
-  const sorted = isMonday
-    ? [...repos].sort((a,b) => (b.trending_multiday?1:0)-(a.trending_multiday?1:0))
-    : repos;
-  sorted.forEach(r => {
+  
+  repos.forEach(r => {
     const row  = lnk(r.url, "repo-row");
     const info = el("div", "repo-info");
     txt(info, "p", "repo-name", r.name);
@@ -309,14 +307,6 @@ function renderMeta(data) {
       { hour:"2-digit", minute:"2-digit", hour12:true, timeZone:"Asia/Kolkata" });
     t.textContent = `updated ${time} IST`;
   }
-  if (data.is_monday) {
-    const banner = document.getElementById("monday-banner");
-    const icon   = document.getElementById("monday-icon");
-    const title  = document.getElementById("repos-title");
-    if (banner) banner.hidden = false;
-    if (icon)   icon.innerHTML = SVG.calendar;
-    if (title)  title.textContent = "Trending this week";
-  }
 }
 
 // ── Audio ─────────────────────────────────────────────────────────────────────
@@ -395,7 +385,7 @@ async function init() {
     renderMeta(data);
     renderWotd(data.word_of_day);
     renderHotTopics(data.hot_topics);
-    renderRepos(data.repos, data.is_monday);
+    renderRepos(data.repos);
     renderCompetitions(data.competitions);
     renderBugBounties(data.bug_bounties);
     renderHN(data.hn_stories);

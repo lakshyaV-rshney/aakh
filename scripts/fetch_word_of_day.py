@@ -70,7 +70,7 @@ def fetch_word(word: str, api_url: str) -> dict | None:
             "source_url":     f"https://www.merriam-webster.com/dictionary/{word_str}",
         }
     except Exception as e:
-        print(f"  ✗ API error for '{word}': {e}")
+        print(f"  * API error for '{word}': {e}")
         return None
 
 

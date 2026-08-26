@@ -1,21 +1,47 @@
 {
-  "fetched_at": "2026-08-25T02:48:22.446334+00:00",
+  "fetched_at": "2026-08-26T08:40:34.165522+00:00",
   "hot_topics": [
     {
-      "type": "...",
-      "title": "...",
-      "description": "...",
-      "url": "...",
-      "big_question": "...",
-      "head_fake": "..."
+      "type": "repo",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
-      "type": "...",
-      "title": "...",
-      "description": "...",
-      "url": "...",
-      "big_question": "...",
-      "head_fake": "..."
+      "type": "repo",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e "
+    },
+    {
+      "type": "hn",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/"
+    },
+    {
+      "type": "hn",
+      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding"
+    },
+    {
+      "type": "competition",
+      "title": "Brainwave 2026 \u2013 Midnight Track",
+      "url": "https://brainwave-2026-midnight-track.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "AI & Innovation Day @ AITR Indore",
+      "url": "https://ai-innovation-day-31076.devpost.com/"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Vercel Sandbox",
+      "url": "https://hackerone.com/vercel_sandbox"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Wolt",
+      "url": "https://hackerone.com/wolt"
     }
   ]
 }

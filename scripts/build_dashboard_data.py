@@ -64,12 +64,10 @@ def main():
         r["trending_multiday"] = r["name"] in trending
 
     tag_competitions(competitions)
-    monday = datetime.now(timezone.utc).weekday() == 0
 
     data = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "date_label":   datetime.now(timezone.utc).strftime("%A, %d %B %Y"),
-        "is_monday":    monday,
         "word_of_day":  word_of_day,
         "hot_topics":   hot_topics,
         "repos":        repos[:20],

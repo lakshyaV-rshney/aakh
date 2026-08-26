@@ -105,8 +105,9 @@ def call_groq(activity: str, pool: str, fallback: str, model: str) -> list:
         "- 1 item  type=competition\n"
         "- 1 item  type=bugbounty\n"
         "- 2 items type=floater\n\n"
-        'Each: {"type":"...","title":"...","description":"...","url":"...",'
-        '"big_question":"...","head_fake":"..."}'
+        "Format each item EXACTLY like this (use REAL data from the pool, NO literal '...' placeholders!):\n"
+        '{"type": "repo", "title": "Actual Title", "description": "Actual Description", "url": "https://...", '
+        '"big_question": "Your generated insight", "head_fake": "Your generated head fake"}'
     )
 
     for attempt in range(2):
@@ -131,6 +132,9 @@ def call_groq(activity: str, pool: str, fallback: str, model: str) -> list:
 
 
 def enforce_distribution(topics: list) -> list:
+    # Filter out dummy items the LLM might hallucinate
+    topics = [t for t in topics if t.get("title") and t.get("title") != "Actual Title" and t.get("title") != "..."]
+    
     required = {"repo": 2, "hn": 2, "competition": 1, "bugbounty": 1, "floater": 2}
     by_type  = {}
     for t in topics:
@@ -144,6 +148,29 @@ def enforce_distribution(topics: list) -> list:
     remaining = [t for t in topics if id(t) not in used]
     while len(final) < 8 and remaining:
         final.append(remaining.pop(0))
+
+    # Fallback to local files if LLM failed to provide 8 items
+    if len(final) < 8:
+        print("  LLM provided insufficient valid items. Falling back to local data.")
+        try:
+            with open("data/repos.json") as f:
+                r_data = json.load(f).get("repos", [])[:2]
+                for r in r_data:
+                    if len(final) < 8: final.append({"type": "repo", "title": r.get("name",""), "url": r.get("url",""), "description": r.get("description","")})
+            with open("data/hn.json") as f:
+                h_data = json.load(f).get("stories", [])[:2]
+                for h in h_data:
+                    if len(final) < 8: final.append({"type": "hn", "title": h.get("title",""), "url": h.get("url","")})
+            with open("data/competitions.json") as f:
+                c_data = json.load(f).get("competitions", [])[:2]
+                for c in c_data:
+                    if len(final) < 8: final.append({"type": "competition", "title": c.get("title",""), "url": c.get("url","")})
+            with open("data/bug_bounties.json") as f:
+                b_data = json.load(f).get("bug_bounties", [])[:2]
+                for b in b_data:
+                    if len(final) < 8: final.append({"type": "bugbounty", "title": b.get("title",""), "url": b.get("url","")})
+        except Exception as e:
+            print(f"  Fallback failed: {e}")
 
     return final[:8]
 

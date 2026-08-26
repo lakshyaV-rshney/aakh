@@ -1,131 +1,81 @@
 """
 fetch_bug_bounties.py
-Fetches public bug bounty programs from HackerOne, Bugcrowd, Intigriti.
-All three have public JSON endpoints — no auth needed for public programs.
-Writes -> data/bug_bounties.json
+Scrapes bug bounty programs from arkadiyt/bounty-targets-data datasets.
 """
 
-import json, os, time
+import json, os
 from datetime import datetime, timezone
 import requests
 
 OUTPUT_PATH = "data/bug_bounties.json"
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Aakh/1.2"}
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-    "Accept": "application/json",
-}
-
-
-def fetch_hackerone() -> list:
+def fetch_hackerone():
     results = []
     try:
-        r = requests.get(
-            "https://hackerone.com/programs.json",
-            headers={**HEADERS, "Accept": "application/json"},
-            params={"sort": "launched_at", "direction": "desc", "page": 1},
-            timeout=20,
-        )
-        r.raise_for_status()
-        programs = r.json().get("results", r.json() if isinstance(r.json(), list) else [])
-        for p in programs[:8]:
-            attrs = p.get("attributes", p)
-            name  = attrs.get("name", p.get("name", ""))
-            handle = attrs.get("handle", p.get("handle", ""))
-            bounty = attrs.get("offers_bounties", True)
-            if not name:
-                continue
-            results.append({
-                "title":  name,
-                "url":    f"https://hackerone.com/{handle}",
-                "bounty": "Paid" if bounty else "VDP",
-                "source": "HackerOne",
-            })
+        r = requests.get("https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/main/data/hackerone_data.json", headers=HEADERS, timeout=15)
+        for h in r.json():
+            if h.get("offers_bounties") and h.get("submission_state") == "open":
+                results.append({
+                    "title": h.get("name"),
+                    "url": h.get("url"),
+                    "bounty": "Bounty offered",
+                    "source": "HackerOne"
+                })
         print(f"  HackerOne: {len(results)}")
     except Exception as e:
         print(f"  x HackerOne: {e}")
     return results
 
-
-def fetch_bugcrowd() -> list:
+def fetch_bugcrowd():
     results = []
     try:
-        r = requests.get(
-            "https://bugcrowd.com/programs.json",
-            headers=HEADERS,
-            params={"sort[]": "promoted", "page": 1},
-            timeout=20,
-        )
-        r.raise_for_status()
-        data = r.json()
-        programs = data if isinstance(data, list) else data.get("programs", data.get("results", []))
-        for p in programs[:8]:
-            name = p.get("name", p.get("title", ""))
-            code = p.get("code", p.get("slug", ""))
-            if not name:
-                continue
-            results.append({
-                "title":  name,
-                "url":    f"https://bugcrowd.com/{code}",
-                "bounty": p.get("max_payout", None),
-                "source": "Bugcrowd",
-            })
+        r = requests.get("https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/main/data/bugcrowd_data.json", headers=HEADERS, timeout=15)
+        for b in r.json():
+            max_p = b.get("max_payout", 0)
+            if max_p:
+                results.append({
+                    "title": b.get("name"),
+                    "url": b.get("url"),
+                    "bounty": f"${max_p:,.0f}",
+                    "source": "Bugcrowd"
+                })
         print(f"  Bugcrowd: {len(results)}")
     except Exception as e:
         print(f"  x Bugcrowd: {e}")
     return results
 
-
-def fetch_intigriti() -> list:
+def fetch_intigriti():
     results = []
     try:
-        r = requests.get(
-            "https://api.intigriti.com/core/programs",
-            headers=HEADERS,
-            params={"limit": 10, "status": "open"},
-            timeout=20,
-        )
-        r.raise_for_status()
-        data = r.json()
-        programs = data if isinstance(data, list) else data.get("records", data.get("programs", []))
-        for p in programs[:8]:
-            name   = p.get("name", "")
-            handle = p.get("handle", p.get("slug", ""))
-            if not name:
-                continue
-            results.append({
-                "title":  name,
-                "url":    f"https://app.intigriti.com/programs/{handle}",
-                "bounty": p.get("maxBounty", p.get("max_bounty", None)),
-                "source": "Intigriti",
-            })
+        r = requests.get("https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/main/data/intigriti_data.json", headers=HEADERS, timeout=15)
+        for i in r.json():
+            if i.get("status") == "open":
+                max_b = i.get("max_bounty", {}).get("value", 0)
+                cur = i.get("max_bounty", {}).get("currency", "EUR")
+                sym = "€" if cur == "EUR" else "$" if cur == "USD" else cur
+                results.append({
+                    "title": i.get("name"),
+                    "url": i.get("url"),
+                    "bounty": f"{sym}{max_b:,.0f}" if max_b else "Bounty offered",
+                    "source": "Intigriti"
+                })
         print(f"  Intigriti: {len(results)}")
     except Exception as e:
         print(f"  x Intigriti: {e}")
     return results
 
-
 def main():
     all_bounties = []
-    all_bounties.extend(fetch_hackerone()); time.sleep(1)
-    all_bounties.extend(fetch_bugcrowd());  time.sleep(1)
+    all_bounties.extend(fetch_hackerone())
+    all_bounties.extend(fetch_bugcrowd())
     all_bounties.extend(fetch_intigriti())
 
     seen, unique = set(), []
     for b in all_bounties:
-        k = b["title"].lower().strip()
+        k = b["title"].lower().strip() if b.get("title") else ""
         if k and k not in seen:
             seen.add(k); unique.append(b)
-
-    # Fallback to static dummy data if APIs fail (they currently return 404)
-    if not unique:
-        unique = [
-            {"title": "OpenAI", "url": "https://bugcrowd.com/openai", "bounty": "$6,500", "source": "Bugcrowd"},
-            {"title": "Meta", "url": "https://www.facebook.com/whitehat", "bounty": "$300,000", "source": "Meta"},
-            {"title": "Google", "url": "https://bughunters.google.com/", "bounty": "$31,337", "source": "Google"},
-            {"title": "Apple", "url": "https://security.apple.com/bounty/", "bounty": "$1,000,000", "source": "Apple"},
-            {"title": "Microsoft", "url": "https://www.microsoft.com/en-us/msrc/bounty", "bounty": "$250,000", "source": "Microsoft"}
-        ]
 
     os.makedirs("data", exist_ok=True)
     with open(OUTPUT_PATH, "w") as f:

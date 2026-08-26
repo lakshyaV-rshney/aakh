@@ -1,53 +1,18 @@
 {
-  "fetched_at": "2026-08-25T02:48:11.593355+00:00",
+  "fetched_at": "2026-08-26T08:40:07.646035+00:00",
   "competitions": [
-    {
-      "title": "INNOVIK 6.0 \u2013 International Hackathon 2026 | Indore Edition",
-      "url": "https://innovik6-indore.devpost.com/",
-      "deadline": "Aug 10 - 25, 2026",
-      "prize": "\u20b9 200,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Africa Deep Tech Challenge 2026",
-      "url": "https://adtc-2026.devpost.com/",
-      "deadline": "Jun 17 - Aug 25, 2026",
-      "prize": "$16,500",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - 25, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Fund My Crazy by Google",
-      "url": "https://google-ai-workshop-hackathon.devpost.com/",
-      "deadline": "Jun 24 - Aug 25, 2026",
-      "prize": "\u20b9 100,093,499",
-      "source": "Devpost"
-    },
-    {
-      "title": "The Great Agent Hackathon",
-      "url": "https://the-great-agent-hackathon.devpost.com/",
-      "deadline": "Jul 23 - Aug 25, 2026",
-      "prize": "\u20b9 100,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Create with Gemini",
-      "url": "https://create-with-gemini.devpost.com/",
-      "deadline": "Aug 12 - 25, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "Brainwave 2026 \u2013 Midnight Track",
       "url": "https://brainwave-2026-midnight-track.devpost.com/",
       "deadline": "Aug 10 - 26, 2026",
       "prize": "$220",
+      "source": "Devpost"
+    },
+    {
+      "title": "AI & Innovation Day @ AITR Indore",
+      "url": "https://ai-innovation-day-31076.devpost.com/",
+      "deadline": "Aug 20 - 27, 2026",
+      "prize": "\u20b9 0",
       "source": "Devpost"
     },
     {
@@ -65,10 +30,45 @@
       "source": "Devpost"
     },
     {
+      "title": "Hack The Limit",
+      "url": "https://hack-the-limit-1.devpost.com/",
+      "deadline": "Jun 18 - Aug 30, 2026",
+      "prize": "$350",
+      "source": "Devpost"
+    },
+    {
       "title": "Prometheus August AI Challenge",
       "url": "https://august-ai-challenge-31059.devpost.com/",
       "deadline": "Aug 18 - 30, 2026",
       "prize": "$1,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "Smart City Hackathon Lahore",
+      "url": "https://smart-city-hackathon-lahore.devpost.com/",
+      "deadline": "Aug 19 - 30, 2026",
+      "prize": "$642",
+      "source": "Devpost"
+    },
+    {
+      "title": "The Great Agent Hackathon",
+      "url": "https://the-great-agent-hackathon.devpost.com/",
+      "deadline": "Jul 23 - Aug 30, 2026",
+      "prize": "\u20b9 100,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack the Habitat",
+      "url": "https://hack-the-habitat-2026.devpost.com/",
+      "deadline": "Aug 07 - 31, 2026",
+      "prize": "$1,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hacksocial 2026",
+      "url": "https://hacksocial2026.devpost.com/",
+      "deadline": "Aug 01 - 31, 2026",
+      "prize": "$3,979",
       "source": "Devpost"
     }
   ]

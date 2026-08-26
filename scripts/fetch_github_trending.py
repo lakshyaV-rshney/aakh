@@ -33,9 +33,10 @@ def load_config():
 def search(query: str, per_page: int, token: str) -> list[dict]:
     headers = {
         "Accept": "application/vnd.github+json",
-        "Authorization": f"Bearer {token}",
         "X-GitHub-Api-Version": "2022-11-28",
     }
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
     params = {
         "q": query,
         "sort": "stars",
@@ -70,7 +71,7 @@ def main():
 
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
     if not token:
-        raise EnvironmentError("GITHUB_TOKEN not set")
+        print("Warning: GITHUB_TOKEN not set. Using unauthenticated requests (lower rate limit).")
 
     config = load_config()
     languages = config["languages"]
@@ -111,8 +112,8 @@ def main():
 
             time.sleep(0.5)
 
-        except requests.HTTPError as e:
-            print(f"  ✗ failed for {lang}: {e}")
+        except Exception as e:
+            print(f"  x failed for {lang}: {e}")
 
     # Sort by stars descending
     all_repos.sort(key=lambda r: r["stars"], reverse=True)
@@ -124,7 +125,7 @@ def main():
             "repos": all_repos,
         }, f, indent=2)
 
-    print(f"✓ {len(all_repos)} repos → {OUTPUT_PATH}")
+    print(f"Done: {len(all_repos)} repos to {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

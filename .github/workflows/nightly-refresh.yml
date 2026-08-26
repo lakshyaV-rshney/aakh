@@ -2,6 +2,8 @@ name: Nightly Refresh
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '5 0 * * *'
 
 jobs:
   refresh:
@@ -26,7 +28,6 @@ jobs:
       - run: python scripts/generate_audio.py
       - run: |
           mkdir -p docs/data docs/audio
-          cp data/data.json docs/data/data.json
       - run: |
           git config user.name "aakh-bot"
           git config user.email "aakh-bot@users.noreply.github.com"
