@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T08:40:13.204519+00:00",
+  "fetched_at": "2026-08-27T09:23:25.078986+00:00",
   "bug_bounties": [
     {
       "title": "Vercel Sandbox",
@@ -1250,12 +1250,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "Adobe",
-      "url": "https://hackerone.com/adobe",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "Ubiquiti Inc.",
       "url": "https://hackerone.com/ui",
       "bounty": "Bounty offered",
@@ -1364,6 +1358,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
+      "url": "https://bugcrowd.com/engagements/FindOut-infovis",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Jaanga Marketplace Bug Bounty",
       "url": "https://bugcrowd.com/engagements/JaangaInc-mbb-market",
       "bounty": "$1,500",
@@ -1450,7 +1450,7 @@
     {
       "title": "Aurory Managed Bug Bounty Engagement (Public)",
       "url": "https://bugcrowd.com/engagements/aurory-mbb-og2",
-      "bounty": "$4,375",
+      "bounty": "$4,500",
       "source": "Bugcrowd"
     },
     {
@@ -1556,6 +1556,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "BrizoIT",
+      "url": "https://bugcrowd.com/engagements/brizoit",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Broken Build Bug Bounty",
       "url": "https://bugcrowd.com/engagements/brokenbuild",
       "bounty": "$1,500",
@@ -1583,6 +1589,12 @@
       "title": "Bullish Exchange",
       "url": "https://bugcrowd.com/engagements/bullish-exchange",
       "bounty": "$25,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Caelor Group",
+      "url": "https://bugcrowd.com/engagements/caelor-group-market",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -2168,6 +2180,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "META-INF",
+      "url": "https://bugcrowd.com/engagements/metainfkft",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "MGM China Holdings Limited Managed Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/mgmmacau-mbb-og",
       "bounty": "$7,500",
@@ -2219,6 +2237,12 @@
       "title": "Navan",
       "url": "https://bugcrowd.com/engagements/navan",
       "bounty": "$4,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Navarambh",
+      "url": "https://bugcrowd.com/engagements/navarambh",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {

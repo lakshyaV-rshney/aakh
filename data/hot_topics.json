@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-08-26T08:40:34.165522+00:00",
+  "fetched_at": "2026-08-27T09:23:34.739162+00:00",
   "hot_topics": [
+    {
+      "type": "repo",
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs"
+    },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
@@ -8,30 +14,24 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
-      "type": "repo",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e "
+      "type": "hn",
+      "title": "Getting video models to learn better, faster",
+      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video"
     },
     {
       "type": "hn",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/"
-    },
-    {
-      "type": "hn",
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding"
-    },
-    {
-      "type": "competition",
-      "title": "Brainwave 2026 \u2013 Midnight Track",
-      "url": "https://brainwave-2026-midnight-track.devpost.com/"
+      "title": "Laion Big Video Dataset",
+      "url": "https://projects.laion.ai/bvd/"
     },
     {
       "type": "competition",
       "title": "AI & Innovation Day @ AITR Indore",
       "url": "https://ai-innovation-day-31076.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "Obour G12 Capstone Teams ",
+      "url": "https://ob-g12-capstone-teams.devpost.com/"
     },
     {
       "type": "bugbounty",
