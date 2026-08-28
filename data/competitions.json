@@ -1,24 +1,10 @@
 {
-  "fetched_at": "2026-08-27T09:23:23.131125+00:00",
+  "fetched_at": "2026-08-28T11:11:49.862545+00:00",
   "competitions": [
     {
-      "title": "AI & Innovation Day @ AITR Indore",
-      "url": "https://ai-innovation-day-31076.devpost.com/",
-      "deadline": "Aug 20 - 27, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Obour G12 Capstone Teams ",
-      "url": "https://ob-g12-capstone-teams.devpost.com/",
-      "deadline": "Aug 23 - 27, 2026",
-      "prize": "MEX$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - 27, 2026",
+      "title": "Maestro Eldoret Hack Day",
+      "url": "https://maestro-eldoret-hack-day.devpost.com/",
+      "deadline": "Aug 28 - 29, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
@@ -27,13 +13,6 @@
       "url": "https://rescue-hacks-30680.devpost.com/",
       "deadline": "Aug 22 - 29, 2026",
       "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Prometheus August AI Challenge",
-      "url": "https://august-ai-challenge-31059.devpost.com/",
-      "deadline": "Aug 18 - 30, 2026",
-      "prize": "$1,500",
       "source": "Devpost"
     },
     {
@@ -58,10 +37,31 @@
       "source": "Devpost"
     },
     {
+      "title": "Veteran Innovation Hackathon",
+      "url": "https://veteran-innovation-hackathon.devpost.com/",
+      "deadline": "Aug 28 - 30, 2026",
+      "prize": "$500",
+      "source": "Devpost"
+    },
+    {
+      "title": "Practice Submission",
+      "url": "https://practice-submission.devpost.com/",
+      "deadline": "Aug 27 - 30, 2026",
+      "prize": "$238,123",
+      "source": "Devpost"
+    },
+    {
       "title": "Hack the Habitat",
       "url": "https://hack-the-habitat-2026.devpost.com/",
       "deadline": "Aug 07 - 31, 2026",
       "prize": "$1,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Prometheus August AI Challenge",
+      "url": "https://august-ai-challenge-31059.devpost.com/",
+      "deadline": "Aug 18 - 31, 2026",
+      "prize": "$1,500",
       "source": "Devpost"
     },
     {
