@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-28T11:11:50.417759+00:00",
+  "fetched_at": "2026-08-29T06:56:11.347223+00:00",
   "word_of_day": {
-    "word": "brevity",
-    "phonetic": "/\u02c8b\u0279\u025bv\u0259ti/",
+    "word": "catalyst",
+    "phonetic": "/\u02c8k\u00e6t.\u0259l.\u026ast/",
     "part_of_speech": "noun",
-    "definition": "The quality of being brief in duration.",
+    "definition": "A substance that increases the rate of a chemical reaction without being consumed in the process.",
     "example": "",
-    "date": "August 28, 2026",
-    "source_url": "https://www.merriam-webster.com/dictionary/brevity"
+    "date": "August 29, 2026",
+    "source_url": "https://www.merriam-webster.com/dictionary/catalyst"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T11:11:51.136393+00:00",
+  "fetched_at": "2026-08-29T06:56:11.701667+00:00",
   "bug_bounties": [
     {
       "title": "Vercel Sandbox",
@@ -1084,12 +1084,6 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3566,12 +3560,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "TrueLayer",
-      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-      "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "TrueLayer VDP",
       "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
       "bounty": "Bounty offered",
@@ -3674,12 +3662,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "WP Engine Bug Bounty",
-      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "bounty": "\u20ac2,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "WP Engine VDP",
       "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
       "bounty": "Bounty offered",
@@ -3707,12 +3689,6 @@
       "title": "W\u00e4rtsil\u00e4 Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/wartsila/wartsila-vdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Yahoo Bug Bounty",
-      "url": "https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail",
-      "bounty": "$15,000",
       "source": "Intigriti"
     },
     {

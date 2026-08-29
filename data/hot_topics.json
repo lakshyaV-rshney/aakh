@@ -1,28 +1,6 @@
 {
-  "fetched_at": "2026-08-28T11:11:56.973489+00:00",
+  "fetched_at": "2026-08-29T06:56:17.514913+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs for developers to integrate into their projects.",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "How can you leverage open APIs to build a full-stack app in under 48 hours?",
-      "head_fake": "Stop building from scratch: The ultimate cheat sheet for free developer tools."
-    },
-    {
-      "type": "repo",
-      "title": "TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python with clear explanations and tests.",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "Which sorting or search algorithm will give you the biggest edge in your next technical interview?",
-      "head_fake": "Master data structures without the textbook jargon."
-    },
-    {
-      "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
-    },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
@@ -30,14 +8,30 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
-      "type": "competition",
-      "title": "Maestro Eldoret Hack Day",
-      "url": "https://maestro-eldoret-hack-day.devpost.com/"
+      "type": "repo",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e "
+    },
+    {
+      "type": "hn",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv"
+    },
+    {
+      "type": "hn",
+      "title": "Kumander Linux \u2013 A Linux Distro with a Windows 7 Desktop",
+      "url": "https://www.kumander.org/"
     },
     {
       "type": "competition",
-      "title": "RescueHacks",
-      "url": "https://rescue-hacks-30680.devpost.com/"
+      "title": "Signal Labs Hackathon",
+      "url": "https://signal-labs-hackathon.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "Hacks day Bhopal",
+      "url": "https://hacks-day-bhopal.devpost.com/"
     },
     {
       "type": "bugbounty",
