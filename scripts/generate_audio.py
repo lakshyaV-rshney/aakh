@@ -14,7 +14,7 @@ import edge_tts
 import yaml
 
 CONFIG_PATH = "config/sources.yaml"
-DATA_PATH   = "data/data.json"
+DATA_PATH   = "docs/data/data.json"
 AUDIO_DIR   = "docs/audio"
 
 
