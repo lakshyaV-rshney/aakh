@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "fetched_at": "2026-08-30T03:52:44.756502+00:00",
-=======
-  "fetched_at": "2026-08-29T06:56:17.514913+00:00",
->>>>>>> 2b29a8f700059f1c81dc007cd7749208be31a0e9
+  "fetched_at": "2026-08-30T04:12:10.190124+00:00",
   "hot_topics": [
     {
       "type": "repo",
@@ -19,7 +15,6 @@
     },
     {
       "type": "hn",
-<<<<<<< HEAD
       "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
       "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/"
     },
@@ -30,32 +25,13 @@
     },
     {
       "type": "competition",
-      "title": "Veteran Innovation Hackathon",
-      "url": "https://veteran-innovation-hackathon.devpost.com/"
-    },
-    {
-      "type": "competition",
       "title": "Hack The Limit",
       "url": "https://hack-the-limit-1.devpost.com/"
-=======
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv"
-    },
-    {
-      "type": "hn",
-      "title": "Kumander Linux \u2013 A Linux Distro with a Windows 7 Desktop",
-      "url": "https://www.kumander.org/"
     },
     {
       "type": "competition",
-      "title": "Signal Labs Hackathon",
-      "url": "https://signal-labs-hackathon.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "Hacks day Bhopal",
-      "url": "https://hacks-day-bhopal.devpost.com/"
->>>>>>> 2b29a8f700059f1c81dc007cd7749208be31a0e9
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/"
     },
     {
       "type": "bugbounty",

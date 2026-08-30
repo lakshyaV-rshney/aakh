@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "fetched_at": "2026-08-30T03:52:24.272273+00:00",
-=======
-  "fetched_at": "2026-08-29T06:56:11.701667+00:00",
->>>>>>> 2b29a8f700059f1c81dc007cd7749208be31a0e9
+  "fetched_at": "2026-08-30T04:11:42.987847+00:00",
   "bug_bounties": [
     {
       "title": "Vercel Sandbox",
@@ -2193,6 +2189,12 @@
       "title": "MobilityStream Bug Bounty",
       "url": "https://bugcrowd.com/engagements/mobilitystream",
       "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Monash University Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/monash-mbb",
+      "bounty": "$7,500",
       "source": "Bugcrowd"
     },
     {

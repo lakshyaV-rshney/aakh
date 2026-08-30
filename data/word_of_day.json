@@ -1,22 +1,12 @@
 {
-<<<<<<< HEAD
-  "fetched_at": "2026-08-30T03:52:36.776323+00:00",
+  "fetched_at": "2026-08-30T04:11:42.686770+00:00",
   "word_of_day": {
-    "word": "sonder",
-    "part_of_speech": "noun",
-    "definition": "The realization that each passerby has a life as vivid and complex as your own.",
-    "example": "",
-    "date": "August 30, 2026"
-=======
-  "fetched_at": "2026-08-29T06:56:11.347223+00:00",
-  "word_of_day": {
-    "word": "catalyst",
-    "phonetic": "/\u02c8k\u00e6t.\u0259l.\u026ast/",
-    "part_of_speech": "noun",
-    "definition": "A substance that increases the rate of a chemical reaction without being consumed in the process.",
-    "example": "",
-    "date": "August 29, 2026",
-    "source_url": "https://www.merriam-webster.com/dictionary/catalyst"
->>>>>>> 2b29a8f700059f1c81dc007cd7749208be31a0e9
+    "word": "diligent",
+    "phonetic": "/\u02c8d\u026al\u026ad\u0292\u0259nt/",
+    "part_of_speech": "adjective",
+    "definition": "Performing with industrious concentration; hard-working and focused.",
+    "example": "Scientists are very diligent in their work.",
+    "date": "August 30, 2026",
+    "source_url": "https://www.merriam-webster.com/dictionary/diligent"
   }
 }
