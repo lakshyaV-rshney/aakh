@@ -4,6 +4,8 @@
 
 A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bounties, and developer news every night. Ready before you wake up.
 
+![Aakh Dashboard Hot Picks](docs/screenshots/dashboard_hot_picks.png)
+
 ---
 
 ## Changelog
@@ -81,6 +83,7 @@ No database. No server. No paid infrastructure.
 ## Frontend features
 
 **Word of the day** — hero section, changes daily, definition + example.
+![Word of the day](docs/screenshots/dashboard_word_of_the_day.png)
 
 **Theme toggle** — dark (default) and light, saved to localStorage.
 
@@ -89,6 +92,7 @@ No database. No server. No paid infrastructure.
 **Pinning** — bookmark any card. Pinned items appear in a bar at the top and survive nightly refreshes until you remove them.
 
 **Audio popup** — 4 pre-generated MP3s (Neerja, Prabhat, Guy, Ryan). Controls: play/pause, restart, skip 15s, seek bar, playback speed, voice selector.
+![Audio Player](docs/screenshots/audio_player.png)
 
 **Scrollable sections** — Rising Repos, Open Hackathons, and Bug Bounties each have their own scroll container.
 
@@ -163,4 +167,7 @@ python -m http.server 8000
 
 ---
 
-Developed by [Lakshya Varshney](https://github.com/lakshyaV-rshney).
+[Create your own dashboard here.](https://github.com/lakshyaV-rshney/aakh)
+
+Developed by **Lakshya Varshney**  
+🔗 [GitHub](https://github.com/lakshyaV-rshney) | 🔗 [LinkedIn](https://www.linkedin.com/in/-lakshya-varshney/)
