@@ -1,6 +1,6 @@
 # Aakh
 
-**v1.2.1** — [Live](https://lakshyav-rshney.github.io/aakh/)
+**v1.3.0** — [Live](https://lakshyav-rshney.github.io/aakh/)
 
 A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bounties, and developer news every night. Ready before you wake up.
 
@@ -8,10 +8,15 @@ A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bo
 
 ## Changelog
 
-### v1.2.1 (Latest)
+### v1.3.0 (Latest)
+- **Speed Optimization:** Migrated Python scrapers to run concurrently in GitHub Actions and implemented `pip` caching, reducing execution time from ~65s to ~30s.
+- **Strategic Cron Timing:** Shifted GitHub Actions cron to `00:10 UTC` to dodge the notorious midnight server stampede and ensure smooth, unthrottled runs.
+- **Resilience:** Built a bulletproof JSON loader in `build_dashboard_data.py` to gracefully handle and reset corrupt JSON files caused by Git merge conflicts.
+- **Audio Revival:** Fixed dynamic path routing for `edge-tts` ensuring the daily TTS generation runs flawlessly.
+
+### v1.2.1
 - **Data Pipeline:** Migrated Bug Bounty scraping to `arkadiyt/bounty-targets-data`, tracking 600+ active programs across HackerOne, Bugcrowd, and Intigriti.
 - **AI Stability:** Implemented a resilient local-data fallback mechanism for the Groq LLM to ensure the dashboard always populates exactly 8 hot picks even if the model hallucinates or degrades.
-- **Automation:** Added automated `00:05 UTC` daily cron trigger to GitHub Actions (previously manual-only).
 - **Codebase:** Removed legacy UI features, stripped unused CSS/JS parameters, and resolved Windows Unicode encoding crashes in the GitHub trending fetcher.
 
 ---
@@ -31,13 +36,15 @@ A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bo
 ## How it works
 
 ```
-GitHub Actions (cron: 00:05 UTC)
+GitHub Actions (cron: 00:10 UTC) + Pip Caching
 |
-|- fetch_github_trending.py     GitHub REST API              -> data/repos.json
-|- fetch_competitions.py        Unstop / Devpost / MLH       -> data/competitions.json
-|- fetch_bug_bounties.py        arkadiyt/bounty-targets-data -> data/bug_bounties.json
-|- fetch_hackernews_rss.py      HNRSS                        -> data/hn.json
-|- fetch_word_of_day.py         Free Dictionary API          -> data/word_of_day.json
+|- fetch_github_trending.py     & \
+|- fetch_competitions.py        & | (Concurrent
+|- fetch_bug_bounties.py        & |  Scraping)
+|- fetch_hackernews_rss.py      & |
+|- fetch_word_of_day.py         & /
+|- wait
+|
 |- rank_hot_topics.py           Groq qwen/qwen3.6-27b        -> data/hot_topics.json
 |- build_dashboard_data.py      merge static JSON            -> docs/data/data.json
 |- generate_audio.py            edge-tts x4 voices           -> docs/audio/*.mp3
@@ -45,7 +52,7 @@ GitHub Actions (cron: 00:05 UTC)
 git commit + push -> GitHub Pages redeploys automatically
 ```
 
-Each script fails independently. One broken source does not affect the others.
+Each script handles failures and corrupt JSON independently. One broken source does not affect the others.
 
 ---
 
