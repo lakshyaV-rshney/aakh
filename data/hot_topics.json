@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T08:40:34.165522+00:00",
+  "fetched_at": "2026-08-30T03:52:44.756502+00:00",
   "hot_topics": [
     {
       "type": "repo",
@@ -9,29 +9,29 @@
     },
     {
       "type": "repo",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e "
+      "title": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books"
     },
     {
       "type": "hn",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/"
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/"
     },
     {
       "type": "hn",
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding"
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents"
     },
     {
       "type": "competition",
-      "title": "Brainwave 2026 \u2013 Midnight Track",
-      "url": "https://brainwave-2026-midnight-track.devpost.com/"
+      "title": "Veteran Innovation Hackathon",
+      "url": "https://veteran-innovation-hackathon.devpost.com/"
     },
     {
       "type": "competition",
-      "title": "AI & Innovation Day @ AITR Indore",
-      "url": "https://ai-innovation-day-31076.devpost.com/"
+      "title": "Hack The Limit",
+      "url": "https://hack-the-limit-1.devpost.com/"
     },
     {
       "type": "bugbounty",

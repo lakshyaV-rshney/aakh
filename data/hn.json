@@ -1,81 +1,109 @@
 {
-  "fetched_at": "2026-08-26T08:40:15.970797+00:00",
+  "fetched_at": "2026-08-30T03:52:25.771454+00:00",
   "stories": [
     {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/\">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445252\">https://news.ycombinator.",
-      "published": "Wed, 26 Aug 2026 07:31:31 +0000",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "summary": "<p>Article URL: <a href=\"https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/\">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494182\">https:/",
+      "published": "Sat, 29 Aug 2026 23:17:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "summary": "<p>Article URL: <a href=\"https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding\">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com",
-      "published": "Wed, 26 Aug 2026 05:49:20 +0000",
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "summary": "<p>Article URL: <a href=\"https://coldtake.dev/blog/domain-driven-agents\">https://coldtake.dev/blog/domain-driven-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492584\">https://news.ycombinator.com/item?id=49492584</a></p>\n<p>Points: 65</p>\n<p># Comments: 11</p>",
+      "published": "Sat, 29 Aug 2026 19:28:28 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
-      "summary": "<p>Article URL: <a href=\"https://github.com/runetes/maiao\">https://github.com/runetes/maiao</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441666\">https://news.ycombinator.com/item?id=49441666</a></p>\n<p>Points: 77</p>\n<p># Comments: 43</p>",
-      "published": "Tue, 25 Aug 2026 22:40:07 +0000",
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3830438.3830958\">https://dl.acm.org/doi/10.1145/3830438.3830958</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492368\">https://news.ycombinator.com/item?id=49492368</a></p>\n<p>Points: 59</p>\n<p># Comments: 20</p>",
+      "published": "Sat, 29 Aug 2026 19:01:09 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "summary": "<p>I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just wo",
-      "published": "Tue, 25 Aug 2026 22:08:50 +0000",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity\">https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49491568\">https://news.ycombinator.com/it",
+      "published": "Sat, 29 Aug 2026 17:19:47 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "When str.lower() is a security vulnerability in Python",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "<p>Article URL: <a href=\"https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49440410\">https://news.ycombinator.com/item?id=49440410</a></p>\n<p>Po",
-      "published": "Tue, 25 Aug 2026 20:49:03 +0000",
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "summary": "<p><a href=\"https://nextspaceflight.com/launches/details/6983/\" rel=\"nofollow\">https://nextspaceflight.com/launches/details/6983/</a><p><a href=\"https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\" rel=\"nofollow\">https://www.npr.org/2026/08/28/nx",
+      "published": "Sat, 29 Aug 2026 15:48:02 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "<p>Article URL: <a href=\"https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\">https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439499\">https://news.ycombinator.com/item?id=49439499</a></p>\n<p>Points: 145</p>\n<p># Com",
-      "published": "Tue, 25 Aug 2026 19:38:24 +0000",
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "summary": "<p>Article URL: <a href=\"https://uecker.codeberg.page/2026-08-29.html\">https://uecker.codeberg.page/2026-08-29.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49490138\">https://news.ycombinator.com/item?id=49490138</a></p>\n<p>Points: 70</p>\n<p># Comments: 45</p>",
+      "published": "Sat, 29 Aug 2026 14:20:33 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Dolly Parton has died",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "<p><a href=\"https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death\" rel=\"nofollow\">https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...</a><p><a href=\"https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html\" rel=\"nofollow\">https://www.nytimes.com/2026/08/25/arts/musi",
-      "published": "Tue, 25 Aug 2026 18:02:22 +0000",
+      "title": "Creating the Aetheryte Radio",
+      "url": "https://haz.ee/posts/aetheryte-radio.html",
+      "summary": "<p>Article URL: <a href=\"https://haz.ee/posts/aetheryte-radio.html\">https://haz.ee/posts/aetheryte-radio.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479546\">https://news.ycombinator.com/item?id=49479546</a></p>\n<p>Points: 71</p>\n<p># Comments: 14</p>",
+      "published": "Fri, 28 Aug 2026 14:59:15 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: LatticeDB \u2013 Like SQLite but for graph databases",
-      "url": "https://github.com/jeffhajewski/latticedb",
-      "summary": "<p>We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437049\">https://news.ycombinator.com/item?id=49437049</a></p>\n<p>Points: 151</p>",
-      "published": "Tue, 25 Aug 2026 16:52:05 +0000",
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/hardware-inference-stack/mobile-phones\">https://artificialanalysis.ai/hardware-inference-stack/mobile-phones</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49469786\">https://news.ycombinator.com/item?id=49469786</a></p>\n<",
+      "published": "Thu, 27 Aug 2026 19:12:03 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Tooltips need a delay, and then they need to skip it",
-      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "summary": "<p>Article URL: <a href=\"https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/\">https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49436786\">https://news.ycombinator.com/item?id=49",
-      "published": "Tue, 25 Aug 2026 16:35:36 +0000",
+      "title": "Is it safe to call print in a Python signal handler?",
+      "url": "https://iafisher.com/2026/08/sigprint",
+      "summary": "<p>Article URL: <a href=\"https://iafisher.com/2026/08/sigprint\">https://iafisher.com/2026/08/sigprint</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49450248\">https://news.ycombinator.com/item?id=49450248</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
+      "published": "Wed, 26 Aug 2026 14:53:41 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "summary": "<p>Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. ",
-      "published": "Tue, 25 Aug 2026 15:20:20 +0000",
+      "title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
+      "url": "https://typebase.io",
+      "summary": "<p>Hey HN!<p>I built Typebase, a library that gives you Convex's DX with Supabase's openness.<p>After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn't like using RLS and SQL for authorization. With Convex I loved how your server \"lives\" in your code, but disliked th",
+      "published": "Wed, 26 Aug 2026 11:33:31 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "<p><a href=\"https://www.bloomberg.com/news/articles/2026-08-25/openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-08-25/openai-cl...</a>, <a href=\"https://archive.ph/yCTrr\" rel=\"nofollow\">https://archive.ph/yCTrr</a></p>",
-      "published": "Tue, 25 Aug 2026 14:06:02 +0000",
+      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+      "url": "https://github.com/gbin/defragger",
+      "summary": "<p>Article URL: <a href=\"https://github.com/gbin/defragger\">https://github.com/gbin/defragger</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438865\">https://news.ycombinator.com/item?id=49438865</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
+      "published": "Tue, 25 Aug 2026 18:57:27 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "EVE Online moves to Python 3",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "summary": "<p>Article URL: <a href=\"https://www.eveonline.com/news/view/the-move-to-python-3-begins\">https://www.eveonline.com/news/view/the-move-to-python-3-begins</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433328\">https://news.ycombinator.com/item?id=49433328</a></p>\n<p>Points: ",
+      "published": "Tue, 25 Aug 2026 13:04:55 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SQLite as a Document Database (2020)",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "summary": "<p>Article URL: <a href=\"https://dgl.cx/2020/06/sqlite-json-support\">https://dgl.cx/2020/06/sqlite-json-support</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426995\">https://news.ycombinator.com/item?id=49426995</a></p>\n<p>Points: 182</p>\n<p># Comments: 47</p>",
+      "published": "Mon, 24 Aug 2026 23:00:10 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "summary": "<p>Article URL: <a href=\"https://blog.python.org/2026/08/riscv-now-officially-supported/\">https://blog.python.org/2026/08/riscv-now-officially-supported/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49425252\">https://news.ycombinator.com/item?id=49425252</a></p>\n<p>Points: ",
+      "published": "Mon, 24 Aug 2026 20:12:22 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "summary": "<p>Article URL: <a href=\"https://zackbartel.com/blog/2026/08/tether/\">https://zackbartel.com/blog/2026/08/tether/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49415386\">https://news.ycombinator.com/item?id=49415386</a></p>\n<p>Points: 380</p>\n<p># Comments: 161</p>",
+      "published": "Mon, 24 Aug 2026 05:09:23 +0000",
       "source": "Hacker News"
     }
   ]

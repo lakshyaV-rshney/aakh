@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T08:40:13.204519+00:00",
+  "fetched_at": "2026-08-30T03:52:24.272273+00:00",
   "bug_bounties": [
     {
       "title": "Vercel Sandbox",
@@ -1088,12 +1088,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "PortSwigger Web Security",
       "url": "https://hackerone.com/portswigger",
       "bounty": "Bounty offered",
@@ -1250,12 +1244,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "Adobe",
-      "url": "https://hackerone.com/adobe",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "Ubiquiti Inc.",
       "url": "https://hackerone.com/ui",
       "bounty": "Bounty offered",
@@ -1364,6 +1352,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
+      "url": "https://bugcrowd.com/engagements/FindOut-infovis",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Jaanga Marketplace Bug Bounty",
       "url": "https://bugcrowd.com/engagements/JaangaInc-mbb-market",
       "bounty": "$1,500",
@@ -1450,7 +1444,7 @@
     {
       "title": "Aurory Managed Bug Bounty Engagement (Public)",
       "url": "https://bugcrowd.com/engagements/aurory-mbb-og2",
-      "bounty": "$4,375",
+      "bounty": "$4,500",
       "source": "Bugcrowd"
     },
     {
@@ -1556,6 +1550,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "BrizoIT",
+      "url": "https://bugcrowd.com/engagements/brizoit",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Broken Build Bug Bounty",
       "url": "https://bugcrowd.com/engagements/brokenbuild",
       "bounty": "$1,500",
@@ -1583,6 +1583,12 @@
       "title": "Bullish Exchange",
       "url": "https://bugcrowd.com/engagements/bullish-exchange",
       "bounty": "$25,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Caelor Group",
+      "url": "https://bugcrowd.com/engagements/caelor-group-market",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -2168,6 +2174,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "META-INF",
+      "url": "https://bugcrowd.com/engagements/metainfkft",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "MGM China Holdings Limited Managed Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/mgmmacau-mbb-og",
       "bounty": "$7,500",
@@ -2177,12 +2189,6 @@
       "title": "MobilityStream Bug Bounty",
       "url": "https://bugcrowd.com/engagements/mobilitystream",
       "bounty": "$1,500",
-      "source": "Bugcrowd"
-    },
-    {
-      "title": "Monash University Bug Bounty",
-      "url": "https://bugcrowd.com/engagements/monash-mbb",
-      "bounty": "$7,500",
       "source": "Bugcrowd"
     },
     {
@@ -2219,6 +2225,12 @@
       "title": "Navan",
       "url": "https://bugcrowd.com/engagements/navan",
       "bounty": "$4,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Navarambh",
+      "url": "https://bugcrowd.com/engagements/navarambh",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -3068,12 +3080,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Delen Private Bank",
-      "url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
-      "bounty": "\u20ac15,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "DigitalOcean",
       "url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
       "bounty": "$10,000",
@@ -3542,12 +3548,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "TrueLayer",
-      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-      "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "TrueLayer VDP",
       "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
       "bounty": "Bounty offered",
@@ -3650,12 +3650,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "WP Engine Bug Bounty",
-      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "bounty": "\u20ac2,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "WP Engine VDP",
       "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
       "bounty": "Bounty offered",
@@ -3683,12 +3677,6 @@
       "title": "W\u00e4rtsil\u00e4 Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/wartsila/wartsila-vdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Yahoo Bug Bounty",
-      "url": "https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail",
-      "bounty": "$15,000",
       "source": "Intigriti"
     },
     {
