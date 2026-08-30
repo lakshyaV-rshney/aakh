@@ -1,6 +1,6 @@
 # Aakh
 
-**v1.3.0** — [Live](https://lakshyav-rshney.github.io/aakh/)
+**v1.3.1** — [Live](https://lakshyav-rshney.github.io/aakh/)
 
 A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bounties, and developer news every night. Ready before you wake up.
 
@@ -10,7 +10,10 @@ A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bo
 
 ## Changelog
 
-### v1.3.0 (Latest)
+### v1.3.1 (Latest)
+- **UI Polish:** Replaced dynamically loaded Lucide icons in the footer with embedded inline SVGs to ensure flawless, immediate rendering and added developer credits.
+
+### v1.3.0
 - **Speed Optimization:** Migrated Python scrapers to run concurrently in GitHub Actions and implemented `pip` caching, reducing execution time from ~65s to ~30s.
 - **Strategic Cron Timing:** Shifted GitHub Actions cron to `00:10 UTC` to dodge the notorious midnight server stampede and ensure smooth, unthrottled runs.
 - **Resilience:** Built a bulletproof JSON loader in `build_dashboard_data.py` to gracefully handle and reset corrupt JSON files caused by Git merge conflicts.
