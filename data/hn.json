@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "fetched_at": "2026-08-30T03:52:25.771454+00:00",
   "stories": [
     {
@@ -104,6 +105,92 @@
       "url": "https://zackbartel.com/blog/2026/08/tether/",
       "summary": "<p>Article URL: <a href=\"https://zackbartel.com/blog/2026/08/tether/\">https://zackbartel.com/blog/2026/08/tether/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49415386\">https://news.ycombinator.com/item?id=49415386</a></p>\n<p>Points: 380</p>\n<p># Comments: 161</p>",
       "published": "Mon, 24 Aug 2026 05:09:23 +0000",
+=======
+  "fetched_at": "2026-08-29T06:56:11.123204+00:00",
+  "stories": [
+    {
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kingroryg/turbokv\">https://github.com/kingroryg/turbokv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486334\">https://news.ycombinator.com/item?id=49486334</a></p>\n<p>Points: 66</p>\n<p># Comments: 24</p>",
+      "published": "Sat, 29 Aug 2026 02:23:37 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kumander Linux \u2013 A Linux Distro with a Windows 7 Desktop",
+      "url": "https://www.kumander.org/",
+      "summary": "<p>Article URL: <a href=\"https://www.kumander.org/\">https://www.kumander.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486176\">https://news.ycombinator.com/item?id=49486176</a></p>\n<p>Points: 34</p>\n<p># Comments: 13</p>",
+      "published": "Sat, 29 Aug 2026 01:48:15 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486172\">https://news.ycombinato",
+      "published": "Sat, 29 Aug 2026 01:47:53 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "summary": "<p>Article URL: <a href=\"https://github.com/stemdeckapp/stemdeck\">https://github.com/stemdeckapp/stemdeck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486081\">https://news.ycombinator.com/item?id=49486081</a></p>\n<p>Points: 69</p>\n<p># Comments: 13</p>",
+      "published": "Sat, 29 Aug 2026 01:24:13 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "summary": "<p>Article URL: <a href=\"https://pwning.systems/posts/llm-memory-program-analysis/\">https://pwning.systems/posts/llm-memory-program-analysis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485416\">https://news.ycombinator.com/item?id=49485416</a></p>\n<p>Points: 103</p>\n<p>#",
+      "published": "Fri, 28 Aug 2026 23:27:45 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "summary": "<p>Article URL: <a href=\"https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html\">https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49484925\">https://news.ycombinator.com/item?id=49484925</a></p>",
+      "published": "Fri, 28 Aug 2026 22:18:27 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Sesame - a local-first, open-source password manager",
+      "url": "https://usesesame.app/",
+      "summary": "<p>I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don't need an account to create or use a vault, and the hosted service never receives the vault itself.\nIt's still early software and the independent security review isn't finished yet, so I",
+      "published": "Fri, 28 Aug 2026 19:14:14 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "EasyEffects can improve laptop speaker sound quality",
+      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "summary": "<p>Article URL: <a href=\"https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/\">https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-envir",
+      "published": "Fri, 28 Aug 2026 15:23:10 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "summary": "<p><a href=\"https://twitter.com/Zai_org/status/2093354097122455713\" rel=\"nofollow\">https://twitter.com/Zai_org/status/2093354097122455713</a><p><a href=\"https://z.ai/blog/glm-5.3\" rel=\"nofollow\">https://z.ai/blog/glm-5.3</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4",
+      "published": "Fri, 28 Aug 2026 15:20:13 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "summary": "<p>Article URL: <a href=\"https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html\">https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479837\">https://news.ycombinator.com/item?id=49479837</a></p>\n<p>Points: ",
+      "published": "Fri, 28 Aug 2026 15:17:09 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "summary": "<p>Earlier:<p><i>US Government designates host of noblogs.org a \"global terrorist\"</i> - <a href=\"https://news.ycombinator.com/item?id=49464391\">https://news.ycombinator.com/item?id=49464391</a> -  (131 comments)<p><i>US sanctions Italian hosting provider Autistici Inventati</i> - <a href=\"https://n",
+      "published": "Fri, 28 Aug 2026 12:58:53 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "summary": "<p>Article URL: <a href=\"https://github.com/openai/openai-python/blob/main/httpx2.md\">https://github.com/openai/openai-python/blob/main/httpx2.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49477212\">https://news.ycombinator.com/item?id=49477212</a></p>\n<p>Points: 190</p>\n",
+      "published": "Fri, 28 Aug 2026 11:51:20 +0000",
+>>>>>>> 2b29a8f700059f1c81dc007cd7749208be31a0e9
       "source": "Hacker News"
     }
   ]
