@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T04:11:42.987847+00:00",
+  "fetched_at": "2026-08-30T10:25:31.608869+00:00",
   "bug_bounties": [
     {
       "title": "Vercel Sandbox",
@@ -2588,12 +2588,6 @@
       "source": "Bugcrowd"
     },
     {
-      "title": "Sky UK/ROI Vulnerability Disclosure Program",
-      "url": "https://bugcrowd.com/engagements/sky-plc-mbb-og",
-      "bounty": "$1,000",
-      "source": "Bugcrowd"
-    },
-    {
       "title": "Sky Italy Vulnerability Disclosure Program",
       "url": "https://bugcrowd.com/engagements/sky-plc-mbb-og1",
       "bounty": "$1,000",
@@ -3347,12 +3341,6 @@
       "title": "Nexuzhealth Web PACS",
       "url": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
       "bounty": "\u20ac1,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Ninja Kiwi Games Bug Bounty program",
-      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "bounty": "\u20ac4,125",
       "source": "Intigriti"
     },
     {

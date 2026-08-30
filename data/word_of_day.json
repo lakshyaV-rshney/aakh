@@ -1,12 +1,10 @@
 {
-  "fetched_at": "2026-08-30T04:11:42.686770+00:00",
+  "fetched_at": "2026-08-30T10:25:44.460858+00:00",
   "word_of_day": {
-    "word": "diligent",
-    "phonetic": "/\u02c8d\u026al\u026ad\u0292\u0259nt/",
-    "part_of_speech": "adjective",
-    "definition": "Performing with industrious concentration; hard-working and focused.",
-    "example": "Scientists are very diligent in their work.",
-    "date": "August 30, 2026",
-    "source_url": "https://www.merriam-webster.com/dictionary/diligent"
+    "word": "sonder",
+    "part_of_speech": "noun",
+    "definition": "The realization that each passerby has a life as vivid and complex as your own.",
+    "example": "",
+    "date": "August 30, 2026"
   }
 }

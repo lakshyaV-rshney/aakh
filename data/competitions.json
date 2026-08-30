@@ -1,20 +1,6 @@
 {
-  "fetched_at": "2026-08-30T04:11:58.482150+00:00",
+  "fetched_at": "2026-08-30T10:25:30.111325+00:00",
   "competitions": [
-    {
-      "title": "Hack The Limit",
-      "url": "https://hack-the-limit-1.devpost.com/",
-      "deadline": "Jun 18 - Aug 30, 2026",
-      "prize": "$350",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - 30, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "KJSSE CSI Gemini Hackday",
       "url": "https://kjsse-csi-gemini-hackday.devpost.com/",
@@ -69,6 +55,20 @@
       "url": "https://hack-the-habitat-2026.devpost.com/",
       "deadline": "Aug 07 - 31, 2026",
       "prize": "$1,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - 31, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hacksocial 2026",
+      "url": "https://hacksocial2026.devpost.com/",
+      "deadline": "Aug 01 - 31, 2026",
+      "prize": "$3,979",
       "source": "Devpost"
     }
   ]

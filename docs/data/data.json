@@ -1,14 +1,12 @@
 {
-  "generated_at": "2026-08-30T04:12:10.286257+00:00",
+  "generated_at": "2026-08-30T10:25:51.156723+00:00",
   "date_label": "Sunday, 30 August 2026",
   "word_of_day": {
-    "word": "diligent",
-    "phonetic": "/\u02c8d\u026al\u026ad\u0292\u0259nt/",
-    "part_of_speech": "adjective",
-    "definition": "Performing with industrious concentration; hard-working and focused.",
-    "example": "Scientists are very diligent in their work.",
-    "date": "August 30, 2026",
-    "source_url": "https://www.merriam-webster.com/dictionary/diligent"
+    "word": "sonder",
+    "part_of_speech": "noun",
+    "definition": "The realization that each passerby has a life as vivid and complex as your own.",
+    "example": "",
+    "date": "August 30, 2026"
   },
   "hot_topics": [
     {
@@ -25,23 +23,23 @@
     },
     {
       "type": "hn",
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/"
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
     },
     {
       "type": "hn",
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents"
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994"
     },
     {
       "type": "competition",
-      "title": "Hack The Limit",
-      "url": "https://hack-the-limit-1.devpost.com/"
+      "title": "KJSSE CSI Gemini Hackday",
+      "url": "https://kjsse-csi-gemini-hackday.devpost.com/"
     },
     {
       "type": "competition",
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/"
+      "title": "Smart City Hackathon Lahore",
+      "url": "https://smart-city-hackathon-lahore.devpost.com/"
     },
     {
       "type": "bugbounty",
@@ -59,10 +57,10 @@
       "name": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "stars": 454714,
+      "stars": 454717,
       "language": "TypeScript",
       "created_at": "2014-12-24T17:49:19Z",
-      "pushed_at": "2026-08-29T17:53:30Z",
+      "pushed_at": "2026-08-30T10:15:11Z",
       "topics": [
         "careers",
         "certification",
@@ -86,10 +84,10 @@
       "name": "EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
-      "stars": 395549,
+      "stars": 395565,
       "language": "Python",
       "created_at": "2013-10-11T06:50:37Z",
-      "pushed_at": "2026-08-29T12:26:19Z",
+      "pushed_at": "2026-08-30T08:24:39Z",
       "topics": [
         "books",
         "education",
@@ -103,10 +101,10 @@
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
       "url": "https://github.com/openclaw/openclaw",
-      "stars": 388025,
+      "stars": 388045,
       "language": "TypeScript",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-08-30T04:11:45Z",
+      "pushed_at": "2026-08-30T10:24:10Z",
       "topics": [
         "ai",
         "assistant",
@@ -122,7 +120,7 @@
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "stars": 279417,
+      "stars": 279510,
       "language": "Shell",
       "created_at": "2025-10-09T19:45:18Z",
       "pushed_at": "2026-08-29T03:21:18Z",
@@ -142,7 +140,7 @@
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
       "url": "https://github.com/react/react",
-      "stars": 248321,
+      "stars": 248326,
       "language": "JavaScript",
       "created_at": "2013-05-24T16:15:54Z",
       "pushed_at": "2026-08-28T11:10:40Z",
@@ -160,7 +158,7 @@
       "name": "torvalds/linux",
       "description": "Linux kernel source tree",
       "url": "https://github.com/torvalds/linux",
-      "stars": 245220,
+      "stars": 245245,
       "language": "C",
       "created_at": "2011-09-04T22:48:12Z",
       "pushed_at": "2026-08-29T19:27:21Z",
@@ -171,7 +169,7 @@
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 244313,
+      "stars": 244447,
       "language": "JavaScript",
       "created_at": "2026-01-18T00:51:51Z",
       "pushed_at": "2026-08-29T20:55:37Z",
@@ -191,10 +189,10 @@
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 238193,
+      "stars": 238280,
       "language": "Python",
       "created_at": "2025-07-22T22:22:28Z",
-      "pushed_at": "2026-08-30T03:58:03Z",
+      "pushed_at": "2026-08-30T08:24:17Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -216,10 +214,10 @@
       "name": "TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "url": "https://github.com/TheAlgorithms/Python",
-      "stars": 224116,
+      "stars": 224125,
       "language": "Python",
       "created_at": "2016-07-16T09:44:01Z",
-      "pushed_at": "2026-08-29T00:17:23Z",
+      "pushed_at": "2026-08-30T08:29:04Z",
       "topics": [
         "algorithm",
         "algorithm-competitions",
@@ -242,10 +240,10 @@
       "name": "n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 202822,
+      "stars": 202834,
       "language": "TypeScript",
       "created_at": "2019-06-22T09:24:21Z",
-      "pushed_at": "2026-08-30T02:54:21Z",
+      "pushed_at": "2026-08-30T10:23:56Z",
       "topics": [
         "ai",
         "apis",
@@ -274,10 +272,10 @@
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "url": "https://github.com/anomalyco/opencode",
-      "stars": 202418,
+      "stars": 202476,
       "language": "TypeScript",
       "created_at": "2025-04-30T20:08:00Z",
-      "pushed_at": "2026-08-30T04:09:58Z",
+      "pushed_at": "2026-08-30T04:14:49Z",
       "topics": [],
       "trending_multiday": false
     },
@@ -285,10 +283,10 @@
       "name": "tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "url": "https://github.com/tensorflow/tensorflow",
-      "stars": 198020,
+      "stars": 198032,
       "language": "C++",
       "created_at": "2015-11-07T01:19:20Z",
-      "pushed_at": "2026-08-30T04:09:10Z",
+      "pushed_at": "2026-08-30T10:18:30Z",
       "topics": [
         "deep-learning",
         "deep-neural-networks",
@@ -305,10 +303,10 @@
       "name": "microsoft/vscode",
       "description": "Visual Studio Code",
       "url": "https://github.com/microsoft/vscode",
-      "stars": 190042,
+      "stars": 190051,
       "language": "TypeScript",
       "created_at": "2015-09-03T20:23:38Z",
-      "pushed_at": "2026-08-30T02:07:34Z",
+      "pushed_at": "2026-08-30T06:05:34Z",
       "topics": [
         "editor",
         "electron",
@@ -322,7 +320,7 @@
       "name": "ohmyzsh/ohmyzsh",
       "description": "\ud83d\ude43   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "stars": 189446,
+      "stars": 189453,
       "language": "Shell",
       "created_at": "2009-08-28T18:15:37Z",
       "pushed_at": "2026-08-29T00:43:45Z",
@@ -349,7 +347,7 @@
       "name": "yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "url": "https://github.com/yt-dlp/yt-dlp",
-      "stars": 187779,
+      "stars": 187829,
       "language": "Python",
       "created_at": "2020-10-26T04:22:55Z",
       "pushed_at": "2026-08-29T23:22:48Z",
@@ -368,10 +366,10 @@
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 186993,
+      "stars": 186997,
       "language": "Python",
       "created_at": "2023-03-16T09:21:07Z",
-      "pushed_at": "2026-08-29T22:58:45Z",
+      "pushed_at": "2026-08-30T09:04:08Z",
       "topics": [
         "agentic-ai",
         "agents",
@@ -391,10 +389,10 @@
       "name": "avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "url": "https://github.com/avelino/awesome-go",
-      "stars": 182651,
+      "stars": 182677,
       "language": "Go",
       "created_at": "2014-07-06T13:42:15Z",
-      "pushed_at": "2026-08-30T00:34:59Z",
+      "pushed_at": "2026-08-30T10:06:25Z",
       "topics": [
         "awesome",
         "awesome-list",
@@ -409,7 +407,7 @@
       "name": "ollama/ollama",
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "url": "https://github.com/ollama/ollama",
-      "stars": 179751,
+      "stars": 179765,
       "language": "Go",
       "created_at": "2023-06-26T19:39:32Z",
       "pushed_at": "2026-08-29T03:47:58Z",
@@ -436,10 +434,10 @@
       "name": "firecrawl/firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
       "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 174132,
+      "stars": 174225,
       "language": "TypeScript",
       "created_at": "2024-04-15T21:02:29Z",
-      "pushed_at": "2026-08-29T06:22:08Z",
+      "pushed_at": "2026-08-30T06:23:27Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -467,7 +465,7 @@
       "name": "521xueweihan/HelloGitHub",
       "description": ":octocat: \u5206\u4eab GitHub \u4e0a\u6709\u8da3\u3001\u5165\u95e8\u7ea7\u7684\u5f00\u6e90\u9879\u76ee\u3002Share interesting, entry-level open source projects on GitHub.",
       "url": "https://github.com/521xueweihan/HelloGitHub",
-      "stars": 173645,
+      "stars": 173705,
       "language": "Python",
       "created_at": "2016-05-04T06:24:11Z",
       "pushed_at": "2026-08-28T00:38:12Z",
@@ -481,23 +479,6 @@
     }
   ],
   "competitions": [
-    {
-      "title": "Hack The Limit",
-      "url": "https://hack-the-limit-1.devpost.com/",
-      "deadline": "Jun 18 - Aug 30, 2026",
-      "prize": "$350",
-      "source": "Devpost",
-      "closing_soon": false
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - 30, 2026",
-      "prize": "$0",
-      "source": "Devpost",
-      "closing_soon": false,
-      "days_left": 1452
-    },
     {
       "title": "KJSSE CSI Gemini Hackday",
       "url": "https://kjsse-csi-gemini-hackday.devpost.com/",
@@ -550,6 +531,24 @@
       "source": "Devpost",
       "closing_soon": false,
       "days_left": 1460
+    },
+    {
+      "title": "Practice Submission",
+      "url": "https://practice-submission.devpost.com/",
+      "deadline": "Aug 27 - 30, 2026",
+      "prize": "$238,123",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": 1458
+    },
+    {
+      "title": "Hack the Habitat",
+      "url": "https://hack-the-habitat-2026.devpost.com/",
+      "deadline": "Aug 07 - 31, 2026",
+      "prize": "$1,000",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": 1803
     }
   ],
   "bug_bounties": [
@@ -616,6 +615,48 @@
   ],
   "hn_stories": [
     {
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/\">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497235\">https://news.ycombinator.com/it",
+      "published": "Sun, 30 Aug 2026 09:57:06 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994\">https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994</a></p>\n<p>Comment",
+      "published": "Sun, 30 Aug 2026 09:26:08 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/1804.07389\">https://arxiv.org/abs/1804.07389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496782\">https://news.ycombinator.com/item?id=49496782</a></p>\n<p>Points: 45</p>\n<p># Comments: 10</p>",
+      "published": "Sun, 30 Aug 2026 08:23:26 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt\">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously",
+      "published": "Sun, 30 Aug 2026 03:15:36 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "url": "https://github.com/mk6i/open-oscar-server",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mk6i/open-oscar-server\">https://github.com/mk6i/open-oscar-server</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494571\">https://news.ycombinator.com/item?id=49494571</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
+      "published": "Sun, 30 Aug 2026 00:33:35 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "summary": "<p>Article URL: <a href=\"https://www.dwarkesh.com/p/openai-huggingface\">https://www.dwarkesh.com/p/openai-huggingface</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494301\">https://news.ycombinator.com/item?id=49494301</a></p>\n<p>Points: 121</p>\n<p># Comments: 62</p>",
+      "published": "Sat, 29 Aug 2026 23:43:24 +0000",
+      "source": "Hacker News"
+    },
+    {
       "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
       "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
       "summary": "<p>Article URL: <a href=\"https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/\">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494182\">https:/",
@@ -623,52 +664,10 @@
       "source": "Hacker News"
     },
     {
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "summary": "<p>Article URL: <a href=\"https://coldtake.dev/blog/domain-driven-agents\">https://coldtake.dev/blog/domain-driven-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492584\">https://news.ycombinator.com/item?id=49492584</a></p>\n<p>Points: 67</p>\n<p># Comments: 12</p>",
-      "published": "Sat, 29 Aug 2026 19:28:28 +0000",
-      "source": "Hacker News"
-    },
-    {
       "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
       "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-      "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3830438.3830958\">https://dl.acm.org/doi/10.1145/3830438.3830958</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492368\">https://news.ycombinator.com/item?id=49492368</a></p>\n<p>Points: 60</p>\n<p># Comments: 21</p>",
+      "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3830438.3830958\">https://dl.acm.org/doi/10.1145/3830438.3830958</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492368\">https://news.ycombinator.com/item?id=49492368</a></p>\n<p>Points: 90</p>\n<p># Comments: 36</p>",
       "published": "Sat, 29 Aug 2026 19:01:09 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "summary": "<p>Article URL: <a href=\"https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity\">https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49491568\">https://news.ycombinator.com/it",
-      "published": "Sat, 29 Aug 2026 17:19:47 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "summary": "<p><a href=\"https://nextspaceflight.com/launches/details/6983/\" rel=\"nofollow\">https://nextspaceflight.com/launches/details/6983/</a><p><a href=\"https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\" rel=\"nofollow\">https://www.npr.org/2026/08/28/nx",
-      "published": "Sat, 29 Aug 2026 15:48:02 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "url": "https://uecker.codeberg.page/2026-08-29.html",
-      "summary": "<p>Article URL: <a href=\"https://uecker.codeberg.page/2026-08-29.html\">https://uecker.codeberg.page/2026-08-29.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49490138\">https://news.ycombinator.com/item?id=49490138</a></p>\n<p>Points: 70</p>\n<p># Comments: 46</p>",
-      "published": "Sat, 29 Aug 2026 14:20:33 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "summary": "<p>Article URL: <a href=\"https://github.com/stemdeckapp/stemdeck\">https://github.com/stemdeckapp/stemdeck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486081\">https://news.ycombinator.com/item?id=49486081</a></p>\n<p>Points: 209</p>\n<p># Comments: 59</p>",
-      "published": "Sat, 29 Aug 2026 01:24:13 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Creating the Aetheryte Radio",
-      "url": "https://haz.ee/posts/aetheryte-radio.html",
-      "summary": "<p>Article URL: <a href=\"https://haz.ee/posts/aetheryte-radio.html\">https://haz.ee/posts/aetheryte-radio.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479546\">https://news.ycombinator.com/item?id=49479546</a></p>\n<p>Points: 72</p>\n<p># Comments: 14</p>",
-      "published": "Fri, 28 Aug 2026 14:59:15 +0000",
       "source": "Hacker News"
     }
   ]

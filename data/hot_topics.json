@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T04:12:10.190124+00:00",
+  "fetched_at": "2026-08-30T10:25:50.834141+00:00",
   "hot_topics": [
     {
       "type": "repo",
@@ -15,23 +15,23 @@
     },
     {
       "type": "hn",
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/"
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
     },
     {
       "type": "hn",
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents"
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994"
     },
     {
       "type": "competition",
-      "title": "Hack The Limit",
-      "url": "https://hack-the-limit-1.devpost.com/"
+      "title": "KJSSE CSI Gemini Hackday",
+      "url": "https://kjsse-csi-gemini-hackday.devpost.com/"
     },
     {
       "type": "competition",
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/"
+      "title": "Smart City Hackathon Lahore",
+      "url": "https://smart-city-hackathon-lahore.devpost.com/"
     },
     {
       "type": "bugbounty",
