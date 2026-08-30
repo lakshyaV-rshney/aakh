@@ -17,12 +17,22 @@ def load(path, key, default=None):
     if not p.exists():
         print(f"  missing: {path}")
         return default if default is not None else []
-    return json.loads(p.read_text()).get(key, default if default is not None else [])
+    try:
+        return json.loads(p.read_text()).get(key, default if default is not None else [])
+    except json.JSONDecodeError:
+        print(f"  warning: {path} is corrupted. Using default.")
+        return default if default is not None else []
 
 
 def update_history(repos):
     path = Path(HISTORY_PATH)
-    history = json.loads(path.read_text()) if path.exists() else {"days": []}
+    history = {"days": []}
+    if path.exists():
+        try:
+            history = json.loads(path.read_text())
+        except json.JSONDecodeError:
+            print("  warning: data_history.json is corrupted (e.g. merge conflicts). Resetting history.")
+            history = {"days": []}
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     days  = [d for d in history["days"] if d["date"] != today]
     days.append({"date": today, "repo_names": [r["name"] for r in repos]})
