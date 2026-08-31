@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T10:25:31.608869+00:00",
+  "fetched_at": "2026-08-31T03:33:31.198098+00:00",
   "bug_bounties": [
     {
       "title": "Vercel Sandbox",
@@ -2588,6 +2588,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Sky UK/ROI Vulnerability Disclosure Program",
+      "url": "https://bugcrowd.com/engagements/sky-plc-mbb-og",
+      "bounty": "$1,000",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Sky Italy Vulnerability Disclosure Program",
       "url": "https://bugcrowd.com/engagements/sky-plc-mbb-og1",
       "bounty": "$1,000",
@@ -3455,12 +3461,6 @@
       "title": "SimScale",
       "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
       "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Skoda Auto Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {

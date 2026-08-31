@@ -1,123 +1,88 @@
 {
-  "fetched_at": "2026-08-30T10:25:33.516911+00:00",
+  "fetched_at": "2026-08-31T03:33:30.588060+00:00",
   "stories": [
     {
-      "title": "Nvidia's AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/\">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497235\">https://news.ycombinator.com/it",
-      "published": "Sun, 30 Aug 2026 09:57:06 +0000",
+      "title": "Why do I lose my passion and want to do nothing?",
+      "url": "https://news.ycombinator.com/item?id=49505014",
+      "summary": "<p>When AI makes results readily available, why do I lose my passion and want to do nothing?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505014\">https://news.ycombinator.com/item?id=49505014</a></p>\n<p>Points: 29</p>\n<p># Comments: 16</p>",
+      "published": "Mon, 31 Aug 2026 02:40:37 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Brits would quite like their private messages to stay private",
-      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994\">https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994</a></p>\n<p>Comment",
-      "published": "Sun, 30 Aug 2026 09:26:08 +0000",
+      "title": "CobaltC \u2013 The Successor to C?",
+      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
+      "summary": "<p>Article URL: <a href=\"https://strawberry9.github.io/the-wrong-memory/Appendix_06.html\">https://strawberry9.github.io/the-wrong-memory/Appendix_06.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504922\">https://news.ycombinator.com/item?id=49504922</a></p>\n<p>Points: ",
+      "published": "Mon, 31 Aug 2026 02:26:09 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "summary": "<p>Article URL: <a href=\"https://www.abortretry.fail/p/matrox\">https://www.abortretry.fail/p/matrox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503934\">https://news.ycombinator.com/item?id=49503934</a></p>\n<p>Points: 41</p>\n<p># Comments: 7</p>",
+      "published": "Sun, 30 Aug 2026 23:39:35 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "summary": "<p>Article URL: <a href=\"https://sander.ai/2026/08/24/continuous-dlms.html\">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502611\">https://news.ycombinator.com/item?id=49502611</a></p>\n<p>Points: 66</p>\n<p># Comments: 26</p>",
+      "published": "Sun, 30 Aug 2026 20:46:53 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/08/spacelab-core-memory.html\">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502214\">https://news.ycombinator.com/item?id=49502214</a></p>\n<p>Points: 87</p>\n<p># Co",
+      "published": "Sun, 30 Aug 2026 20:00:25 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "summary": "<p>Article URL: <a href=\"https://github.com/KodeMunkie/sm750hdmifb\">https://github.com/KodeMunkie/sm750hdmifb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49501611\">https://news.ycombinator.com/item?id=49501611</a></p>\n<p>Points: 79</p>\n<p># Comments: 34</p>",
+      "published": "Sun, 30 Aug 2026 18:49:08 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "summary": "<p>Article URL: <a href=\"https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499867\">https://news.ycombinator.com/item?id=49499867</a></p>\n<p>Points: 265</p>\n<p># Com",
+      "published": "Sun, 30 Aug 2026 16:01:10 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Startup Anti-Patterns",
+      "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+      "summary": "<p>Article URL: <a href=\"https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/\">https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499831\">https://news.ycombinator.com/item?id=49499831</a></p>\n<p>Po",
+      "published": "Sun, 30 Aug 2026 15:57:30 +0000",
       "source": "Hacker News"
     },
     {
       "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
       "url": "https://arxiv.org/abs/1804.07389",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/1804.07389\">https://arxiv.org/abs/1804.07389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496782\">https://news.ycombinator.com/item?id=49496782</a></p>\n<p>Points: 45</p>\n<p># Comments: 10</p>",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/1804.07389\">https://arxiv.org/abs/1804.07389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496782\">https://news.ycombinator.com/item?id=49496782</a></p>\n<p>Points: 195</p>\n<p># Comments: 56</p>",
       "published": "Sun, 30 Aug 2026 08:23:26 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt\">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously",
-      "published": "Sun, 30 Aug 2026 03:15:36 +0000",
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "summary": "<p>Article URL: <a href=\"https://blog.vghaisas.com/rube-goldberg-doorbell/\">https://blog.vghaisas.com/rube-goldberg-doorbell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49480091\">https://news.ycombinator.com/item?id=49480091</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
+      "published": "Fri, 28 Aug 2026 15:34:30 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-      "url": "https://github.com/mk6i/open-oscar-server",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mk6i/open-oscar-server\">https://github.com/mk6i/open-oscar-server</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494571\">https://news.ycombinator.com/item?id=49494571</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
-      "published": "Sun, 30 Aug 2026 00:33:35 +0000",
+      "title": "Electric rain can eat through metal",
+      "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+      "summary": "<p>Article URL: <a href=\"https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/\">https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49463397\">https://news.ycombinator.com/item",
+      "published": "Thu, 27 Aug 2026 12:04:11 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "summary": "<p>Article URL: <a href=\"https://www.dwarkesh.com/p/openai-huggingface\">https://www.dwarkesh.com/p/openai-huggingface</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494301\">https://news.ycombinator.com/item?id=49494301</a></p>\n<p>Points: 121</p>\n<p># Comments: 62</p>",
-      "published": "Sat, 29 Aug 2026 23:43:24 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "summary": "<p>Article URL: <a href=\"https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/\">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494182\">https:/",
-      "published": "Sat, 29 Aug 2026 23:17:17 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-      "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3830438.3830958\">https://dl.acm.org/doi/10.1145/3830438.3830958</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492368\">https://news.ycombinator.com/item?id=49492368</a></p>\n<p>Points: 90</p>\n<p># Comments: 36</p>",
-      "published": "Sat, 29 Aug 2026 19:01:09 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "summary": "<p><a href=\"https://nextspaceflight.com/launches/details/6983/\" rel=\"nofollow\">https://nextspaceflight.com/launches/details/6983/</a><p><a href=\"https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\" rel=\"nofollow\">https://www.npr.org/2026/08/28/nx",
-      "published": "Sat, 29 Aug 2026 15:48:02 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Benchmarking Pocket-Scale Inference",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/hardware-inference-stack/mobile-phones\">https://artificialanalysis.ai/hardware-inference-stack/mobile-phones</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49469786\">https://news.ycombinator.com/item?id=49469786</a></p>\n<",
-      "published": "Thu, 27 Aug 2026 19:12:03 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Is it safe to call print in a Python signal handler?",
-      "url": "https://iafisher.com/2026/08/sigprint",
-      "summary": "<p>Article URL: <a href=\"https://iafisher.com/2026/08/sigprint\">https://iafisher.com/2026/08/sigprint</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49450248\">https://news.ycombinator.com/item?id=49450248</a></p>\n<p>Points: 49</p>\n<p># Comments: 27</p>",
-      "published": "Wed, 26 Aug 2026 14:53:41 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Orbs",
-      "url": "https://ampcode.com/notes/orbs-explained",
-      "summary": "<p>Article URL: <a href=\"https://ampcode.com/notes/orbs-explained\">https://ampcode.com/notes/orbs-explained</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437117\">https://news.ycombinator.com/item?id=49437117</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
-      "published": "Tue, 25 Aug 2026 16:56:15 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
-      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-      "summary": "<p>Article URL: <a href=\"https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html\">https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433554\">https://news.ycombinator.com/item?id=49433554</a></p>\n<p>Points: 48",
-      "published": "Tue, 25 Aug 2026 13:20:02 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "EVE Online moves to Python 3",
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "summary": "<p>Article URL: <a href=\"https://www.eveonline.com/news/view/the-move-to-python-3-begins\">https://www.eveonline.com/news/view/the-move-to-python-3-begins</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433328\">https://news.ycombinator.com/item?id=49433328</a></p>\n<p>Points: ",
-      "published": "Tue, 25 Aug 2026 13:04:55 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "SQLite as a Document Database (2020)",
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "summary": "<p>Article URL: <a href=\"https://dgl.cx/2020/06/sqlite-json-support\">https://dgl.cx/2020/06/sqlite-json-support</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426995\">https://news.ycombinator.com/item?id=49426995</a></p>\n<p>Points: 214</p>\n<p># Comments: 50</p>",
-      "published": "Mon, 24 Aug 2026 23:00:10 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "RISC-V is now officially supported by CPython",
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "summary": "<p>Article URL: <a href=\"https://blog.python.org/2026/08/riscv-now-officially-supported/\">https://blog.python.org/2026/08/riscv-now-officially-supported/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49425252\">https://news.ycombinator.com/item?id=49425252</a></p>\n<p>Points: ",
-      "published": "Mon, 24 Aug 2026 20:12:22 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "summary": "<p>Article URL: <a href=\"https://zackbartel.com/blog/2026/08/tether/\">https://zackbartel.com/blog/2026/08/tether/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49415386\">https://news.ycombinator.com/item?id=49415386</a></p>\n<p>Points: 466</p>\n<p># Comments: 181</p>",
-      "published": "Mon, 24 Aug 2026 05:09:23 +0000",
+      "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
+      "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
+      "summary": "<p>Article URL: <a href=\"https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/\">https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49450",
+      "published": "Wed, 26 Aug 2026 15:04:44 +0000",
       "source": "Hacker News"
     }
   ]

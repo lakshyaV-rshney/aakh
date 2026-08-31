@@ -1,6 +1,44 @@
 {
-  "fetched_at": "2026-08-30T10:25:50.834141+00:00",
+  "fetched_at": "2026-08-31T03:33:57.860849+00:00",
   "hot_topics": [
+    {
+      "type": "repo",
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "How can implementing these from scratch strengthen your interview readiness and foundational CS intuition?",
+      "head_fake": "Stop memorizing syntax and start building muscle memory for data structures."
+    },
+    {
+      "type": "repo",
+      "title": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "big_question": "What emerging plugin architectures will define the next generation of AI-driven development workflows?",
+      "head_fake": "The future of coding isn't writing lines, it's orchestrating intelligent modules."
+    },
+    {
+      "type": "hn",
+      "title": "Why do I lose my passion and want to do nothing?",
+      "description": "When AI makes results readily available, why do I lose my passion and want to",
+      "url": "https://news.ycombinator.com/item?id=49505014",
+      "big_question": "Is instant AI-generated output eroding your intrinsic motivation to solve problems manually?",
+      "head_fake": "Burnout often hides behind the illusion of effortless productivity."
+    },
+    {
+      "type": "hn",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "description": "Article URL: https://sander.ai/2026/08/24/continuous-dlms.html",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "big_question": "Will continuous diffusion models replace discrete token generation in the next wave of LLM research?",
+      "head_fake": "Discrete tokens might be the bottleneck holding back true human-like reasoning."
+    },
+    {
+      "type": "repo",
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs"
+    },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
@@ -8,40 +46,14 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
-      "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books"
+      "type": "hn",
+      "title": "Why do I lose my passion and want to do nothing?",
+      "url": "https://news.ycombinator.com/item?id=49505014"
     },
     {
       "type": "hn",
-      "title": "Nvidia's AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
-    },
-    {
-      "type": "hn",
-      "title": "Brits would quite like their private messages to stay private",
-      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994"
-    },
-    {
-      "type": "competition",
-      "title": "KJSSE CSI Gemini Hackday",
-      "url": "https://kjsse-csi-gemini-hackday.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "Smart City Hackathon Lahore",
-      "url": "https://smart-city-hackathon-lahore.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Vercel Sandbox",
-      "url": "https://hackerone.com/vercel_sandbox"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Wolt",
-      "url": "https://hackerone.com/wolt"
+      "title": "CobaltC \u2013 The Successor to C?",
+      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html"
     }
   ]
 }
