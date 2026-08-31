@@ -1,13 +1,6 @@
 {
-  "fetched_at": "2026-08-31T03:33:48.898992+00:00",
+  "fetched_at": "2026-08-31T05:26:18.186724+00:00",
   "competitions": [
-    {
-      "title": "Hack the Habitat",
-      "url": "https://hack-the-habitat-2026.devpost.com/",
-      "deadline": "Aug 07 - 31, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
     {
       "title": "The Great Agent Hackathon",
       "url": "https://the-great-agent-hackathon.devpost.com/",
@@ -68,6 +61,13 @@
       "title": "AI YES :International Youth AI Competition",
       "url": "https://ai-yes-competition-30441.devpost.com/",
       "deadline": "Jun 17 - Sep 01, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Build With Gemini - Creation Code",
+      "url": "https://creation-code-30750.devpost.com/",
+      "deadline": "Jul 17 - Sep 03, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

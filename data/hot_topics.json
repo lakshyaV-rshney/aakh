@@ -1,38 +1,6 @@
 {
-  "fetched_at": "2026-08-31T03:33:57.860849+00:00",
+  "fetched_at": "2026-08-31T05:26:28.003351+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "How can implementing these from scratch strengthen your interview readiness and foundational CS intuition?",
-      "head_fake": "Stop memorizing syntax and start building muscle memory for data structures."
-    },
-    {
-      "type": "repo",
-      "title": "deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "big_question": "What emerging plugin architectures will define the next generation of AI-driven development workflows?",
-      "head_fake": "The future of coding isn't writing lines, it's orchestrating intelligent modules."
-    },
-    {
-      "type": "hn",
-      "title": "Why do I lose my passion and want to do nothing?",
-      "description": "When AI makes results readily available, why do I lose my passion and want to",
-      "url": "https://news.ycombinator.com/item?id=49505014",
-      "big_question": "Is instant AI-generated output eroding your intrinsic motivation to solve problems manually?",
-      "head_fake": "Burnout often hides behind the illusion of effortless productivity."
-    },
-    {
-      "type": "hn",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "description": "Article URL: https://sander.ai/2026/08/24/continuous-dlms.html",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "big_question": "Will continuous diffusion models replace discrete token generation in the next wave of LLM research?",
-      "head_fake": "Discrete tokens might be the bottleneck holding back true human-like reasoning."
-    },
     {
       "type": "repo",
       "title": "public-apis/public-apis",
@@ -47,13 +15,33 @@
     },
     {
       "type": "hn",
-      "title": "Why do I lose my passion and want to do nothing?",
-      "url": "https://news.ycombinator.com/item?id=49505014"
+      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+      "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis"
     },
     {
       "type": "hn",
-      "title": "CobaltC \u2013 The Successor to C?",
-      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html"
+      "title": "UC Berkeley indefinitely suspends international student work authorizations",
+      "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html"
+    },
+    {
+      "type": "competition",
+      "title": "The Great Agent Hackathon",
+      "url": "https://the-great-agent-hackathon.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Vercel Sandbox",
+      "url": "https://hackerone.com/vercel_sandbox"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Wolt",
+      "url": "https://hackerone.com/wolt"
     }
   ]
 }
