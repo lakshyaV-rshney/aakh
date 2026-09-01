@@ -1,55 +1,6 @@
 {
-  "fetched_at": "2026-08-31T05:26:18.186724+00:00",
+  "fetched_at": "2026-09-01T05:00:25.108515+00:00",
   "competitions": [
-    {
-      "title": "The Great Agent Hackathon",
-      "url": "https://the-great-agent-hackathon.devpost.com/",
-      "deadline": "Jul 23 - Aug 31, 2026",
-      "prize": "\u20b9 100,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - 31, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hacksocial 2026",
-      "url": "https://hacksocial2026.devpost.com/",
-      "deadline": "Aug 01 - 31, 2026",
-      "prize": "$3,979",
-      "source": "Devpost"
-    },
-    {
-      "title": "3D Websites Hackathon",
-      "url": "https://3d-websites-hackathon.devpost.com/",
-      "deadline": "Jun 22 - Aug 31, 2026",
-      "prize": "$55",
-      "source": "Devpost"
-    },
-    {
-      "title": "All Things Agentic Hackathon",
-      "url": "https://allthingsagentichackathon.devpost.com/",
-      "deadline": "Aug 04 - 31, 2026",
-      "prize": "$180,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "305 HackFiesta Miami Edition August 2026",
-      "url": "https://305hackfiestamiamiaug2026.devpost.com/",
-      "deadline": "Aug 26 - 31, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "TikTok TechJam 2026",
-      "url": "https://tiktoktechjam2026.devpost.com/",
-      "deadline": "Aug 29 - Sep 01, 2026",
-      "prize": "$34,500",
-      "source": "Devpost"
-    },
     {
       "title": "Smart City Hackathon Lahore",
       "url": "https://smart-city-hackathon-lahore.devpost.com/",
@@ -65,9 +16,58 @@
       "source": "Devpost"
     },
     {
+      "title": "3D Websites Hackathon",
+      "url": "https://3d-websites-hackathon.devpost.com/",
+      "deadline": "Jun 22 - Sep 02, 2026",
+      "prize": "$55",
+      "source": "Devpost"
+    },
+    {
       "title": "Build With Gemini - Creation Code",
       "url": "https://creation-code-30750.devpost.com/",
       "deadline": "Jul 17 - Sep 03, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
+      "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
+      "deadline": "Aug 17 - Sep 03, 2026",
+      "prize": "$39,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "SPEED August AI Challenge",
+      "url": "https://august-ai-challenge-31059.devpost.com/",
+      "deadline": "Aug 18 - Sep 03, 2026",
+      "prize": "$1,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "The WebMCP Challenge",
+      "url": "https://webmcp.devpost.com/",
+      "deadline": "Aug 25 - Sep 03, 2026",
+      "prize": "$35,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "TechX Rwanda Hackathon",
+      "url": "https://techx-rwanda-hackathon.devpost.com/",
+      "deadline": "Aug 27 - Sep 03, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
+      "url": "https://hack-for-humanity-summer-26.devpost.com/",
+      "deadline": "Aug 07 - Sep 04, 2026",
+      "prize": "$100",
+      "source": "Devpost"
+    },
+    {
+      "title": "Gemini Event - HackMatrix",
+      "url": "https://gemini-event-hackmatrix.devpost.com/",
+      "deadline": "Aug 09 - Sep 05, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

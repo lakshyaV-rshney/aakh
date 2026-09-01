@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T05:26:01.262620+00:00",
+  "fetched_at": "2026-09-01T05:00:02.316347+00:00",
   "bug_bounties": [
     {
       "title": "Vercel Sandbox",
@@ -400,6 +400,12 @@
     {
       "title": "Mergify",
       "url": "https://hackerone.com/mergify",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Zabbix",
+      "url": "https://hackerone.com/zabbix",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1084,6 +1090,12 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3086,6 +3098,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Delen Private Bank",
+      "url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+      "bounty": "\u20ac15,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "DigitalOcean",
       "url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
       "bounty": "$10,000",
@@ -3464,6 +3482,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Skoda Auto Bug Bounty Program",
+      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+      "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Social Deal",
       "url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
       "bounty": "\u20ac750",
@@ -3644,6 +3668,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "WP Engine Bug Bounty",
+      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+      "bounty": "\u20ac2,500",
+      "source": "Intigriti"
+    },
+    {
       "title": "WP Engine VDP",
       "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
       "bounty": "Bounty offered",
@@ -3671,6 +3701,12 @@
       "title": "W\u00e4rtsil\u00e4 Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/wartsila/wartsila-vdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Yahoo Bug Bounty",
+      "url": "https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail",
+      "bounty": "$15,000",
       "source": "Intigriti"
     },
     {

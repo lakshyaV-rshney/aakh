@@ -1,47 +1,69 @@
 {
-  "fetched_at": "2026-08-31T05:26:28.003351+00:00",
+  "fetched_at": "2026-09-01T05:00:31.722893+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
+      "title": "Project-Based Learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "big_question": "Which tutorial will finally bridge the gap between your coursework and a portfolio-ready app?",
+      "head_fake": "Stop watching tutorials and start building something that breaks."
     },
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "Can you explain the time complexity of your favorite sorting algorithm without looking it up?",
+      "head_fake": "Theory is useless until you implement it from scratch."
     },
     {
       "type": "hn",
-      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-      "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis"
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "description": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "big_question": "How could you apply edge AI to a mundane sensor in your own apartment?",
+      "head_fake": "Your next side project is hiding in plain sight."
     },
     {
       "type": "hn",
-      "title": "UC Berkeley indefinitely suspends international student work authorizations",
-      "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html"
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "description": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "big_question": "What complex systems can you simulate with just text and a single DOM element?",
+      "head_fake": "Constraints breed creativity, not limitations."
     },
     {
       "type": "competition",
-      "title": "The Great Agent Hackathon",
-      "url": "https://the-great-agent-hackathon.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/"
+      "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
+      "description": "https://api-cloud-ai-hackathon-2026.devpost.com/",
+      "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
+      "big_question": "Will you build a polished MVP or just another chatbot wrapper?",
+      "head_fake": "Hackathons reward execution speed, not perfect architecture."
     },
     {
       "type": "bugbounty",
       "title": "Vercel Sandbox",
-      "url": "https://hackerone.com/vercel_sandbox"
+      "description": "https://hackerone.com/vercel_sandbox",
+      "url": "https://hackerone.com/vercel_sandbox",
+      "big_question": "Do you understand how serverless environments handle isolation and state?",
+      "head_fake": "Every deployed function is a potential attack surface."
     },
     {
-      "type": "bugbounty",
-      "title": "Wolt",
-      "url": "https://hackerone.com/wolt"
+      "type": "floater",
+      "title": "Morning Syntax Check",
+      "description": "Quick refresher on modern JavaScript optional chaining and nullish coalescing.",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining",
+      "big_question": "How can you reduce boilerplate in your next API client?",
+      "head_fake": "Stop writing nested if-statements for missing data."
+    },
+    {
+      "type": "floater",
+      "title": "Git Commit Hygiene",
+      "description": "Why conventional commits matter for team collaboration and automated changelogs.",
+      "url": "https://www.conventionalcommits.org/",
+      "big_question": "Are your commit messages telling a story or just logging noise?",
+      "head_fake": "Your future self will thank you for clear version history."
     }
   ]
 }
