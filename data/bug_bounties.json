@@ -1,12 +1,6 @@
 {
-  "fetched_at": "2026-09-01T05:00:02.316347+00:00",
+  "fetched_at": "2026-09-02T04:23:20.299274+00:00",
   "bug_bounties": [
-    {
-      "title": "Vercel Sandbox",
-      "url": "https://hackerone.com/vercel_sandbox",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
     {
       "title": "Wolt",
       "url": "https://hackerone.com/wolt",
@@ -2890,7 +2884,7 @@
     {
       "title": "Wyze Bug Bounty",
       "url": "https://bugcrowd.com/engagements/wyze",
-      "bounty": "$2,000",
+      "bounty": "$5,000",
       "source": "Bugcrowd"
     },
     {
@@ -2916,6 +2910,12 @@
       "url": "https://bugcrowd.com/engagements/zola-mbb-og",
       "bounty": "$2,000",
       "source": "Bugcrowd"
+    },
+    {
+      "title": "Adobe Public",
+      "url": "https://www.intigriti.com/programs/adobe/adobepublic/detail",
+      "bounty": "$15,000",
+      "source": "Intigriti"
     },
     {
       "title": "Aikido Security: Bug Bounty Program",
@@ -3029,12 +3029,6 @@
       "title": "Capital.com",
       "url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
       "bounty": "\u20ac15,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Challenge 0826",
-      "url": "https://www.intigriti.com/programs/intigriti/challenge0826/detail",
-      "bounty": "Bounty offered",
       "source": "Intigriti"
     },
     {
@@ -3665,12 +3659,6 @@
       "title": "Voi Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "WP Engine Bug Bounty",
-      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {

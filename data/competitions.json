@@ -1,25 +1,32 @@
 {
-  "fetched_at": "2026-09-01T05:00:25.108515+00:00",
+  "fetched_at": "2026-09-02T04:23:39.707428+00:00",
   "competitions": [
-    {
-      "title": "Smart City Hackathon Lahore",
-      "url": "https://smart-city-hackathon-lahore.devpost.com/",
-      "deadline": "Aug 19 - Sep 01, 2026",
-      "prize": "$642",
-      "source": "Devpost"
-    },
-    {
-      "title": "AI YES :International Youth AI Competition",
-      "url": "https://ai-yes-competition-30441.devpost.com/",
-      "deadline": "Jun 17 - Sep 01, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "3D Websites Hackathon",
       "url": "https://3d-websites-hackathon.devpost.com/",
       "deadline": "Jun 22 - Sep 02, 2026",
       "prize": "$55",
+      "source": "Devpost"
+    },
+    {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 02, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "sloptic test",
+      "url": "https://sloptic-test.devpost.com/",
+      "deadline": "Sep 01 - 02, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "BoxLang + AI Hackathon at FIU",
+      "url": "https://fiu-boxlang-ai-2026.devpost.com/",
+      "deadline": "Sep 01 - 02, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
@@ -62,13 +69,6 @@
       "url": "https://hack-for-humanity-summer-26.devpost.com/",
       "deadline": "Aug 07 - Sep 04, 2026",
       "prize": "$100",
-      "source": "Devpost"
-    },
-    {
-      "title": "Gemini Event - HackMatrix",
-      "url": "https://gemini-event-hackmatrix.devpost.com/",
-      "deadline": "Aug 09 - Sep 05, 2026",
-      "prize": "$0",
       "source": "Devpost"
     }
   ]

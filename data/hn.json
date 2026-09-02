@@ -1,74 +1,81 @@
 {
-  "fetched_at": "2026-09-01T05:00:07.982486+00:00",
+  "fetched_at": "2026-09-02T04:23:24.451523+00:00",
   "stories": [
     {
-      "title": "Run macOS Software on Linux",
-      "url": "https://www.darlinghq.org/",
-      "summary": "<p>Article URL: <a href=\"https://www.darlinghq.org/\">https://www.darlinghq.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49515830\">https://news.ycombinator.com/item?id=49515830</a></p>\n<p>Points: 175</p>\n<p># Comments: 53</p>",
-      "published": "Mon, 31 Aug 2026 22:53:45 +0000",
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "summary": "<p>Article URL: <a href=\"https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529898\">https://news.ycombinator.com/item?id=49529898</a></p>\n<",
+      "published": "Tue, 01 Sep 2026 23:48:05 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "summary": "<p>Article URL: <a href=\"https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide\">https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49515662\">https",
-      "published": "Mon, 31 Aug 2026 22:32:22 +0000",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529621\">https://news.ycombina",
+      "published": "Tue, 01 Sep 2026 23:17:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "summary": "<p><i>ASCII City: Traffic and Detail Update</i> - <a href=\"https://www.youtube.com/watch?v=DSRooHo_HSI\" rel=\"nofollow\">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href=\"https://www.youtube.com/watch?v=UCKEDWowc0o\" rel=\"nofollo",
-      "published": "Mon, 31 Aug 2026 18:21:33 +0000",
+      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "summary": "<p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels \u201cMade with AI\u201d from feed, search, related videos, playlists and Shorts. It uses YouTube's lab",
+      "published": "Tue, 01 Sep 2026 22:06:57 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "summary": "<p>Article URL: <a href=\"https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\">https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/</a></p>\n<p>Comments URL: <a href=\"",
-      "published": "Mon, 31 Aug 2026 16:47:11 +0000",
+      "title": "Show HN: HN Match Maker \u2013 Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "url": "https://hnmatchmaker.com/",
+      "summary": "<p>Hi!<p>Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\".<p>So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches base",
+      "published": "Tue, 01 Sep 2026 20:53:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "summary": "<p>Article URL: <a href=\"https://codex-tool-reference.simonw.chatgpt.site/\">https://codex-tool-reference.simonw.chatgpt.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510000\">https://news.ycombinator.com/item?id=49510000</a></p>\n<p>Points: 201</p>\n<p># Comments: 53</p",
-      "published": "Mon, 31 Aug 2026 14:07:15 +0000",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/path-to-astra/\">https://openai.com/index/path-to-astra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527595\">https://news.ycombinator.com/item?id=49527595</a></p>\n<p>Points: 106</p>\n<p># Comments: 49</p>",
+      "published": "Tue, 01 Sep 2026 20:20:41 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "summary": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508982\">https://news.ycombinator.com/",
-      "published": "Mon, 31 Aug 2026 12:41:22 +0000",
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "summary": "<p>Article URL: <a href=\"https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\">https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527232\">https://news.ycombinator.com/item?id=49",
+      "published": "Tue, 01 Sep 2026 19:55:47 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Internet centralization and the original sin of NAT",
-      "url": "https://dreamstation.systems/personal/ntppost.html",
-      "summary": "<p>Article URL: <a href=\"https://dreamstation.systems/personal/ntppost.html\">https://dreamstation.systems/personal/ntppost.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504905\">https://news.ycombinator.com/item?id=49504905</a></p>\n<p>Points: 201</p>\n<p># Comments: 151",
-      "published": "Mon, 31 Aug 2026 02:23:03 +0000",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "summary": "<p>Article URL: <a href=\"https://danluu.com/zitron/\">https://danluu.com/zitron/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49526069\">https://news.ycombinator.com/item?id=49526069</a></p>\n<p>Points: 518</p>\n<p># Comments: 607</p>",
+      "published": "Tue, 01 Sep 2026 18:35:15 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=OOMx2BHHWtE\">https://www.youtube.com/watch?v=OOMx2BHHWtE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503521\">https://news.ycombinator.com/item?id=49503521</a></p>\n<p>Points: 303</p>\n<p># Comments: 33</p>",
-      "published": "Sun, 30 Aug 2026 22:37:01 +0000",
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "summary": "<p>Article URL: <a href=\"https://www.worldlabs.ai/blog/atlas\">https://www.worldlabs.ai/blog/atlas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525160\">https://news.ycombinator.com/item?id=49525160</a></p>\n<p>Points: 176</p>\n<p># Comments: 42</p>",
+      "published": "Tue, 01 Sep 2026 17:36:02 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "summary": "<p>Article URL: <a href=\"https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/\">https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496292\">https://news.ycombinator.com/",
-      "published": "Sun, 30 Aug 2026 06:52:04 +0000",
+      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "summary": "<p>Hey HN, I\u2019m Antonio from Nori Robotics (<a href=\"https://norirobotics.com\">https://norirobotics.com</a>). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.<p>I started working on Nori while doing robotics research at Columbia. I was teaching robots ",
+      "published": "Tue, 01 Sep 2026 17:35:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-08-mad-honey-heart-sold-online.html\">https://phys.org/news/2026-08-mad-honey-heart-sold-online.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49476239\">https://news.ycombinator.com/item?id=49476239</a></p>\n<p>Points: 16",
-      "published": "Fri, 28 Aug 2026 09:17:27 +0000",
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "summary": "<p>I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift.<p>It ships with auto-mode, which makes",
+      "published": "Tue, 01 Sep 2026 16:42:46 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49522897",
+      "summary": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company\u2014no\nrecruiting firms or job boards. One post per company. If i",
+      "published": "Tue, 01 Sep 2026 15:01:17 +0000",
       "source": "Hacker News"
     }
   ]

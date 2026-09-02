@@ -1,69 +1,47 @@
 {
-  "fetched_at": "2026-09-01T05:00:31.722893+00:00",
+  "fetched_at": "2026-09-02T04:23:46.307224+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "Project-Based Learning",
-      "description": "Curated list of project-based tutorials",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "big_question": "Which tutorial will finally bridge the gap between your coursework and a portfolio-ready app?",
-      "head_fake": "Stop watching tutorials and start building something that breaks."
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs"
     },
     {
       "type": "repo",
-      "title": "TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "Can you explain the time complexity of your favorite sorting algorithm without looking it up?",
-      "head_fake": "Theory is useless until you implement it from scratch."
+      "title": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
       "type": "hn",
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "description": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "big_question": "How could you apply edge AI to a mundane sensor in your own apartment?",
-      "head_fake": "Your next side project is hiding in plain sight."
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
     },
     {
       "type": "hn",
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "description": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "big_question": "What complex systems can you simulate with just text and a single DOM element?",
-      "head_fake": "Constraints breed creativity, not limitations."
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
     },
     {
       "type": "competition",
-      "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
-      "description": "https://api-cloud-ai-hackathon-2026.devpost.com/",
-      "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
-      "big_question": "Will you build a polished MVP or just another chatbot wrapper?",
-      "head_fake": "Hackathons reward execution speed, not perfect architecture."
+      "title": "3D Websites Hackathon",
+      "url": "https://3d-websites-hackathon.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/"
     },
     {
       "type": "bugbounty",
-      "title": "Vercel Sandbox",
-      "description": "https://hackerone.com/vercel_sandbox",
-      "url": "https://hackerone.com/vercel_sandbox",
-      "big_question": "Do you understand how serverless environments handle isolation and state?",
-      "head_fake": "Every deployed function is a potential attack surface."
+      "title": "Wolt",
+      "url": "https://hackerone.com/wolt"
     },
     {
-      "type": "floater",
-      "title": "Morning Syntax Check",
-      "description": "Quick refresher on modern JavaScript optional chaining and nullish coalescing.",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining",
-      "big_question": "How can you reduce boilerplate in your next API client?",
-      "head_fake": "Stop writing nested if-statements for missing data."
-    },
-    {
-      "type": "floater",
-      "title": "Git Commit Hygiene",
-      "description": "Why conventional commits matter for team collaboration and automated changelogs.",
-      "url": "https://www.conventionalcommits.org/",
-      "big_question": "Are your commit messages telling a story or just logging noise?",
-      "head_fake": "Your future self will thank you for clear version history."
+      "type": "bugbounty",
+      "title": "Agoda Public",
+      "url": "https://hackerone.com/agoda-public"
     }
   ]
 }

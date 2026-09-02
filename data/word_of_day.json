@@ -1,10 +1,12 @@
 {
-  "fetched_at": "2026-09-01T05:00:12.205333+00:00",
+  "fetched_at": "2026-09-02T04:23:20.214820+00:00",
   "word_of_day": {
-    "word": "perspicuous",
-    "part_of_speech": "adjective",
-    "definition": "Clearly expressed and easily understood.",
-    "example": "Her perspicuous explanation made the complex topic accessible to everyone.",
-    "date": "September 01, 2026"
+    "word": "gratitude",
+    "phonetic": "/\u02c8\u0261\u0279\u00e6t\u026at(j)ud/",
+    "part_of_speech": "noun",
+    "definition": "The state of being grateful.",
+    "example": "",
+    "date": "September 02, 2026",
+    "source_url": "https://www.merriam-webster.com/dictionary/gratitude"
   }
 }
