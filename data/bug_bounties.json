@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T04:23:20.299274+00:00",
+  "fetched_at": "2026-09-03T04:16:59.907959+00:00",
   "bug_bounties": [
     {
       "title": "Wolt",
@@ -1412,6 +1412,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Akeles Marketplace Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/akeles",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "AppLiger",
       "url": "https://bugcrowd.com/engagements/appliger",
       "bounty": "$1,500",
@@ -1481,12 +1487,6 @@
       "title": "Balsamiq for Atlassian Products",
       "url": "https://bugcrowd.com/engagements/balsamiq",
       "bounty": "$1,500",
-      "source": "Bugcrowd"
-    },
-    {
-      "title": "Binance",
-      "url": "https://bugcrowd.com/engagements/binance",
-      "bounty": "$10,000",
       "source": "Bugcrowd"
     },
     {
@@ -1805,6 +1805,12 @@
       "title": "EPAM Systems Managed Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/epam-mbb-og",
       "bounty": "$1,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "APTIS",
+      "url": "https://bugcrowd.com/engagements/epicsumup",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -2294,6 +2300,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Okapya",
+      "url": "https://bugcrowd.com/engagements/okapya",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Okta",
       "url": "https://bugcrowd.com/engagements/okta",
       "bounty": "$75,000",
@@ -2579,6 +2591,12 @@
       "title": "Seek.com",
       "url": "https://bugcrowd.com/engagements/seek-com",
       "bounty": "$6,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Shinetech Software Inc Marketplace Managed Bug Bounty Engagement ",
+      "url": "https://bugcrowd.com/engagements/shinetech-software-market",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -2891,6 +2909,12 @@
       "title": "Xfinity Home & xFi",
       "url": "https://bugcrowd.com/engagements/xfinity-home",
       "bounty": "$5,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Xopero Software S.A. Marketplace Managed Bug Bounty Engagement",
+      "url": "https://bugcrowd.com/engagements/xopero-software-marketplace",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -3260,6 +3284,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Kinepolis Group",
+      "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+      "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Kiwa Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
       "bounty": "Bounty offered",
@@ -3281,6 +3311,12 @@
       "title": "Libelle",
       "url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
       "bounty": "\u20ac2,200",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Liferay DXP",
+      "url": "https://www.intigriti.com/programs/liferay/liferaydxp/detail",
+      "bounty": "$2,000",
       "source": "Intigriti"
     },
     {

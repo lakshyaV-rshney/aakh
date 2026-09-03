@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T04:23:46.307224+00:00",
+  "fetched_at": "2026-09-03T04:17:27.204840+00:00",
   "hot_topics": [
     {
       "type": "repo",
@@ -15,23 +15,23 @@
     },
     {
       "type": "hn",
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
+      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
+      "url": "https://news.ycombinator.com/item?id=49543530"
     },
     {
       "type": "hn",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
-    },
-    {
-      "type": "competition",
-      "title": "3D Websites Hackathon",
-      "url": "https://3d-websites-hackathon.devpost.com/"
+      "title": "Reasons robotics is hard",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
     },
     {
       "type": "competition",
       "title": "Graphiques Innovation Challenge ",
       "url": "https://graphiques-challenge.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "Build With Gemini - Creation Code",
+      "url": "https://creation-code-30750.devpost.com/"
     },
     {
       "type": "bugbounty",

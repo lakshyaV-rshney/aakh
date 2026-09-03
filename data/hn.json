@@ -1,81 +1,95 @@
 {
-  "fetched_at": "2026-09-02T04:23:24.451523+00:00",
+  "fetched_at": "2026-09-03T04:17:04.780977+00:00",
   "stories": [
     {
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "summary": "<p>Article URL: <a href=\"https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529898\">https://news.ycombinator.com/item?id=49529898</a></p>\n<",
-      "published": "Tue, 01 Sep 2026 23:48:05 +0000",
+      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
+      "url": "https://news.ycombinator.com/item?id=49543530",
+      "summary": "<p>Hi HN,<p>I\u2019m Lloyd, one of two founders of RonanRx (<a href=\"https://ronanrx.com/\">https://ronanrx.com/</a>). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptide",
+      "published": "Wed, 02 Sep 2026 22:36:04 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529621\">https://news.ycombina",
-      "published": "Tue, 01 Sep 2026 23:17:43 +0000",
+      "title": "Reasons robotics is hard",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "summary": "<p>Article URL: <a href=\"https://secondthoughts.ai/p/14-reasons-robotics-is-hard\">https://secondthoughts.ai/p/14-reasons-robotics-is-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543191\">https://news.ycombinator.com/item?id=49543191</a></p>\n<p>Points: 61</p>\n<p># Comm",
+      "published": "Wed, 02 Sep 2026 22:02:30 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "summary": "<p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels \u201cMade with AI\u201d from feed, search, related videos, playlists and Shorts. It uses YouTube's lab",
-      "published": "Tue, 01 Sep 2026 22:06:57 +0000",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "summary": "<p>Article URL: <a href=\"https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf\">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.",
+      "published": "Wed, 02 Sep 2026 20:08:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: HN Match Maker \u2013 Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "url": "https://hnmatchmaker.com/",
-      "summary": "<p>Hi!<p>Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\".<p>So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches base",
-      "published": "Tue, 01 Sep 2026 20:53:35 +0000",
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "<p><a href=\"https://research.meta.ai/blog/introducing-muse-spark-1-3\" rel=\"nofollow\">https://research.meta.ai/blog/introducing-muse-spark-1-3</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541256\">https://news.ycombinator.com/item?id=49541256</a></p>\n<p>Points: 440</",
+      "published": "Wed, 02 Sep 2026 19:35:04 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/path-to-astra/\">https://openai.com/index/path-to-astra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527595\">https://news.ycombinator.com/item?id=49527595</a></p>\n<p>Points: 106</p>\n<p># Comments: 49</p>",
-      "published": "Tue, 01 Sep 2026 20:20:41 +0000",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "summary": "<p>Article URL: <a href=\"https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7\">https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
+      "published": "Wed, 02 Sep 2026 18:42:41 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "summary": "<p>Article URL: <a href=\"https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\">https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527232\">https://news.ycombinator.com/item?id=49",
-      "published": "Tue, 01 Sep 2026 19:55:47 +0000",
+      "title": "Embedded Rust RTOS vs. C RTOS",
+      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "summary": "<p>Article URL: <a href=\"https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/\">https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540415\">https://news.ycombinator.com/item?id=49540415</a></p>\n<p>Points: 67</",
+      "published": "Wed, 02 Sep 2026 18:32:24 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "summary": "<p>Article URL: <a href=\"https://danluu.com/zitron/\">https://danluu.com/zitron/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49526069\">https://news.ycombinator.com/item?id=49526069</a></p>\n<p>Points: 518</p>\n<p># Comments: 607</p>",
-      "published": "Tue, 01 Sep 2026 18:35:15 +0000",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mlc-ai/web-llm\">https://github.com/mlc-ai/web-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536411\">https://news.ycombinator.com/item?id=49536411</a></p>\n<p>Points: 94</p>\n<p># Comments: 17</p>",
+      "published": "Wed, 02 Sep 2026 14:02:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "url": "https://www.worldlabs.ai/blog/atlas",
-      "summary": "<p>Article URL: <a href=\"https://www.worldlabs.ai/blog/atlas\">https://www.worldlabs.ai/blog/atlas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525160\">https://news.ycombinator.com/item?id=49525160</a></p>\n<p>Points: 176</p>\n<p># Comments: 42</p>",
-      "published": "Tue, 01 Sep 2026 17:36:02 +0000",
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "summary": "<p>Article URL: <a href=\"https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\">https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536375\">https://news.ycombinator.com/item?id=49",
+      "published": "Wed, 02 Sep 2026 13:59:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
-      "url": "https://www.norirobotics.com/",
-      "summary": "<p>Hey HN, I\u2019m Antonio from Nori Robotics (<a href=\"https://norirobotics.com\">https://norirobotics.com</a>). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.<p>I started working on Nori while doing robotics research at Columbia. I was teaching robots ",
-      "published": "Tue, 01 Sep 2026 17:35:10 +0000",
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "summary": "<p>Article URL: <a href=\"https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/\">https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=495",
+      "published": "Wed, 02 Sep 2026 12:59:09 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "url": "https://github.com/carloslfu/slotstream",
-      "summary": "<p>I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift.<p>It ships with auto-mode, which makes",
-      "published": "Tue, 01 Sep 2026 16:42:46 +0000",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "summary": "<p>Article URL: <a href=\"https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training\">https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator",
+      "published": "Wed, 02 Sep 2026 12:30:39 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: Who is hiring? (September 2026)",
-      "url": "https://news.ycombinator.com/item?id=49522897",
-      "summary": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company\u2014no\nrecruiting firms or job boards. One post per company. If i",
-      "published": "Tue, 01 Sep 2026 15:01:17 +0000",
+      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+      "summary": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/\">https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524428\">https://news.ycombinator.com/",
+      "published": "Tue, 01 Sep 2026 16:41:13 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Creating Backup Storage Sucks",
+      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
+      "summary": "<p>Article URL: <a href=\"https://smarmelling.com/posts/creating-backup-storage-sucks.html\">https://smarmelling.com/posts/creating-backup-storage-sucks.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49509606\">https://news.ycombinator.com/item?id=49509606</a></p>\n<p>Points",
+      "published": "Mon, 31 Aug 2026 13:33:31 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41562-026-02550-0\">https://www.nature.com/articles/s41562-026-02550-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497996\">https://news.ycombinator.com/item?id=49497996</a></p>\n<p>Points: 65</p>\n<p># Comments: 41</",
+      "published": "Sun, 30 Aug 2026 12:12:56 +0000",
       "source": "Hacker News"
     }
   ]
