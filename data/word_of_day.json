@@ -1,12 +1,10 @@
 {
-  "fetched_at": "2026-09-03T04:16:59.583884+00:00",
+  "fetched_at": "2026-09-04T04:23:48.346813+00:00",
   "word_of_day": {
-    "word": "hubris",
-    "phonetic": "",
-    "part_of_speech": "noun",
-    "definition": "Excessive pride, presumption or arrogance (originally toward the gods).",
-    "example": "",
-    "date": "September 03, 2026",
-    "source_url": "https://www.merriam-webster.com/dictionary/hubris"
+    "word": "ephemeral",
+    "part_of_speech": "adjective",
+    "definition": "Lasting for a very short time.",
+    "example": "The ephemeral beauty of cherry blossoms makes them all the more precious.",
+    "date": "September 04, 2026"
   }
 }

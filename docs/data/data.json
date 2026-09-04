@@ -1,14 +1,12 @@
 {
-  "generated_at": "2026-09-03T04:17:27.295282+00:00",
-  "date_label": "Thursday, 03 September 2026",
+  "generated_at": "2026-09-04T04:24:08.181905+00:00",
+  "date_label": "Friday, 04 September 2026",
   "word_of_day": {
-    "word": "hubris",
-    "phonetic": "",
-    "part_of_speech": "noun",
-    "definition": "Excessive pride, presumption or arrogance (originally toward the gods).",
-    "example": "",
-    "date": "September 03, 2026",
-    "source_url": "https://www.merriam-webster.com/dictionary/hubris"
+    "word": "ephemeral",
+    "part_of_speech": "adjective",
+    "definition": "Lasting for a very short time.",
+    "example": "The ephemeral beauty of cherry blossoms makes them all the more precious.",
+    "date": "September 04, 2026"
   },
   "hot_topics": [
     {
@@ -25,23 +23,23 @@
     },
     {
       "type": "hn",
-      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530"
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/"
     },
     {
       "type": "hn",
-      "title": "Reasons robotics is hard",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
+      "title": "From Hookswitch to Grave",
+      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html"
     },
     {
       "type": "competition",
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/"
+      "title": "SPEED August AI Challenge",
+      "url": "https://august-ai-challenge-31059.devpost.com/"
     },
     {
       "type": "competition",
-      "title": "Build With Gemini - Creation Code",
-      "url": "https://creation-code-30750.devpost.com/"
+      "title": "The WebMCP Challenge",
+      "url": "https://webmcp.devpost.com/"
     },
     {
       "type": "bugbounty",
@@ -59,7 +57,7 @@
       "name": "public-apis/public-apis",
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
-      "stars": 474673,
+      "stars": 475018,
       "language": "Python",
       "created_at": "2016-03-20T23:49:42Z",
       "pushed_at": "2026-09-02T02:23:53Z",
@@ -84,10 +82,10 @@
       "name": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "stars": 454913,
+      "stars": 454980,
       "language": "TypeScript",
       "created_at": "2014-12-24T17:49:19Z",
-      "pushed_at": "2026-09-03T02:05:45Z",
+      "pushed_at": "2026-09-03T19:35:09Z",
       "topics": [
         "careers",
         "certification",
@@ -108,30 +106,13 @@
       "trending_multiday": true
     },
     {
-      "name": "EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "stars": 395846,
-      "language": "Python",
-      "created_at": "2013-10-11T06:50:37Z",
-      "pushed_at": "2026-09-01T09:12:19Z",
-      "topics": [
-        "books",
-        "education",
-        "hacktoberfest",
-        "list",
-        "resource"
-      ],
-      "trending_multiday": true
-    },
-    {
       "name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
       "url": "https://github.com/openclaw/openclaw",
-      "stars": 388669,
+      "stars": 388801,
       "language": "TypeScript",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-09-03T04:16:41Z",
+      "pushed_at": "2026-09-04T04:22:19Z",
       "topics": [
         "ai",
         "assistant",
@@ -147,10 +128,10 @@
       "name": "nilbuild/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "url": "https://github.com/nilbuild/developer-roadmap",
-      "stars": 366183,
+      "stars": 366259,
       "language": "TypeScript",
       "created_at": "2017-03-15T13:45:52Z",
-      "pushed_at": "2026-09-01T16:42:50Z",
+      "pushed_at": "2026-09-03T12:42:19Z",
       "topics": [
         "angular-roadmap",
         "backend-roadmap",
@@ -174,20 +155,22 @@
       "trending_multiday": true
     },
     {
-      "name": "vinta/awesome-python",
-      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-      "url": "https://github.com/vinta/awesome-python",
-      "stars": 317829,
-      "language": "Python",
-      "created_at": "2014-06-27T21:00:06Z",
-      "pushed_at": "2026-09-01T08:48:12Z",
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars": 281423,
+      "language": "Shell",
+      "created_at": "2025-10-09T19:45:18Z",
+      "pushed_at": "2026-09-03T18:00:53Z",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "python",
-        "python-frameworks",
-        "python-libraries",
-        "python-tools"
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
       ],
       "trending_multiday": true
     },
@@ -195,10 +178,10 @@
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
       "url": "https://github.com/react/react",
-      "stars": 248668,
+      "stars": 249063,
       "language": "JavaScript",
       "created_at": "2013-05-24T16:15:54Z",
-      "pushed_at": "2026-09-02T23:10:48Z",
+      "pushed_at": "2026-09-03T13:14:56Z",
       "topics": [
         "declarative",
         "frontend",
@@ -210,13 +193,24 @@
       "trending_multiday": true
     },
     {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars": 247819,
+      "language": "Shell",
+      "created_at": "2026-02-03T11:15:53Z",
+      "pushed_at": "2026-09-03T15:03:25Z",
+      "topics": [],
+      "trending_multiday": false
+    },
+    {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 246452,
+      "stars": 247337,
       "language": "JavaScript",
       "created_at": "2026-01-18T00:51:51Z",
-      "pushed_at": "2026-09-03T00:48:58Z",
+      "pushed_at": "2026-09-03T20:51:23Z",
       "topics": [
         "ai-agents",
         "anthropic",
@@ -233,10 +227,10 @@
       "name": "torvalds/linux",
       "description": "Linux kernel source tree",
       "url": "https://github.com/torvalds/linux",
-      "stars": 246024,
+      "stars": 246535,
       "language": "C",
       "created_at": "2011-09-04T22:48:12Z",
-      "pushed_at": "2026-09-02T23:22:03Z",
+      "pushed_at": "2026-09-03T20:46:38Z",
       "topics": [],
       "trending_multiday": true
     },
@@ -244,10 +238,10 @@
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 240239,
+      "stars": 240958,
       "language": "Python",
       "created_at": "2025-07-22T22:22:28Z",
-      "pushed_at": "2026-09-03T04:15:03Z",
+      "pushed_at": "2026-09-04T02:55:37Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -269,10 +263,10 @@
       "name": "TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "url": "https://github.com/TheAlgorithms/Python",
-      "stars": 224210,
+      "stars": 224240,
       "language": "Python",
       "created_at": "2016-07-16T09:44:01Z",
-      "pushed_at": "2026-09-02T22:22:41Z",
+      "pushed_at": "2026-09-03T16:22:43Z",
       "topics": [
         "algorithm",
         "algorithm-competitions",
@@ -295,10 +289,10 @@
       "name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "stars": 209904,
+      "stars": 211285,
       "language": "TypeScript",
       "created_at": "2026-08-13T11:56:32Z",
-      "pushed_at": "2026-09-02T10:02:55Z",
+      "pushed_at": "2026-09-03T06:23:34Z",
       "topics": [
         "ai-agents",
         "cordis",
@@ -311,10 +305,10 @@
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "url": "https://github.com/anomalyco/opencode",
-      "stars": 203317,
+      "stars": 203611,
       "language": "TypeScript",
       "created_at": "2025-04-30T20:08:00Z",
-      "pushed_at": "2026-09-03T04:11:43Z",
+      "pushed_at": "2026-09-04T04:22:34Z",
       "topics": [],
       "trending_multiday": true
     },
@@ -322,10 +316,10 @@
       "name": "n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 203181,
+      "stars": 203273,
       "language": "TypeScript",
       "created_at": "2019-06-22T09:24:21Z",
-      "pushed_at": "2026-09-03T03:16:34Z",
+      "pushed_at": "2026-09-04T03:53:02Z",
       "topics": [
         "ai",
         "apis",
@@ -354,10 +348,10 @@
       "name": "tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "url": "https://github.com/tensorflow/tensorflow",
-      "stars": 198363,
+      "stars": 198793,
       "language": "C++",
       "created_at": "2015-11-07T01:19:20Z",
-      "pushed_at": "2026-09-03T04:14:11Z",
+      "pushed_at": "2026-09-04T04:21:41Z",
       "topics": [
         "deep-learning",
         "deep-neural-networks",
@@ -374,10 +368,10 @@
       "name": "microsoft/vscode",
       "description": "Visual Studio Code",
       "url": "https://github.com/microsoft/vscode",
-      "stars": 190438,
+      "stars": 190823,
       "language": "TypeScript",
       "created_at": "2015-09-03T20:23:38Z",
-      "pushed_at": "2026-09-03T04:11:44Z",
+      "pushed_at": "2026-09-04T04:16:07Z",
       "topics": [
         "editor",
         "electron",
@@ -388,40 +382,13 @@
       "trending_multiday": true
     },
     {
-      "name": "ohmyzsh/ohmyzsh",
-      "description": "\ud83d\ude43   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "stars": 189512,
-      "language": "Shell",
-      "created_at": "2009-08-28T18:15:37Z",
-      "pushed_at": "2026-09-01T07:23:31Z",
-      "topics": [
-        "cli",
-        "cli-app",
-        "oh-my-zsh",
-        "oh-my-zsh-plugin",
-        "oh-my-zsh-theme",
-        "ohmyzsh",
-        "plugin-framework",
-        "plugins",
-        "productivity",
-        "shell",
-        "terminal",
-        "theme",
-        "themes",
-        "zsh",
-        "zsh-configuration"
-      ],
-      "trending_multiday": true
-    },
-    {
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 187088,
+      "stars": 187110,
       "language": "Python",
       "created_at": "2023-03-16T09:21:07Z",
-      "pushed_at": "2026-09-03T04:01:07Z",
+      "pushed_at": "2026-09-04T04:21:21Z",
       "topics": [
         "agentic-ai",
         "agents",
@@ -441,10 +408,10 @@
       "name": "avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "url": "https://github.com/avelino/awesome-go",
-      "stars": 183008,
+      "stars": 183099,
       "language": "Go",
       "created_at": "2014-07-06T13:42:15Z",
-      "pushed_at": "2026-09-02T18:48:17Z",
+      "pushed_at": "2026-09-03T17:39:11Z",
       "topics": [
         "awesome",
         "awesome-list",
@@ -459,10 +426,10 @@
       "name": "ollama/ollama",
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "url": "https://github.com/ollama/ollama",
-      "stars": 180007,
+      "stars": 180098,
       "language": "Go",
       "created_at": "2023-06-26T19:39:32Z",
-      "pushed_at": "2026-09-03T03:39:26Z",
+      "pushed_at": "2026-09-04T00:29:09Z",
       "topics": [
         "deepseek",
         "gemma",
@@ -481,37 +448,32 @@
         "qwen"
       ],
       "trending_multiday": true
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 178031,
+      "language": "Python",
+      "created_at": "2024-11-13T19:56:40Z",
+      "pushed_at": "2026-09-04T03:57:53Z",
+      "topics": [
+        "autogen",
+        "autogen-extension",
+        "langchain",
+        "markdown",
+        "microsoft-office",
+        "openai",
+        "pdf"
+      ],
+      "trending_multiday": true
     }
   ],
   "competitions": [
     {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Sep 03, 2026",
-      "prize": "$0",
-      "source": "Devpost",
-      "closing_soon": false
-    },
-    {
-      "title": "Build With Gemini - Creation Code",
-      "url": "https://creation-code-30750.devpost.com/",
-      "deadline": "Jul 17 - Sep 03, 2026",
-      "prize": "$0",
-      "source": "Devpost",
-      "closing_soon": false
-    },
-    {
-      "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
-      "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
-      "deadline": "Aug 17 - Sep 03, 2026",
-      "prize": "$39,500",
-      "source": "Devpost",
-      "closing_soon": false
-    },
-    {
       "title": "SPEED August AI Challenge",
       "url": "https://august-ai-challenge-31059.devpost.com/",
-      "deadline": "Aug 18 - Sep 03, 2026",
+      "deadline": "Aug 18 - Sep 04, 2026",
       "prize": "$1,500",
       "source": "Devpost",
       "closing_soon": false
@@ -519,15 +481,15 @@
     {
       "title": "The WebMCP Challenge",
       "url": "https://webmcp.devpost.com/",
-      "deadline": "Aug 25 - Sep 03, 2026",
+      "deadline": "Aug 25 - Sep 04, 2026",
       "prize": "$35,000",
       "source": "Devpost",
       "closing_soon": false
     },
     {
-      "title": "TechX Rwanda Hackathon",
-      "url": "https://techx-rwanda-hackathon.devpost.com/",
-      "deadline": "Aug 27 - Sep 03, 2026",
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 04, 2026",
       "prize": "$0",
       "source": "Devpost",
       "closing_soon": false
@@ -545,6 +507,31 @@
       "url": "https://gemini-event-hackmatrix.devpost.com/",
       "deadline": "Aug 09 - Sep 05, 2026",
       "prize": "$0",
+      "source": "Devpost",
+      "closing_soon": false
+    },
+    {
+      "title": "VoltHacks",
+      "url": "https://volthacks.devpost.com/",
+      "deadline": "May 22 - Sep 05, 2026",
+      "prize": "$35,785",
+      "source": "Devpost",
+      "closing_soon": false
+    },
+    {
+      "title": "SMU LIT Hackathon 2026",
+      "url": "https://smu-lit-hackathon-2026.devpost.com/",
+      "deadline": "Sep 03 - 06, 2026",
+      "prize": "$500",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -7306
+    },
+    {
+      "title": "Agentic Hackathon",
+      "url": "https://agentic-hackathon.devpost.com/",
+      "deadline": "Aug 23 - Sep 06, 2026",
+      "prize": "$480",
       "source": "Devpost",
       "closing_soon": false
     }
@@ -613,59 +600,59 @@
   ],
   "hn_stories": [
     {
-      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530",
-      "summary": "<p>Hi HN,<p>I\u2019m Lloyd, one of two founders of RonanRx (<a href=\"https://ronanrx.com/\">https://ronanrx.com/</a>). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptide",
-      "published": "Wed, 02 Sep 2026 22:36:04 +0000",
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "summary": "<p>Article URL: <a href=\"https://www.agentconnect.md/blog/grep-beat-lsp-harness/\">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560260\">https://news.ycombinator.com/item?id=49560260</a></p>\n<p>Points: 11</p>\n<p># Comm",
+      "published": "Fri, 04 Sep 2026 03:40:26 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Reasons robotics is hard",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-      "summary": "<p>Article URL: <a href=\"https://secondthoughts.ai/p/14-reasons-robotics-is-hard\">https://secondthoughts.ai/p/14-reasons-robotics-is-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543191\">https://news.ycombinator.com/item?id=49543191</a></p>\n<p>Points: 61</p>\n<p># Comm",
-      "published": "Wed, 02 Sep 2026 22:02:30 +0000",
+      "title": "From Hookswitch to Grave",
+      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+      "summary": "<p>Article URL: <a href=\"https://computer.rip/2026-06-14-hookswitch-to-grave.html\">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559901\">https://news.ycombinator.com/item?id=49559901</a></p>\n<p>Points: 9</p>\n<p># Com",
+      "published": "Fri, 04 Sep 2026 02:40:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-      "summary": "<p>Article URL: <a href=\"https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf\">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.",
-      "published": "Wed, 02 Sep 2026 20:08:22 +0000",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "summary": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 133</p",
+      "published": "Thu, 03 Sep 2026 21:20:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "summary": "<p><a href=\"https://research.meta.ai/blog/introducing-muse-spark-1-3\" rel=\"nofollow\">https://research.meta.ai/blog/introducing-muse-spark-1-3</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541256\">https://news.ycombinator.com/item?id=49541256</a></p>\n<p>Points: 440</",
-      "published": "Wed, 02 Sep 2026 19:35:04 +0000",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "summary": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49556922\">https://news.ycombinator.com/item?id=49556922</a></p>\n<p>Points: 0</p>\n<p># Comments: 0",
+      "published": "Thu, 03 Sep 2026 21:01:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "summary": "<p>Article URL: <a href=\"https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7\">https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
-      "published": "Wed, 02 Sep 2026 18:42:41 +0000",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "summary": "<p>Article URL: <a href=\"https://arcprize.org/blog/astra\">https://arcprize.org/blog/astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/item?id=49555691</a></p>\n<p>Points: 181</p>\n<p># Comments: 117</p>",
+      "published": "Thu, 03 Sep 2026 19:45:00 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Embedded Rust RTOS vs. C RTOS",
-      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-      "summary": "<p>Article URL: <a href=\"https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/\">https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540415\">https://news.ycombinator.com/item?id=49540415</a></p>\n<p>Points: 67</",
-      "published": "Wed, 02 Sep 2026 18:32:24 +0000",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "summary": "<p>System Card: <a href=\"https://deploymentsafety.openai.com/gpt-6-astra\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI's GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/it",
+      "published": "Thu, 03 Sep 2026 18:41:05 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mlc-ai/web-llm\">https://github.com/mlc-ai/web-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536411\">https://news.ycombinator.com/item?id=49536411</a></p>\n<p>Points: 94</p>\n<p># Comments: 17</p>",
-      "published": "Wed, 02 Sep 2026 14:02:35 +0000",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "<p>Article URL: <a href=\"https://inference-docs.cerebras.ai/models/overview\">https://inference-docs.cerebras.ai/models/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554520\">https://news.ycombinator.com/item?id=49554520</a></p>\n<p>Points: 491</p>\n<p># Comments: 148",
+      "published": "Thu, 03 Sep 2026 18:32:13 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "summary": "<p>Article URL: <a href=\"https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\">https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536375\">https://news.ycombinator.com/item?id=49",
-      "published": "Wed, 02 Sep 2026 13:59:59 +0000",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "summary": "<p>Article URL: <a href=\"https://ifm.ai/blog/k2/\">https://ifm.ai/blog/k2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49551760\">https://news.ycombinator.com/item?id=49551760</a></p>\n<p>Points: 271</p>\n<p># Comments: 88</p>",
+      "published": "Thu, 03 Sep 2026 15:36:43 +0000",
       "source": "Hacker News"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T04:17:27.204840+00:00",
+  "fetched_at": "2026-09-04T04:24:07.980552+00:00",
   "hot_topics": [
     {
       "type": "repo",
@@ -15,23 +15,23 @@
     },
     {
       "type": "hn",
-      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530"
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/"
     },
     {
       "type": "hn",
-      "title": "Reasons robotics is hard",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
+      "title": "From Hookswitch to Grave",
+      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html"
     },
     {
       "type": "competition",
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/"
+      "title": "SPEED August AI Challenge",
+      "url": "https://august-ai-challenge-31059.devpost.com/"
     },
     {
       "type": "competition",
-      "title": "Build With Gemini - Creation Code",
-      "url": "https://creation-code-30750.devpost.com/"
+      "title": "The WebMCP Challenge",
+      "url": "https://webmcp.devpost.com/"
     },
     {
       "type": "bugbounty",

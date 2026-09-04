@@ -1,95 +1,109 @@
 {
-  "fetched_at": "2026-09-03T04:17:04.780977+00:00",
+  "fetched_at": "2026-09-04T04:23:38.550907+00:00",
   "stories": [
     {
-      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530",
-      "summary": "<p>Hi HN,<p>I\u2019m Lloyd, one of two founders of RonanRx (<a href=\"https://ronanrx.com/\">https://ronanrx.com/</a>). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptide",
-      "published": "Wed, 02 Sep 2026 22:36:04 +0000",
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "summary": "<p>Article URL: <a href=\"https://www.agentconnect.md/blog/grep-beat-lsp-harness/\">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560260\">https://news.ycombinator.com/item?id=49560260</a></p>\n<p>Points: 11</p>\n<p># Comm",
+      "published": "Fri, 04 Sep 2026 03:40:26 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Reasons robotics is hard",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-      "summary": "<p>Article URL: <a href=\"https://secondthoughts.ai/p/14-reasons-robotics-is-hard\">https://secondthoughts.ai/p/14-reasons-robotics-is-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543191\">https://news.ycombinator.com/item?id=49543191</a></p>\n<p>Points: 61</p>\n<p># Comm",
-      "published": "Wed, 02 Sep 2026 22:02:30 +0000",
+      "title": "From Hookswitch to Grave",
+      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+      "summary": "<p>Article URL: <a href=\"https://computer.rip/2026-06-14-hookswitch-to-grave.html\">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559901\">https://news.ycombinator.com/item?id=49559901</a></p>\n<p>Points: 9</p>\n<p># Com",
+      "published": "Fri, 04 Sep 2026 02:40:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-      "summary": "<p>Article URL: <a href=\"https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf\">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.",
-      "published": "Wed, 02 Sep 2026 20:08:22 +0000",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "summary": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 133</p",
+      "published": "Thu, 03 Sep 2026 21:20:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "summary": "<p><a href=\"https://research.meta.ai/blog/introducing-muse-spark-1-3\" rel=\"nofollow\">https://research.meta.ai/blog/introducing-muse-spark-1-3</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49541256\">https://news.ycombinator.com/item?id=49541256</a></p>\n<p>Points: 440</",
-      "published": "Wed, 02 Sep 2026 19:35:04 +0000",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "summary": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49556922\">https://news.ycombinator.com/item?id=49556922</a></p>\n<p>Points: 0</p>\n<p># Comments: 0",
+      "published": "Thu, 03 Sep 2026 21:01:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "summary": "<p>Article URL: <a href=\"https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7\">https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
-      "published": "Wed, 02 Sep 2026 18:42:41 +0000",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "summary": "<p>Article URL: <a href=\"https://arcprize.org/blog/astra\">https://arcprize.org/blog/astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/item?id=49555691</a></p>\n<p>Points: 181</p>\n<p># Comments: 117</p>",
+      "published": "Thu, 03 Sep 2026 19:45:00 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Embedded Rust RTOS vs. C RTOS",
-      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-      "summary": "<p>Article URL: <a href=\"https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/\">https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540415\">https://news.ycombinator.com/item?id=49540415</a></p>\n<p>Points: 67</",
-      "published": "Wed, 02 Sep 2026 18:32:24 +0000",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "summary": "<p>System Card: <a href=\"https://deploymentsafety.openai.com/gpt-6-astra\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI's GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/it",
+      "published": "Thu, 03 Sep 2026 18:41:05 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mlc-ai/web-llm\">https://github.com/mlc-ai/web-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536411\">https://news.ycombinator.com/item?id=49536411</a></p>\n<p>Points: 94</p>\n<p># Comments: 17</p>",
-      "published": "Wed, 02 Sep 2026 14:02:35 +0000",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "<p>Article URL: <a href=\"https://inference-docs.cerebras.ai/models/overview\">https://inference-docs.cerebras.ai/models/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554520\">https://news.ycombinator.com/item?id=49554520</a></p>\n<p>Points: 491</p>\n<p># Comments: 148",
+      "published": "Thu, 03 Sep 2026 18:32:13 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "summary": "<p>Article URL: <a href=\"https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\">https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536375\">https://news.ycombinator.com/item?id=49",
-      "published": "Wed, 02 Sep 2026 13:59:59 +0000",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "summary": "<p>Article URL: <a href=\"https://ifm.ai/blog/k2/\">https://ifm.ai/blog/k2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49551760\">https://news.ycombinator.com/item?id=49551760</a></p>\n<p>Points: 271</p>\n<p># Comments: 88</p>",
+      "published": "Thu, 03 Sep 2026 15:36:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Aging brains blend memories together instead of just forgetting them",
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "summary": "<p>Article URL: <a href=\"https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/\">https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=495",
-      "published": "Wed, 02 Sep 2026 12:59:09 +0000",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "summary": "<p>These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.<p>I spent the last few weeks ",
+      "published": "Thu, 03 Sep 2026 14:28:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "summary": "<p>Article URL: <a href=\"https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training\">https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator",
-      "published": "Wed, 02 Sep 2026 12:30:39 +0000",
+      "title": "Show HN: Reactor Atlas",
+      "url": "https://reactoratlas.com",
+      "summary": "<p>Hi HN, I'm a nuclear engineer and tech entrepreneur. After working for 3 years in the National Atomic Energy Commision (CNEA) in HPC software for nuclear simulations, I co-founded ratherlabs.com, a software company providing blockchain solutions for startups. Rather Labs business reached ~6 milli",
+      "published": "Thu, 03 Sep 2026 12:33:01 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
-      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
-      "summary": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/\">https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524428\">https://news.ycombinator.com/",
-      "published": "Tue, 01 Sep 2026 16:41:13 +0000",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "summary": "<p>Article URL: <a href=\"https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007\">https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49544762\">https://news.ycombinator.com/item?id=495447",
+      "published": "Thu, 03 Sep 2026 01:11:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Creating Backup Storage Sucks",
-      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
-      "summary": "<p>Article URL: <a href=\"https://smarmelling.com/posts/creating-backup-storage-sucks.html\">https://smarmelling.com/posts/creating-backup-storage-sucks.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49509606\">https://news.ycombinator.com/item?id=49509606</a></p>\n<p>Points",
-      "published": "Mon, 31 Aug 2026 13:33:31 +0000",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "summary": "<p><a href=\"https://www.ycombinator.com/library/Y6-the-world-s-largest-electric-aircraft-just-flew\">https://www.ycombinator.com/library/Y6-the-world-s-largest-e...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49526453\">https://news.ycombinator.com/item?id=49526453</a",
+      "published": "Tue, 01 Sep 2026 19:02:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41562-026-02550-0\">https://www.nature.com/articles/s41562-026-02550-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497996\">https://news.ycombinator.com/item?id=49497996</a></p>\n<p>Points: 65</p>\n<p># Comments: 41</",
-      "published": "Sun, 30 Aug 2026 12:12:56 +0000",
+      "title": "Xanadu was waiting for agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "summary": "<p>Article URL: <a href=\"https://zed.dev/blog/agentic-xanadu\">https://zed.dev/blog/agentic-xanadu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49526298\">https://news.ycombinator.com/item?id=49526298</a></p>\n<p>Points: 100</p>\n<p># Comments: 40</p>",
+      "published": "Tue, 01 Sep 2026 18:50:42 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "summary": "<p>Article URL: <a href=\"https://hawksley.dev/blog/get-free-arpa-domain\">https://hawksley.dev/blog/get-free-arpa-domain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49515558\">https://news.ycombinator.com/item?id=49515558</a></p>\n<p>Points: 129</p>\n<p># Comments: 13</p>",
+      "published": "Mon, 31 Aug 2026 22:21:58 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How an MIT research project became the Julia programming language",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "summary": "<p>Article URL: <a href=\"https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831\">https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49507072\">https://new",
+      "published": "Mon, 31 Aug 2026 08:26:09 +0000",
       "source": "Hacker News"
     }
   ]

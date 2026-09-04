@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T04:16:59.907959+00:00",
+  "fetched_at": "2026-09-04T04:23:39.938188+00:00",
   "bug_bounties": [
     {
       "title": "Wolt",
@@ -368,20 +368,8 @@
       "source": "HackerOne"
     },
     {
-      "title": "Frontegg",
-      "url": "https://hackerone.com/frontegg",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "inDrive",
       "url": "https://hackerone.com/indrive",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Amazon Vulnerability Research Program - Devices",
-      "url": "https://hackerone.com/amazonvrp-devices",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1487,6 +1475,12 @@
       "title": "Balsamiq for Atlassian Products",
       "url": "https://bugcrowd.com/engagements/balsamiq",
       "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Binance",
+      "url": "https://bugcrowd.com/engagements/binance",
+      "bounty": "$10,000",
       "source": "Bugcrowd"
     },
     {
@@ -3284,12 +3278,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Kinepolis Group",
-      "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
-      "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Kiwa Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
       "bounty": "Bounty offered",
@@ -3311,12 +3299,6 @@
       "title": "Libelle",
       "url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
       "bounty": "\u20ac2,200",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Liferay DXP",
-      "url": "https://www.intigriti.com/programs/liferay/liferaydxp/detail",
-      "bounty": "$2,000",
       "source": "Intigriti"
     },
     {
@@ -3695,6 +3677,12 @@
       "title": "Voi Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "WP Engine Bug Bounty",
+      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {

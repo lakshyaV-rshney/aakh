@@ -1,45 +1,24 @@
 {
-  "fetched_at": "2026-09-03T04:17:14.310196+00:00",
+  "fetched_at": "2026-09-04T04:23:58.624745+00:00",
   "competitions": [
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Sep 03, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build With Gemini - Creation Code",
-      "url": "https://creation-code-30750.devpost.com/",
-      "deadline": "Jul 17 - Sep 03, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
-      "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
-      "deadline": "Aug 17 - Sep 03, 2026",
-      "prize": "$39,500",
-      "source": "Devpost"
-    },
     {
       "title": "SPEED August AI Challenge",
       "url": "https://august-ai-challenge-31059.devpost.com/",
-      "deadline": "Aug 18 - Sep 03, 2026",
+      "deadline": "Aug 18 - Sep 04, 2026",
       "prize": "$1,500",
       "source": "Devpost"
     },
     {
       "title": "The WebMCP Challenge",
       "url": "https://webmcp.devpost.com/",
-      "deadline": "Aug 25 - Sep 03, 2026",
+      "deadline": "Aug 25 - Sep 04, 2026",
       "prize": "$35,000",
       "source": "Devpost"
     },
     {
-      "title": "TechX Rwanda Hackathon",
-      "url": "https://techx-rwanda-hackathon.devpost.com/",
-      "deadline": "Aug 27 - Sep 03, 2026",
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 04, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
@@ -65,10 +44,31 @@
       "source": "Devpost"
     },
     {
+      "title": "SMU LIT Hackathon 2026",
+      "url": "https://smu-lit-hackathon-2026.devpost.com/",
+      "deadline": "Sep 03 - 06, 2026",
+      "prize": "$500",
+      "source": "Devpost"
+    },
+    {
       "title": "Agentic Hackathon",
       "url": "https://agentic-hackathon.devpost.com/",
       "deadline": "Aug 23 - Sep 06, 2026",
       "prize": "$480",
+      "source": "Devpost"
+    },
+    {
+      "title": "AI Content Engine Hackathon",
+      "url": "https://ai-content-engine-hacks.devpost.com/",
+      "deadline": "Sep 01 - 08, 2026",
+      "prize": "$2,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "DIALED IN Builder Challenge",
+      "url": "https://dialedin.devpost.com/",
+      "deadline": "Aug 04 - Sep 08, 2026",
+      "prize": "$5,000",
       "source": "Devpost"
     }
   ]
