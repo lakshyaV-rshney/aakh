@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T04:23:39.938188+00:00",
+  "fetched_at": "2026-09-06T04:30:20.637052+00:00",
   "bug_bounties": [
     {
       "title": "Wolt",
@@ -166,12 +166,6 @@
     {
       "title": "Varonis",
       "url": "https://hackerone.com/varonis",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Klarna",
-      "url": "https://hackerone.com/klarna",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1072,12 +1066,6 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3677,12 +3665,6 @@
       "title": "Voi Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "WP Engine Bug Bounty",
-      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {

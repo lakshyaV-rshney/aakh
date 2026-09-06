@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-09-04T04:24:07.980552+00:00",
+  "fetched_at": "2026-09-06T04:30:46.724118+00:00",
   "hot_topics": [
+    {
+      "type": "repo",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How can contributing to this curriculum accelerate your transition from tutorial hell to production-ready projects?",
+      "head_fake": "Stop watching tutorials and start building the tools that teach the next generation of developers."
+    },
+    {
+      "type": "repo",
+      "title": "nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers gr",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "big_question": "Which specialization path aligns best with your current coursework and long-term career goals?",
+      "head_fake": "Map out your tech stack journey before you waste months chasing every new framework."
+    },
+    {
+      "type": "hn",
+      "title": "LLMs as a Cognitive Virus",
+      "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.03344\">https://arxiv.org/abs",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "big_question": "Are we outsourcing critical thinking to models, and what does that mean for CS education?",
+      "head_fake": "Read the paper before you let the autocomplete write your thesis."
+    },
+    {
+      "type": "hn",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "description": "<p>Article URL: <a href=\"https://sofiabelen.github.io/projects/visualizing-rusts",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "big_question": "How does understanding dynamic dispatch at the memory level change how you design safe systems?",
+      "head_fake": "Peek under the hood of zero-cost abstractions before your next systems programming exam."
+    },
     {
       "type": "repo",
       "title": "public-apis/public-apis",
@@ -15,33 +47,13 @@
     },
     {
       "type": "hn",
-      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/"
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
     },
     {
       "type": "hn",
-      "title": "From Hookswitch to Grave",
-      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html"
-    },
-    {
-      "type": "competition",
-      "title": "SPEED August AI Challenge",
-      "url": "https://august-ai-challenge-31059.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "The WebMCP Challenge",
-      "url": "https://webmcp.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Wolt",
-      "url": "https://hackerone.com/wolt"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Agoda Public",
-      "url": "https://hackerone.com/agoda-public"
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/"
     }
   ]
 }
