@@ -1,10 +1,12 @@
 {
-  "fetched_at": "2026-09-06T04:30:30.233582+00:00",
+  "fetched_at": "2026-09-07T04:30:00.951000+00:00",
   "word_of_day": {
-    "word": "perspicuous",
-    "part_of_speech": "adjective",
-    "definition": "Clearly expressed and easily understood.",
-    "example": "Her perspicuous explanation made the complex topic accessible to everyone.",
-    "date": "September 06, 2026"
+    "word": "ephemeral",
+    "phonetic": "/\u0259\u02c8f\u025b.m\u0259.\u0279\u0259l/",
+    "part_of_speech": "noun",
+    "definition": "Something which lasts for a short period of time.",
+    "example": "",
+    "date": "September 07, 2026",
+    "source_url": "https://www.merriam-webster.com/dictionary/ephemeral"
   }
 }

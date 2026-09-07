@@ -1,95 +1,88 @@
 {
-  "fetched_at": "2026-09-06T04:30:26.172807+00:00",
+  "fetched_at": "2026-09-07T04:30:01.977861+00:00",
   "stories": [
     {
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "summary": "<p>Article URL: <a href=\"https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation\">https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582656\">https://news.ycombinator.com/item?id=49",
-      "published": "Sun, 06 Sep 2026 02:12:46 +0000",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "summary": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 142</p>\n<p># Comments: 56</p>",
+      "published": "Sun, 06 Sep 2026 23:14:08 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "summary": "<p>Article URL: <a href=\"https://openai.robocurve.org/gpt-6-astra/\">https://openai.robocurve.org/gpt-6-astra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582582\">https://news.ycombinator.com/item?id=49582582</a></p>\n<p>Points: 87</p>\n<p># Comments: 46</p>",
-      "published": "Sun, 06 Sep 2026 01:52:45 +0000",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/an-alien-mind/\">https://openai.com/index/an-alien-mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588080\">https://news.ycombinator.com/item?id=49588080</a></p>\n<p>Points: 358</p>\n<p># Comments: 314</p>",
+      "published": "Sun, 06 Sep 2026 16:27:05 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "summary": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/9/1.html\">https://lapcatsoftware.com/articles/2026/9/1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49581870\">https://news.ycombinator.com/item?id=49581870</a></p>\n<p>Points: 177</p>\n<p># Comments: 26</p",
-      "published": "Sat, 05 Sep 2026 23:39:47 +0000",
+      "title": "Research carried out using NetBSD",
+      "url": "https://www.netbsd.org/gallery/research.html",
+      "summary": "<p>Article URL: <a href=\"https://www.netbsd.org/gallery/research.html\">https://www.netbsd.org/gallery/research.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587903\">https://news.ycombinator.com/item?id=49587903</a></p>\n<p>Points: 84</p>\n<p># Comments: 21</p>",
+      "published": "Sun, 06 Sep 2026 16:10:05 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "summary": "<p>Article URL: <a href=\"https://github.com/okf-memory/okf-agent-memory\">https://github.com/okf-memory/okf-agent-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49581240\">https://news.ycombinator.com/item?id=49581240</a></p>\n<p>Points: 50</p>\n<p># Comments: 16</p>",
-      "published": "Sat, 05 Sep 2026 22:15:52 +0000",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/research-acceleration-view-inside-openai\">https://openai.com/index/research-acceleration-view-inside-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587217\">https://news.ycombinator.com/item?id=49587217</a></p>\n<p>Poin",
+      "published": "Sun, 06 Sep 2026 15:08:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.03344\">https://arxiv.org/abs/2609.03344</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49580164\">https://news.ycombinator.com/item?id=49580164</a></p>\n<p>Points: 215</p>\n<p># Comments: 174</p>",
-      "published": "Sat, 05 Sep 2026 20:02:35 +0000",
+      "title": "A/I shuts down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "summary": "<p>Article URL: <a href=\"https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/\">https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586898\">https://news.ycombinator.com/item?id=49586898</a></p>\n<p>Points: 54",
+      "published": "Sun, 06 Sep 2026 14:34:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Learn Programming with OCaml",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "summary": "<p>Article URL: <a href=\"https://usr.lmf.cnrs.fr/lpo/\">https://usr.lmf.cnrs.fr/lpo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49578280\">https://news.ycombinator.com/item?id=49578280</a></p>\n<p>Points: 204</p>\n<p># Comments: 80</p>",
-      "published": "Sat, 05 Sep 2026 16:45:02 +0000",
+      "title": "Asahi Linux on M3",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "summary": "<p><a href=\"https://www.phoronix.com/news/Asahi-Linux-Official-M3\" rel=\"nofollow\">https://www.phoronix.com/news/Asahi-Linux-Official-M3</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586698\">https://news.ycombinator.com/item?id=49586698</a></p>\n<p>Points: 382</p>\n<p>",
+      "published": "Sun, 06 Sep 2026 14:08:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "summary": "<p>Article URL: <a href=\"https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/\">https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576343\">htt",
-      "published": "Sat, 05 Sep 2026 13:31:05 +0000",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585644\">https://news.ycombinator.com/item?id=49585644</a></",
+      "published": "Sun, 06 Sep 2026 11:56:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "summary": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-85046\">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570669\">https://news.ycombinator.com/item?id=49570669</a></p>\n<p>Points: 757</p>\n<p># Comments: 448</p>",
-      "published": "Fri, 04 Sep 2026 21:52:01 +0000",
+      "title": "Ask HN: Fable hacked my piano, can I release the results?",
+      "url": "https://news.ycombinator.com/item?id=49577129",
+      "summary": "<p>I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French comp",
+      "published": "Sat, 05 Sep 2026 14:54:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "summary": "<p>Article URL: <a href=\"https://eebench.org/blog/can-ai-design-circuit-boards-yet/\">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569366\">https://news.ycombinator.com/item?id=49569366</a></p>\n<p>Points: 393</p>\n<p",
-      "published": "Fri, 04 Sep 2026 19:48:29 +0000",
+      "title": "The NX bit is not just about security",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "summary": "<p>Article URL: <a href=\"https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/\">https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564609\">https://news.ycombinator.com/item?id=4956",
+      "published": "Fri, 04 Sep 2026 13:47:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "summary": "<p><a href=\"https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/\" rel=\"nofollow\">https://www.reuters.com/world/europe/openai-agents-hijacked-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=495",
-      "published": "Fri, 04 Sep 2026 11:54:53 +0000",
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "summary": "<p>Article URL: <a href=\"https://blog.glazer.ee/posts/converting-cronos/\">https://blog.glazer.ee/posts/converting-cronos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561514\">https://news.ycombinator.com/item?id=49561514</a></p>\n<p>Points: 35</p>\n<p># Comments: 2</p>",
+      "published": "Fri, 04 Sep 2026 07:17:00 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How Swiss tables work in Go built-in map",
-      "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-      "summary": "<p>Article URL: <a href=\"https://victoriametrics.com/blog/go-swiss-table-map/index.html\">https://victoriametrics.com/blog/go-swiss-table-map/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548852\">https://news.ycombinator.com/item?id=49548852</a></p>\n<p>Points: 58",
-      "published": "Thu, 03 Sep 2026 11:59:17 +0000",
+      "title": "Vidact \u2013 a compiler that turns React into direct DOM operations",
+      "url": "https://www.vidact.dev/",
+      "summary": "<p>Article URL: <a href=\"https://www.vidact.dev/\">https://www.vidact.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49542123\">https://news.ycombinator.com/item?id=49542123</a></p>\n<p>Points: 56</p>\n<p># Comments: 28</p>",
+      "published": "Wed, 02 Sep 2026 20:34:24 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "CHC5: Open Camera System \u2013 Image Sensor Specification Comparison",
-      "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
-      "summary": "<p>Article URL: <a href=\"https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html\">https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543347\">https://n",
-      "published": "Wed, 02 Sep 2026 22:17:08 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "OpenBSD Stories: Strange Medieval Devices",
-      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-      "summary": "<p>Article URL: <a href=\"http://miod.online.fr/software/openbsd/stories/smd.html\">http://miod.online.fr/software/openbsd/stories/smd.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49539759\">https://news.ycombinator.com/item?id=49539759</a></p>\n<p>Points: 17</p>\n<p># Comm",
-      "published": "Wed, 02 Sep 2026 17:44:24 +0000",
+      "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
+      "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
+      "summary": "<p>Article URL: <a href=\"https://www.atlasobscura.com/places/black-hole-of-los-alamos\">https://www.atlasobscura.com/places/black-hole-of-los-alamos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540637\">https://news.ycombinator.com/item?id=49540637</a></p>\n<p>Points: 48</p>",
+      "published": "Wed, 02 Sep 2026 18:47:55 +0000",
       "source": "Hacker News"
     }
   ]

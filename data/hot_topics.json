@@ -1,37 +1,53 @@
 {
-  "fetched_at": "2026-09-06T04:30:46.724118+00:00",
+  "fetched_at": "2026-09-07T04:30:29.731578+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can contributing to this curriculum accelerate your transition from tutorial hell to production-ready projects?",
-      "head_fake": "Stop watching tutorials and start building the tools that teach the next generation of developers."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "How can you leverage these free endpoints to prototype your next capstone project without backend overhead?",
+      "head_fake": "Stop building mock servers and start shipping real integrations today."
     },
     {
       "type": "repo",
-      "title": "nilbuild/developer-roadmap",
-      "description": "Interactive roadmaps, guides and other educational content to help developers gr",
-      "url": "https://github.com/nilbuild/developer-roadmap",
-      "big_question": "Which specialization path aligns best with your current coursework and long-term career goals?",
-      "head_fake": "Map out your tech stack journey before you waste months chasing every new framework."
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "Which core data structures here could you reimplement in Rust to truly understand memory management?",
+      "head_fake": "Master the fundamentals before chasing the latest framework hype."
     },
     {
       "type": "hn",
-      "title": "LLMs as a Cognitive Virus",
-      "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.03344\">https://arxiv.org/abs",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "big_question": "Are we outsourcing critical thinking to models, and what does that mean for CS education?",
-      "head_fake": "Read the paper before you let the autocomplete write your thesis."
+      "title": "Making a Python interpreter in 1024 bytes",
+      "description": "Article URL: https://austinhenley.com/blog/python1024.html",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "big_question": "What can a 1KB interpreter teach you about compiler design and language minimalism?",
+      "head_fake": "Constraints breed creativity: see how much you can strip away before it breaks."
     },
     {
       "type": "hn",
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "description": "<p>Article URL: <a href=\"https://sofiabelen.github.io/projects/visualizing-rusts",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "big_question": "How does understanding dynamic dispatch at the memory level change how you design safe systems?",
-      "head_fake": "Peek under the hood of zero-cost abstractions before your next systems programming exam."
+      "title": "Vidact \u2013 a compiler that turns React into direct DOM operations",
+      "description": "Article URL: https://www.vidact.dev/",
+      "url": "https://www.vidact.dev/",
+      "big_question": "Could compiling React to direct DOM calls finally solve the hydration bottleneck in modern web apps?",
+      "head_fake": "Bypass the virtual DOM entirely and let the compiler handle the heavy lifting."
+    },
+    {
+      "type": "competition",
+      "title": "AI Content Engine Hackathon",
+      "description": "",
+      "url": "https://ai-content-engine-hacks.devpost.com/",
+      "big_question": "How will you architect an AI pipeline that balances creativity with strict factual accuracy?",
+      "head_fake": "Build the next generation of content tools that developers actually trust."
+    },
+    {
+      "type": "bugbounty",
+      "title": "Vercel Open Source",
+      "description": "",
+      "url": "https://hackerone.com/vercel-open-source",
+      "big_question": "Where in the serverless edge runtime might race conditions or SSRF vulnerabilities hide?",
+      "head_fake": "Pick apart the infrastructure that powers the modern web and get paid for it."
     },
     {
       "type": "repo",
@@ -44,16 +60,6 @@
       "title": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-    },
-    {
-      "type": "hn",
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
-    },
-    {
-      "type": "hn",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/"
     }
   ]
 }

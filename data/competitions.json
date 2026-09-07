@@ -1,62 +1,6 @@
 {
-  "fetched_at": "2026-09-06T04:30:34.441772+00:00",
+  "fetched_at": "2026-09-07T04:30:20.741781+00:00",
   "competitions": [
-    {
-      "title": "Code to Connect: Women in Tech Hackathon 2026",
-      "url": "https://code-to-connect-wit.devpost.com/",
-      "deadline": "Sep 04 - 06, 2026",
-      "prize": "$600",
-      "source": "Devpost"
-    },
-    {
-      "title": "MuslimHacks",
-      "url": "https://muslimhacks.devpost.com/",
-      "deadline": "Sep 06, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "MYHack: ISNA 2026 ",
-      "url": "https://myhack-isna.devpost.com/",
-      "deadline": "Sep 05 - 06, 2026",
-      "prize": "$500",
-      "source": "Devpost"
-    },
-    {
-      "title": "Agentic Hackathon",
-      "url": "https://agentic-hackathon.devpost.com/",
-      "deadline": "Aug 23 - Sep 06, 2026",
-      "prize": "$480",
-      "source": "Devpost"
-    },
-    {
-      "title": "CodeBox Hacks",
-      "url": "https://codebox-hacks.devpost.com/",
-      "deadline": "Sep 05 - 06, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "EmP Hackfest Summer 2026",
-      "url": "https://emp-hackfest-summer-2026.devpost.com/",
-      "deadline": "Sep 05 - 06, 2026",
-      "prize": "$720",
-      "source": "Devpost"
-    },
-    {
-      "title": "Coppell hackathon 1",
-      "url": "https://fintech-hackothon-1.devpost.com/",
-      "deadline": "Sep 04 - 06, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Syndicate by Maximor",
-      "url": "https://syndicate-by-maximor.devpost.com/",
-      "deadline": "Sep 05 - 06, 2026",
-      "prize": "$3,000",
-      "source": "Devpost"
-    },
     {
       "title": "Global Psyops Hackathon",
       "url": "https://global-psyops-hackathon.devpost.com/",
@@ -65,10 +9,66 @@
       "source": "Devpost"
     },
     {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 07, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "AI Content Engine Hackathon",
       "url": "https://ai-content-engine-hacks.devpost.com/",
       "deadline": "Sep 01 - 08, 2026",
       "prize": "$2,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "DIALED IN Builder Challenge",
+      "url": "https://dialedin.devpost.com/",
+      "deadline": "Aug 04 - Sep 08, 2026",
+      "prize": "$5,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agentic Cinema: The Blockbuster Hackathon",
+      "url": "https://agentic-cinema.devpost.com/",
+      "deadline": "Jul 27 - Sep 09, 2026",
+      "prize": "$75,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "UPAI-Hackdays",
+      "url": "https://upai-hackdays.devpost.com/",
+      "deadline": "Sep 07 - 10, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
+      "url": "https://hack2heal.devpost.com/",
+      "deadline": "Aug 25 - Sep 10, 2026",
+      "prize": "$100",
+      "source": "Devpost"
+    },
+    {
+      "title": "CSH Social Impact Ideathon",
+      "url": "https://csh-social-impact-ideathon.devpost.com/",
+      "deadline": "Aug 31 - Sep 11, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Music from BeatMind",
+      "url": "https://music-from-beatmind.devpost.com/",
+      "deadline": "Aug 27 - Sep 12, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Gen Agra",
+      "url": "https://gen-agra.devpost.com/",
+      "deadline": "Sep 07 - 12, 2026",
+      "prize": "\u20b9 0",
       "source": "Devpost"
     }
   ]
