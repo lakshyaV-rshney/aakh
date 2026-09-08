@@ -1,88 +1,81 @@
 {
-  "fetched_at": "2026-09-07T04:30:01.977861+00:00",
+  "fetched_at": "2026-09-08T04:28:05.856371+00:00",
   "stories": [
     {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "summary": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 142</p>\n<p># Comments: 56</p>",
-      "published": "Sun, 06 Sep 2026 23:14:08 +0000",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "summary": "<p>Article URL: <a href=\"https://mcpherrin.ca/2026/09/07/rsa.html\">https://mcpherrin.ca/2026/09/07/rsa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604637\">https://news.ycombinator.com/item?id=49604637</a></p>\n<p>Points: 164</p>\n<p># Comments: 31</p>",
+      "published": "Tue, 08 Sep 2026 01:16:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/an-alien-mind/\">https://openai.com/index/an-alien-mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588080\">https://news.ycombinator.com/item?id=49588080</a></p>\n<p>Points: 358</p>\n<p># Comments: 314</p>",
-      "published": "Sun, 06 Sep 2026 16:27:05 +0000",
+      "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "summary": "<p>Stuxnet! Here reproduced by me. Only researchs educations purposes.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49603546\">https://news.ycombinator.com/item?id=49603546</a></p>\n<p>Points: 127</p>\n<p># Comments: 45</p>",
+      "published": "Mon, 07 Sep 2026 22:12:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Research carried out using NetBSD",
-      "url": "https://www.netbsd.org/gallery/research.html",
-      "summary": "<p>Article URL: <a href=\"https://www.netbsd.org/gallery/research.html\">https://www.netbsd.org/gallery/research.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587903\">https://news.ycombinator.com/item?id=49587903</a></p>\n<p>Points: 84</p>\n<p># Comments: 21</p>",
-      "published": "Sun, 06 Sep 2026 16:10:05 +0000",
+      "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "summary": "<p>Article URL: <a href=\"https://mathathonchallenge.com/index.html\">https://mathathonchallenge.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596055\">https://news.ycombinator.com/item?id=49596055</a></p>\n<p>Points: 245</p>\n<p># Comments: 85</p>",
+      "published": "Mon, 07 Sep 2026 09:26:53 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/research-acceleration-view-inside-openai\">https://openai.com/index/research-acceleration-view-inside-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49587217\">https://news.ycombinator.com/item?id=49587217</a></p>\n<p>Poin",
-      "published": "Sun, 06 Sep 2026 15:08:44 +0000",
+      "title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "summary": "<p><a href=\"https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\" rel=\"nofollow\">https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592",
+      "published": "Mon, 07 Sep 2026 00:22:04 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A/I shuts down",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "summary": "<p>Article URL: <a href=\"https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/\">https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586898\">https://news.ycombinator.com/item?id=49586898</a></p>\n<p>Points: 54",
-      "published": "Sun, 06 Sep 2026 14:34:34 +0000",
+      "title": "Catching Crumbs from the Table (2000)",
+      "url": "https://www.nature.com/articles/35014679",
+      "summary": "<p><a href=\"https://web.archive.org/web/20150719010624/http://www.nature.com/nature/journal/v405/n6786/full/405517a0.html\" rel=\"nofollow\">https://web.archive.org/web/20150719010624/http://www.nature...</a><p><a href=\"https://www.scribd.com/document/893921964/CHIANG-Catching-Crumbs-From-the-Table\" re",
+      "published": "Sun, 06 Sep 2026 07:15:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Asahi Linux on M3",
-      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-      "summary": "<p><a href=\"https://www.phoronix.com/news/Asahi-Linux-Official-M3\" rel=\"nofollow\">https://www.phoronix.com/news/Asahi-Linux-Official-M3</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586698\">https://news.ycombinator.com/item?id=49586698</a></p>\n<p>Points: 382</p>\n<p>",
-      "published": "Sun, 06 Sep 2026 14:08:59 +0000",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.24888\">https://arxiv.org/abs/2607.24888</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575515\">https://news.ycombinator.com/item?id=49575515</a></p>\n<p>Points: 177</p>\n<p># Comments: 40</p>",
+      "published": "Sat, 05 Sep 2026 11:25:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "summary": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585644\">https://news.ycombinator.com/item?id=49585644</a></",
-      "published": "Sun, 06 Sep 2026 11:56:43 +0000",
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "url": "https://kallus.org/blog/dummit_and_foote.html",
+      "summary": "<p>Article URL: <a href=\"https://kallus.org/blog/dummit_and_foote.html\">https://kallus.org/blog/dummit_and_foote.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569748\">https://news.ycombinator.com/item?id=49569748</a></p>\n<p>Points: 74</p>\n<p># Comments: 34</p>",
+      "published": "Fri, 04 Sep 2026 20:20:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: Fable hacked my piano, can I release the results?",
-      "url": "https://news.ycombinator.com/item?id=49577129",
-      "summary": "<p>I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French comp",
-      "published": "Sat, 05 Sep 2026 14:54:44 +0000",
+      "title": "Show HN: Jigsaw Haiku",
+      "url": "https://jigsawhaiku.com/",
+      "summary": "<p>Hi HN! Jigsaw Haiku was originally designed with my puzzles site The Daily Baffle (<a href=\"https://dailybaffle.com\" rel=\"nofollow\">https://dailybaffle.com</a>) in mind. But once I had built it, I realized it just didn't quite fit with the aesthetic of the Baffle's other puzzles, so I decided to ",
+      "published": "Fri, 04 Sep 2026 18:14:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The NX bit is not just about security",
-      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-      "summary": "<p>Article URL: <a href=\"https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/\">https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564609\">https://news.ycombinator.com/item?id=4956",
-      "published": "Fri, 04 Sep 2026 13:47:25 +0000",
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "summary": "<p>Article URL: <a href=\"https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html\">https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561002\">https://news.ycombinator.com/item?id=49561002</a></p>\n<",
+      "published": "Fri, 04 Sep 2026 05:53:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Reverse engineering the storage format for an undocumented database",
-      "url": "https://blog.glazer.ee/posts/converting-cronos/",
-      "summary": "<p>Article URL: <a href=\"https://blog.glazer.ee/posts/converting-cronos/\">https://blog.glazer.ee/posts/converting-cronos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561514\">https://news.ycombinator.com/item?id=49561514</a></p>\n<p>Points: 35</p>\n<p># Comments: 2</p>",
-      "published": "Fri, 04 Sep 2026 07:17:00 +0000",
+      "title": "John Margolies' photographs of roadside America",
+      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "summary": "<p>Article URL: <a href=\"https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/\">https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560682\">https://news.",
+      "published": "Fri, 04 Sep 2026 04:57:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Vidact \u2013 a compiler that turns React into direct DOM operations",
-      "url": "https://www.vidact.dev/",
-      "summary": "<p>Article URL: <a href=\"https://www.vidact.dev/\">https://www.vidact.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49542123\">https://news.ycombinator.com/item?id=49542123</a></p>\n<p>Points: 56</p>\n<p># Comments: 28</p>",
-      "published": "Wed, 02 Sep 2026 20:34:24 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
-      "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
-      "summary": "<p>Article URL: <a href=\"https://www.atlasobscura.com/places/black-hole-of-los-alamos\">https://www.atlasobscura.com/places/black-hole-of-los-alamos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49540637\">https://news.ycombinator.com/item?id=49540637</a></p>\n<p>Points: 48</p>",
-      "published": "Wed, 02 Sep 2026 18:47:55 +0000",
+      "title": "Show HN: Interactive Tree of Life",
+      "url": "https://ptree.org/",
+      "summary": "<p>Ptree consolidates of 11 taxonomic trees, both categorical like we used in school (plant, animalia) and phylogenetic (evolutionary descent), with instant crosswalk between them.<p>Across those trees it overlays 41 visual properties (categorical and numerical) assembled from hundreds of biological",
+      "published": "Fri, 04 Sep 2026 00:40:06 +0000",
       "source": "Hacker News"
     }
   ]

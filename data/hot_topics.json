@@ -1,65 +1,47 @@
 {
-  "fetched_at": "2026-09-07T04:30:29.731578+00:00",
+  "fetched_at": "2026-09-08T04:28:29.112648+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "How can you leverage these free endpoints to prototype your next capstone project without backend overhead?",
-      "head_fake": "Stop building mock servers and start shipping real integrations today."
-    },
-    {
-      "type": "repo",
-      "title": "TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "Which core data structures here could you reimplement in Rust to truly understand memory management?",
-      "head_fake": "Master the fundamentals before chasing the latest framework hype."
-    },
-    {
-      "type": "hn",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "description": "Article URL: https://austinhenley.com/blog/python1024.html",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "big_question": "What can a 1KB interpreter teach you about compiler design and language minimalism?",
-      "head_fake": "Constraints breed creativity: see how much you can strip away before it breaks."
-    },
-    {
-      "type": "hn",
-      "title": "Vidact \u2013 a compiler that turns React into direct DOM operations",
-      "description": "Article URL: https://www.vidact.dev/",
-      "url": "https://www.vidact.dev/",
-      "big_question": "Could compiling React to direct DOM calls finally solve the hydration bottleneck in modern web apps?",
-      "head_fake": "Bypass the virtual DOM entirely and let the compiler handle the heavy lifting."
-    },
-    {
-      "type": "competition",
-      "title": "AI Content Engine Hackathon",
-      "description": "",
-      "url": "https://ai-content-engine-hacks.devpost.com/",
-      "big_question": "How will you architect an AI pipeline that balances creativity with strict factual accuracy?",
-      "head_fake": "Build the next generation of content tools that developers actually trust."
-    },
-    {
-      "type": "bugbounty",
-      "title": "Vercel Open Source",
-      "description": "",
-      "url": "https://hackerone.com/vercel-open-source",
-      "big_question": "Where in the serverless edge runtime might race conditions or SSRF vulnerabilities hide?",
-      "head_fake": "Pick apart the infrastructure that powers the modern web and get paid for it."
-    },
-    {
-      "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
-    },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    },
+    {
+      "type": "repo",
+      "title": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books"
+    },
+    {
+      "type": "hn",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html"
+    },
+    {
+      "type": "hn",
+      "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet"
+    },
+    {
+      "type": "competition",
+      "title": "AI Content Engine Hackathon",
+      "url": "https://ai-content-engine-hacks.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Wolt",
+      "url": "https://hackerone.com/wolt"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Agoda Public",
+      "url": "https://hackerone.com/agoda-public"
     }
   ]
 }

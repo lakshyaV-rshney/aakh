@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T04:30:02.850045+00:00",
+  "fetched_at": "2026-09-08T04:28:03.040703+00:00",
   "bug_bounties": [
     {
       "title": "Wolt",
@@ -2336,12 +2336,6 @@
       "source": "Bugcrowd"
     },
     {
-      "title": "Optimizely",
-      "url": "https://bugcrowd.com/engagements/optimizely",
-      "bounty": "$3,500",
-      "source": "Bugcrowd"
-    },
-    {
       "title": "Optus Managed Bug Bounty",
       "url": "https://bugcrowd.com/engagements/optus-mbb-og",
       "bounty": "$5,000",
@@ -3440,6 +3434,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Randstad",
+      "url": "https://www.intigriti.com/programs/randstad/randstad/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Red Bull",
       "url": "https://www.intigriti.com/programs/redbull/redbull/detail",
       "bounty": "Bounty offered",
@@ -3479,12 +3479,6 @@
       "title": "SimScale",
       "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
       "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Skoda Auto Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3638,12 +3632,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Visma",
-      "url": "https://www.intigriti.com/programs/visma/visma/detail",
-      "bounty": "\u20ac7,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "Visma Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
       "bounty": "Bounty offered",
@@ -3665,6 +3653,12 @@
       "title": "Voi Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "WP Engine Bug Bounty",
+      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {
