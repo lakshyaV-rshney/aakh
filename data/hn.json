@@ -1,81 +1,95 @@
 {
-  "fetched_at": "2026-09-08T04:28:05.856371+00:00",
+  "fetched_at": "2026-09-09T04:34:05.023538+00:00",
   "stories": [
     {
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "summary": "<p>Article URL: <a href=\"https://mcpherrin.ca/2026/09/07/rsa.html\">https://mcpherrin.ca/2026/09/07/rsa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604637\">https://news.ycombinator.com/item?id=49604637</a></p>\n<p>Points: 164</p>\n<p># Comments: 31</p>",
-      "published": "Tue, 08 Sep 2026 01:16:59 +0000",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "summary": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117237320796901560\">https://mathstodon.xyz/@tao/117237320796901560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616968\">https://news.ycombinator.com/item?id=49616968</a></p>\n<p>Points: 238</p>\n<p># Comments: 170</p>",
+      "published": "Tue, 08 Sep 2026 21:00:52 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet",
-      "summary": "<p>Stuxnet! Here reproduced by me. Only researchs educations purposes.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49603546\">https://news.ycombinator.com/item?id=49603546</a></p>\n<p>Points: 127</p>\n<p># Comments: 45</p>",
-      "published": "Mon, 07 Sep 2026 22:12:38 +0000",
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "summary": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-2-5\">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616354\">https://news.ycombinator.com/item?id=49616354</a></p>\n<p>Points: 141</p>\n<p>#",
+      "published": "Tue, 08 Sep 2026 20:14:52 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
-      "url": "https://mathathonchallenge.com/index.html",
-      "summary": "<p>Article URL: <a href=\"https://mathathonchallenge.com/index.html\">https://mathathonchallenge.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596055\">https://news.ycombinator.com/item?id=49596055</a></p>\n<p>Points: 245</p>\n<p># Comments: 85</p>",
-      "published": "Mon, 07 Sep 2026 09:26:53 +0000",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "url": "https://github.com/argonautlabsai/deltafin",
+      "summary": "<p>Article URL: <a href=\"https://github.com/argonautlabsai/deltafin\">https://github.com/argonautlabsai/deltafin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616257\">https://news.ycombinator.com/item?id=49616257</a></p>\n<p>Points: 229</p>\n<p># Comments: 120</p>",
+      "published": "Tue, 08 Sep 2026 20:07:55 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "summary": "<p><a href=\"https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\" rel=\"nofollow\">https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592",
-      "published": "Mon, 07 Sep 2026 00:22:04 +0000",
+      "title": "Muse \u2013 Meta\u2019s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "summary": "<p>Article URL: <a href=\"https://ai.meta.com/muse/\">https://ai.meta.com/muse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49615537\">https://news.ycombinator.com/item?id=49615537</a></p>\n<p>Points: 378</p>\n<p># Comments: 404</p>",
+      "published": "Tue, 08 Sep 2026 19:25:00 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Catching Crumbs from the Table (2000)",
-      "url": "https://www.nature.com/articles/35014679",
-      "summary": "<p><a href=\"https://web.archive.org/web/20150719010624/http://www.nature.com/nature/journal/v405/n6786/full/405517a0.html\" rel=\"nofollow\">https://web.archive.org/web/20150719010624/http://www.nature...</a><p><a href=\"https://www.scribd.com/document/893921964/CHIANG-Catching-Crumbs-From-the-Table\" re",
-      "published": "Sun, 06 Sep 2026 07:15:10 +0000",
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-images-2-5/\">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49614720\">https://news.ycombinator.com/item?id=49614720</a></p>\n<p>Points: 283</p>\n<p># C",
+      "published": "Tue, 08 Sep 2026 18:37:51 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.24888\">https://arxiv.org/abs/2607.24888</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575515\">https://news.ycombinator.com/item?id=49575515</a></p>\n<p>Points: 177</p>\n<p># Comments: 40</p>",
-      "published": "Sat, 05 Sep 2026 11:25:18 +0000",
+      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/navier-stokes-solution/\">https://openai.com/index/navier-stokes-solution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613262\">https://news.ycombinator.com/item?id=49613262</a></p>\n<p>Points: 1185</p>\n<p># Comments: 1021</",
+      "published": "Tue, 08 Sep 2026 17:13:21 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "url": "https://kallus.org/blog/dummit_and_foote.html",
-      "summary": "<p>Article URL: <a href=\"https://kallus.org/blog/dummit_and_foote.html\">https://kallus.org/blog/dummit_and_foote.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569748\">https://news.ycombinator.com/item?id=49569748</a></p>\n<p>Points: 74</p>\n<p># Comments: 34</p>",
-      "published": "Fri, 04 Sep 2026 20:20:07 +0000",
+      "title": "Show HN: LLM Attention Visualization",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "summary": "<p>Article URL: <a href=\"https://ishamf.dev/p/llm-attention-visualizer/\">https://ishamf.dev/p/llm-attention-visualizer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613068\">https://news.ycombinator.com/item?id=49613068</a></p>\n<p>Points: 144</p>\n<p># Comments: 23</p>",
+      "published": "Tue, 08 Sep 2026 16:59:41 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Jigsaw Haiku",
-      "url": "https://jigsawhaiku.com/",
-      "summary": "<p>Hi HN! Jigsaw Haiku was originally designed with my puzzles site The Daily Baffle (<a href=\"https://dailybaffle.com\" rel=\"nofollow\">https://dailybaffle.com</a>) in mind. But once I had built it, I realized it just didn't quite fit with the aesthetic of the Baffle's other puzzles, so I decided to ",
-      "published": "Fri, 04 Sep 2026 18:14:44 +0000",
+      "title": "Getting phpBB 1.4.4 working in Docker",
+      "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
+      "summary": "<p>Article URL: <a href=\"https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html\">https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49598921\">https://news.ycombinator.com/item?id=49598921</a></p>\n<p>Poin",
+      "published": "Mon, 07 Sep 2026 14:35:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Decoding the NEC V20 Microcode",
-      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-      "summary": "<p>Article URL: <a href=\"https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html\">https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561002\">https://news.ycombinator.com/item?id=49561002</a></p>\n<",
-      "published": "Fri, 04 Sep 2026 05:53:38 +0000",
+      "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
+      "url": "https://news.ycombinator.com/item?id=49598009",
+      "summary": "<p>My first attempt at restoring 1991 Learning Company Spellbound for DOS for my children is dubious. Despite being stored nowhere near magnetic sources, there are read errors on the 3.5 inch floppies and Linux could not mount them. ddrescue extracted data but I have not confirmed it works. The box ",
+      "published": "Mon, 07 Sep 2026 13:09:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "John Margolies' photographs of roadside America",
-      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-      "summary": "<p>Article URL: <a href=\"https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/\">https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560682\">https://news.",
-      "published": "Fri, 04 Sep 2026 04:57:22 +0000",
+      "title": "An Accidental Blackboard",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html\">https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49579482\">https://news.ycombinator.com/it",
+      "published": "Sat, 05 Sep 2026 18:50:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Interactive Tree of Life",
-      "url": "https://ptree.org/",
-      "summary": "<p>Ptree consolidates of 11 taxonomic trees, both categorical like we used in school (plant, animalia) and phylogenetic (evolutionary descent), with instant crosswalk between them.<p>Across those trees it overlays 41 visual properties (categorical and numerical) assembled from hundreds of biological",
-      "published": "Fri, 04 Sep 2026 00:40:06 +0000",
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+      "summary": "<p>Article URL: <a href=\"https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/\">https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575914\">https://news.ycombinator.com/",
+      "published": "Sat, 05 Sep 2026 12:32:06 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tracing np.add, all the way down",
+      "url": "https://blog.veitheller.de/numpy.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.veitheller.de/numpy.html\">https://blog.veitheller.de/numpy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562430\">https://news.ycombinator.com/item?id=49562430</a></p>\n<p>Points: 48</p>\n<p># Comments: 2</p>",
+      "published": "Fri, 04 Sep 2026 09:42:29 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Trees use a \"muscle\", tension wood, to correct their posture",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html\">https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49546964\">https://news.ycombinator.com/item?id=49546964</a></p>\n<p>Po",
+      "published": "Thu, 03 Sep 2026 07:29:40 +0000",
       "source": "Hacker News"
     }
   ]

@@ -1,6 +1,44 @@
 {
-  "fetched_at": "2026-09-08T04:28:29.112648+00:00",
+  "fetched_at": "2026-09-09T04:34:30.763489+00:00",
   "hot_topics": [
+    {
+      "type": "repo",
+      "title": "Interactive roadmaps, guides and other educational content to help developers gr",
+      "description": "Interactive roadmaps, guides and other educational content to help developers gr",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "big_question": "Which specialization path aligns best with your current project goals and long-term career trajectory?",
+      "head_fake": "Stop guessing your next tech stack\u2014follow the map."
+    },
+    {
+      "type": "repo",
+      "title": "All Algorithms implemented in Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "How can implementing these from scratch deepen your understanding of time and space complexity?",
+      "head_fake": "Master the fundamentals by building them yourself."
+    },
+    {
+      "type": "hn",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "description": "Article URL: https://github.com/argonautlabsai/deltafin",
+      "url": "https://github.com/argonautlabsai/deltafin",
+      "big_question": "What architectural trade-offs enable massive LLMs to run efficiently on consumer hardware?",
+      "head_fake": "Running 2.8T parameters on a laptop just changed the AI game."
+    },
+    {
+      "type": "hn",
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "description": "Article URL: https://pointersgonewild.com/2026-08-25-replacing-a-rus",
+      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+      "big_question": "How does low-level memory layout optimization impact high-level application performance?",
+      "head_fake": "A single 64-bit swap just broke the speed record."
+    },
+    {
+      "type": "repo",
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs"
+    },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
@@ -8,40 +46,14 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
-      "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books"
+      "type": "hn",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560"
     },
     {
       "type": "hn",
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html"
-    },
-    {
-      "type": "hn",
-      "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet"
-    },
-    {
-      "type": "competition",
-      "title": "AI Content Engine Hackathon",
-      "url": "https://ai-content-engine-hacks.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Wolt",
-      "url": "https://hackerone.com/wolt"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Agoda Public",
-      "url": "https://hackerone.com/agoda-public"
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5"
     }
   ]
 }

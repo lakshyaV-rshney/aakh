@@ -1,38 +1,10 @@
 {
-  "fetched_at": "2026-09-08T04:28:17.043349+00:00",
+  "fetched_at": "2026-09-09T04:34:21.084043+00:00",
   "competitions": [
-    {
-      "title": "AI Content Engine Hackathon",
-      "url": "https://ai-content-engine-hacks.devpost.com/",
-      "deadline": "Sep 01 - 08, 2026",
-      "prize": "$2,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Sep 08, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "DIALED IN Builder Challenge",
-      "url": "https://dialedin.devpost.com/",
-      "deadline": "Aug 04 - Sep 08, 2026",
-      "prize": "$5,000",
-      "source": "Devpost"
-    },
     {
       "title": "Codebox Hacks Makeup",
       "url": "https://codebox-hacks-makeup.devpost.com/",
       "deadline": "Sep 07 - 09, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "drwwtest",
-      "url": "https://test-31278ff.devpost.com/",
-      "deadline": "Sep 08 - 09, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
@@ -68,6 +40,34 @@
       "title": "Music from BeatMind",
       "url": "https://music-from-beatmind.devpost.com/",
       "deadline": "Aug 27 - Sep 12, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Gen Agra",
+      "url": "https://gen-agra.devpost.com/",
+      "deadline": "Sep 07 - 12, 2026",
+      "prize": "\u20b9 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "AnimalHack 2026",
+      "url": "https://animalhack2026.devpost.com/",
+      "deadline": "Jun 14 - Sep 12, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "RoadStar Hackathon",
+      "url": "https://roadstarhackathon.devpost.com/",
+      "deadline": "Sep 05 - 13, 2026",
+      "prize": "$CAD 2,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "VentureFix",
+      "url": "https://venturefix.devpost.com/",
+      "deadline": "Aug 30 - Sep 13, 2026",
       "prize": "$0",
       "source": "Devpost"
     }
