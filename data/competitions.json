@@ -1,32 +1,18 @@
 {
-  "fetched_at": "2026-09-09T04:34:21.084043+00:00",
+  "fetched_at": "2026-09-11T04:31:23.927458+00:00",
   "competitions": [
     {
-      "title": "Codebox Hacks Makeup",
-      "url": "https://codebox-hacks-makeup.devpost.com/",
-      "deadline": "Sep 07 - 09, 2026",
-      "prize": "$0",
+      "title": "AI 4 Infra Challenge \u2013 Beginner Track",
+      "url": "https://ai-4-infra-challenge-begginer.devpost.com/",
+      "deadline": "Sep 10 - 11, 2026",
+      "prize": "$1,000",
       "source": "Devpost"
     },
     {
-      "title": "Agentic Cinema: The Blockbuster Hackathon",
-      "url": "https://agentic-cinema.devpost.com/",
-      "deadline": "Jul 27 - Sep 09, 2026",
-      "prize": "$75,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "UPAI-Hackdays",
-      "url": "https://upai-hackdays.devpost.com/",
-      "deadline": "Sep 07 - 10, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
-      "url": "https://hack2heal.devpost.com/",
-      "deadline": "Aug 25 - Sep 10, 2026",
-      "prize": "$100",
+      "title": "AI 4 Infra Challenge \u2013 Advanced Track",
+      "url": "https://ai-4-infra-advanced-track.devpost.com/",
+      "deadline": "Sep 11, 2026",
+      "prize": "$1,000",
       "source": "Devpost"
     },
     {
@@ -58,16 +44,30 @@
       "source": "Devpost"
     },
     {
-      "title": "RoadStar Hackathon",
-      "url": "https://roadstarhackathon.devpost.com/",
-      "deadline": "Sep 05 - 13, 2026",
-      "prize": "$CAD 2,000",
+      "title": "GenZ Can Hack 2026",
+      "url": "https://genz-can-hack-2026.devpost.com/",
+      "deadline": "Apr 01 - Sep 12, 2026",
+      "prize": "$1,000",
       "source": "Devpost"
     },
     {
-      "title": "VentureFix",
-      "url": "https://venturefix.devpost.com/",
-      "deadline": "Aug 30 - Sep 13, 2026",
+      "title": "Hack CMU",
+      "url": "https://hack-cmu-2026.devpost.com/",
+      "deadline": "Sep 11 - 12, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 12, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "internal hackathon | Elevate Ecosystem",
+      "url": "https://internal-ee-hackathon.devpost.com/",
+      "deadline": "Sep 11 - 12, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

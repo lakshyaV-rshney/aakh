@@ -1,38 +1,6 @@
 {
-  "fetched_at": "2026-09-09T04:34:30.763489+00:00",
+  "fetched_at": "2026-09-11T04:31:36.264551+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "Interactive roadmaps, guides and other educational content to help developers gr",
-      "description": "Interactive roadmaps, guides and other educational content to help developers gr",
-      "url": "https://github.com/nilbuild/developer-roadmap",
-      "big_question": "Which specialization path aligns best with your current project goals and long-term career trajectory?",
-      "head_fake": "Stop guessing your next tech stack\u2014follow the map."
-    },
-    {
-      "type": "repo",
-      "title": "All Algorithms implemented in Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "How can implementing these from scratch deepen your understanding of time and space complexity?",
-      "head_fake": "Master the fundamentals by building them yourself."
-    },
-    {
-      "type": "hn",
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "description": "Article URL: https://github.com/argonautlabsai/deltafin",
-      "url": "https://github.com/argonautlabsai/deltafin",
-      "big_question": "What architectural trade-offs enable massive LLMs to run efficiently on consumer hardware?",
-      "head_fake": "Running 2.8T parameters on a laptop just changed the AI game."
-    },
-    {
-      "type": "hn",
-      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-      "description": "Article URL: https://pointersgonewild.com/2026-08-25-replacing-a-rus",
-      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "big_question": "How does low-level memory layout optimization impact high-level application performance?",
-      "head_fake": "A single 64-bit swap just broke the speed record."
-    },
     {
       "type": "repo",
       "title": "public-apis/public-apis",
@@ -47,13 +15,33 @@
     },
     {
       "type": "hn",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560"
+      "title": "LLM Visualizer \u2013 Build a Transformer from Scratch",
+      "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard"
     },
     {
       "type": "hn",
-      "title": "Mercury 2.5",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5"
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai"
+    },
+    {
+      "type": "competition",
+      "title": "AI 4 Infra Challenge \u2013 Beginner Track",
+      "url": "https://ai-4-infra-challenge-begginer.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "AI 4 Infra Challenge \u2013 Advanced Track",
+      "url": "https://ai-4-infra-advanced-track.devpost.com/"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Wolt",
+      "url": "https://hackerone.com/wolt"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Agoda Public",
+      "url": "https://hackerone.com/agoda-public"
     }
   ]
 }

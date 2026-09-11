@@ -1,95 +1,74 @@
 {
-  "fetched_at": "2026-09-09T04:34:05.023538+00:00",
+  "fetched_at": "2026-09-11T04:31:07.487865+00:00",
   "stories": [
     {
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "summary": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117237320796901560\">https://mathstodon.xyz/@tao/117237320796901560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616968\">https://news.ycombinator.com/item?id=49616968</a></p>\n<p>Points: 238</p>\n<p># Comments: 170</p>",
-      "published": "Tue, 08 Sep 2026 21:00:52 +0000",
+      "title": "LLM Visualizer \u2013 Build a Transformer from Scratch",
+      "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+      "summary": "<p>Article URL: <a href=\"https://jayvisaria.github.io/LLM-Visualizer/#/dashboard\">https://jayvisaria.github.io/LLM-Visualizer/#/dashboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652996\">https://news.ycombinator.com/item?id=49652996</a></p>\n<p>Points: 11</p>\n<p># Comm",
+      "published": "Fri, 11 Sep 2026 02:51:51 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Mercury 2.5",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "summary": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-2-5\">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616354\">https://news.ycombinator.com/item?id=49616354</a></p>\n<p>Points: 141</p>\n<p>#",
-      "published": "Tue, 08 Sep 2026 20:14:52 +0000",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "summary": "<p>Article URL: <a href=\"https://system76.com/workstations/thelio-mira-ai\">https://system76.com/workstations/thelio-mira-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49651372\">https://news.ycombinator.com/item?id=49651372</a></p>\n<p>Points: 61</p>\n<p># Comments: 38</p>",
+      "published": "Thu, 10 Sep 2026 23:10:06 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "url": "https://github.com/argonautlabsai/deltafin",
-      "summary": "<p>Article URL: <a href=\"https://github.com/argonautlabsai/deltafin\">https://github.com/argonautlabsai/deltafin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616257\">https://news.ycombinator.com/item?id=49616257</a></p>\n<p>Points: 229</p>\n<p># Comments: 120</p>",
-      "published": "Tue, 08 Sep 2026 20:07:55 +0000",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "summary": "<p>Article URL: <a href=\"https://merybenavente.me/blog/proof-of-capture\">https://merybenavente.me/blog/proof-of-capture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649222\">https://news.ycombinator.com/item?id=49649222</a></p>\n<p>Points: 79</p>\n<p># Comments: 51</p>",
+      "published": "Thu, 10 Sep 2026 19:44:15 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Muse \u2013 Meta\u2019s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "summary": "<p>Article URL: <a href=\"https://ai.meta.com/muse/\">https://ai.meta.com/muse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49615537\">https://news.ycombinator.com/item?id=49615537</a></p>\n<p>Points: 378</p>\n<p># Comments: 404</p>",
-      "published": "Tue, 08 Sep 2026 19:25:00 +0000",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "summary": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/guides/agents-api/overview\">https://developers.openai.com/api/docs/guides/agents-api/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649213\">https://news.ycombinator.com/item?id=49649213</a></p>\n<p>Poin",
+      "published": "Thu, 10 Sep 2026 19:43:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-images-2-5/\">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49614720\">https://news.ycombinator.com/item?id=49614720</a></p>\n<p>Points: 283</p>\n<p># C",
-      "published": "Tue, 08 Sep 2026 18:37:51 +0000",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "summary": "<p>Article URL: <a href=\"https://auberon.xyz/blog/posts/deathray/\">https://auberon.xyz/blog/posts/deathray/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649124\">https://news.ycombinator.com/item?id=49649124</a></p>\n<p>Points: 113</p>\n<p># Comments: 73</p>",
+      "published": "Thu, 10 Sep 2026 19:34:20 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/navier-stokes-solution/\">https://openai.com/index/navier-stokes-solution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613262\">https://news.ycombinator.com/item?id=49613262</a></p>\n<p>Points: 1185</p>\n<p># Comments: 1021</",
-      "published": "Tue, 08 Sep 2026 17:13:21 +0000",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "summary": "<p><a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\" rel=\"nofollow\">https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647300\">htt",
+      "published": "Thu, 10 Sep 2026 17:23:42 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: LLM Attention Visualization",
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "summary": "<p>Article URL: <a href=\"https://ishamf.dev/p/llm-attention-visualizer/\">https://ishamf.dev/p/llm-attention-visualizer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613068\">https://news.ycombinator.com/item?id=49613068</a></p>\n<p>Points: 144</p>\n<p># Comments: 23</p>",
-      "published": "Tue, 08 Sep 2026 16:59:41 +0000",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "summary": "<p>Article URL: <a href=\"https://musictheory.pugetsound.edu/mt21c/MusicTheory.html\">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647134\">https://news.ycombinator.com/item?id=49647134</a></p>\n<p>Points: 180</p>\n<p>#",
+      "published": "Thu, 10 Sep 2026 17:14:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Getting phpBB 1.4.4 working in Docker",
-      "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
-      "summary": "<p>Article URL: <a href=\"https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html\">https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49598921\">https://news.ycombinator.com/item?id=49598921</a></p>\n<p>Poin",
-      "published": "Mon, 07 Sep 2026 14:35:12 +0000",
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "summary": "<p>Article URL: <a href=\"https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/\">https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49643546\">https://news.ycombinator.com/",
+      "published": "Thu, 10 Sep 2026 13:39:16 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
-      "url": "https://news.ycombinator.com/item?id=49598009",
-      "summary": "<p>My first attempt at restoring 1991 Learning Company Spellbound for DOS for my children is dubious. Despite being stored nowhere near magnetic sources, there are read errors on the 3.5 inch floppies and Linux could not mount them. ddrescue extracted data but I have not confirmed it works. The box ",
-      "published": "Mon, 07 Sep 2026 13:09:44 +0000",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "summary": "<p><a href=\"https://mathstodon.xyz/@andreasthom/117240536885387540\" rel=\"nofollow\">https://mathstodon.xyz/@andreasthom/117240536885387540</a><p><a href=\"https://mathstodon.xyz/@andreasthom/117240537520615623\" rel=\"nofollow\">https://mathstodon.xyz/@andreasthom/117240537520615623</a><p><a href=\"https:",
+      "published": "Thu, 10 Sep 2026 06:49:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "An Accidental Blackboard",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html\">https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49579482\">https://news.ycombinator.com/it",
-      "published": "Sat, 05 Sep 2026 18:50:25 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "summary": "<p>Article URL: <a href=\"https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/\">https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575914\">https://news.ycombinator.com/",
-      "published": "Sat, 05 Sep 2026 12:32:06 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Tracing np.add, all the way down",
-      "url": "https://blog.veitheller.de/numpy.html",
-      "summary": "<p>Article URL: <a href=\"https://blog.veitheller.de/numpy.html\">https://blog.veitheller.de/numpy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562430\">https://news.ycombinator.com/item?id=49562430</a></p>\n<p>Points: 48</p>\n<p># Comments: 2</p>",
-      "published": "Fri, 04 Sep 2026 09:42:29 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Trees use a \"muscle\", tension wood, to correct their posture",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html\">https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49546964\">https://news.ycombinator.com/item?id=49546964</a></p>\n<p>Po",
-      "published": "Thu, 03 Sep 2026 07:29:40 +0000",
+      "title": "What happens when a GPU writes memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "summary": "<p>Article URL: <a href=\"https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory\">https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49615922\">https://news.ycombinator.com/item?id=49615922</a></p>\n<p>Points",
+      "published": "Tue, 08 Sep 2026 19:46:59 +0000",
       "source": "Hacker News"
     }
   ]

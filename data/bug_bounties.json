@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T04:34:00.852814+00:00",
+  "fetched_at": "2026-09-11T04:31:06.245950+00:00",
   "bug_bounties": [
     {
       "title": "Wolt",
@@ -1094,6 +1094,12 @@
       "source": "HackerOne"
     },
     {
+      "title": "Scopely",
+      "url": "https://hackerone.com/scopely",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
       "title": "WordPress",
       "url": "https://hackerone.com/wordpress",
       "bounty": "Bounty offered",
@@ -1592,6 +1598,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Cappsule Sarl - Marketplace Bug Bounty Program",
+      "url": "https://bugcrowd.com/engagements/cappsule-sarl",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Majid Al Futtaim Retail",
       "url": "https://bugcrowd.com/engagements/carrefour",
       "bounty": "$4,000",
@@ -1601,6 +1613,12 @@
       "title": "Cash App",
       "url": "https://bugcrowd.com/engagements/cashapp",
       "bounty": "$18,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Catapult Labs Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/catapultlabs",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -1664,6 +1682,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "codecentric AG - Marketplace Bug Bounty Program",
+      "url": "https://bugcrowd.com/engagements/codecentric",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "codeclou GmbH",
       "url": "https://bugcrowd.com/engagements/codeclou",
       "bounty": "$1,500",
@@ -1712,6 +1736,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Creativas",
+      "url": "https://bugcrowd.com/engagements/creativas",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Dell Technologies Application Bug Bounty",
       "url": "https://bugcrowd.com/engagements/dell-com",
       "bounty": "$2,500",
@@ -1738,6 +1768,12 @@
     {
       "title": "DevSamurai",
       "url": "https://bugcrowd.com/engagements/devsamurai",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Digital Rose's Marketplace Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/digitalrose",
       "bounty": "$1,500",
       "source": "Bugcrowd"
     },
@@ -2486,6 +2522,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Railsware",
+      "url": "https://bugcrowd.com/engagements/railsware",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Raley Apps",
       "url": "https://bugcrowd.com/engagements/raleyapps",
       "bounty": "$1,500",
@@ -2561,6 +2603,12 @@
       "title": "SAP Invitational Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/sap-private-invite",
       "bounty": "$20,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Savignano Software Solutions Marketplace Bug Bounty Program",
+      "url": "https://bugcrowd.com/engagements/savignano",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -2840,6 +2888,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Vectors Bug Bounty ",
+      "url": "https://bugcrowd.com/engagements/vectors-marketplace",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Verisign Bug Bounty",
       "url": "https://bugcrowd.com/engagements/verisign",
       "bounty": "$10,000",
@@ -2992,6 +3046,12 @@
     {
       "title": "Axel Springer SE Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/axelspringerse/axelspringersevulnerabilitydisclosureprogram/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "BMC",
+      "url": "https://www.intigriti.com/programs/randstad/bmc/detail",
       "bounty": "Bounty offered",
       "source": "Intigriti"
     },
@@ -3536,6 +3596,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Tempo-Team ",
+      "url": "https://www.intigriti.com/programs/randstad/tempo-team/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "The Coca-Cola Company Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/tccc/coca-cola/detail",
       "bounty": "Bounty offered",
@@ -3638,12 +3704,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Venly",
-      "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-      "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Visma Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
       "bounty": "Bounty offered",
@@ -3700,6 +3760,12 @@
     {
       "title": "W\u00e4rtsil\u00e4 Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/wartsila/wartsila-vdp/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Yacht",
+      "url": "https://www.intigriti.com/programs/randstad/yacht/detail",
       "bounty": "Bounty offered",
       "source": "Intigriti"
     },
