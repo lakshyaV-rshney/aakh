@@ -1,34 +1,6 @@
 {
-  "fetched_at": "2026-09-11T04:31:23.927458+00:00",
+  "fetched_at": "2026-09-12T04:28:18.426341+00:00",
   "competitions": [
-    {
-      "title": "AI 4 Infra Challenge \u2013 Beginner Track",
-      "url": "https://ai-4-infra-challenge-begginer.devpost.com/",
-      "deadline": "Sep 10 - 11, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "AI 4 Infra Challenge \u2013 Advanced Track",
-      "url": "https://ai-4-infra-advanced-track.devpost.com/",
-      "deadline": "Sep 11, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "CSH Social Impact Ideathon",
-      "url": "https://csh-social-impact-ideathon.devpost.com/",
-      "deadline": "Aug 31 - Sep 11, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Music from BeatMind",
-      "url": "https://music-from-beatmind.devpost.com/",
-      "deadline": "Aug 27 - Sep 12, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "Gen Agra",
       "url": "https://gen-agra.devpost.com/",
@@ -37,10 +9,24 @@
       "source": "Devpost"
     },
     {
+      "title": "UPAI-Hackdays",
+      "url": "https://upai-hackdays.devpost.com/",
+      "deadline": "Sep 07 - 12, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "AnimalHack 2026",
       "url": "https://animalhack2026.devpost.com/",
       "deadline": "Jun 14 - Sep 12, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "AI 4 Infra Challenge \u2013 Advanced Track",
+      "url": "https://ai-4-infra-advanced-track.devpost.com/",
+      "deadline": "Sep 11 - 12, 2026",
+      "prize": "$1,000",
       "source": "Devpost"
     },
     {
@@ -58,6 +44,20 @@
       "source": "Devpost"
     },
     {
+      "title": "internal hackathon | Elevate Ecosystem",
+      "url": "https://internal-ee-hackathon.devpost.com/",
+      "deadline": "Sep 11 - 12, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackKentucky",
+      "url": "https://hackkentucky.devpost.com/",
+      "deadline": "Sep 11 - 12, 2026",
+      "prize": "$3,500",
+      "source": "Devpost"
+    },
+    {
       "title": "Graphiques Innovation Challenge ",
       "url": "https://graphiques-challenge.devpost.com/",
       "deadline": "Aug 21 - Sep 12, 2026",
@@ -65,9 +65,9 @@
       "source": "Devpost"
     },
     {
-      "title": "internal hackathon | Elevate Ecosystem",
-      "url": "https://internal-ee-hackathon.devpost.com/",
-      "deadline": "Sep 11 - 12, 2026",
+      "title": "Southwest MN Hacks",
+      "url": "https://southwest-mn-hacks.devpost.com/",
+      "deadline": "Sep 12 - 13, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

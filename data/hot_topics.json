@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-09-11T04:31:36.264551+00:00",
+  "fetched_at": "2026-09-12T04:28:32.811192+00:00",
   "hot_topics": [
+    {
+      "type": "repo",
+      "title": "nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers gr",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "big_question": "Which specialization path aligns best with your current coursework and long-term career goals?",
+      "head_fake": "Stop guessing your next tech stack\u2014follow the proven map."
+    },
+    {
+      "type": "repo",
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "How can mastering these implementations give you an edge in technical interviews?",
+      "head_fake": "Your personal algorithm library, ready to clone and conquer."
+    },
+    {
+      "type": "hn",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "description": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "big_question": "Will AI-driven code generation replace foundational CS education, or amplify it?",
+      "head_fake": "The singularity debate heats up: are we building tools or successors?"
+    },
     {
       "type": "repo",
       "title": "public-apis/public-apis",
@@ -15,33 +39,18 @@
     },
     {
       "type": "hn",
-      "title": "LLM Visualizer \u2013 Build a Transformer from Scratch",
-      "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard"
+      "title": "Show HN: Graphify C# \u2013 Compiler-accurate Find Usages for coding agents",
+      "url": "https://github.com/zachsaw/graphify-csharp"
     },
     {
       "type": "hn",
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai"
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/"
     },
     {
       "type": "competition",
-      "title": "AI 4 Infra Challenge \u2013 Beginner Track",
-      "url": "https://ai-4-infra-challenge-begginer.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "AI 4 Infra Challenge \u2013 Advanced Track",
-      "url": "https://ai-4-infra-advanced-track.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Wolt",
-      "url": "https://hackerone.com/wolt"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Agoda Public",
-      "url": "https://hackerone.com/agoda-public"
+      "title": "Gen Agra",
+      "url": "https://gen-agra.devpost.com/"
     }
   ]
 }

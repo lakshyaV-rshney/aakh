@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T04:31:06.245950+00:00",
+  "fetched_at": "2026-09-12T04:28:03.689316+00:00",
   "bug_bounties": [
     {
       "title": "Wolt",
@@ -286,12 +286,6 @@
     {
       "title": "eero",
       "url": "https://hackerone.com/eero",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Mozilla",
-      "url": "https://hackerone.com/mozilla",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1066,12 +1060,6 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
