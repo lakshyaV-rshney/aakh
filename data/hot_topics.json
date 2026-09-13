@@ -1,29 +1,21 @@
 {
-  "fetched_at": "2026-09-12T04:28:32.811192+00:00",
+  "fetched_at": "2026-09-13T04:40:28.640276+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "nilbuild/developer-roadmap",
+      "title": "Interactive roadmaps, guides and other educational content to help developers gr",
       "description": "Interactive roadmaps, guides and other educational content to help developers gr",
       "url": "https://github.com/nilbuild/developer-roadmap",
-      "big_question": "Which specialization path aligns best with your current coursework and long-term career goals?",
-      "head_fake": "Stop guessing your next tech stack\u2014follow the proven map."
+      "big_question": "How can structured learning paths accelerate your transition from tutorial hell to building production-ready systems?",
+      "head_fake": "Stop guessing your next learning step and follow a community-vetted path tailored to your exact stack."
     },
     {
       "type": "repo",
-      "title": "TheAlgorithms/Python",
+      "title": "All Algorithms implemented in Python",
       "description": "All Algorithms implemented in Python",
       "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "How can mastering these implementations give you an edge in technical interviews?",
-      "head_fake": "Your personal algorithm library, ready to clone and conquer."
-    },
-    {
-      "type": "hn",
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "description": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "big_question": "Will AI-driven code generation replace foundational CS education, or amplify it?",
-      "head_fake": "The singularity debate heats up: are we building tools or successors?"
+      "big_question": "What fundamental data structures and algorithms are you still avoiding that could optimize your next project?",
+      "head_fake": "Master core CS concepts by reading clean, tested implementations instead of dry textbook pseudocode."
     },
     {
       "type": "repo",
@@ -39,18 +31,23 @@
     },
     {
       "type": "hn",
-      "title": "Show HN: Graphify C# \u2013 Compiler-accurate Find Usages for coding agents",
-      "url": "https://github.com/zachsaw/graphify-csharp"
+      "title": "Align AI and Mathematics\u2013To Something Else",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/"
     },
     {
       "type": "hn",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/"
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
     },
     {
       "type": "competition",
-      "title": "Gen Agra",
-      "url": "https://gen-agra.devpost.com/"
+      "title": "Southwest MN Hacks",
+      "url": "https://southwest-mn-hacks.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "Hack Knowvy - 1",
+      "url": "https://hack-knowvy-1.devpost.com/"
     }
   ]
 }
