@@ -1,22 +1,6 @@
 {
-  "fetched_at": "2026-09-13T04:40:28.640276+00:00",
+  "fetched_at": "2026-09-14T04:48:56.939193+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "Interactive roadmaps, guides and other educational content to help developers gr",
-      "description": "Interactive roadmaps, guides and other educational content to help developers gr",
-      "url": "https://github.com/nilbuild/developer-roadmap",
-      "big_question": "How can structured learning paths accelerate your transition from tutorial hell to building production-ready systems?",
-      "head_fake": "Stop guessing your next learning step and follow a community-vetted path tailored to your exact stack."
-    },
-    {
-      "type": "repo",
-      "title": "All Algorithms implemented in Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "What fundamental data structures and algorithms are you still avoiding that could optimize your next project?",
-      "head_fake": "Master core CS concepts by reading clean, tested implementations instead of dry textbook pseudocode."
-    },
     {
       "type": "repo",
       "title": "public-apis/public-apis",
@@ -31,23 +15,33 @@
     },
     {
       "type": "hn",
-      "title": "Align AI and Mathematics\u2013To Something Else",
-      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/"
+      "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
+      "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html"
     },
     {
       "type": "hn",
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/"
     },
     {
       "type": "competition",
-      "title": "Southwest MN Hacks",
-      "url": "https://southwest-mn-hacks.devpost.com/"
+      "title": "The CAD Challenge 2026",
+      "url": "https://the-cad-challenge-2026.devpost.com/"
     },
     {
       "type": "competition",
-      "title": "Hack Knowvy - 1",
-      "url": "https://hack-knowvy-1.devpost.com/"
+      "title": "CALL-E: Your Code Is Calling",
+      "url": "https://call-e.devpost.com/"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Wolt",
+      "url": "https://hackerone.com/wolt"
+    },
+    {
+      "type": "bugbounty",
+      "title": "Agoda Public",
+      "url": "https://hackerone.com/agoda-public"
     }
   ]
 }

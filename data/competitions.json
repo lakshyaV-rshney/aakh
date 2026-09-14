@@ -1,74 +1,74 @@
 {
-  "fetched_at": "2026-09-13T04:40:15.169339+00:00",
+  "fetched_at": "2026-09-14T04:48:43.370384+00:00",
   "competitions": [
     {
-      "title": "Southwest MN Hacks",
-      "url": "https://southwest-mn-hacks.devpost.com/",
-      "deadline": "Sep 12 - 13, 2026",
+      "title": "The CAD Challenge 2026",
+      "url": "https://the-cad-challenge-2026.devpost.com/",
+      "deadline": "Sep 12 - 14, 2026",
+      "prize": "$750",
+      "source": "Devpost"
+    },
+    {
+      "title": "CALL-E: Your Code Is Calling",
+      "url": "https://call-e.devpost.com/",
+      "deadline": "Jul 23 - Sep 14, 2026",
+      "prize": "$10,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hyperbloom September - AI/ML",
+      "url": "https://hyperbloom-september.devpost.com/",
+      "deadline": "Aug 25 - Sep 14, 2026",
+      "prize": "$1,710",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agents for Humans Hackathon",
+      "url": "https://agentsforhumans.devpost.com/",
+      "deadline": "Aug 10 - Sep 14, 2026",
+      "prize": "$40,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "AI Builders Hackathon",
+      "url": "https://ai-builders-hackathon-2026.devpost.com/",
+      "deadline": "Aug 21 - Sep 15, 2026",
+      "prize": "$33,900",
+      "source": "Devpost"
+    },
+    {
+      "title": "GatewayGS Hackathon 2 ",
+      "url": "https://gatewaygs-hackathon-2.devpost.com/",
+      "deadline": "Sep 01 - 16, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "Hack Knowvy - 1",
-      "url": "https://hack-knowvy-1.devpost.com/",
-      "deadline": "Sep 13, 2026",
-      "prize": "$0",
+      "title": "TechCommons Hacks V2 - Hacks to Inspire",
+      "url": "https://techcommons-hacks-v2.devpost.com/",
+      "deadline": "Sep 10 - 17, 2026",
+      "prize": "$29,900",
       "source": "Devpost"
     },
     {
-      "title": "Shared OS Hackathon",
-      "url": "https://shared-os-hackathon.devpost.com/",
-      "deadline": "Sep 11 - 13, 2026",
-      "prize": "$5,500",
+      "title": "COMPSPHERE 12",
+      "url": "https://compsphere12.devpost.com/",
+      "deadline": "Aug 03 - Sep 17, 2026",
+      "prize": "$1,247",
       "source": "Devpost"
     },
     {
-      "title": "HackMTY 2026",
-      "url": "https://hackmty-26.devpost.com/",
-      "deadline": "Sep 12 - 13, 2026",
-      "prize": "$0",
+      "title": "Poly.Tech mini hackathon",
+      "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
+      "deadline": "Sep 11 - 17, 2026",
+      "prize": "$50",
       "source": "Devpost"
     },
     {
-      "title": "HackRice 16",
-      "url": "https://hackrice-16.devpost.com/",
-      "deadline": "Sep 11 - 13, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "HackWesTX VII",
-      "url": "https://hackwestx-vii.devpost.com/",
-      "deadline": "Sep 12 - 13, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Battle of the Schools",
-      "url": "https://battle-of-the-schools.devpost.com/",
-      "deadline": "Sep 12 - 13, 2026",
-      "prize": "$CAD 4,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "RoadStar Hackathon",
-      "url": "https://roadstarhackathon.devpost.com/",
-      "deadline": "Sep 05 - 13, 2026",
-      "prize": "$CAD 2,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "VentureFix",
-      "url": "https://venturefix.devpost.com/",
-      "deadline": "Aug 30 - Sep 13, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "VoltHacks",
-      "url": "https://volthacks.devpost.com/",
-      "deadline": "May 22 - Sep 13, 2026",
-      "prize": "$35,785",
+      "title": "The Rice University Urban Sustainability Hackathon",
+      "url": "https://rice-urban-sustainability.devpost.com/",
+      "deadline": "Jun 23 - Sep 18, 2026",
+      "prize": "$17,500",
       "source": "Devpost"
     }
   ]

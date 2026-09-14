@@ -1,102 +1,53 @@
 {
-  "fetched_at": "2026-09-13T04:40:03.708461+00:00",
+  "fetched_at": "2026-09-14T04:48:27.555834+00:00",
   "stories": [
     {
-      "title": "Align AI and Mathematics\u2013To Something Else",
-      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
-      "summary": "<p>Article URL: <a href=\"https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/\">https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678783\">https://news.yc",
-      "published": "Sun, 13 Sep 2026 00:47:48 +0000",
+      "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
+      "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
+      "summary": "<p>Article URL: <a href=\"https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html\">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>\n<p>Comments URL: <a ",
+      "published": "Mon, 14 Sep 2026 03:26:51 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "summary": "<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678683\">https://news.ycombinator.com/item?id=49678683</a></p>\n<p>Points: 259</p>\n<p># Com",
-      "published": "Sun, 13 Sep 2026 00:30:44 +0000",
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "summary": "<p>Article URL: <a href=\"https://giannirosato.com/blog/post/case-against-jxl/\">https://giannirosato.com/blog/post/case-against-jxl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690554\">https://news.ycombinator.com/item?id=49690554</a></p>\n<p>Points: 64</p>\n<p># Comments: ",
+      "published": "Mon, 14 Sep 2026 01:02:37 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
-      "summary": "<p>Article URL: <a href=\"https://agentsdock.net/\">https://agentsdock.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678435\">https://news.ycombinator.com/item?id=49678435</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
-      "published": "Sat, 12 Sep 2026 23:45:58 +0000",
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "<p>Article URL: <a href=\"https://www.interconnects.ai/p/open-source-ai-reading-list\">https://www.interconnects.ai/p/open-source-ai-reading-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690260\">https://news.ycombinator.com/item?id=49690260</a></p>\n<p>Points: 52</p>\n<p>",
+      "published": "Mon, 14 Sep 2026 00:22:51 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "summary": "<p>Article URL: <a href=\"https://withspecific.com/benchmarks/real-swe\">https://withspecific.com/benchmarks/real-swe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676820\">https://news.ycombinator.com/item?id=49676820</a></p>\n<p>Points: 167</p>\n<p># Comments: 89</p>",
-      "published": "Sat, 12 Sep 2026 20:25:48 +0000",
+      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts\">https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin",
+      "published": "Mon, 14 Sep 2026 00:07:09 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-      "url": "https://hachyderm.io/@simontatham/117201594980991062",
-      "summary": "<p>Article URL: <a href=\"https://hachyderm.io/@simontatham/117201594980991062\">https://hachyderm.io/@simontatham/117201594980991062</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49675902\">https://news.ycombinator.com/item?id=49675902</a></p>\n<p>Points: 226</p>\n<p># Comments:",
-      "published": "Sat, 12 Sep 2026 18:58:57 +0000",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "summary": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688695\">https://news.ycombinator.com/item?id=49688695</a></p>\n<p>Points: 637</p>\n<p># Comme",
+      "published": "Sun, 13 Sep 2026 21:06:13 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html\">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673580\">https://news.ycombinator.com/item?id=",
-      "published": "Sat, 12 Sep 2026 15:49:52 +0000",
+      "title": "Making Startups Powerful",
+      "url": "https://paulgraham.com/powerful.html",
+      "summary": "<p>Article URL: <a href=\"https://paulgraham.com/powerful.html\">https://paulgraham.com/powerful.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684196\">https://news.ycombinator.com/item?id=49684196</a></p>\n<p>Points: 182</p>\n<p># Comments: 81</p>",
+      "published": "Sun, 13 Sep 2026 14:09:53 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "summary": "<p><a href=\"https://archive.ph/kt50V\" rel=\"nofollow\">https://archive.ph/kt50V</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673098\">https://news.ycombinator.com/item?id=49673098</a></p>\n<p>Points: 424</p>\n<p># Comments: 291</p>",
-      "published": "Sat, 12 Sep 2026 15:08:27 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "summary": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2021/framework/index.html\">https://transformer-circuits.pub/2021/framework/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672365\">https://news.ycombinator.com/item?id=49672365</a></p>\n<p>Points: 91</p>\n<p>",
-      "published": "Sat, 12 Sep 2026 13:56:58 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "How Trail of Bits helps verify the integrity of Signal chats",
-      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-      "summary": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/\">https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c",
-      "published": "Sat, 12 Sep 2026 11:27:55 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "summary": "<p><a href=\"https://web.archive.org/web/20260911105205/https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/\" rel=\"nofollow\">https://web.archive.org/web/20260911105205/https://www.wired...</a><p><a href=\"https://archive.ph/1xTJ3\" rel=\"nofollow\">https://archive.ph/1xTJ3</a></p",
-      "published": "Fri, 11 Sep 2026 14:07:08 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "From Git to Fossil",
-      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-      "summary": "<p>Article URL: <a href=\"https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html\">https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649864\">https://news.ycombinator.com/item?id=49649864</a></p>\n<p>Po",
-      "published": "Thu, 10 Sep 2026 20:39:03 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "summary": "<p><a href=\"https://www.lg.com/global/newsroom/news/statements/statement-understanding-privacy-on-lg-smart-tvs/\" rel=\"nofollow\">https://www.lg.com/global/newsroom/news/statements/statement...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645480\">https://news.ycombin",
-      "published": "Thu, 10 Sep 2026 15:31:37 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "url": "https://eiln.github.io/posts/ane-dma.html",
-      "summary": "<p>Article URL: <a href=\"https://eiln.github.io/posts/ane-dma.html\">https://eiln.github.io/posts/ane-dma.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49636479\">https://news.ycombinator.com/item?id=49636479</a></p>\n<p>Points: 103</p>\n<p># Comments: 21</p>",
-      "published": "Thu, 10 Sep 2026 00:16:10 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Stabilizing Rust's Never Type",
-      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/\">https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49625056\">https://news.ycombinator.com/item?id=49625056</a></p>\n<p>Points: 156</p>\n<p># C",
-      "published": "Wed, 09 Sep 2026 11:57:45 +0000",
+      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+      "url": "https://eterdb.com/",
+      "summary": "<p>Hey everyone, a few months ago, after recovering from a Clade-generated bug, I was thinking to myself \u201cwouldn\u2019t it be nice if prod DB writes were easy to roll back\u201d. I\u2019ve put something together: it\u2019s a two-container deploy plus a CLI tool. It\u2019s far from being production ready, so please be gentle",
+      "published": "Thu, 10 Sep 2026 15:41:36 +0000",
       "source": "Hacker News"
     }
   ]
