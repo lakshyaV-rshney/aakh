@@ -126,9 +126,8 @@ def call_groq(activity: str, pool: str, fallback: str, model: str) -> list:
         except Exception as e:
             print(f"  attempt {attempt + 1} failed: {e}")
             if attempt == 1:
-                raise
-
-    raise RuntimeError("Groq failed after 2 attempts")
+                print("  Groq API failed entirely. Falling back to local data.")
+                return []
 
 
 def enforce_distribution(topics: list) -> list:

@@ -58,7 +58,7 @@ audio:
     voice: en-GB-RyanNeural
     file: morning_ryan.mp3
 groq:
-  model: qwen/qwen3.6-27b
+  model: llama-3.1-70b-versatile
 activity:
   digest_path: activity_today.md
   fallback_prompt: 'No activity digest found for today. Rank based on general student

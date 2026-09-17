@@ -1,6 +1,6 @@
 # Aakh
 
-**v1.3.1** — [Live](https://lakshyav-rshney.github.io/aakh/)
+**v1.3.2** — [Live](https://lakshyav-rshney.github.io/aakh/)
 
 A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bounties, and developer news every night. Ready before you wake up.
 
@@ -10,7 +10,11 @@ A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bo
 
 ## Changelog
 
-### v1.3.1 (Latest)
+### v1.3.2 (Latest)
+- **API Resilience:** Wrapped Groq LLM API calls in a robust exception handler to prevent pipeline crashes when external models are deprecated or return 404s, automatically falling back to local static JSON injection.
+- **Model Migration:** Updated default LLM to `llama-3.1-70b-versatile` after Qwen deprecation.
+
+### v1.3.1
 - **UI Polish:** Replaced dynamically loaded Lucide icons in the footer with embedded inline SVGs to ensure flawless, immediate rendering and added developer credits.
 
 ### v1.3.0
@@ -50,7 +54,7 @@ GitHub Actions (cron: 00:10 UTC) + Pip Caching
 |- fetch_word_of_day.py         & /
 |- wait
 |
-|- rank_hot_topics.py           Groq qwen/qwen3.6-27b        -> data/hot_topics.json
+|- rank_hot_topics.py           Groq llama-3.1-70b-versatile -> data/hot_topics.json
 |- build_dashboard_data.py      merge static JSON            -> docs/data/data.json
 |- generate_audio.py            edge-tts x4 voices           -> docs/audio/*.mp3
 |
@@ -72,7 +76,7 @@ Each script handles failures and corrupt JSON independently. One broken source d
 | Bug bounties | arkadiyt/bounty-targets-data            |
 | News         | HNRSS                                   |
 | Vocabulary   | Free Dictionary API                     |
-| LLM ranking  | Groq API (qwen/qwen3.6-27b)             |
+| LLM ranking  | Groq API (llama-3.1-70b-versatile)      |
 | TTS          | edge-tts (Microsoft Edge neural voices) |
 | Icons        | Lucide                                  |
 | Frontend     | HTML, CSS, vanilla JS — no framework    |
