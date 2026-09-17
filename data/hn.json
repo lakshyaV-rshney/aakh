@@ -1,53 +1,95 @@
 {
-  "fetched_at": "2026-09-14T04:48:27.555834+00:00",
+  "fetched_at": "2026-09-17T08:08:50.200002+00:00",
   "stories": [
     {
-      "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
-      "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
-      "summary": "<p>Article URL: <a href=\"https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html\">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>\n<p>Comments URL: <a ",
-      "published": "Mon, 14 Sep 2026 03:26:51 +0000",
+      "title": "Cloudflare/Security-Audit-Skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "<p>Article URL: <a href=\"https://github.com/cloudflare/security-audit-skill\">https://github.com/cloudflare/security-audit-skill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49736466\">https://news.ycombinator.com/item?id=49736466</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p",
+      "published": "Thu, 17 Sep 2026 04:36:55 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "summary": "<p>Article URL: <a href=\"https://giannirosato.com/blog/post/case-against-jxl/\">https://giannirosato.com/blog/post/case-against-jxl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690554\">https://news.ycombinator.com/item?id=49690554</a></p>\n<p>Points: 64</p>\n<p># Comments: ",
-      "published": "Mon, 14 Sep 2026 01:02:37 +0000",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c60m3k28j81mo\">https://www.bbc.com/news/articles/c60m3k28j81mo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735367\">https://news.ycombinator.com/item?id=49735367</a></p>\n<p>Points: 34</p>\n<p># Comments: 24</p>",
+      "published": "Thu, 17 Sep 2026 01:33:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Open-Source AI and Open Models Reading List",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "summary": "<p>Article URL: <a href=\"https://www.interconnects.ai/p/open-source-ai-reading-list\">https://www.interconnects.ai/p/open-source-ai-reading-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690260\">https://news.ycombinator.com/item?id=49690260</a></p>\n<p>Points: 52</p>\n<p>",
-      "published": "Mon, 14 Sep 2026 00:22:51 +0000",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "summary": "<p>Article URL: <a href=\"https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/\">https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734929\">https://news.ycom",
+      "published": "Thu, 17 Sep 2026 00:28:33 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts\">https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin",
-      "published": "Mon, 14 Sep 2026 00:07:09 +0000",
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cw4gmlyvj422o\">https://www.bbc.com/news/articles/cw4gmlyvj422o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734409\">https://news.ycombinator.com/item?id=49734409</a></p>\n<p>Points: 39</p>\n<p># Comments: 9</p>",
+      "published": "Wed, 16 Sep 2026 23:25:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688695\">https://news.ycombinator.com/item?id=49688695</a></p>\n<p>Points: 637</p>\n<p># Comme",
-      "published": "Sun, 13 Sep 2026 21:06:13 +0000",
+      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "summary": "<p>Article URL: <a href=\"https://openspec.dev/\">https://openspec.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734264\">https://news.ycombinator.com/item?id=49734264</a></p>\n<p>Points: 134</p>\n<p># Comments: 53</p>",
+      "published": "Wed, 16 Sep 2026 23:06:39 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Making Startups Powerful",
-      "url": "https://paulgraham.com/powerful.html",
-      "summary": "<p>Article URL: <a href=\"https://paulgraham.com/powerful.html\">https://paulgraham.com/powerful.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684196\">https://news.ycombinator.com/item?id=49684196</a></p>\n<p>Points: 182</p>\n<p># Comments: 81</p>",
-      "published": "Sun, 13 Sep 2026 14:09:53 +0000",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.16338\">https://arxiv.org/abs/2609.16338</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732931\">https://news.ycombinator.com/item?id=49732931</a></p>\n<p>Points: 194</p>\n<p># Comments: 30</p>",
+      "published": "Wed, 16 Sep 2026 20:59:24 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
-      "url": "https://eterdb.com/",
-      "summary": "<p>Hey everyone, a few months ago, after recovering from a Clade-generated bug, I was thinking to myself \u201cwouldn\u2019t it be nice if prod DB writes were easy to roll back\u201d. I\u2019ve put something together: it\u2019s a two-container deploy plus a CLI tool. It\u2019s far from being production ready, so please be gentle",
-      "published": "Thu, 10 Sep 2026 15:41:36 +0000",
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "summary": "<p>Article URL: <a href=\"https://filipovski.net/2026/09/16/backups-arent-simple.html\">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732513\">https://news.ycombinator.com/item?id=49732513</a></p>\n<p>Points: 213</p>\n",
+      "published": "Wed, 16 Sep 2026 20:27:16 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "summary": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/rl/\">https://mimo.xiaomi.com/rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732270\">https://news.ycombinator.com/item?id=49732270</a></p>\n<p>Points: 418</p>\n<p># Comments: 100</p>",
+      "published": "Wed, 16 Sep 2026 20:09:18 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "summary": "<p>Article URL: <a href=\"https://rohanbansal.com/qorl\">https://rohanbansal.com/qorl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731285\">https://news.ycombinator.com/item?id=49731285</a></p>\n<p>Points: 524</p>\n<p># Comments: 108</p>",
+      "published": "Wed, 16 Sep 2026 18:50:00 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "summary": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724881\">https://n",
+      "published": "Wed, 16 Sep 2026 11:15:53 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Comparison of Malloc() Algorithms",
+      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+      "summary": "<p>Article URL: <a href=\"https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html\">https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715318\">https://news.ycombinator.com/it",
+      "published": "Tue, 15 Sep 2026 16:52:25 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Developing provably correct Rust code with Verus",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "summary": "<p>Article URL: <a href=\"https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus\">https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700153\">https://news.ycombinator.com/it",
+      "published": "Mon, 14 Sep 2026 16:57:50 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+      "summary": "<p>Article URL: <a href=\"https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html\">https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685835\">https://news.ycombinator.com/item?id=49685835</a></p>\n<p>Points: 17",
+      "published": "Sun, 13 Sep 2026 16:38:22 +0000",
       "source": "Hacker News"
     }
   ]

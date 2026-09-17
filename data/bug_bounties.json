@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-09-14T04:48:28.336737+00:00",
+  "fetched_at": "2026-09-17T08:08:45.697217+00:00",
   "bug_bounties": [
+    {
+      "title": "d-you App & German EUDI Wallet Ecosystem",
+      "url": "https://hackerone.com/common_codes",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
     {
       "title": "Wolt",
       "url": "https://hackerone.com/wolt",
@@ -158,7 +164,7 @@
       "source": "HackerOne"
     },
     {
-      "title": "Circle BBP",
+      "title": "Circle",
       "url": "https://hackerone.com/circle-bbp",
       "bounty": "Bounty offered",
       "source": "HackerOne"
@@ -166,6 +172,12 @@
     {
       "title": "Varonis",
       "url": "https://hackerone.com/varonis",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Klarna",
+      "url": "https://hackerone.com/klarna",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -454,6 +466,12 @@
     {
       "title": "Sorare",
       "url": "https://hackerone.com/sorare",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Arc",
+      "url": "https://hackerone.com/arc-bbp",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1060,6 +1078,12 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -2966,6 +2990,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "ADAC Vulnerability Disclosure Program",
+      "url": "https://www.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Adobe Public",
       "url": "https://www.intigriti.com/programs/adobe/adobepublic/detail",
       "bounty": "$15,000",
@@ -3140,6 +3170,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "DataCamp",
+      "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "bounty": "\u20ac1,500",
+      "source": "Intigriti"
+    },
+    {
       "title": "De Morgen",
       "url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
       "bounty": "\u20ac2,200",
@@ -3230,6 +3266,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "GULP",
+      "url": "https://www.intigriti.com/programs/randstad/gulp/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
       "url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
       "bounty": "Bounty offered",
@@ -3296,12 +3338,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Intel\u00ae",
-      "url": "https://www.intigriti.com/programs/intel/intel/detail",
-      "bounty": "$100,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Intergamma",
       "url": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
       "bounty": "\u20ac5,500",
@@ -3317,6 +3353,12 @@
       "title": "KU Leuven Vulnerability Disclosure Program (VDP)",
       "url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Kinepolis Group",
+      "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3422,6 +3464,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Ninja Kiwi Games Bug Bounty program",
+      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+      "bounty": "\u20ac4,125",
+      "source": "Intigriti"
+    },
+    {
       "title": "OURA Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/ourahealthoy/ouravulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
@@ -3437,6 +3485,12 @@
       "title": "Orbia Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "PDQ bug bounty program",
+      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {
@@ -3539,6 +3593,12 @@
       "title": "SimScale",
       "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
       "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Skoda Auto Bug Bounty Program",
+      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {

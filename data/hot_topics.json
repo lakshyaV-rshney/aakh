@@ -1,47 +1,69 @@
 {
-  "fetched_at": "2026-09-14T04:48:56.939193+00:00",
+  "fetched_at": "2026-09-17T08:09:09.506782+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
+      "title": "donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "big_question": "How can I apply distributed system patterns to my next project interview?",
+      "head_fake": "System design is the new coding challenge."
     },
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+      "big_question": "What is the most efficient path to contribute to a massive open-source curriculum?",
+      "head_fake": "Contribute to the codebase that taught millions."
     },
     {
       "type": "hn",
-      "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
-      "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html"
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "description": "A deep dive into using reinforcement learning to optimize database query execution plans.",
+      "url": "https://rohanbansal.com/qorl",
+      "big_question": "Can ML models replace traditional heuristics in database optimization?",
+      "head_fake": "AI is outperforming decades of DB engineering."
     },
     {
       "type": "hn",
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/"
+      "title": "Nvidia announces native GPU programming in Rust",
+      "description": "Nvidia introduces two tracks for writing GPU kernels using Rust, enhancing safety and performance.",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "big_question": "How will Rust's memory safety change the landscape of high-performance GPU computing?",
+      "head_fake": "Rust is finally conquering the GPU."
     },
     {
       "type": "competition",
-      "title": "The CAD Challenge 2026",
-      "url": "https://the-cad-challenge-2026.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "CALL-E: Your Code Is Calling",
-      "url": "https://call-e.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Wolt",
-      "url": "https://hackerone.com/wolt"
+      "title": "COMPSPHERE 12",
+      "description": "A global competitive programming contest for students and professionals.",
+      "url": "https://compsphere12.devpost.com/",
+      "big_question": "What algorithmic strategies will be key to winning this year's comp sphere?",
+      "head_fake": "Test your algorithmic limits in COMPSPHERE 12."
     },
     {
       "type": "bugbounty",
-      "title": "Agoda Public",
-      "url": "https://hackerone.com/agoda-public"
+      "title": "Vercel Open Source",
+      "description": "Bug bounty program for Vercel's open-source projects.",
+      "url": "https://hackerone.com/vercel-open-source",
+      "big_question": "What are the common security vulnerabilities in modern frontend frameworks?",
+      "head_fake": "Secure the future of web development."
+    },
+    {
+      "type": "floater",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "description": "How modern engineering is reviving ancient sail technology for sustainable shipping.",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "big_question": "How can sustainable engineering principles be applied to software infrastructure?",
+      "head_fake": "Sustainability is the new efficiency."
+    },
+    {
+      "type": "floater",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "description": "A scientific breakthrough in creating hybrid brain tissue for medical research.",
+      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "big_question": "What ethical and technical challenges arise from hybrid biological systems?",
+      "head_fake": "The future of medicine is hybrid."
     }
   ]
 }
