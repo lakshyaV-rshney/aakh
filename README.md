@@ -1,6 +1,6 @@
 # Aakh
 
-**v1.3.2** — [Live](https://lakshyav-rshney.github.io/aakh/)
+**v1.3.3** — [Live](https://lakshyav-rshney.github.io/aakh/)
 
 A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bounties, and developer news every night. Ready before you wake up.
 
@@ -10,7 +10,10 @@ A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bo
 
 ## Changelog
 
-### v1.3.2 (Latest)
+### v1.3.3 (Latest)
+- **Zero-Maintenance AI:** Engineered dynamic Groq API model selection. The pipeline now queries Groq's available models list at runtime. If the configured LLM is deprecated, it automatically migrates to the best available fallback model, completely eliminating the need for manual config updates.
+
+### v1.3.2
 - **API Resilience:** Wrapped Groq LLM API calls in a robust exception handler to prevent pipeline crashes when external models are deprecated or return 404s, automatically falling back to local static JSON injection.
 - **Model Migration:** Updated default LLM to `llama-3.1-70b-versatile` after Qwen deprecation.
 

@@ -89,6 +89,21 @@ def call_groq(activity: str, pool: str, fallback: str, model: str) -> list:
 
     client = Groq(api_key=os.environ["GROQ_API_KEY"])
 
+    # --- Dynamic Model Selection ---
+    try:
+        available_models = [m.id for m in client.models.list().data]
+        if model not in available_models:
+            valid_models = [m for m in available_models if "whisper" not in m and "prompt-guard" not in m]
+            if valid_models:
+                # Prefer larger parameter models or qwen/llama if available, else pick first
+                qwen_models = [m for m in valid_models if "qwen" in m]
+                fallback_model = qwen_models[0] if qwen_models else valid_models[0]
+                print(f"  model '{model}' not found. Auto-migrating to '{fallback_model}'")
+                model = fallback_model
+    except Exception as e:
+        print(f"  Warning: Could not fetch models list: {e}")
+    # -------------------------------
+
     activity_section = (
         f"User's recent activity:\n---\n{activity}\n---"
         if activity else f"No activity log. {fallback}"
