@@ -1,95 +1,88 @@
 {
-  "fetched_at": "2026-09-17T08:08:50.200002+00:00",
+  "fetched_at": "2026-09-18T04:36:15.124038+00:00",
   "stories": [
     {
-      "title": "Cloudflare/Security-Audit-Skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "summary": "<p>Article URL: <a href=\"https://github.com/cloudflare/security-audit-skill\">https://github.com/cloudflare/security-audit-skill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49736466\">https://news.ycombinator.com/item?id=49736466</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p",
-      "published": "Thu, 17 Sep 2026 04:36:55 +0000",
+      "title": "Code Scans",
+      "url": "https://devin.ai/blog/introducing-code-scans",
+      "summary": "<p>Article URL: <a href=\"https://devin.ai/blog/introducing-code-scans\">https://devin.ai/blog/introducing-code-scans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749744\">https://news.ycombinator.com/item?id=49749744</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+      "published": "Fri, 18 Sep 2026 03:00:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Part-human part-mouse brain developed in science breakthrough",
-      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c60m3k28j81mo\">https://www.bbc.com/news/articles/c60m3k28j81mo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735367\">https://news.ycombinator.com/item?id=49735367</a></p>\n<p>Points: 34</p>\n<p># Comments: 24</p>",
-      "published": "Thu, 17 Sep 2026 01:33:10 +0000",
+      "title": "Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "summary": "<p>Article URL: <a href=\"https://www.hacktron.ai/blog/hacking-openai\">https://www.hacktron.ai/blog/hacking-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749656\">https://news.ycombinator.com/item?id=49749656</a></p>\n<p>Points: 90</p>\n<p># Comments: 27</p>",
+      "published": "Fri, 18 Sep 2026 02:47:24 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "summary": "<p>Article URL: <a href=\"https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/\">https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734929\">https://news.ycom",
-      "published": "Thu, 17 Sep 2026 00:28:33 +0000",
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8-omni-flash\">https://qwen.ai/blog?id=qwen3.8-omni-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747925\">https://news.ycombinator.com/item?id=49747925</a></p>\n<p>Points: 99</p>\n<p># Comments: 23</p>",
+      "published": "Thu, 17 Sep 2026 23:05:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "US interest rates raised for first time in three years",
-      "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cw4gmlyvj422o\">https://www.bbc.com/news/articles/cw4gmlyvj422o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734409\">https://news.ycombinator.com/item?id=49734409</a></p>\n<p>Points: 39</p>\n<p># Comments: 9</p>",
-      "published": "Wed, 16 Sep 2026 23:25:17 +0000",
+      "title": "How Uber Protects Against Retry Storms",
+      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "summary": "<p>Article URL: <a href=\"https://www.uber.com/us/en/blog/protecting-against-retry-storms/\">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746628\">https://news.ycombinator.com/item?id=49746628</a></p>\n<p>Points",
+      "published": "Thu, 17 Sep 2026 21:14:32 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
-      "summary": "<p>Article URL: <a href=\"https://openspec.dev/\">https://openspec.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734264\">https://news.ycombinator.com/item?id=49734264</a></p>\n<p>Points: 134</p>\n<p># Comments: 53</p>",
-      "published": "Wed, 16 Sep 2026 23:06:39 +0000",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "summary": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-2-27b\">https://prismml.com/news/bonsai-2-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746618\">https://news.ycombinator.com/item?id=49746618</a></p>\n<p>Points: 311</p>\n<p># Comments: 103</p>",
+      "published": "Thu, 17 Sep 2026 21:13:31 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.16338\">https://arxiv.org/abs/2609.16338</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732931\">https://news.ycombinator.com/item?id=49732931</a></p>\n<p>Points: 194</p>\n<p># Comments: 30</p>",
-      "published": "Wed, 16 Sep 2026 20:59:24 +0000",
+      "title": "Flet 1.0 \u2013 Build cross-platform apps in Python",
+      "url": "https://flet.dev/",
+      "summary": "<p>Article URL: <a href=\"https://flet.dev/\">https://flet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746290\">https://news.ycombinator.com/item?id=49746290</a></p>\n<p>Points: 76</p>\n<p># Comments: 38</p>",
+      "published": "Thu, 17 Sep 2026 20:44:28 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Backups Aren't Simple",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "summary": "<p>Article URL: <a href=\"https://filipovski.net/2026/09/16/backups-arent-simple.html\">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732513\">https://news.ycombinator.com/item?id=49732513</a></p>\n<p>Points: 213</p>\n",
-      "published": "Wed, 16 Sep 2026 20:27:16 +0000",
+      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "summary": "<p>Article URL: <a href=\"https://bend-lang.com/\">https://bend-lang.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746163\">https://news.ycombinator.com/item?id=49746163</a></p>\n<p>Points: 360</p>\n<p># Comments: 182</p>",
+      "published": "Thu, 17 Sep 2026 20:36:13 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "url": "https://mimo.xiaomi.com/rl/",
-      "summary": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/rl/\">https://mimo.xiaomi.com/rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732270\">https://news.ycombinator.com/item?id=49732270</a></p>\n<p>Points: 418</p>\n<p># Comments: 100</p>",
-      "published": "Wed, 16 Sep 2026 20:09:18 +0000",
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/astra-for-law/\">https://openai.com/index/astra-for-law/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745940\">https://news.ycombinator.com/item?id=49745940</a></p>\n<p>Points: 395</p>\n<p># Comments: 424</p>",
+      "published": "Thu, 17 Sep 2026 20:17:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "summary": "<p>Article URL: <a href=\"https://rohanbansal.com/qorl\">https://rohanbansal.com/qorl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731285\">https://news.ycombinator.com/item?id=49731285</a></p>\n<p>Points: 524</p>\n<p># Comments: 108</p>",
-      "published": "Wed, 16 Sep 2026 18:50:00 +0000",
+      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "url": "https://zscc.ai/careers?job_id=109821",
+      "summary": "<p>Article URL: <a href=\"https://zscc.ai/careers?job_id=109821\">https://zscc.ai/careers?job_id=109821</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743567\">https://news.ycombinator.com/item?id=49743567</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "published": "Thu, 17 Sep 2026 17:00:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "summary": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724881\">https://n",
-      "published": "Wed, 16 Sep 2026 11:15:53 +0000",
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.18842\">https://arxiv.org/abs/2609.18842</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743483\">https://news.ycombinator.com/item?id=49743483</a></p>\n<p>Points: 123</p>\n<p># Comments: 38</p>",
+      "published": "Thu, 17 Sep 2026 16:55:14 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Comparison of Malloc() Algorithms",
-      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
-      "summary": "<p>Article URL: <a href=\"https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html\">https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715318\">https://news.ycombinator.com/it",
-      "published": "Tue, 15 Sep 2026 16:52:25 +0000",
+      "title": "TSMC revealing details about next gen A14 node",
+      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
+      "summary": "<p>Abstract at IEDM website below<p>ABSTRACT<p>A14 NanoFlexTM Pro platform technology features the world\u2019s smallest SRAM with a cell size <0.017\u03bcm2 and highest SRAM macro density to date through dimensional ground rule scaling. Coupled with standard cell innovations, it delivers a full-node PPA impr",
+      "published": "Tue, 15 Sep 2026 15:31:55 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Developing provably correct Rust code with Verus",
-      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-      "summary": "<p>Article URL: <a href=\"https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus\">https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700153\">https://news.ycombinator.com/it",
-      "published": "Mon, 14 Sep 2026 16:57:50 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
-      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-      "summary": "<p>Article URL: <a href=\"https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html\">https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685835\">https://news.ycombinator.com/item?id=49685835</a></p>\n<p>Points: 17",
-      "published": "Sun, 13 Sep 2026 16:38:22 +0000",
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+      "summary": "<p>Article URL: <a href=\"https://www.sci.news/paleontology/spanish-diplodocus-15064.html\">https://www.sci.news/paleontology/spanish-diplodocus-15064.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710447\">https://news.ycombinator.com/item?id=49710447</a></p>\n<p>Points: ",
+      "published": "Tue, 15 Sep 2026 10:46:24 +0000",
       "source": "Hacker News"
     }
   ]

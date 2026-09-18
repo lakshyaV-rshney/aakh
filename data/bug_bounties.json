@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T08:08:45.697217+00:00",
+  "fetched_at": "2026-09-18T04:36:14.523109+00:00",
   "bug_bounties": [
     {
       "title": "d-you App & German EUDI Wallet Ecosystem",
@@ -3170,12 +3170,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "DataCamp",
-      "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "bounty": "\u20ac1,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "De Morgen",
       "url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
       "bounty": "\u20ac2,200",
@@ -3185,12 +3179,6 @@
       "title": "De Volkskrant",
       "url": "https://www.intigriti.com/programs/dpgm/devolkskrant/detail",
       "bounty": "\u20ac2,200",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Delen Private Bank",
-      "url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
-      "bounty": "\u20ac15,000",
       "source": "Intigriti"
     },
     {
@@ -3338,6 +3326,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Intel\u00ae Vulnerability Disclosure Program ",
+      "url": "https://www.intigriti.com/programs/intel/intelvulnerabilitydisclosureprogram/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Intergamma",
       "url": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
       "bounty": "\u20ac5,500",
@@ -3353,12 +3347,6 @@
       "title": "KU Leuven Vulnerability Disclosure Program (VDP)",
       "url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Kinepolis Group",
-      "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3509,6 +3497,12 @@
       "title": "Port of Antwerp-Bruges",
       "url": "https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail",
       "bounty": "\u20ac4,500",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Posten Bring Responsible Disclosure",
+      "url": "https://www.intigriti.com/programs/postenbringas/vdp/detail",
+      "bounty": "Bounty offered",
       "source": "Intigriti"
     },
     {
@@ -3686,6 +3680,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "TrueLayer",
+      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "TrueLayer VDP",
       "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
       "bounty": "Bounty offered",
@@ -3749,6 +3749,12 @@
       "title": "VTM GO",
       "url": "https://www.intigriti.com/programs/dpgm/vtmgo/detail",
       "bounty": "\u20ac2,200",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Venly",
+      "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {

@@ -1,25 +1,18 @@
 {
-  "fetched_at": "2026-09-17T08:09:01.259400+00:00",
+  "fetched_at": "2026-09-18T04:36:27.848917+00:00",
   "competitions": [
-    {
-      "title": "COMPSPHERE 12",
-      "url": "https://compsphere12.devpost.com/",
-      "deadline": "Aug 03 - Sep 17, 2026",
-      "prize": "$1,247",
-      "source": "Devpost"
-    },
-    {
-      "title": "Poly.Tech mini hackathon",
-      "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
-      "deadline": "Sep 11 - 17, 2026",
-      "prize": "$50",
-      "source": "Devpost"
-    },
     {
       "title": "The Rice University Urban Sustainability Hackathon",
       "url": "https://rice-urban-sustainability.devpost.com/",
       "deadline": "Jun 23 - Sep 18, 2026",
       "prize": "$17,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "COMPSPHERE 12",
+      "url": "https://compsphere12.devpost.com/",
+      "deadline": "Aug 03 - Sep 18, 2026",
+      "prize": "$1,247",
       "source": "Devpost"
     },
     {
@@ -69,6 +62,13 @@
       "url": "https://munichtech-expo.devpost.com/",
       "deadline": "Sep 01 - 20, 2026",
       "prize": "\u20ac0",
+      "source": "Devpost"
+    },
+    {
+      "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
+      "url": "https://yc-fall-2026-x-moss.devpost.com/",
+      "deadline": "Sep 06 - 20, 2026",
+      "prize": "\u20b9 50,000",
       "source": "Devpost"
     }
   ]
