@@ -1,45 +1,10 @@
 {
-  "fetched_at": "2026-09-18T04:36:27.848917+00:00",
+  "fetched_at": "2026-09-19T04:32:05.931549+00:00",
   "competitions": [
     {
-      "title": "The Rice University Urban Sustainability Hackathon",
-      "url": "https://rice-urban-sustainability.devpost.com/",
-      "deadline": "Jun 23 - Sep 18, 2026",
-      "prize": "$17,500",
-      "source": "Devpost"
-    },
-    {
-      "title": "COMPSPHERE 12",
-      "url": "https://compsphere12.devpost.com/",
-      "deadline": "Aug 03 - Sep 18, 2026",
-      "prize": "$1,247",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
-      "url": "https://hack2heal.devpost.com/",
-      "deadline": "Aug 25 - Sep 18, 2026",
-      "prize": "$100",
-      "source": "Devpost"
-    },
-    {
-      "title": "TechCommons Hacks V2 - Hacks to Inspire",
-      "url": "https://techcommons-hacks-v2.devpost.com/",
-      "deadline": "Sep 10 - 18, 2026",
-      "prize": "$29,900",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Sep 18, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "DFA Design Sprint",
-      "url": "https://dfa-kickoff.devpost.com/",
-      "deadline": "Sep 08 - 19, 2026",
+      "title": "Gotong Royong Hackathon",
+      "url": "https://gotong-royong-hackathon.devpost.com/",
+      "deadline": "Sep 19, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
@@ -51,6 +16,41 @@
       "source": "Devpost"
     },
     {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 19, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackHERS 2026",
+      "url": "https://gwc-hackhers-2026.devpost.com/",
+      "deadline": "Sep 18 - 19, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Expand your Agents' Horizons - Build with K2 Horizon",
+      "url": "https://mdshacks.devpost.com/",
+      "deadline": "Sep 18 - 19, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Bay Hacks",
+      "url": "https://bayhacks-2026.devpost.com/",
+      "deadline": "Sep 18 - 19, 2026",
+      "prize": "$1,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "General Learning Hacks",
+      "url": "https://general-learning-hacks.devpost.com/",
+      "deadline": "Sep 18 - 19, 2026",
+      "prize": "$25,000",
+      "source": "Devpost"
+    },
+    {
       "title": "CAST-GNY Startup Pitch Competition 2026",
       "url": "https://castgnypitch2026.devpost.com/",
       "deadline": "Sep 01 - 19, 2026",
@@ -58,17 +58,17 @@
       "source": "Devpost"
     },
     {
-      "title": "MunichTech EXPO",
-      "url": "https://munichtech-expo.devpost.com/",
-      "deadline": "Sep 01 - 20, 2026",
-      "prize": "\u20ac0",
+      "title": "Databricks Hackathon @ Queens College 2026",
+      "url": "https://databricks-hackathon-2026.devpost.com/",
+      "deadline": "Sep 18 - 20, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
-      "url": "https://yc-fall-2026-x-moss.devpost.com/",
-      "deadline": "Sep 06 - 20, 2026",
-      "prize": "\u20b9 50,000",
+      "title": "Hack the North 2026",
+      "url": "https://hackthenorth2026.devpost.com/",
+      "deadline": "Sep 18 - 20, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]

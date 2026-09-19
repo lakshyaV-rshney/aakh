@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-09-18T04:36:15.124038+00:00",
+  "fetched_at": "2026-09-19T04:31:46.355687+00:00",
   "stories": [
     {
-      "title": "Code Scans",
-      "url": "https://devin.ai/blog/introducing-code-scans",
-      "summary": "<p>Article URL: <a href=\"https://devin.ai/blog/introducing-code-scans\">https://devin.ai/blog/introducing-code-scans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749744\">https://news.ycombinator.com/item?id=49749744</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "Fri, 18 Sep 2026 03:00:40 +0000",
+      "title": "SDCC \u2013 Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "summary": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+      "published": "Sat, 19 Sep 2026 02:32:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Hacking OpenAI",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "summary": "<p>Article URL: <a href=\"https://www.hacktron.ai/blog/hacking-openai\">https://www.hacktron.ai/blog/hacking-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749656\">https://news.ycombinator.com/item?id=49749656</a></p>\n<p>Points: 90</p>\n<p># Comments: 27</p>",
-      "published": "Fri, 18 Sep 2026 02:47:24 +0000",
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "summary": "<p>Article URL: <a href=\"https://jepedersen.dk/blog/202505_research/\">https://jepedersen.dk/blog/202505_research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762687\">https://news.ycombinator.com/item?id=49762687</a></p>\n<p>Points: 36</p>\n<p># Comments: 15</p>",
+      "published": "Sat, 19 Sep 2026 02:21:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8-omni-flash\">https://qwen.ai/blog?id=qwen3.8-omni-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747925\">https://news.ycombinator.com/item?id=49747925</a></p>\n<p>Points: 99</p>\n<p># Comments: 23</p>",
-      "published": "Thu, 17 Sep 2026 23:05:48 +0000",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions\">https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions</a></p>\n",
+      "published": "Fri, 18 Sep 2026 23:54:42 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How Uber Protects Against Retry Storms",
-      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
-      "summary": "<p>Article URL: <a href=\"https://www.uber.com/us/en/blog/protecting-against-retry-storms/\">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746628\">https://news.ycombinator.com/item?id=49746628</a></p>\n<p>Points",
-      "published": "Thu, 17 Sep 2026 21:14:32 +0000",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/llms-for-chip-design\">https://spectrum.ieee.org/llms-for-chip-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49761432\">https://news.ycombinator.com/item?id=49761432</a></p>\n<p>Points: 79</p>\n<p># Comments: 67</p>",
+      "published": "Fri, 18 Sep 2026 23:04:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-2-27b\">https://prismml.com/news/bonsai-2-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746618\">https://news.ycombinator.com/item?id=49746618</a></p>\n<p>Points: 311</p>\n<p># Comments: 103</p>",
-      "published": "Thu, 17 Sep 2026 21:13:31 +0000",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.02852\">https://arxiv.org/abs/2609.02852</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758689\">https://news.ycombinator.com/item?id=49758689</a></p>\n<p>Points: 58</p>\n<p># Comments: 22</p>",
+      "published": "Fri, 18 Sep 2026 19:00:06 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Flet 1.0 \u2013 Build cross-platform apps in Python",
-      "url": "https://flet.dev/",
-      "summary": "<p>Article URL: <a href=\"https://flet.dev/\">https://flet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746290\">https://news.ycombinator.com/item?id=49746290</a></p>\n<p>Points: 76</p>\n<p># Comments: 38</p>",
-      "published": "Thu, 17 Sep 2026 20:44:28 +0000",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.03215\">https://arxiv.org/abs/2510.03215</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758615\">https://news.ycombinator.com/item?id=49758615</a></p>\n<p>Points: 75</p>\n<p># Comments: 12</p>",
+      "published": "Fri, 18 Sep 2026 18:55:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "summary": "<p>Article URL: <a href=\"https://bend-lang.com/\">https://bend-lang.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746163\">https://news.ycombinator.com/item?id=49746163</a></p>\n<p>Points: 360</p>\n<p># Comments: 182</p>",
-      "published": "Thu, 17 Sep 2026 20:36:13 +0000",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "summary": "<p><a href=\"https://archive.is/1CFX9\" rel=\"nofollow\">https://archive.is/1CFX9</a><p><a href=\"https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\" rel=\"nofollow\">https://med.stanford.edu/news/all-news/2026/09/two-separate-...</a><p>Preprint of paper: <a href=\"https://www.biorxiv.o",
+      "published": "Fri, 18 Sep 2026 15:12:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/astra-for-law/\">https://openai.com/index/astra-for-law/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745940\">https://news.ycombinator.com/item?id=49745940</a></p>\n<p>Points: 395</p>\n<p># Comments: 424</p>",
-      "published": "Thu, 17 Sep 2026 20:17:48 +0000",
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+      "summary": "<p>Article URL: <a href=\"https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157\">https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749724\">https://news.ycombinator.com/item?id=49749724</a></p>\n<p>Points",
+      "published": "Fri, 18 Sep 2026 02:56:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-      "url": "https://zscc.ai/careers?job_id=109821",
-      "summary": "<p>Article URL: <a href=\"https://zscc.ai/careers?job_id=109821\">https://zscc.ai/careers?job_id=109821</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743567\">https://news.ycombinator.com/item?id=49743567</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "published": "Thu, 17 Sep 2026 17:00:59 +0000",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "summary": "<p>Hey HN, Henry from Cactus here.<p>We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we\u2019ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.<p>The key features:<",
+      "published": "Fri, 18 Sep 2026 00:11:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.18842\">https://arxiv.org/abs/2609.18842</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743483\">https://news.ycombinator.com/item?id=49743483</a></p>\n<p>Points: 123</p>\n<p># Comments: 38</p>",
-      "published": "Thu, 17 Sep 2026 16:55:14 +0000",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747070\">https://news.ycombinator.com/item?id=49747070</a></p>\n<p>Points",
+      "published": "Thu, 17 Sep 2026 21:48:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "TSMC revealing details about next gen A14 node",
-      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-      "summary": "<p>Abstract at IEDM website below<p>ABSTRACT<p>A14 NanoFlexTM Pro platform technology features the world\u2019s smallest SRAM with a cell size <0.017\u03bcm2 and highest SRAM macro density to date through dimensional ground rule scaling. Coupled with standard cell innovations, it delivers a full-node PPA impr",
-      "published": "Tue, 15 Sep 2026 15:31:55 +0000",
+      "title": "How SpaceX streamlined the Raptor engine",
+      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+      "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor\">https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746626\">https://news.ycombinator.com/item?id=49746626</",
+      "published": "Thu, 17 Sep 2026 21:14:19 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
-      "summary": "<p>Article URL: <a href=\"https://www.sci.news/paleontology/spanish-diplodocus-15064.html\">https://www.sci.news/paleontology/spanish-diplodocus-15064.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710447\">https://news.ycombinator.com/item?id=49710447</a></p>\n<p>Points: ",
-      "published": "Tue, 15 Sep 2026 10:46:24 +0000",
+      "title": "Why building a Rust LSP is hard",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "summary": "<p>Article URL: <a href=\"https://rust-glancer.github.io/blog/why-lsp-is-hard/\">https://rust-glancer.github.io/blog/why-lsp-is-hard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734131\">https://news.ycombinator.com/item?id=49734131</a></p>\n<p>Points: 23</p>\n<p># Comments: ",
+      "published": "Wed, 16 Sep 2026 22:51:16 +0000",
       "source": "Hacker News"
     }
   ]
