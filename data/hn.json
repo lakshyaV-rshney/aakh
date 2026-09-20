@@ -1,67 +1,53 @@
 {
-  "fetched_at": "2026-09-19T04:31:46.355687+00:00",
+  "fetched_at": "2026-09-20T04:48:30.510920+00:00",
   "stories": [
     {
-      "title": "SDCC \u2013 Small Device C Compiler",
-      "url": "https://sdcc.sourceforge.net/",
-      "summary": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
-      "published": "Sat, 19 Sep 2026 02:32:36 +0000",
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "summary": "<p>Article URL: <a href=\"https://saweis.net/posts/rsa-896.html\">https://saweis.net/posts/rsa-896.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771966\">https://news.ycombinator.com/item?id=49771966</a></p>\n<p>Points: 68</p>\n<p># Comments: 15</p>",
+      "published": "Sun, 20 Sep 2026 02:19:33 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Science Is Open Software",
-      "url": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "<p>Article URL: <a href=\"https://jepedersen.dk/blog/202505_research/\">https://jepedersen.dk/blog/202505_research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762687\">https://news.ycombinator.com/item?id=49762687</a></p>\n<p>Points: 36</p>\n<p># Comments: 15</p>",
-      "published": "Sat, 19 Sep 2026 02:21:35 +0000",
+      "title": "Can you tell which images are AI-generated?",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "summary": "<p>Article URL: <a href=\"https://slop-sense.labtoagi.com/games/is-this-image-ai/\">https://slop-sense.labtoagi.com/games/is-this-image-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770847\">https://news.ycombinator.com/item?id=49770847</a></p>\n<p>Points: 66</p>\n<p># Comm",
+      "published": "Sat, 19 Sep 2026 23:02:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions\">https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions</a></p>\n",
-      "published": "Fri, 18 Sep 2026 23:54:42 +0000",
+      "title": "An open source roguelike adventure through dungeons",
+      "url": "https://crawl.develz.org/",
+      "summary": "<p>Article URL: <a href=\"https://crawl.develz.org/\">https://crawl.develz.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770809\">https://news.ycombinator.com/item?id=49770809</a></p>\n<p>Points: 30</p>\n<p># Comments: 3</p>",
+      "published": "Sat, 19 Sep 2026 22:55:53 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/llms-for-chip-design\">https://spectrum.ieee.org/llms-for-chip-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49761432\">https://news.ycombinator.com/item?id=49761432</a></p>\n<p>Points: 79</p>\n<p># Comments: 67</p>",
-      "published": "Fri, 18 Sep 2026 23:04:17 +0000",
+      "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "summary": "<p>Hello HN! We're Dillon and Francesco from Cua.<p>We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recov",
+      "published": "Sat, 19 Sep 2026 15:52:51 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.02852\">https://arxiv.org/abs/2609.02852</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758689\">https://news.ycombinator.com/item?id=49758689</a></p>\n<p>Points: 58</p>\n<p># Comments: 22</p>",
-      "published": "Fri, 18 Sep 2026 19:00:06 +0000",
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "summary": "<p>Article URL: <a href=\"https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766637\">https://news.ycombinator.com/item?id=49766637</a></p>\n<p>Po",
+      "published": "Sat, 19 Sep 2026 13:55:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.03215\">https://arxiv.org/abs/2510.03215</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758615\">https://news.ycombinator.com/item?id=49758615</a></p>\n<p>Points: 75</p>\n<p># Comments: 12</p>",
-      "published": "Fri, 18 Sep 2026 18:55:35 +0000",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "summary": "<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 1152</p>\n<p># Comments: 281</p>",
+      "published": "Sat, 19 Sep 2026 10:46:58 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "summary": "<p><a href=\"https://archive.is/1CFX9\" rel=\"nofollow\">https://archive.is/1CFX9</a><p><a href=\"https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\" rel=\"nofollow\">https://med.stanford.edu/news/all-news/2026/09/two-separate-...</a><p>Preprint of paper: <a href=\"https://www.biorxiv.o",
-      "published": "Fri, 18 Sep 2026 15:12:07 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-      "summary": "<p>Article URL: <a href=\"https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157\">https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749724\">https://news.ycombinator.com/item?id=49749724</a></p>\n<p>Points",
-      "published": "Fri, 18 Sep 2026 02:56:48 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "summary": "<p>Hey HN, Henry from Cactus here.<p>We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we\u2019ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.<p>The key features:<",
-      "published": "Fri, 18 Sep 2026 00:11:44 +0000",
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 1460</p>\n<p># ",
+      "published": "Sat, 19 Sep 2026 09:20:58 +0000",
       "source": "Hacker News"
     },
     {
@@ -72,17 +58,31 @@
       "source": "Hacker News"
     },
     {
-      "title": "How SpaceX streamlined the Raptor engine",
-      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-      "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor\">https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746626\">https://news.ycombinator.com/item?id=49746626</",
-      "published": "Thu, 17 Sep 2026 21:14:19 +0000",
+      "title": "Compiler-style optimization for drawing via Skia",
+      "url": "https://arxiv.org/abs/2603.23696",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.23696\">https://arxiv.org/abs/2603.23696</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743934\">https://news.ycombinator.com/item?id=49743934</a></p>\n<p>Points: 87</p>\n<p># Comments: 20</p>",
+      "published": "Thu, 17 Sep 2026 17:30:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Why building a Rust LSP is hard",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "summary": "<p>Article URL: <a href=\"https://rust-glancer.github.io/blog/why-lsp-is-hard/\">https://rust-glancer.github.io/blog/why-lsp-is-hard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734131\">https://news.ycombinator.com/item?id=49734131</a></p>\n<p>Points: 23</p>\n<p># Comments: ",
-      "published": "Wed, 16 Sep 2026 22:51:16 +0000",
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html\">https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735159\">https://news.ycombinator.com/item?id=4973",
+      "published": "Thu, 17 Sep 2026 01:00:14 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Asking authors about their own papers",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0\">https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734467\">https://news.ycombinator.com/item?i",
+      "published": "Wed, 16 Sep 2026 23:31:31 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Deodands put a price on objects that caused death",
+      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+      "summary": "<p>Article URL: <a href=\"https://daily.jstor.org/how-the-railways-killed-a-medieval-law/\">https://daily.jstor.org/how-the-railways-killed-a-medieval-law/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731996\">https://news.ycombinator.com/item?id=49731996</a></p>\n<p>Points: ",
+      "published": "Wed, 16 Sep 2026 19:51:23 +0000",
       "source": "Hacker News"
     }
   ]

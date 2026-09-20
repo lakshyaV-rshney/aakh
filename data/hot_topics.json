@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-09-19T04:32:10.868373+00:00",
+  "fetched_at": "2026-09-20T04:48:49.172468+00:00",
   "hot_topics": [
+    {
+      "type": "repo",
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "How can implementing classic algorithms in Python solidify your CS fundamentals before tackling complex system design?",
+      "head_fake": "\ud83e\udde0 Algorithmic Thinking"
+    },
     {
       "type": "repo",
       "title": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "big_question": "Can structured agentic frameworks actually reduce the cognitive load of complex software design tasks for students?",
-      "head_fake": "I spent 3 hours debugging a simple API integration, but this repo suggests I should have been building a 'skill' for it instead. Is this the future of dev workflows?"
-    },
-    {
-      "type": "repo",
-      "title": "vinta/awesome-python",
-      "description": "The definitive list that answers 'I want to do X in Python, which tool should I use?'",
-      "url": "https://github.com/vinta/awesome-python",
-      "big_question": "How does the sheer volume of Python libraries impact the decision-making process for new CS students starting their first backend project?",
-      "head_fake": "I keep finding a new library for every tiny task. Is it time to stop learning new tools and just master the standard library?"
+      "big_question": "Can adopting an agentic development methodology change how you structure your daily coding workflow?",
+      "head_fake": "\u26a1 Agentic Workflow"
     },
     {
       "type": "hn",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
-      "description": "Article URL: https://spectrum.ieee.org/llms-for-chip-design",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "big_question": "What does the application of LLMs in hardware design imply for the future of computer architecture courses in universities?",
-      "head_fake": "Wait, AI is now designing chips? My professor said understanding transistors was key, but maybe the bottleneck is now the prompt engineering for the chip designer."
+      "title": "RSA-896",
+      "description": "A deep dive into the RSA-896 challenge and its implications for modern cryptography.",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "big_question": "What does the RSA-896 challenge reveal about the future of post-quantum cryptography?",
+      "head_fake": "\ud83d\udd10 Crypto Deep Dive"
     },
     {
       "type": "hn",
-      "title": "Why building a Rust LSP is hard",
-      "description": "Article URL: https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "big_question": "Why is the Language Server Protocol so difficult to implement correctly, and what does this reveal about the complexity of static analysis in systems programming?",
-      "head_fake": "I thought LSP was just 'autocomplete on steroids,' but this article makes it sound like a PhD thesis. How do I even start contributing to this?"
+      "title": "What Zig felt like, coming from Rust",
+      "description": "A comparative analysis of the developer experience when switching from Rust to Zig.",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "big_question": "How does the Zig programming model compare to Rust in terms of developer ergonomics and performance?",
+      "head_fake": "\ud83e\udd80 vs \ud83d\udc0d Language Shift"
     },
     {
       "type": "competition",
       "title": "Hack the North 2026",
-      "description": "One of the largest student hackathons in North America, offering high cash prizes and networking opportunities.",
+      "description": "One of North America's largest hackathons, offering a platform for students to build innovative solutions.",
       "url": "https://hackthenorth2026.devpost.com/",
-      "big_question": "How can a student with limited team experience effectively compete in a high-profile hackathon like Hack the North?",
-      "head_fake": "The prize pool is huge, but the competition is fierce. Should I focus on a polished MVP or a wild, innovative concept that might fail?"
+      "big_question": "How can participating in a major hackathon like Hack the North accelerate your portfolio and networking?",
+      "head_fake": "\ud83c\udfc6 Hackathon Alert"
     },
     {
       "type": "bugbounty",
       "title": "Vercel Open Source",
-      "description": "Bug bounty program for Vercel's open-source projects, including Next.js and other core infrastructure tools.",
+      "description": "Bug bounty program for Vercel's open-source projects, offering rewards for security vulnerabilities.",
       "url": "https://hackerone.com/vercel-open-source",
-      "big_question": "What are the most common security vulnerabilities in modern frontend frameworks, and how can students learn to find them?",
-      "head_fake": "I use Next.js for my class projects, but I never thought about its security surface. This is a great way to learn security while working with a tool I already know."
+      "big_question": "What security patterns in Vercel's open-source codebase could be targeted for a high-impact bug bounty?",
+      "head_fake": "\ud83d\udee1\ufe0f Security Opportunity"
     },
     {
       "type": "floater",
-      "title": "The Psychology of Code Review",
-      "description": "A deep dive into the social dynamics and cognitive biases that affect code review processes in open-source and corporate settings.",
-      "url": "https://example.com/psychology-code-review",
-      "big_question": "How do social dynamics and cognitive biases influence the quality and speed of code reviews in student teams?",
-      "head_fake": "I always feel defensive when someone critiques my code. Is there a way to reframe code review as a collaborative learning experience rather than a personal attack?"
+      "title": "Morning Coffee Break",
+      "description": "Take a 5-minute break to hydrate and stretch before diving into code.",
+      "url": "https://example.com/break",
+      "big_question": "How does a short break improve your focus and productivity in the morning?",
+      "head_fake": "\u2615 Recharge Time"
     },
     {
       "type": "floater",
-      "title": "The Rise of Local-First Software",
-      "description": "An analysis of the shift towards local-first applications and their implications for privacy, performance, and user experience.",
-      "url": "https://example.com/local-first-software",
-      "big_question": "How is the local-first software movement changing the way developers think about data synchronization and privacy?",
-      "head_fake": "I've been building cloud-first apps for my portfolio, but this trend suggests I should be learning about offline-first architectures and CRDTs."
+      "title": "Daily Coding Challenge",
+      "description": "Solve one LeetCode problem to keep your problem-solving skills sharp.",
+      "url": "https://leetcode.com/",
+      "big_question": "Can you solve a medium-difficulty problem in under 30 minutes today?",
+      "head_fake": "\ud83d\udcbb Skill Sharpening"
     }
   ]
 }
