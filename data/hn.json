@@ -1,88 +1,81 @@
 {
-  "fetched_at": "2026-09-20T04:48:30.510920+00:00",
+  "fetched_at": "2026-09-21T04:48:46.090929+00:00",
   "stories": [
     {
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "summary": "<p>Article URL: <a href=\"https://saweis.net/posts/rsa-896.html\">https://saweis.net/posts/rsa-896.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771966\">https://news.ycombinator.com/item?id=49771966</a></p>\n<p>Points: 68</p>\n<p># Comments: 15</p>",
-      "published": "Sun, 20 Sep 2026 02:19:33 +0000",
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "summary": "<p>Article URL: <a href=\"https://amigaux.org/\">https://amigaux.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49781436\">https://news.ycombinator.com/item?id=49781436</a></p>\n<p>Points: 33</p>\n<p># Comments: 14</p>",
+      "published": "Sun, 20 Sep 2026 23:57:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Can you tell which images are AI-generated?",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-      "summary": "<p>Article URL: <a href=\"https://slop-sense.labtoagi.com/games/is-this-image-ai/\">https://slop-sense.labtoagi.com/games/is-this-image-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770847\">https://news.ycombinator.com/item?id=49770847</a></p>\n<p>Points: 66</p>\n<p># Comm",
-      "published": "Sat, 19 Sep 2026 23:02:34 +0000",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "summary": "<p>Article URL: <a href=\"https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say\">https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778029\">https",
+      "published": "Sun, 20 Sep 2026 17:38:50 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "An open source roguelike adventure through dungeons",
-      "url": "https://crawl.develz.org/",
-      "summary": "<p>Article URL: <a href=\"https://crawl.develz.org/\">https://crawl.develz.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770809\">https://news.ycombinator.com/item?id=49770809</a></p>\n<p>Points: 30</p>\n<p># Comments: 3</p>",
-      "published": "Sat, 19 Sep 2026 22:55:53 +0000",
+      "title": "Show HN: Radius \u2013 A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "summary": "<p>Hello HN!<p>I'm relaunching Radius [1] - far too long after the original Show HN [2] (I'll blame the day job for that).<p>Radius started out from my frustration with not knowing what was going on around me.  The initial plan was to \"show all and every type of event\" from big to small, but over ti",
+      "published": "Sun, 20 Sep 2026 16:51:26 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: CUA-S1 \u2013 A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "summary": "<p>Hello HN! We're Dillon and Francesco from Cua.<p>We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recov",
-      "published": "Sat, 19 Sep 2026 15:52:51 +0000",
+      "title": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "summary": "<p>Article URL: <a href=\"https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html\">https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49777467\">https://news.ycombinator.com/item?id=49",
+      "published": "Sun, 20 Sep 2026 16:41:46 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "What Zig felt like, coming from Rust",
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "summary": "<p>Article URL: <a href=\"https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766637\">https://news.ycombinator.com/item?id=49766637</a></p>\n<p>Po",
-      "published": "Sat, 19 Sep 2026 13:55:18 +0000",
+      "title": "Laya on Mac M4 CoreML Offline",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "summary": "<p>Article URL: <a href=\"https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0\">https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49777106\">https://news.ycombinator.com/item?id=49777106</a></p>\n<p>Points",
+      "published": "Sun, 20 Sep 2026 15:58:52 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "summary": "<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 1152</p>\n<p># Comments: 281</p>",
-      "published": "Sat, 19 Sep 2026 10:46:58 +0000",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "summary": "<p>Article URL: <a href=\"https://pirateface.co/\">https://pirateface.co/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49776699\">https://news.ycombinator.com/item?id=49776699</a></p>\n<p>Points: 489</p>\n<p># Comments: 142</p>",
+      "published": "Sun, 20 Sep 2026 15:16:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI-generated posters don\u2019t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 1460</p>\n<p># ",
-      "published": "Sat, 19 Sep 2026 09:20:58 +0000",
+      "title": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "summary": "<p>Article URL: <a href=\"https://toolguyd.com/sherline-tools-shutting-down-usa-production/\">https://toolguyd.com/sherline-tools-shutting-down-usa-production/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49776627\">https://news.ycombinator.com/item?id=49776627</a></p>\n<p>Poin",
+      "published": "Sun, 20 Sep 2026 15:09:41 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "summary": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747070\">https://news.ycombinator.com/item?id=49747070</a></p>\n<p>Points",
-      "published": "Thu, 17 Sep 2026 21:48:38 +0000",
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "url": "https://tinybrains.dev",
+      "summary": "<p>Article URL: <a href=\"https://tinybrains.dev\">https://tinybrains.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49776523\">https://news.ycombinator.com/item?id=49776523</a></p>\n<p>Points: 48</p>\n<p># Comments: 15</p>",
+      "published": "Sun, 20 Sep 2026 14:59:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Compiler-style optimization for drawing via Skia",
-      "url": "https://arxiv.org/abs/2603.23696",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.23696\">https://arxiv.org/abs/2603.23696</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743934\">https://news.ycombinator.com/item?id=49743934</a></p>\n<p>Points: 87</p>\n<p># Comments: 20</p>",
-      "published": "Thu, 17 Sep 2026 17:30:38 +0000",
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen-image-2.1\">https://qwen.ai/blog?id=qwen-image-2.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775499\">https://news.ycombinator.com/item?id=49775499</a></p>\n<p>Points: 547</p>\n<p># Comments: 161</p>",
+      "published": "Sun, 20 Sep 2026 13:09:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html\">https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735159\">https://news.ycombinator.com/item?id=4973",
-      "published": "Thu, 17 Sep 2026 01:00:14 +0000",
+      "title": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "summary": "<p>Article URL: <a href=\"https://softwarecrisis.dev/letters/llmentalist/\">https://softwarecrisis.dev/letters/llmentalist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775104\">https://news.ycombinator.com/item?id=49775104</a></p>\n<p>Points: 167</p>\n<p># Comments: 252</p>",
+      "published": "Sun, 20 Sep 2026 12:20:13 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Asking authors about their own papers",
-      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0\">https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734467\">https://news.ycombinator.com/item?i",
-      "published": "Wed, 16 Sep 2026 23:31:31 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Deodands put a price on objects that caused death",
-      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "summary": "<p>Article URL: <a href=\"https://daily.jstor.org/how-the-railways-killed-a-medieval-law/\">https://daily.jstor.org/how-the-railways-killed-a-medieval-law/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731996\">https://news.ycombinator.com/item?id=49731996</a></p>\n<p>Points: ",
-      "published": "Wed, 16 Sep 2026 19:51:23 +0000",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "summary": "<p>Article URL: <a href=\"https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors\">https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772961\">https://news.ycombinator.com/item?id=49772961</a></p>\n<p>Points",
+      "published": "Sun, 20 Sep 2026 06:16:42 +0000",
       "source": "Hacker News"
     }
   ]

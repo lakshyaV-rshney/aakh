@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-09-20T04:48:49.172468+00:00",
+  "fetched_at": "2026-09-21T04:49:09.388454+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "How can implementing classic algorithms in Python solidify your CS fundamentals before tackling complex system design?",
-      "head_fake": "\ud83e\udde0 Algorithmic Thinking"
+      "big_question": "Which algorithm implementation here could you refactor to improve time complexity for your next system design interview?",
+      "head_fake": "Refactoring quicksort in Python just saved me 200ms on the coding test."
     },
     {
       "type": "repo",
       "title": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "big_question": "Can adopting an agentic development methodology change how you structure your daily coding workflow?",
-      "head_fake": "\u26a1 Agentic Workflow"
+      "big_question": "How can adopting an agentic skills framework change your daily coding workflow and reduce context switching?",
+      "head_fake": "Tried the superpowers framework today, my dev speed actually doubled."
     },
     {
       "type": "hn",
-      "title": "RSA-896",
-      "description": "A deep dive into the RSA-896 challenge and its implications for modern cryptography.",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "big_question": "What does the RSA-896 challenge reveal about the future of post-quantum cryptography?",
-      "head_fake": "\ud83d\udd10 Crypto Deep Dive"
+      "title": "Show HN: A competition for small neural networks that play strategy games",
+      "description": "A competition for small neural networks that play strategy games",
+      "url": "https://tinybrains.dev",
+      "big_question": "What are the constraints of training small neural networks for complex strategy games, and how does it compare to traditional RL?",
+      "head_fake": "Just entered the tinybrains competition, excited to see how small models handle strategy."
     },
     {
       "type": "hn",
-      "title": "What Zig felt like, coming from Rust",
-      "description": "A comparative analysis of the developer experience when switching from Rust to Zig.",
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "big_question": "How does the Zig programming model compare to Rust in terms of developer ergonomics and performance?",
-      "head_fake": "\ud83e\udd80 vs \ud83d\udc0d Language Shift"
+      "title": "Laya on Mac M4 CoreML Offline",
+      "description": "Running LLMs offline on Mac M4 using CoreML",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "big_question": "How does CoreML optimization on Apple Silicon affect the latency and accuracy of offline LLM inference?",
+      "head_fake": "Got Laya running offline on my M4, the latency is surprisingly low."
     },
     {
       "type": "competition",
-      "title": "Hack the North 2026",
-      "description": "One of North America's largest hackathons, offering a platform for students to build innovative solutions.",
-      "url": "https://hackthenorth2026.devpost.com/",
-      "big_question": "How can participating in a major hackathon like Hack the North accelerate your portfolio and networking?",
-      "head_fake": "\ud83c\udfc6 Hackathon Alert"
+      "title": "COMPSPHERE 12",
+      "description": "COMPSPHERE 12",
+      "url": "https://compsphere12.devpost.com/",
+      "big_question": "What unique problem can you solve with a team in the COMPSPHERE 12 hackathon to stand out to recruiters?",
+      "head_fake": "Team formed for COMPSPHERE 12, we're building a real-time data viz tool."
     },
     {
       "type": "bugbounty",
       "title": "Vercel Open Source",
-      "description": "Bug bounty program for Vercel's open-source projects, offering rewards for security vulnerabilities.",
+      "description": "Vercel Open Source",
       "url": "https://hackerone.com/vercel-open-source",
-      "big_question": "What security patterns in Vercel's open-source codebase could be targeted for a high-impact bug bounty?",
-      "head_fake": "\ud83d\udee1\ufe0f Security Opportunity"
+      "big_question": "What are the common security vulnerabilities in open-source frontend frameworks that Vercel might be susceptible to?",
+      "head_fake": "Found a minor XSS in a Vercel open-source repo, submitted the report."
     },
     {
       "type": "floater",
-      "title": "Morning Coffee Break",
-      "description": "Take a 5-minute break to hydrate and stretch before diving into code.",
-      "url": "https://example.com/break",
-      "big_question": "How does a short break improve your focus and productivity in the morning?",
-      "head_fake": "\u2615 Recharge Time"
+      "title": "The 15-Minute Morning Routine for Developers",
+      "description": "A structured morning routine to boost focus and productivity for software developers.",
+      "url": "https://example.com/developer-morning-routine",
+      "big_question": "How can a consistent morning routine reduce decision fatigue and improve coding focus?",
+      "head_fake": "Started a 15-min morning routine, my code quality has noticeably improved."
     },
     {
       "type": "floater",
-      "title": "Daily Coding Challenge",
-      "description": "Solve one LeetCode problem to keep your problem-solving skills sharp.",
-      "url": "https://leetcode.com/",
-      "big_question": "Can you solve a medium-difficulty problem in under 30 minutes today?",
-      "head_fake": "\ud83d\udcbb Skill Sharpening"
+      "title": "Understanding Big-O Notation in 5 Minutes",
+      "description": "A quick guide to understanding Big-O notation and its importance in algorithm analysis.",
+      "url": "https://example.com/big-o-notation-guide",
+      "big_question": "Why is Big-O notation critical for evaluating the efficiency of algorithms in large-scale applications?",
+      "head_fake": "Finally understood Big-O notation, it's much simpler than I thought."
     }
   ]
 }

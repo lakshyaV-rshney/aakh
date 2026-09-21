@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T04:48:26.453411+00:00",
+  "fetched_at": "2026-09-21T04:48:46.157602+00:00",
   "bug_bounties": [
     {
       "title": "d-you App & German EUDI Wallet Ecosystem",
@@ -598,12 +598,6 @@
     {
       "title": "Stripe",
       "url": "https://hackerone.com/stripe",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Freshworks ",
-      "url": "https://hackerone.com/freshworks",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },

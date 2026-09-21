@@ -1,74 +1,74 @@
 {
-  "fetched_at": "2026-09-20T04:48:41.667745+00:00",
+  "fetched_at": "2026-09-21T04:49:00.359197+00:00",
   "competitions": [
     {
-      "title": "Databricks Hackathon @ Queens College 2026",
-      "url": "https://databricks-hackathon-2026.devpost.com/",
-      "deadline": "Sep 18 - 20, 2026",
+      "title": "SASEhack 2026",
+      "url": "https://sasehack-2026.devpost.com/",
+      "deadline": "Sep 18 - 21, 2026",
+      "prize": "$3,700",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack The Weather",
+      "url": "https://hack-the-weather.devpost.com/",
+      "deadline": "Sep 20 - 21, 2026",
+      "prize": "$309",
+      "source": "Devpost"
+    },
+    {
+      "title": "BunnieX Hackathon",
+      "url": "https://buuniex-hackathon.devpost.com/",
+      "deadline": "Jun 22 - Sep 22, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "VTHacks 14",
-      "url": "https://vthacks-14.devpost.com/",
-      "deadline": "Sep 18 - 20, 2026",
-      "prize": "$6,000",
+      "title": "COMPSPHERE 12",
+      "url": "https://compsphere12.devpost.com/",
+      "deadline": "Aug 03 - Sep 22, 2026",
+      "prize": "$1,247",
       "source": "Devpost"
     },
     {
-      "title": "Hack the North 2026",
-      "url": "https://hackthenorth2026.devpost.com/",
-      "deadline": "Sep 18 - 20, 2026",
+      "title": "Bharat Innovation Challenge 2.0",
+      "url": "https://bic.devpost.com/",
+      "deadline": "Sep 18 - 22, 2026",
+      "prize": "$10,600",
+      "source": "Devpost"
+    },
+    {
+      "title": "CAST-GNY Startup Pitch Competition 2026",
+      "url": "https://castgnypitch2026.devpost.com/",
+      "deadline": "Sep 01 - 22, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "HopHacks Fall 2026",
-      "url": "https://hophacks-fall-2026.devpost.com/",
-      "deadline": "Sep 18 - 20, 2026",
+      "title": "Hyperbloom September - Beginer Freindly",
+      "url": "https://hyperbloom-september2.devpost.com/",
+      "deadline": "Sep 14 - 23, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "TLN Hackathon 2026",
-      "url": "https://tln-cybersecurity-challenge.devpost.com/",
-      "deadline": "Sep 19 - 20, 2026",
-      "prize": "$207,193",
-      "source": "Devpost"
-    },
-    {
-      "title": "MunichTech EXPO",
-      "url": "https://munichtech-expo.devpost.com/",
-      "deadline": "Sep 01 - 20, 2026",
-      "prize": "\u20ac0",
-      "source": "Devpost"
-    },
-    {
-      "title": "SteelHacks XIII",
-      "url": "https://steelhacksxiii.devpost.com/",
-      "deadline": "Sep 19 - 20, 2026",
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 23, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "CuseHacks 2026",
-      "url": "https://cusehacks-2026.devpost.com/",
-      "deadline": "Sep 19 - 20, 2026",
-      "prize": "$0",
+      "title": "CityCamp Gainesville Hack Day",
+      "url": "https://citycamp-hack-day.devpost.com/",
+      "deadline": "Sep 20 - 23, 2026",
+      "prize": "$900",
       "source": "Devpost"
     },
     {
-      "title": "Health in Climate 2026 NYC Hackathon",
-      "url": "https://health-in-climate-2026-nyc.devpost.com/",
-      "deadline": "Sep 19 - 20, 2026",
-      "prize": "$5,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
-      "url": "https://yc-fall-2026-x-moss.devpost.com/",
-      "deadline": "Sep 06 - 20, 2026",
-      "prize": "\u20b9 50,000",
+      "title": "Poly.Tech mini hackathon",
+      "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
+      "deadline": "Sep 11 - 24, 2026",
+      "prize": "$50",
       "source": "Devpost"
     }
   ]
