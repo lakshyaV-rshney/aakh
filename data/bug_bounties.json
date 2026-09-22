@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T04:48:46.157602+00:00",
+  "fetched_at": "2026-09-22T04:47:31.116047+00:00",
   "bug_bounties": [
     {
       "title": "d-you App & German EUDI Wallet Ecosystem",
@@ -46,12 +46,6 @@
     {
       "title": "Robinhood Markets Bounty",
       "url": "https://hackerone.com/robinhood",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Vercel Open Source",
-      "url": "https://hackerone.com/vercel-open-source",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -364,6 +358,12 @@
     {
       "title": "Vodafone Oman",
       "url": "https://hackerone.com/vodafone_oman",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Vercel",
+      "url": "https://hackerone.com/vercel",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1072,6 +1072,12 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -2870,6 +2876,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Unisys Managed Bug Bounty Engagement",
+      "url": "https://bugcrowd.com/engagements/unisys-mbb-og",
+      "bounty": "$4,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Unity Technologies",
       "url": "https://bugcrowd.com/engagements/unity",
       "bounty": "$3,000",
@@ -3107,6 +3119,12 @@
       "title": "Capital.com",
       "url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
       "bounty": "\u20ac15,000",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Challenge 0926",
+      "url": "https://www.intigriti.com/programs/intigriti/challenge0926/detail",
+      "bounty": "Bounty offered",
       "source": "Intigriti"
     },
     {

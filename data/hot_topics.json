@@ -1,69 +1,47 @@
 {
-  "fetched_at": "2026-09-21T04:49:09.388454+00:00",
+  "fetched_at": "2026-09-22T04:47:53.386391+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "Which algorithm implementation here could you refactor to improve time complexity for your next system design interview?",
-      "head_fake": "Refactoring quicksort in Python just saved me 200ms on the coding test."
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs"
     },
     {
       "type": "repo",
-      "title": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "big_question": "How can adopting an agentic skills framework change your daily coding workflow and reduce context switching?",
-      "head_fake": "Tried the superpowers framework today, my dev speed actually doubled."
+      "title": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
       "type": "hn",
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "description": "A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
-      "big_question": "What are the constraints of training small neural networks for complex strategy games, and how does it compare to traditional RL?",
-      "head_fake": "Just entered the tinybrains competition, excited to see how small models handle strategy."
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/"
     },
     {
       "type": "hn",
-      "title": "Laya on Mac M4 CoreML Offline",
-      "description": "Running LLMs offline on Mac M4 using CoreML",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "big_question": "How does CoreML optimization on Apple Silicon affect the latency and accuracy of offline LLM inference?",
-      "head_fake": "Got Laya running offline on my M4, the latency is surprisingly low."
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked"
+    },
+    {
+      "type": "competition",
+      "title": "BunnieX Hackathon",
+      "url": "https://buuniex-hackathon.devpost.com/"
     },
     {
       "type": "competition",
       "title": "COMPSPHERE 12",
-      "description": "COMPSPHERE 12",
-      "url": "https://compsphere12.devpost.com/",
-      "big_question": "What unique problem can you solve with a team in the COMPSPHERE 12 hackathon to stand out to recruiters?",
-      "head_fake": "Team formed for COMPSPHERE 12, we're building a real-time data viz tool."
+      "url": "https://compsphere12.devpost.com/"
     },
     {
       "type": "bugbounty",
-      "title": "Vercel Open Source",
-      "description": "Vercel Open Source",
-      "url": "https://hackerone.com/vercel-open-source",
-      "big_question": "What are the common security vulnerabilities in open-source frontend frameworks that Vercel might be susceptible to?",
-      "head_fake": "Found a minor XSS in a Vercel open-source repo, submitted the report."
+      "title": "d-you App & German EUDI Wallet Ecosystem",
+      "url": "https://hackerone.com/common_codes"
     },
     {
-      "type": "floater",
-      "title": "The 15-Minute Morning Routine for Developers",
-      "description": "A structured morning routine to boost focus and productivity for software developers.",
-      "url": "https://example.com/developer-morning-routine",
-      "big_question": "How can a consistent morning routine reduce decision fatigue and improve coding focus?",
-      "head_fake": "Started a 15-min morning routine, my code quality has noticeably improved."
-    },
-    {
-      "type": "floater",
-      "title": "Understanding Big-O Notation in 5 Minutes",
-      "description": "A quick guide to understanding Big-O notation and its importance in algorithm analysis.",
-      "url": "https://example.com/big-o-notation-guide",
-      "big_question": "Why is Big-O notation critical for evaluating the efficiency of algorithms in large-scale applications?",
-      "head_fake": "Finally understood Big-O notation, it's much simpler than I thought."
+      "type": "bugbounty",
+      "title": "Wolt",
+      "url": "https://hackerone.com/wolt"
     }
   ]
 }

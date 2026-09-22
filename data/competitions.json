@@ -1,20 +1,6 @@
 {
-  "fetched_at": "2026-09-21T04:49:00.359197+00:00",
+  "fetched_at": "2026-09-22T04:47:47.748382+00:00",
   "competitions": [
-    {
-      "title": "SASEhack 2026",
-      "url": "https://sasehack-2026.devpost.com/",
-      "deadline": "Sep 18 - 21, 2026",
-      "prize": "$3,700",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack The Weather",
-      "url": "https://hack-the-weather.devpost.com/",
-      "deadline": "Sep 20 - 21, 2026",
-      "prize": "$309",
-      "source": "Devpost"
-    },
     {
       "title": "BunnieX Hackathon",
       "url": "https://buuniex-hackathon.devpost.com/",
@@ -30,17 +16,17 @@
       "source": "Devpost"
     },
     {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - 22, 2026",
-      "prize": "$10,600",
-      "source": "Devpost"
-    },
-    {
       "title": "CAST-GNY Startup Pitch Competition 2026",
       "url": "https://castgnypitch2026.devpost.com/",
       "deadline": "Sep 01 - 22, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Bharat Innovation Challenge 2.0",
+      "url": "https://bic.devpost.com/",
+      "deadline": "Sep 18 - 23, 2026",
+      "prize": "$10,600",
       "source": "Devpost"
     },
     {
@@ -69,6 +55,20 @@
       "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
       "deadline": "Sep 11 - 24, 2026",
       "prize": "$50",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack The City 2026",
+      "url": "https://hackthecity2026.devpost.com/",
+      "deadline": "Sep 21 - 25, 2026",
+      "prize": "\u20ac6,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Practice to Create [Feedback To All Projects!]",
+      "url": "https://practicetocreate.devpost.com/",
+      "deadline": "Sep 03 - 25, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]
