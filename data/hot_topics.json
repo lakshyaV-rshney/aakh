@@ -1,47 +1,69 @@
 {
-  "fetched_at": "2026-09-22T04:47:53.386391+00:00",
+  "fetched_at": "2026-09-23T04:39:40.737467+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
+      "title": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Which of these free resources covers the specific CS theory topics you are struggling with this semester?",
+      "head_fake": "\ud83d\udcda Free CS Library"
     },
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+      "title": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "big_question": "Can you pick one project from this list to build a portfolio piece before your next internship interview?",
+      "head_fake": "\ud83d\udee0\ufe0f Build & Learn"
     },
     {
       "type": "hn",
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/"
+      "title": "The current balance of power in open models",
+      "description": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "big_question": "How does the rise of open-source LLMs change the job market for junior AI engineers?",
+      "head_fake": "\u2696\ufe0f Open vs Closed"
     },
     {
       "type": "hn",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked"
+      "title": "SAML: A fractal of bad design",
+      "description": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "big_question": "Why is understanding legacy security protocols like SAML still critical for modern backend roles?",
+      "head_fake": "\ud83d\udd12 Legacy Security"
     },
     {
       "type": "competition",
-      "title": "BunnieX Hackathon",
-      "url": "https://buuniex-hackathon.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "COMPSPHERE 12",
-      "url": "https://compsphere12.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "d-you App & German EUDI Wallet Ecosystem",
-      "url": "https://hackerone.com/common_codes"
+      "title": "Hyperbloom September - Beginer Freindly",
+      "description": "Beginner friendly hackathon for September",
+      "url": "https://hyperbloom-september2.devpost.com/",
+      "big_question": "Is this the low-pressure environment you need to test your new stack without the stress of a major deadline?",
+      "head_fake": "\ud83c\udf31 Beginner Hack"
     },
     {
       "type": "bugbounty",
-      "title": "Wolt",
-      "url": "https://hackerone.com/wolt"
+      "title": "Twilio",
+      "description": "Bug bounty program for Twilio",
+      "url": "https://hackerone.com/twilio",
+      "big_question": "Can you apply your web security knowledge to a major communication platform to earn your first bounty?",
+      "head_fake": "\ud83d\udcb8 Twilio Bounty"
+    },
+    {
+      "type": "floater",
+      "title": "Morning Coffee & Code",
+      "description": "Start your day with a warm drink and a clear mind before diving into complex algorithms.",
+      "url": "https://www.coffee.com",
+      "big_question": "Have you hydrated and fueled up before tackling today's debugging session?",
+      "head_fake": "\u2615 Fuel Up"
+    },
+    {
+      "type": "floater",
+      "title": "5-Minute Stretch Break",
+      "description": "Quick stretches to relieve tension from long hours of sitting at the desk.",
+      "url": "https://www.youtube.com/watch?v=stretching",
+      "big_question": "Are you taking enough micro-breaks to prevent burnout during your study marathon?",
+      "head_fake": "\ud83e\uddd8 Stretch Now"
     }
   ]
 }

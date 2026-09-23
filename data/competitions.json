@@ -1,32 +1,18 @@
 {
-  "fetched_at": "2026-09-22T04:47:47.748382+00:00",
+  "fetched_at": "2026-09-23T04:39:35.443617+00:00",
   "competitions": [
+    {
+      "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
+      "url": "https://yc-fall-2026-x-moss.devpost.com/",
+      "deadline": "Sep 06 - 23, 2026",
+      "prize": "\u20b9 50,000",
+      "source": "Devpost"
+    },
     {
       "title": "BunnieX Hackathon",
       "url": "https://buuniex-hackathon.devpost.com/",
-      "deadline": "Jun 22 - Sep 22, 2026",
+      "deadline": "Jun 22 - Sep 23, 2026",
       "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "COMPSPHERE 12",
-      "url": "https://compsphere12.devpost.com/",
-      "deadline": "Aug 03 - Sep 22, 2026",
-      "prize": "$1,247",
-      "source": "Devpost"
-    },
-    {
-      "title": "CAST-GNY Startup Pitch Competition 2026",
-      "url": "https://castgnypitch2026.devpost.com/",
-      "deadline": "Sep 01 - 22, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - 23, 2026",
-      "prize": "$10,600",
       "source": "Devpost"
     },
     {
@@ -58,6 +44,13 @@
       "source": "Devpost"
     },
     {
+      "title": "Bharat Innovation Challenge 2.0",
+      "url": "https://bic.devpost.com/",
+      "deadline": "Sep 18 - 24, 2026",
+      "prize": "$10,600",
+      "source": "Devpost"
+    },
+    {
       "title": "Hack The City 2026",
       "url": "https://hackthecity2026.devpost.com/",
       "deadline": "Sep 21 - 25, 2026",
@@ -68,6 +61,13 @@
       "title": "Practice to Create [Feedback To All Projects!]",
       "url": "https://practicetocreate.devpost.com/",
       "deadline": "Sep 03 - 25, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "InfinityX Global Hackathon 2K26",
+      "url": "https://infinityx-2k26.devpost.com/",
+      "deadline": "Sep 15 - 25, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

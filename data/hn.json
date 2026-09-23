@@ -1,60 +1,116 @@
 {
-  "fetched_at": "2026-09-22T04:47:30.589014+00:00",
+  "fetched_at": "2026-09-23T04:39:18.416045+00:00",
   "stories": [
     {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "<p>Article URL: <a href=\"https://poloclub.github.io/transformer-explainer/\">https://poloclub.github.io/transformer-explainer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792342\">https://news.ycombinator.com/item?id=49792342</a></p>\n<p>Points: 257</p>\n<p># Comments: 41</p",
-      "published": "Mon, 21 Sep 2026 19:43:49 +0000",
+      "title": "Transit rewards (Waymo pays you to take the train)",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "summary": "<p>Article URL: <a href=\"https://waymo.com/blog/2026/09/transit-rewards/\">https://waymo.com/blog/2026/09/transit-rewards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811065\">https://news.ycombinator.com/item?id=49811065</a></p>\n<p>Points: 33</p>\n<p># Comments: 14</p>",
+      "published": "Wed, 23 Sep 2026 02:52:29 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "summary": "<p>Article URL: <a href=\"https://linear.app/now/ci-bottleneck-reworked\">https://linear.app/now/ci-bottleneck-reworked</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792067\">https://news.ycombinator.com/item?id=49792067</a></p>\n<p>Points: 172</p>\n<p># Comments: 181</p>",
-      "published": "Mon, 21 Sep 2026 19:23:33 +0000",
+      "title": "The current balance of power in open models",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "<p>Article URL: <a href=\"https://www.interconnects.ai/p/the-current-balance-of-power-in-open\">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808816\">https://news.ycombinator.com/item?id=49808816</a></p>\n<p>",
+      "published": "Tue, 22 Sep 2026 22:03:46 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "summary": "<p>Article URL: <a href=\"https://timdettmers.com/2026/09/21/dlab-open-source-week/\">https://timdettmers.com/2026/09/21/dlab-open-source-week/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791647\">https://news.ycombinator.com/item?id=49791647</a></p>\n<p>Points: 123</p>\n<p>#",
-      "published": "Mon, 21 Sep 2026 18:53:01 +0000",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "summary": "<p>Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime ",
+      "published": "Tue, 22 Sep 2026 21:00:30 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "summary": "<p>Article URL: <a href=\"https://safedep.io/mathmain-encrypted-loader/\">https://safedep.io/mathmain-encrypted-loader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791378\">https://news.ycombinator.com/item?id=49791378</a></p>\n<p>Points: 120</p>\n<p># Comments: 35</p>",
-      "published": "Mon, 21 Sep 2026 18:33:44 +0000",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "summary": "<p><a href=\"https://archive.ph/0V37g\" rel=\"nofollow\">https://archive.ph/0V37g</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806430\">https://news.ycombinator.com/item?id=49806430</a></p>\n<p>Points: 514</p>\n<p># Comments: 253</p>",
+      "published": "Tue, 22 Sep 2026 19:03:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "summary": "<p>Article URL: <a href=\"https://x.ai/news/grok-4-7\">https://x.ai/news/grok-4-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49788838\">https://news.ycombinator.com/item?id=49788838</a></p>\n<p>Points: 523</p>\n<p># Comments: 448</p>",
-      "published": "Mon, 21 Sep 2026 15:50:15 +0000",
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "summary": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/\">https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806335\">https://news.ycombinator.com/item?id=49806335</a></p>",
+      "published": "Tue, 22 Sep 2026 18:57:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/python-workers-ga/\">https://blog.cloudflare.com/python-workers-ga/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787142\">https://news.ycombinator.com/item?id=49787142</a></p>\n<p>Points: 198</p>\n<p># Comments: 33</p>",
-      "published": "Mon, 21 Sep 2026 13:38:19 +0000",
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "summary": "<p><a href=\"https://github.com/unreallabsai/unreal-agent\" rel=\"nofollow\">https://github.com/unreallabsai/unreal-agent</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805748\">https://news.ycombinator.com/item?id=49805748</a></p>\n<p>Points: 147</p>\n<p># Comments: 91</p>",
+      "published": "Tue, 22 Sep 2026 18:15:53 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "summary": "<p>Article URL: <a href=\"https://github.com/jaredpalmer/kev/tree/main\">https://github.com/jaredpalmer/kev/tree/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783999\">https://news.ycombinator.com/item?id=49783999</a></p>\n<p>Points: 418</p>\n<p># Comments: 191</p>",
-      "published": "Mon, 21 Sep 2026 07:11:55 +0000",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-sol-and-luna/\">https://openai.com/index/introducing-gpt-6-sol-and-luna/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805509\">https://news.ycombinator.com/item?id=49805509</a></p>\n<p>Points: 1326</p>\n<p># ",
+      "published": "Tue, 22 Sep 2026 18:00:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Divide by depth for instant 3D",
-      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
-      "summary": "<p>Article URL: <a href=\"https://gabrieloc.com/2026/09/15/perspective.html\">https://gabrieloc.com/2026/09/15/perspective.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769561\">https://news.ycombinator.com/item?id=49769561</a></p>\n<p>Points: 105</p>\n<p># Comments: 18</p",
-      "published": "Sat, 19 Sep 2026 19:43:13 +0000",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/claude-opus-5-5\">https://artificialanalysis.ai/models/claude-opus-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49804316\">https://news.ycombinator.com/item?id=49804316</a></p>\n<p>Points: 257</p>\n<p># Comments:",
+      "published": "Tue, 22 Sep 2026 16:51:31 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp\">https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803959\">https://news.ycombi",
+      "published": "Tue, 22 Sep 2026 16:33:45 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "summary": "<p>Article URL: <a href=\"https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/\">https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49802161\">https://news.ycombinator.com/item?id=49802161</a></p>",
+      "published": "Tue, 22 Sep 2026 14:42:59 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": "<p>Article URL: <a href=\"https://www.cryptocellar.org/bgac/the-mvueh-break.html\">https://www.cryptocellar.org/bgac/the-mvueh-break.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49801324\">https://news.ycombinator.com/item?id=49801324</a></p>\n<p>Points: 602</p>\n<p># Comme",
+      "published": "Tue, 22 Sep 2026 13:52:15 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "summary": "<p>Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects <i>really</i> perform in comparison.<p>Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs",
+      "published": "Tue, 22 Sep 2026 13:01:03 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Side-stepping the Secretary Problem, unwittingly",
+      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+      "summary": "<p>Article URL: <a href=\"https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html\">https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49796260\">https://news.ycombinator.com/item?id=",
+      "published": "Tue, 22 Sep 2026 02:47:52 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "summary": "<p>Article URL: <a href=\"https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/\">https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i",
+      "published": "Tue, 22 Sep 2026 00:32:44 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Softness of Metal",
+      "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
+      "summary": "<p>Article URL: <a href=\"https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal\">https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49795053\">https://news.ycombinator.co",
+      "published": "Mon, 21 Sep 2026 23:59:10 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
+      "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
+      "summary": "<p>Article URL: <a href=\"https://engineering.fb.com/2022/05/04/data-infrastructure/delta/\">https://engineering.fb.com/2022/05/04/data-infrastructure/delta/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794844\">https://news.ycombinator.com/item?id=49794844</a></p>\n<p>Points",
+      "published": "Mon, 21 Sep 2026 23:29:42 +0000",
       "source": "Hacker News"
     }
   ]

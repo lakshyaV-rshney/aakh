@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T04:47:31.116047+00:00",
+  "fetched_at": "2026-09-23T04:39:17.090312+00:00",
   "bug_bounties": [
     {
       "title": "d-you App & German EUDI Wallet Ecosystem",
@@ -1745,12 +1745,6 @@
       "title": "Creativas",
       "url": "https://bugcrowd.com/engagements/creativas",
       "bounty": "$1,500",
-      "source": "Bugcrowd"
-    },
-    {
-      "title": "Dell Technologies Application Bug Bounty",
-      "url": "https://bugcrowd.com/engagements/dell-com",
-      "bounty": "$2,500",
       "source": "Bugcrowd"
     },
     {
@@ -3689,6 +3683,12 @@
       "title": "Trouw",
       "url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
       "bounty": "\u20ac2,200",
+      "source": "Intigriti"
+    },
+    {
+      "title": "TrueLayer",
+      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {
