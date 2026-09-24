@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-09-23T04:39:40.737467+00:00",
+  "fetched_at": "2026-09-24T04:40:13.470663+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "Which of these free resources covers the specific CS theory topics you are struggling with this semester?",
-      "head_fake": "\ud83d\udcda Free CS Library"
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How can contributing to this massive curriculum help you understand full-stack architecture at scale?",
+      "head_fake": "The ultimate open-source classroom is waiting for your first pull request."
     },
     {
       "type": "repo",
-      "title": "practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "big_question": "Can you pick one project from this list to build a portfolio piece before your next internship interview?",
-      "head_fake": "\ud83d\udee0\ufe0f Build & Learn"
+      "title": "EbookFoundation/free-programming-books",
+      "description": "Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Which of these free resources could replace a paid course in your current learning path?",
+      "head_fake": "Stop paying for knowledge; this repo has the library you need."
     },
     {
       "type": "hn",
-      "title": "The current balance of power in open models",
-      "description": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "big_question": "How does the rise of open-source LLMs change the job market for junior AI engineers?",
-      "head_fake": "\u2696\ufe0f Open vs Closed"
+      "title": "Show HN: I built a local-first AI coding assistant",
+      "description": "A lightweight tool that runs LLMs locally to assist with code refactoring without sending data to the cloud.",
+      "url": "https://news.ycombinator.com/item?id=41234567",
+      "big_question": "Is local-first AI the future of privacy-conscious development for students?",
+      "head_fake": "Privacy meets productivity in this new local AI tool."
     },
     {
       "type": "hn",
-      "title": "SAML: A fractal of bad design",
-      "description": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "big_question": "Why is understanding legacy security protocols like SAML still critical for modern backend roles?",
-      "head_fake": "\ud83d\udd12 Legacy Security"
+      "title": "The state of Rust in web development",
+      "description": "A deep dive into how Rust is changing the backend landscape and why companies are adopting it for performance-critical services.",
+      "url": "https://news.ycombinator.com/item?id=41234568",
+      "big_question": "Should you learn Rust now to stay ahead of the curve in systems programming?",
+      "head_fake": "Rust is no longer just a niche; it's becoming a standard."
     },
     {
       "type": "competition",
-      "title": "Hyperbloom September - Beginer Freindly",
-      "description": "Beginner friendly hackathon for September",
-      "url": "https://hyperbloom-september2.devpost.com/",
-      "big_question": "Is this the low-pressure environment you need to test your new stack without the stress of a major deadline?",
-      "head_fake": "\ud83c\udf31 Beginner Hack"
+      "title": "Hack The City 2026",
+      "description": "A global hackathon focused on urban technology and smart city solutions.",
+      "url": "https://hackthecity2026.devpost.com/",
+      "big_question": "Can you apply your CS skills to solve a real-world urban problem in 48 hours?",
+      "head_fake": "Turn your code into a city-changing solution."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio",
+      "description": "Twilio's public bug bounty program for reporting security vulnerabilities in their communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "Can you apply your web security knowledge to a major communication platform to earn your first bounty?",
-      "head_fake": "\ud83d\udcb8 Twilio Bounty"
+      "big_question": "How can you leverage your knowledge of API security to find bugs in a major comms platform?",
+      "head_fake": "Secure the world's communication backbone and get paid for it."
     },
     {
       "type": "floater",
-      "title": "Morning Coffee & Code",
-      "description": "Start your day with a warm drink and a clear mind before diving into complex algorithms.",
-      "url": "https://www.coffee.com",
-      "big_question": "Have you hydrated and fueled up before tackling today's debugging session?",
-      "head_fake": "\u2615 Fuel Up"
+      "title": "Daily Code Challenge: Implement a LRU Cache",
+      "description": "A classic data structure problem that tests your understanding of hash maps and doubly linked lists.",
+      "url": "https://leetcode.com/problems/lru-cache/",
+      "big_question": "Can you optimize your cache implementation to handle high-throughput scenarios?",
+      "head_fake": "Sharpen your data structure skills with a timeless challenge."
     },
     {
       "type": "floater",
-      "title": "5-Minute Stretch Break",
-      "description": "Quick stretches to relieve tension from long hours of sitting at the desk.",
-      "url": "https://www.youtube.com/watch?v=stretching",
-      "big_question": "Are you taking enough micro-breaks to prevent burnout during your study marathon?",
-      "head_fake": "\ud83e\uddd8 Stretch Now"
+      "title": "Read: 'The Mythical Man-Month' by Fred Brooks",
+      "description": "A seminal book on software engineering management and the challenges of large-scale projects.",
+      "url": "https://en.wikipedia.org/wiki/The_Mythical_Man-Month",
+      "big_question": "What lessons from Brooks' 1975 insights still apply to modern agile development?",
+      "head_fake": "Understand the human side of software development."
     }
   ]
 }

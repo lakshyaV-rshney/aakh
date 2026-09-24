@@ -1,41 +1,6 @@
 {
-  "fetched_at": "2026-09-23T04:39:35.443617+00:00",
+  "fetched_at": "2026-09-24T04:40:06.917378+00:00",
   "competitions": [
-    {
-      "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
-      "url": "https://yc-fall-2026-x-moss.devpost.com/",
-      "deadline": "Sep 06 - 23, 2026",
-      "prize": "\u20b9 50,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "BunnieX Hackathon",
-      "url": "https://buuniex-hackathon.devpost.com/",
-      "deadline": "Jun 22 - Sep 23, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hyperbloom September - Beginer Freindly",
-      "url": "https://hyperbloom-september2.devpost.com/",
-      "deadline": "Sep 14 - 23, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Sep 23, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "CityCamp Gainesville Hack Day",
-      "url": "https://citycamp-hack-day.devpost.com/",
-      "deadline": "Sep 20 - 23, 2026",
-      "prize": "$900",
-      "source": "Devpost"
-    },
     {
       "title": "Poly.Tech mini hackathon",
       "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
@@ -69,6 +34,41 @@
       "url": "https://infinityx-2k26.devpost.com/",
       "deadline": "Sep 15 - 25, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack The Weather",
+      "url": "https://hack-the-weather.devpost.com/",
+      "deadline": "Sep 20 - 25, 2026",
+      "prize": "$309",
+      "source": "Devpost"
+    },
+    {
+      "title": "Zero Origin",
+      "url": "https://zero-origin.devpost.com/",
+      "deadline": "Aug 27 - Sep 26, 2026",
+      "prize": "\u20b9 2,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
+      "url": "https://acodemic-hackathon.devpost.com/",
+      "deadline": "Sep 19 - 27, 2026",
+      "prize": "$35",
+      "source": "Devpost"
+    },
+    {
+      "title": "3rd-Web-Hack",
+      "url": "https://3rd-web-hack.devpost.com/",
+      "deadline": "Aug 22 - Sep 27, 2026",
+      "prize": "$750",
+      "source": "Devpost"
+    },
+    {
+      "title": "LexHack 2026",
+      "url": "https://lexhack-2026.devpost.com/",
+      "deadline": "Sep 11 - 27, 2026",
+      "prize": "$74,248",
       "source": "Devpost"
     }
   ]
