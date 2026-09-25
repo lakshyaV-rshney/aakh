@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-09-24T04:40:13.470663+00:00",
+  "fetched_at": "2026-09-25T04:50:32.004571+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can contributing to this massive curriculum help you understand full-stack architecture at scale?",
-      "head_fake": "The ultimate open-source classroom is waiting for your first pull request."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "Which free API in this list could power a side project that solves a real problem you face on campus?",
+      "head_fake": "Stop building from scratch. The API you need is already free and documented here."
     },
     {
       "type": "repo",
       "title": "EbookFoundation/free-programming-books",
-      "description": "Freely available programming books",
+      "description": ":books: Freely available programming books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "Which of these free resources could replace a paid course in your current learning path?",
-      "head_fake": "Stop paying for knowledge; this repo has the library you need."
+      "big_question": "What is the one concept you've been struggling with that has a dedicated free book in this repository?",
+      "head_fake": "Your tuition covers textbooks, but this repo covers the deep dives you actually need."
     },
     {
       "type": "hn",
-      "title": "Show HN: I built a local-first AI coding assistant",
-      "description": "A lightweight tool that runs LLMs locally to assist with code refactoring without sending data to the cloud.",
-      "url": "https://news.ycombinator.com/item?id=41234567",
-      "big_question": "Is local-first AI the future of privacy-conscious development for students?",
-      "head_fake": "Privacy meets productivity in this new local AI tool."
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "description": "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "big_question": "How does a simple XSS in a log viewer lead to full account takeover, and what does this mean for your own CI/CD pipelines?",
+      "head_fake": "The most dangerous bugs aren't in the code you write, but in the tools that display it."
     },
     {
       "type": "hn",
-      "title": "The state of Rust in web development",
-      "description": "A deep dive into how Rust is changing the backend landscape and why companies are adopting it for performance-critical services.",
-      "url": "https://news.ycombinator.com/item?id=41234568",
-      "big_question": "Should you learn Rust now to stay ahead of the curve in systems programming?",
-      "head_fake": "Rust is no longer just a niche; it's becoming a standard."
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "description": "https://eprint.iacr.org/2026/2131.pdf",
+      "url": "https://eprint.iacr.org/2026/2131.pdf",
+      "big_question": "If 1024-bit RSA is now practically breakable, what is the immediate migration path for the legacy systems you are studying?",
+      "head_fake": "The math behind your security courses is changing faster than the syllabus."
     },
     {
       "type": "competition",
       "title": "Hack The City 2026",
-      "description": "A global hackathon focused on urban technology and smart city solutions.",
+      "description": "",
       "url": "https://hackthecity2026.devpost.com/",
-      "big_question": "Can you apply your CS skills to solve a real-world urban problem in 48 hours?",
-      "head_fake": "Turn your code into a city-changing solution."
+      "big_question": "Can you apply your CS skills to solve a real-world urban problem within the 48-hour constraint?",
+      "head_fake": "Stop coding in the void. Build something that actually touches the city you live in."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Twilio's public bug bounty program for reporting security vulnerabilities in their communication platform.",
+      "description": "",
       "url": "https://hackerone.com/twilio",
-      "big_question": "How can you leverage your knowledge of API security to find bugs in a major comms platform?",
-      "head_fake": "Secure the world's communication backbone and get paid for it."
+      "big_question": "How can you leverage your understanding of API security to find a vulnerability in a platform that handles billions of messages?",
+      "head_fake": "Your first $1,000 bounty is likely hiding in the API documentation you've already read."
     },
     {
       "type": "floater",
-      "title": "Daily Code Challenge: Implement a LRU Cache",
-      "description": "A classic data structure problem that tests your understanding of hash maps and doubly linked lists.",
-      "url": "https://leetcode.com/problems/lru-cache/",
-      "big_question": "Can you optimize your cache implementation to handle high-throughput scenarios?",
-      "head_fake": "Sharpen your data structure skills with a timeless challenge."
+      "title": "The 20% Rule for Student Developers",
+      "description": "Spend 80% of your time on coursework and 20% on open source or personal projects to build a portfolio that stands out.",
+      "url": "https://www.freecodecamp.org/news/the-20-percent-rule/",
+      "big_question": "Are you optimizing for grades or for employability? The 20% rule is the bridge between the two.",
+      "head_fake": "Your GPA gets you the interview. Your GitHub profile gets you the job."
     },
     {
       "type": "floater",
-      "title": "Read: 'The Mythical Man-Month' by Fred Brooks",
-      "description": "A seminal book on software engineering management and the challenges of large-scale projects.",
-      "url": "https://en.wikipedia.org/wiki/The_Mythical_Man-Month",
-      "big_question": "What lessons from Brooks' 1975 insights still apply to modern agile development?",
-      "head_fake": "Understand the human side of software development."
+      "title": "Why You Should Read Source Code, Not Just Docs",
+      "description": "Reading the source code of popular libraries is the fastest way to understand design patterns and implementation details.",
+      "url": "https://blog.codinghorror.com/reading-source-code/",
+      "big_question": "When was the last time you opened the source code of a library you use daily? What did you learn?",
+      "head_fake": "Documentation tells you what to do. Source code tells you why it works."
     }
   ]
 }

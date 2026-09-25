@@ -1,25 +1,18 @@
 {
-  "fetched_at": "2026-09-24T04:40:06.917378+00:00",
+  "fetched_at": "2026-09-25T04:50:24.900829+00:00",
   "competitions": [
-    {
-      "title": "Poly.Tech mini hackathon",
-      "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
-      "deadline": "Sep 11 - 24, 2026",
-      "prize": "$50",
-      "source": "Devpost"
-    },
-    {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - 24, 2026",
-      "prize": "$10,600",
-      "source": "Devpost"
-    },
     {
       "title": "Hack The City 2026",
       "url": "https://hackthecity2026.devpost.com/",
       "deadline": "Sep 21 - 25, 2026",
       "prize": "\u20ac6,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Nerdearla Vibeathon 2026",
+      "url": "https://nerdearla26.devpost.com/",
+      "deadline": "Sep 24 - 25, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
@@ -44,6 +37,27 @@
       "source": "Devpost"
     },
     {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 25, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Business + AI Hackathon",
+      "url": "https://business-ai-hackathon.devpost.com/",
+      "deadline": "Sep 25, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Chipcraft 3.0 - 24 Hour VLSI Hackathon",
+      "url": "https://chipcraft-3-0.devpost.com/",
+      "deadline": "Sep 25 - 26, 2026",
+      "prize": "\u20b9 25,000",
+      "source": "Devpost"
+    },
+    {
       "title": "Zero Origin",
       "url": "https://zero-origin.devpost.com/",
       "deadline": "Aug 27 - Sep 26, 2026",
@@ -51,24 +65,10 @@
       "source": "Devpost"
     },
     {
-      "title": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
-      "url": "https://acodemic-hackathon.devpost.com/",
-      "deadline": "Sep 19 - 27, 2026",
-      "prize": "$35",
-      "source": "Devpost"
-    },
-    {
-      "title": "3rd-Web-Hack",
-      "url": "https://3rd-web-hack.devpost.com/",
-      "deadline": "Aug 22 - Sep 27, 2026",
-      "prize": "$750",
-      "source": "Devpost"
-    },
-    {
-      "title": "LexHack 2026",
-      "url": "https://lexhack-2026.devpost.com/",
-      "deadline": "Sep 11 - 27, 2026",
-      "prize": "$74,248",
+      "title": "Bharat Innovation Challenge 2.0",
+      "url": "https://bic.devpost.com/",
+      "deadline": "Sep 18 - 26, 2026",
+      "prize": "$10,600",
       "source": "Devpost"
     }
   ]

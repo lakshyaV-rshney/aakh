@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-24T04:39:48.231885+00:00",
+  "fetched_at": "2026-09-25T04:50:07.180789+00:00",
   "bug_bounties": [
     {
       "title": "d-you App & German EUDI Wallet Ecosystem",
@@ -22,6 +22,12 @@
     {
       "title": "Coupang Taiwan",
       "url": "https://hackerone.com/coupang_tw",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Live Nation",
+      "url": "https://hackerone.com/live_nation",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1178,6 +1184,12 @@
       "source": "HackerOne"
     },
     {
+      "title": "Algolia",
+      "url": "https://hackerone.com/algolia",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
       "title": "Grab",
       "url": "https://hackerone.com/grab",
       "bounty": "Bounty offered",
@@ -1390,6 +1402,12 @@
     {
       "title": "AgilePulse Marketplace Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/agile-pulse",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "agile doyens",
+      "url": "https://bugcrowd.com/engagements/agiledoyens-market",
       "bounty": "$1,500",
       "source": "Bugcrowd"
     },
@@ -1748,6 +1766,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Dell Technologies Application Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/dell-com",
+      "bounty": "$2,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Dell Technologies' Products Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/dell-product",
       "bounty": "$5,000",
@@ -1756,6 +1780,12 @@
     {
       "title": "DevAcrobats",
       "url": "https://bugcrowd.com/engagements/devacrobats-market",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Deview Studios Marketplace Managed Bug Bounty Engagement",
+      "url": "https://bugcrowd.com/engagements/deviewstudios-market",
       "bounty": "$1,500",
       "source": "Bugcrowd"
     },
@@ -1924,6 +1954,12 @@
     {
       "title": "Gliffy",
       "url": "https://bugcrowd.com/engagements/gliffy",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "HeroCoders Apps",
+      "url": "https://bugcrowd.com/engagements/herocoders",
       "bounty": "$1,500",
       "source": "Bugcrowd"
     },
@@ -2480,6 +2516,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Presago Marketplace Bug Bounty Program",
+      "url": "https://bugcrowd.com/engagements/presago",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Programmer Hat Marketplace Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/programmer-hat-market",
       "bounty": "$1,500",
@@ -2588,6 +2630,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Revyz - Marketplace Bug Bounty Program ",
+      "url": "https://bugcrowd.com/engagements/revyz",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "RV Softwares Marketplace Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/rv-softwares",
       "bounty": "$1,500",
@@ -2675,6 +2723,12 @@
       "title": "Electroneum Smart Chain (ETN-SC) \u2014 EVM-Compatible Blockchain",
       "url": "https://bugcrowd.com/engagements/smartchain-mbb-og",
       "bounty": "$12,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Snapbytes Marketplace Managed Bug Bounty Engagement",
+      "url": "https://bugcrowd.com/engagements/snapbytes-market",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -2912,6 +2966,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Vico Marketplace Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/vicosoft",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Volkswagen ",
       "url": "https://bugcrowd.com/engagements/volkswagen-og",
       "bounty": "$2,500",
@@ -2927,6 +2987,12 @@
       "title": "Majid Al Futtaim Entertainment",
       "url": "https://bugcrowd.com/engagements/vox",
       "bounty": "$2,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "VR Public Managed Bug Bounty Engagement",
+      "url": "https://bugcrowd.com/engagements/vr-group-mbb-og1",
+      "bounty": "$5,000",
       "source": "Bugcrowd"
     },
     {
@@ -3170,6 +3236,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "DataCamp",
+      "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "bounty": "\u20ac1,500",
+      "source": "Intigriti"
+    },
+    {
       "title": "De Morgen",
       "url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
       "bounty": "\u20ac2,200",
@@ -3353,6 +3425,12 @@
       "title": "KU Leuven Vulnerability Disclosure Program (VDP)",
       "url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Kinepolis Group",
+      "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3764,6 +3842,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Veriff Bug Bounty",
+      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+      "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Visma Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
       "bounty": "Bounty offered",
@@ -3785,12 +3869,6 @@
       "title": "Voi Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "WP Engine Bug Bounty",
-      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {

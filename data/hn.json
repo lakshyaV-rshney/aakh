@@ -1,4 +1,103 @@
 {
-  "fetched_at": "2026-09-24T04:39:56.387399+00:00",
-  "stories": []
+  "fetched_at": "2026-09-25T04:50:09.885396+00:00",
+  "stories": [
+    {
+      "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+      "url": "https://koi.rest",
+      "summary": "<p>Hi there. My name is Paul. I\u2019m a developer, an explorer and I\u2019ve got ADHD. As of the beginning of August, I\u2019m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an",
+      "published": "Thu, 24 Sep 2026 21:33:03 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "summary": "<p>Article URL: <a href=\"https://launchvideo.io\">https://launchvideo.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49836374\">https://news.ycombinator.com/item?id=49836374</a></p>\n<p>Points: 173</p>\n<p># Comments: 102</p>",
+      "published": "Thu, 24 Sep 2026 20:28:47 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "summary": "<p>Article URL: <a href=\"https://blog.arusekk.pl/posts/srht-account-takeover/\">https://blog.arusekk.pl/posts/srht-account-takeover/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49835996\">https://news.ycombinator.com/item?id=49835996</a></p>\n<p>Points: 91</p>\n<p># Comments: ",
+      "published": "Thu, 24 Sep 2026 19:54:21 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "summary": "<p>Article URL: <a href=\"https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical\">https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49835531\">https://news.ycombinator.com/item?id=498355",
+      "published": "Thu, 24 Sep 2026 19:14:27 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "summary": "<p>Hello! We\u2019re Sid, Alex, Ketan, and Milan. We\u2019re building Whiteboard (<a href=\"https://whiteboard.dev.fast/\">https://whiteboard.dev.fast/</a>), an open-source desktop app where humans and agents can architect software together in a common workspace. Here\u2019s our repo: <a href=\"https://github.com/dev",
+      "published": "Thu, 24 Sep 2026 17:21:36 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "summary": "<p>Article URL: <a href=\"https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html\">https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49831968\">https://news.ycombinator.com/",
+      "published": "Thu, 24 Sep 2026 15:26:12 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "summary": "<p>Article URL: <a href=\"https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r\">https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r</a></p>\n",
+      "published": "Thu, 24 Sep 2026 15:09:38 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "url": "https://eprint.iacr.org/2026/2131.pdf",
+      "summary": "<p><a href=\"https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/\" rel=\"nofollow\">https://arstechnica.com/security/2026/09/theres-a-new-way-to...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49831098\">http",
+      "published": "Thu, 24 Sep 2026 14:26:32 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "summary": "<p><a href=\"https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html\" rel=\"nofollow\">https://www.nytimes.com/2026/09/24/technology/google-suncatc...</a> (<a href=\"https://archive.ph/BGFnP\" rel=\"nofollow\">https://archive.ph/BGFnP</a>)</p>\n<hr />\n<p>Comments URL: <a hr",
+      "published": "Thu, 24 Sep 2026 13:53:29 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "url": "https://cms-sfx-demo.apeleg.com/",
+      "summary": "<p>Air-gapped file encryption packed into a single, self-decrypting HTML page. Repo: <a href=\"https://github.com/ApelegHQ/ts-cms-ep-sfx\" rel=\"nofollow\">https://github.com/ApelegHQ/ts-cms-ep-sfx</a><p>I was inspired by self-extracting archives. I wanted to share files with basically no dependencies. ",
+      "published": "Thu, 24 Sep 2026 07:22:17 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "summary": "<p>A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823738\">https://news.ycombinator.com/item?id=49823738</a></p>\n<p>Points: 543</p>\n<p># Commen",
+      "published": "Wed, 23 Sep 2026 22:53:28 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vDjW_dRyKXY\">https://www.youtube.com/watch?v=vDjW_dRyKXY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817680\">https://news.ycombinator.com/item?id=49817680</a></p>\n<p>Points: 287</p>\n<p># Comments: 300</p>",
+      "published": "Wed, 23 Sep 2026 15:33:33 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Writing Parquet files using Haskell",
+      "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+      "summary": "<p>Article URL: <a href=\"https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html\">https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49802510\">https://news.ycombinato",
+      "published": "Tue, 22 Sep 2026 15:02:39 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "summary": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/\">https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49793957\">https://news.ycombinator.com/item?i",
+      "published": "Mon, 21 Sep 2026 21:53:01 +0000",
+      "source": "Hacker News"
+    }
+  ]
 }
