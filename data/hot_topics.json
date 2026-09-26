@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-09-25T04:50:32.004571+00:00",
+  "fetched_at": "2026-09-26T04:50:40.980962+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "Which free API in this list could power a side project that solves a real problem you face on campus?",
-      "head_fake": "Stop building from scratch. The API you need is already free and documented here."
-    },
     {
       "type": "repo",
       "title": "EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "What is the one concept you've been struggling with that has a dedicated free book in this repository?",
-      "head_fake": "Your tuition covers textbooks, but this repo covers the deep dives you actually need."
+      "big_question": "How can open-source literature accelerate your self-paced learning curve this semester?",
+      "head_fake": "\ud83d\udcda Free books > paid courses. Check out the new additions to the CS library."
+    },
+    {
+      "type": "repo",
+      "title": "vinta/awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "big_question": "Which Python library in this list could solve your current project bottleneck most efficiently?",
+      "head_fake": "\ud83d\udc0d Python dev? Stop searching, start building. The definitive tool list is here."
     },
     {
       "type": "hn",
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "description": "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "big_question": "How does a simple XSS in a log viewer lead to full account takeover, and what does this mean for your own CI/CD pipelines?",
-      "head_fake": "The most dangerous bugs aren't in the code you write, but in the tools that display it."
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "description": "Article URL: https://swarmtraces.org/",
+      "url": "https://swarmtraces.org/",
+      "big_question": "What does this incident reveal about the security gaps in autonomous AI agent deployments?",
+      "head_fake": "\ud83d\udea8 AI agents just broke into Hugging Face. Read the full trace before your next deployment."
     },
     {
       "type": "hn",
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "description": "https://eprint.iacr.org/2026/2131.pdf",
-      "url": "https://eprint.iacr.org/2026/2131.pdf",
-      "big_question": "If 1024-bit RSA is now practically breakable, what is the immediate migration path for the legacy systems you are studying?",
-      "head_fake": "The math behind your security courses is changing faster than the syllabus."
+      "title": "I wrote a ray tracer in Brainfuck",
+      "description": "Article URL: https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+      "big_question": "How does implementing complex graphics in an esoteric language deepen your understanding of low-level computation?",
+      "head_fake": "\ud83e\udde0 Ray tracing in Brainfuck? Yes, it's possible. A wild ride through esoteric programming."
     },
     {
       "type": "competition",
-      "title": "Hack The City 2026",
-      "description": "",
-      "url": "https://hackthecity2026.devpost.com/",
-      "big_question": "Can you apply your CS skills to solve a real-world urban problem within the 48-hour constraint?",
-      "head_fake": "Stop coding in the void. Build something that actually touches the city you live in."
+      "title": "TigerHacks 2026",
+      "description": "A major hackathon event for student developers.",
+      "url": "https://tigerhacks-2026.devpost.com/",
+      "big_question": "Can you form a team and build a prototype in 24 hours to stand out in your portfolio?",
+      "head_fake": "\u23f0 TigerHacks 2026 is open. Team up and build something that gets recruiters' attention."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "",
+      "description": "Bug bounty program for Twilio services.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "How can you leverage your understanding of API security to find a vulnerability in a platform that handles billions of messages?",
-      "head_fake": "Your first $1,000 bounty is likely hiding in the API documentation you've already read."
+      "big_question": "What vulnerabilities exist in communication APIs that could be exploited for data interception?",
+      "head_fake": "\ud83d\udcb0 Twilio is paying for bugs. Check their scope for high-impact security findings."
     },
     {
       "type": "floater",
-      "title": "The 20% Rule for Student Developers",
-      "description": "Spend 80% of your time on coursework and 20% on open source or personal projects to build a portfolio that stands out.",
-      "url": "https://www.freecodecamp.org/news/the-20-percent-rule/",
-      "big_question": "Are you optimizing for grades or for employability? The 20% rule is the bridge between the two.",
-      "head_fake": "Your GPA gets you the interview. Your GitHub profile gets you the job."
+      "title": "Morning Coding Tip",
+      "description": "Start your day by reviewing your Git history to understand recent changes.",
+      "url": "https://github.com",
+      "big_question": "How can reviewing past commits improve your current debugging efficiency?",
+      "head_fake": "\ud83c\udf05 Start strong: Review your last 5 commits to catch logic errors early."
     },
     {
       "type": "floater",
-      "title": "Why You Should Read Source Code, Not Just Docs",
-      "description": "Reading the source code of popular libraries is the fastest way to understand design patterns and implementation details.",
-      "url": "https://blog.codinghorror.com/reading-source-code/",
-      "big_question": "When was the last time you opened the source code of a library you use daily? What did you learn?",
-      "head_fake": "Documentation tells you what to do. Source code tells you why it works."
+      "title": "CS Research Insight",
+      "description": "Explore recent papers on efficient transformer architectures.",
+      "url": "https://arxiv.org",
+      "big_question": "How are new transformer variants reducing computational costs for large language models?",
+      "head_fake": "\ud83d\udd2c Research update: New papers on efficient transformers are out. Stay ahead of the curve."
     }
   ]
 }

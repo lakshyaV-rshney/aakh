@@ -1,55 +1,6 @@
 {
-  "fetched_at": "2026-09-25T04:50:24.900829+00:00",
+  "fetched_at": "2026-09-26T04:50:32.238532+00:00",
   "competitions": [
-    {
-      "title": "Hack The City 2026",
-      "url": "https://hackthecity2026.devpost.com/",
-      "deadline": "Sep 21 - 25, 2026",
-      "prize": "\u20ac6,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Nerdearla Vibeathon 2026",
-      "url": "https://nerdearla26.devpost.com/",
-      "deadline": "Sep 24 - 25, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Practice to Create [Feedback To All Projects!]",
-      "url": "https://practicetocreate.devpost.com/",
-      "deadline": "Sep 03 - 25, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "InfinityX Global Hackathon 2K26",
-      "url": "https://infinityx-2k26.devpost.com/",
-      "deadline": "Sep 15 - 25, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack The Weather",
-      "url": "https://hack-the-weather.devpost.com/",
-      "deadline": "Sep 20 - 25, 2026",
-      "prize": "$309",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Sep 25, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Business + AI Hackathon",
-      "url": "https://business-ai-hackathon.devpost.com/",
-      "deadline": "Sep 25, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "Chipcraft 3.0 - 24 Hour VLSI Hackathon",
       "url": "https://chipcraft-3-0.devpost.com/",
@@ -65,10 +16,59 @@
       "source": "Devpost"
     },
     {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - 26, 2026",
-      "prize": "$10,600",
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 26, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
+      "url": "https://acodemic-hackathon.devpost.com/",
+      "deadline": "Sep 19 - 27, 2026",
+      "prize": "$35",
+      "source": "Devpost"
+    },
+    {
+      "title": "3rd-Web-Hack",
+      "url": "https://3rd-web-hack.devpost.com/",
+      "deadline": "Aug 22 - Sep 27, 2026",
+      "prize": "$750",
+      "source": "Devpost"
+    },
+    {
+      "title": "SC Quantathon v3",
+      "url": "https://sc-quantathon-v3.devpost.com/",
+      "deadline": "Sep 25 - 27, 2026",
+      "prize": "$250",
+      "source": "Devpost"
+    },
+    {
+      "title": "TigerHacks 2026",
+      "url": "https://tigerhacks-2026.devpost.com/",
+      "deadline": "Sep 25 - 27, 2026",
+      "prize": "$5,200",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack the Hill III",
+      "url": "https://hack-the-hill-iii.devpost.com/",
+      "deadline": "Sep 25 - 27, 2026",
+      "prize": "$CAD 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "ShellHacks 2026",
+      "url": "https://shellhacks-2026.devpost.com/",
+      "deadline": "Sep 25 - 27, 2026",
+      "prize": "$41,750",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackGT 13: Seaside Market",
+      "url": "https://hackgt13.devpost.com/",
+      "deadline": "Sep 25 - 27, 2026",
+      "prize": "$11,000",
       "source": "Devpost"
     }
   ]

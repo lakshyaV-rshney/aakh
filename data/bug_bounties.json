@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T04:50:07.180789+00:00",
+  "fetched_at": "2026-09-26T04:50:16.039257+00:00",
   "bug_bounties": [
     {
       "title": "d-you App & German EUDI Wallet Ecosystem",
@@ -178,6 +178,12 @@
     {
       "title": "Klarna",
       "url": "https://hackerone.com/klarna",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Kaltura",
+      "url": "https://hackerone.com/kaltura",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -740,12 +746,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "GoCardless Bug Bounty Program",
-      "url": "https://hackerone.com/gocardless_bbp",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "ForeScout Technologies",
       "url": "https://hackerone.com/forescout_technologies",
       "bounty": "Bounty offered",
@@ -1078,12 +1078,6 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1918,7 +1912,7 @@
     {
       "title": "Fivetran",
       "url": "https://bugcrowd.com/engagements/fivetran-mbb-og",
-      "bounty": "$15,000",
+      "bounty": "$7,500",
       "source": "Bugcrowd"
     },
     {
@@ -3233,12 +3227,6 @@
       "title": "Dashlane Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/dashlane/dashlanevulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "DataCamp",
-      "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "bounty": "\u20ac1,500",
       "source": "Intigriti"
     },
     {
