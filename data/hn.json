@@ -1,88 +1,102 @@
 {
-  "fetched_at": "2026-09-26T04:50:17.028683+00:00",
+  "fetched_at": "2026-09-27T05:12:34.320986+00:00",
   "stories": [
     {
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "summary": "<p>Article URL: <a href=\"https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide\">https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide</a></p>\n<p>Comment",
-      "published": "Sat, 26 Sep 2026 00:59:02 +0000",
+      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "summary": "<p>Article URL: <a href=\"https://swarmcha.se/posts/openai-unctad\">https://swarmcha.se/posts/openai-unctad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49862299\">https://news.ycombinator.com/item?id=49862299</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+      "published": "Sun, 27 Sep 2026 01:08:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "TiddlyInstall: A universal, reusable, install system",
-      "url": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
-      "summary": "<p>Article URL: <a href=\"https://robertsdotpm.github.io/_static/tiddlyinstall.html\">https://robertsdotpm.github.io/_static/tiddlyinstall.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49851879\">https://news.ycombinator.com/item?id=49851879</a></p>\n<p>Points: 11</p>\n<p># ",
-      "published": "Sat, 26 Sep 2026 00:29:48 +0000",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/09/8087-tangent-cordic.html\">https://www.righto.com/2026/09/8087-tangent-cordic.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49858676\">https://news.ycombinator.com/item?id=49858676</a></p>\n<p>Points: 56</p>\n<p># Comm",
+      "published": "Sat, 26 Sep 2026 17:26:54 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Ekselio \u2013 Loveable for finance workflows (local first)",
-      "url": "https://www.gptbeyond.com/try?home=1",
-      "summary": "<p>Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picked up coding again, learned react, typescript, etc - even built a rudimentary site - and then came",
-      "published": "Fri, 25 Sep 2026 21:09:28 +0000",
+      "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "summary": "<p>I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipu",
+      "published": "Sat, 26 Sep 2026 17:10:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "summary": "<p>Article URL: <a href=\"https://swarmtraces.org/\">https://swarmtraces.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49849985\">https://news.ycombinator.com/item?id=49849985</a></p>\n<p>Points: 319</p>\n<p># Comments: 183</p>",
-      "published": "Fri, 25 Sep 2026 21:09:27 +0000",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "summary": "<p>We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.<p>The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass.<p>In the blog post, we describe the approac",
+      "published": "Sat, 26 Sep 2026 15:49:04 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html\">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49845977\">https://news.ycombinator.com/item?id=",
-      "published": "Fri, 25 Sep 2026 15:29:25 +0000",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "summary": "<p>Article URL: <a href=\"https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705\">https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49854875\">https://news.",
+      "published": "Sat, 26 Sep 2026 09:41:58 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Jev Plays Pok\u00e9mon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "summary": "<p>Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pok\u00e9mon.<p>I've spent endless hours playing this game as a child s",
-      "published": "Fri, 25 Sep 2026 14:28:07 +0000",
+      "title": "An agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "summary": "<p>Article URL: <a href=\"https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/\">https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4985313",
+      "published": "Sat, 26 Sep 2026 04:14:11 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "summary": "<p><a href=\"https://archive.ph/XJG5V\" rel=\"nofollow\">https://archive.ph/XJG5V</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49844896\">https://news.ycombinator.com/item?id=49844896</a></p>\n<p>Points: 99</p>\n<p># Comments: 93</p>",
-      "published": "Fri, 25 Sep 2026 14:07:08 +0000",
+      "title": "Promising discoveries about the potential for life on one of Saturn\u2019s icy moons",
+      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "summary": "<p>Article URL: <a href=\"https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html\">https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html</a></p>\n<p>Comments URL: <",
+      "published": "Sat, 26 Sep 2026 03:23:31 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-      "url": "https://hackeratlas.com/",
-      "summary": "<p>I built a tool to explore HN topics and how they change over time.<p>Currently covers 2024 to today. Is it useful? What's missing?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49844497\">https://news.ycombinator.com/item?id=49844497</a></p>\n<p>Points: 28</p>\n<p># Comme",
-      "published": "Fri, 25 Sep 2026 13:37:54 +0000",
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "summary": "<p>Article URL: <a href=\"https://ampdot.mesh.host/token-space-fonts.html\">https://ampdot.mesh.host/token-space-fonts.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49851883\">https://news.ycombinator.com/item?id=49851883</a></p>\n<p>Points: 44</p>\n<p># Comments: 10</p>",
+      "published": "Sat, 26 Sep 2026 00:30:03 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "An airport cooled by natural ventilation",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion\">https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion</a></p>\n<p>Comments URL: <a ",
-      "published": "Fri, 25 Sep 2026 10:16:50 +0000",
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand\">https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create",
+      "published": "Fri, 25 Sep 2026 13:49:06 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I wrote a ray tracer in Brainfuck",
-      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-      "summary": "<p>Article URL: <a href=\"https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/\">https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842409\">https://news.ycombinator.com/item?id=49842409</a></p>\n<p>Points: 53</p>\n<p>",
-      "published": "Fri, 25 Sep 2026 10:08:41 +0000",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "summary": "<p>Article URL: <a href=\"https://dashbit.co/blog/evolving-ai-era\">https://dashbit.co/blog/evolving-ai-era</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49839567\">https://news.ycombinator.com/item?id=49839567</a></p>\n<p>Points: 64</p>\n<p># Comments: 40</p>",
+      "published": "Fri, 25 Sep 2026 02:34:39 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "summary": "<p>Article URL: <a href=\"https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html\">https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
-      "published": "Fri, 25 Sep 2026 03:59:11 +0000",
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/\">https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4983943",
+      "published": "Fri, 25 Sep 2026 02:11:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "url": "https://adekau.github.io/posts/2020/llamas.html",
-      "summary": "<p>Article URL: <a href=\"https://adekau.github.io/posts/2020/llamas.html\">https://adekau.github.io/posts/2020/llamas.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49829472\">https://news.ycombinator.com/item?id=49829472</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
-      "published": "Thu, 24 Sep 2026 12:03:35 +0000",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "summary": "<p>Article URL: <a href=\"https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed\">https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49836579\">https://news.ycombi",
+      "published": "Thu, 24 Sep 2026 20:51:50 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "LA Metro has some of the slowest escalators",
+      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
+      "summary": "<p>Article URL: <a href=\"https://basin.la/articles/ninety-feet-a-minute.html\">https://basin.la/articles/ninety-feet-a-minute.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49833444\">https://news.ycombinator.com/item?id=49833444</a></p>\n<p>Points: 95</p>\n<p># Comments: 76",
+      "published": "Thu, 24 Sep 2026 16:52:24 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.movingimagearchive.com/\">https://www.movingimagearchive.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49832768\">https://news.ycombinator.com/item?id=49832768</a></p>\n<p>Points: 140</p>\n<p># Comments: 26</p>",
+      "published": "Thu, 24 Sep 2026 16:11:42 +0000",
       "source": "Hacker News"
     }
   ]

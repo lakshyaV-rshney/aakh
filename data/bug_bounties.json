@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26T04:50:16.039257+00:00",
+  "fetched_at": "2026-09-27T05:12:34.421864+00:00",
   "bug_bounties": [
     {
       "title": "d-you App & German EUDI Wallet Ecosystem",
@@ -178,12 +178,6 @@
     {
       "title": "Klarna",
       "url": "https://hackerone.com/klarna",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Kaltura",
-      "url": "https://hackerone.com/kaltura",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3749,12 +3743,6 @@
       "title": "Trouw",
       "url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
       "bounty": "\u20ac2,200",
-      "source": "Intigriti"
-    },
-    {
-      "title": "TrueLayer",
-      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {
