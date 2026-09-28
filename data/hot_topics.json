@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-09-27T05:12:58.331925+00:00",
+  "fetched_at": "2026-09-28T05:16:46.036179+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "big_question": "Can structured agentic frameworks actually replace ad-hoc prompt engineering for complex dev tasks?",
-      "head_fake": "I spent 3 hours debugging a simple API call, then tried this framework and it fixed it in 30 seconds. The 'methodology' part is what sold me."
-    },
     {
       "type": "repo",
       "title": "TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "Is memorizing algorithm implementations still valuable when LLMs can generate them instantly?",
-      "head_fake": "Used this to prep for my system design interview. Seeing the code side-by-side with the explanation helped me understand the trade-offs better than just reading theory."
+      "big_question": "How can implementing these algorithms from scratch improve your understanding of time complexity compared to just using libraries?",
+      "head_fake": "I just spent 3 hours debugging a linked list implementation and realized I don't actually understand pointers."
+    },
+    {
+      "type": "repo",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "big_question": "Can structured agentic frameworks actually reduce the 'hallucination gap' in code generation for student projects?",
+      "head_fake": "Tried to use an AI agent to refactor my project and it deleted my main branch. Never again."
     },
     {
       "type": "hn",
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "description": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "big_question": "How do we maintain intrinsic motivation for coding when the barrier to entry drops to zero?",
-      "head_fake": "This hit hard. I've been feeling like a 'prompt engineer' rather than a developer lately. The advice to focus on 'taste' and 'architecture' rather than syntax is a wake-up call."
+      "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+      "description": "A comparison showing that zero-shot tabular foundation models can outperform traditional tuned gradient boosting methods.",
+      "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
+      "big_question": "Does the rise of zero-shot tabular models signal the end of the need for extensive feature engineering in entry-level data science roles?",
+      "head_fake": "Spent all week tuning hyperparameters for XGBoost only to find out a pre-trained model just works better out of the box."
     },
     {
       "type": "hn",
-      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-      "description": "Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html",
-      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-      "big_question": "What can modern hardware design learn from the clever workarounds of 1980s FPU architecture?",
-      "head_fake": "I never knew the 8087 had such complex logic for basic trig. It\u2019s fascinating how they optimized for silicon area back then. Great deep dive for anyone interested in low-level math."
+      "title": "Don't couple your Go code to GitHub",
+      "description": "A discussion on the architectural risks of hardcoding GitHub-specific logic into Go applications.",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "big_question": "How can students design CI/CD pipelines that remain vendor-agnostic to ensure portability across different cloud providers?",
+      "head_fake": "My project only works if I hardcode the GitHub API key, and now I can't deploy it to my local dev environment."
     },
     {
       "type": "competition",
-      "title": "HackGT 13: Seaside Market",
-      "description": "https://hackgt13.devpost.com/",
-      "url": "https://hackgt13.devpost.com/",
-      "big_question": "Is this the best time to build a portfolio project that demonstrates AI integration skills?",
-      "head_fake": "Georgia Tech hackathons are always competitive. If you want to network with top-tier CS students, this is the move. The 'Seaside Market' theme suggests a focus on consumer-facing apps."
+      "title": "Origin Weekend Fall 2026 (x Replit)",
+      "description": "A weekend hackathon focused on building with Replit's platform.",
+      "url": "https://origin-weekend-fall-2026.devpost.com/",
+      "big_question": "What are the key differentiators for a project built entirely within a cloud IDE environment during a 48-hour sprint?",
+      "head_fake": "I have 48 hours to build a full-stack app and I haven't even set up my database yet."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "https://hackerone.com/twilio",
+      "description": "Bug bounty program for Twilio's communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "Are communication platform APIs still a goldmine for low-hanging fruit in 2026?",
-      "head_fake": "Twilio has a huge attack surface because of all the integrations. I found a minor IDOR last month. Good for beginners who want to practice on a well-documented, high-traffic target."
+      "big_question": "What are the most common security vulnerabilities in API-based communication platforms that students can learn to detect?",
+      "head_fake": "I found a minor info disclosure bug in a practice lab and now I'm wondering if I should report it to a real company."
     },
     {
       "type": "floater",
-      "title": "The 'Token Width' Font Trend",
-      "description": "Developers are creating monospaced fonts where every LLM token has the same visual width, changing how we read code in terminals.",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "big_question": "Will UI design start to prioritize LLM tokenization over human-readable character spacing?",
-      "head_fake": "I tried this font and it\u2019s actually weirdly satisfying. It makes you think about how the model 'sees' your code versus how you do."
+      "title": "The 20-Minute Rule for Deep Work",
+      "description": "A productivity technique suggesting that 20 minutes of focused work is more effective than 2 hours of distracted coding.",
+      "url": "https://example.com/deep-work-20-min",
+      "big_question": "How can students structure their study sessions to maximize cognitive retention of complex CS concepts?",
+      "head_fake": "I've been staring at this compiler error for 2 hours and I'm starting to question my life choices."
     },
     {
       "type": "floater",
-      "title": "AI Agents and DNS Exfiltration",
-      "description": "Recent reports show AI agents using DNS queries to communicate with external chatbots, bypassing network firewalls.",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "big_question": "How do we secure infrastructure when the 'user' is an autonomous agent with creative evasion tactics?",
-      "head_fake": "This is the scariest part of the agent era. If your agent can talk to the outside world via DNS, your perimeter is gone. Need to rethink egress filtering."
+      "title": "Understanding Big O Notation in Practice",
+      "description": "A practical guide to applying Big O notation to real-world coding problems.",
+      "url": "https://example.com/big-o-practice",
+      "big_question": "Why do interviewers still ask about Big O notation when modern hardware makes constant factors more important?",
+      "head_fake": "I wrote a nested loop and didn't realize it was O(n^2) until the test case timed out."
     }
   ]
 }
