@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-09-28T05:16:46.036179+00:00",
+  "fetched_at": "2026-09-29T05:38:16.608590+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "How can implementing these algorithms from scratch improve your understanding of time complexity compared to just using libraries?",
-      "head_fake": "I just spent 3 hours debugging a linked list implementation and realized I don't actually understand pointers."
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How can you structure your morning study session to tackle one specific module in this massive curriculum without getting overwhelmed?",
+      "head_fake": "I just pushed a fix to the React curriculum, time to test it locally."
     },
     {
       "type": "repo",
-      "title": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "big_question": "Can structured agentic frameworks actually reduce the 'hallucination gap' in code generation for student projects?",
-      "head_fake": "Tried to use an AI agent to refactor my project and it deleted my main branch. Never again."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs for use in your web and mobile apps.",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "Which free API from this list could you integrate into a side project this weekend to learn about RESTful design?",
+      "head_fake": "Found a new weather API, let's swap out the old one in the dashboard."
     },
     {
       "type": "hn",
-      "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
-      "description": "A comparison showing that zero-shot tabular foundation models can outperform traditional tuned gradient boosting methods.",
-      "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
-      "big_question": "Does the rise of zero-shot tabular models signal the end of the need for extensive feature engineering in entry-level data science roles?",
-      "head_fake": "Spent all week tuning hyperparameters for XGBoost only to find out a pre-trained model just works better out of the box."
+      "title": "Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
+      "description": "Benchmarks how well Harness+models can create a Pac-Man game from a single prompt.",
+      "url": "https://jonclegg.github.io/pacman-bakeoff/",
+      "big_question": "What does this benchmark reveal about the current limitations of LLMs in generating complex, stateful game logic?",
+      "head_fake": "My model failed the Pac-Man test again, need to tweak the prompt engineering."
     },
     {
       "type": "hn",
-      "title": "Don't couple your Go code to GitHub",
-      "description": "A discussion on the architectural risks of hardcoding GitHub-specific logic into Go applications.",
-      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "big_question": "How can students design CI/CD pipelines that remain vendor-agnostic to ensure portability across different cloud providers?",
-      "head_fake": "My project only works if I hardcode the GitHub API key, and now I can't deploy it to my local dev environment."
+      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "description": "An interactive lab to experiment with seven different tiny language models directly in your browser.",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "big_question": "How do the performance trade-offs of these tiny models compare to larger local models for edge computing applications?",
+      "head_fake": "Testing the 1B parameter model, it's surprisingly fast on my laptop."
     },
     {
       "type": "competition",
-      "title": "Origin Weekend Fall 2026 (x Replit)",
-      "description": "A weekend hackathon focused on building with Replit's platform.",
-      "url": "https://origin-weekend-fall-2026.devpost.com/",
-      "big_question": "What are the key differentiators for a project built entirely within a cloud IDE environment during a 48-hour sprint?",
-      "head_fake": "I have 48 hours to build a full-stack app and I haven't even set up my database yet."
+      "title": "Hyperbloom September - Beginer Freindly",
+      "description": "A beginner-friendly hackathon focused on building innovative solutions with AI and web technologies.",
+      "url": "https://hyperbloom-september2.devpost.com/",
+      "big_question": "What is one simple but impactful problem you can solve in 48 hours that aligns with your current skill set?",
+      "head_fake": "Just registered for the hackathon, need to find a team by noon."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio's communication platform.",
+      "description": "Twilio's public bug bounty program for reporting security vulnerabilities in their communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common security vulnerabilities in API-based communication platforms that students can learn to detect?",
-      "head_fake": "I found a minor info disclosure bug in a practice lab and now I'm wondering if I should report it to a real company."
+      "big_question": "What are the most common vulnerability classes in communication APIs, and how can you systematically test for them?",
+      "head_fake": "Spent the morning fuzzing the SMS endpoint, found a minor info leak."
     },
     {
       "type": "floater",
-      "title": "The 20-Minute Rule for Deep Work",
-      "description": "A productivity technique suggesting that 20 minutes of focused work is more effective than 2 hours of distracted coding.",
-      "url": "https://example.com/deep-work-20-min",
-      "big_question": "How can students structure their study sessions to maximize cognitive retention of complex CS concepts?",
-      "head_fake": "I've been staring at this compiler error for 2 hours and I'm starting to question my life choices."
+      "title": "The Economics of AI in Game Reverse Engineering",
+      "description": "An analysis of how AI is changing the cost and feasibility of reverse engineering and modernizing legacy games.",
+      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
+      "big_question": "How might AI-driven reverse engineering tools impact the preservation of digital heritage and the job market for low-level developers?",
+      "head_fake": "Reading about how AI can decompile old game code, fascinating implications."
     },
     {
       "type": "floater",
-      "title": "Understanding Big O Notation in Practice",
-      "description": "A practical guide to applying Big O notation to real-world coding problems.",
-      "url": "https://example.com/big-o-practice",
-      "big_question": "Why do interviewers still ask about Big O notation when modern hardware makes constant factors more important?",
-      "head_fake": "I wrote a nested loop and didn't realize it was O(n^2) until the test case timed out."
+      "title": "Nvidia's Watchdog Chip for AI Agents",
+      "description": "Nvidia releases a new chip designed to monitor and control the behavior of AI agents in real-time.",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "big_question": "What are the ethical and technical implications of having hardware-level oversight for autonomous AI systems?",
+      "head_fake": "Nvidia's new watchdog chip is a game-changer for safe AI deployment."
     }
   ]
 }

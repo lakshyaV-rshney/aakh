@@ -1,27 +1,6 @@
 {
-  "fetched_at": "2026-09-28T05:16:31.897728+00:00",
+  "fetched_at": "2026-09-29T05:38:06.562340+00:00",
   "competitions": [
-    {
-      "title": "Origin Weekend Fall 2026 (x Replit)",
-      "url": "https://origin-weekend-fall-2026.devpost.com/",
-      "deadline": "Sep 24 - 28, 2026",
-      "prize": "$5,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Sep 28, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "LUMA Hackathon (September 20th - 28th)",
-      "url": "https://luma-hackathon-fall.devpost.com/",
-      "deadline": "Jun 26 - Sep 28, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "J\u0101griti Hacks",
       "url": "https://jagriti-hacks1.devpost.com/",
@@ -34,6 +13,13 @@
       "url": "https://bic.devpost.com/",
       "deadline": "Sep 18 - 29, 2026",
       "prize": "$10,600",
+      "source": "Devpost"
+    },
+    {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 29, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
@@ -69,6 +55,20 @@
       "url": "https://hack2heal.devpost.com/",
       "deadline": "Aug 25 - Sep 30, 2026",
       "prize": "$100",
+      "source": "Devpost"
+    },
+    {
+      "title": "Evorozen Apex: NextGen AI Buildathon",
+      "url": "https://evorozen-apex.devpost.com/",
+      "deadline": "Jul 17 - Sep 30, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hyperbloom September - Beginer Freindly",
+      "url": "https://hyperbloom-september2.devpost.com/",
+      "deadline": "Sep 14 - 30, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]
