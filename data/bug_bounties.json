@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T05:37:51.311911+00:00",
+  "fetched_at": "2026-09-30T05:26:02.513816+00:00",
   "bug_bounties": [
     {
       "title": "d-you App & German EUDI Wallet Ecosystem",
@@ -188,8 +188,8 @@
       "source": "HackerOne"
     },
     {
-      "title": "Wallet on Telegram",
-      "url": "https://hackerone.com/wallet_on_telegram",
+      "title": "Walt.io",
+      "url": "https://hackerone.com/walt_io",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3608,6 +3608,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Randstad",
+      "url": "https://www.intigriti.com/programs/randstad/randstad/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Red Bull",
       "url": "https://www.intigriti.com/programs/redbull/redbull/detail",
       "bounty": "Bounty offered",
@@ -3755,12 +3761,6 @@
       "title": "Tweakers",
       "url": "https://www.intigriti.com/programs/dpgm/tweakers/detail",
       "bounty": "\u20ac2,200",
-      "source": "Intigriti"
-    },
-    {
-      "title": "UZ Leuven",
-      "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {

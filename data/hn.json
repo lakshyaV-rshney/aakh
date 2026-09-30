@@ -1,81 +1,88 @@
 {
-  "fetched_at": "2026-09-29T05:37:50.396507+00:00",
+  "fetched_at": "2026-09-30T05:26:02.450844+00:00",
   "stories": [
     {
-      "title": "Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
-      "url": "https://jonclegg.github.io/pacman-bakeoff/",
-      "summary": "<p>Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:<p>\u201cCreate a Pac-Man game in a single HTML page\u201d<p>Each model gets one shot \u2014 no follow-up prompts or fixes.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49885493\">https://news.ycombinat",
-      "published": "Mon, 28 Sep 2026 22:43:12 +0000",
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Sparticle62ops/pssa\">https://github.com/Sparticle62ops/pssa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903993\">https://news.ycombinator.com/item?id=49903993</a></p>\n<p>Points: 38</p>\n<p># Comments: 11</p>",
+      "published": "Wed, 30 Sep 2026 03:19:54 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884625\">https://news.ycombinator.com/item?id=49884625</a></p>\n<p>Points: 64</p>\n<p># Comments: 9</p",
-      "published": "Mon, 28 Sep 2026 21:26:41 +0000",
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "summary": "<p>Article URL: <a href=\"https://agmai.org/general-sep29/\">https://agmai.org/general-sep29/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903713\">https://news.ycombinator.com/item?id=49903713</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+      "published": "Wed, 30 Sep 2026 02:36:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "summary": "<p>Article URL: <a href=\"https://github.com/firelex/jeff\">https://github.com/firelex/jeff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883844\">https://news.ycombinator.com/item?id=49883844</a></p>\n<p>Points: 412</p>\n<p># Comments: 155</p>",
-      "published": "Mon, 28 Sep 2026 20:23:36 +0000",
+      "title": "Ballmer Peak",
+      "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Ballmer_Peak\">https://en.wikipedia.org/wiki/Ballmer_Peak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903712\">https://news.ycombinator.com/item?id=49903712</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
+      "published": "Wed, 30 Sep 2026 02:35:58 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "World Labs Is Joining AMD",
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "summary": "<p>Article URL: <a href=\"https://www.worldlabs.ai/blog/amd-announcement\">https://www.worldlabs.ai/blog/amd-announcement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883760\">https://news.ycombinator.com/item?id=49883760</a></p>\n<p>Points: 243</p>\n<p># Comments: 100</p>",
-      "published": "Mon, 28 Sep 2026 20:18:05 +0000",
+      "title": "Deser: Rethinking Rust Serialization",
+      "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+      "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/9/29/deser/\">https://lucumr.pocoo.org/2026/9/29/deser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901149\">https://news.ycombinator.com/item?id=49901149</a></p>\n<p>Points: 49</p>\n<p># Comments: 6</p>",
+      "published": "Tue, 29 Sep 2026 21:48:27 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "summary": "<p>Article URL: <a href=\"https://calnewport.com/its-time-to-investigate-the-ai-labs/\">https://calnewport.com/its-time-to-investigate-the-ai-labs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883471\">https://news.ycombinator.com/item?id=49883471</a></p>\n<p>Points: 390</p>\n",
-      "published": "Mon, 28 Sep 2026 19:53:35 +0000",
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "url": "https://enigma.design",
+      "summary": "<p>I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work. I used Astra to build out the inner components through a combination of reference images, writin",
+      "published": "Tue, 29 Sep 2026 17:15:56 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "summary": "<p>Article URL: <a href=\"https://stateofutopia.com/experiments/microllmlab/\">https://stateofutopia.com/experiments/microllmlab/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882781\">https://news.ycombinator.com/item?id=49882781</a></p>\n<p>Points: 192</p>\n<p># Comments: 71<",
-      "published": "Mon, 28 Sep 2026 18:58:53 +0000",
+      "title": "Tcl/Tk 9.1",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "summary": "<p>Article URL: <a href=\"https://www.tcl-lang.org/software/tcltk/9.1.html\">https://www.tcl-lang.org/software/tcltk/9.1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896712\">https://news.ycombinator.com/item?id=49896712</a></p>\n<p>Points: 256</p>\n<p># Comments: 100</p>",
+      "published": "Tue, 29 Sep 2026 17:13:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/09/28/nvidia-releases.html\">https://www.cnbc.com/2026/09/28/nvidia-releases.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879883\">https://news.ycombinator.com/item?id=49879883</a></p>\n<p>Points: 142</p>\n<p># Comments:",
-      "published": "Mon, 28 Sep 2026 15:46:36 +0000",
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-dots/\">https://openai.com/index/introducing-dots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896604\">https://news.ycombinator.com/item?id=49896604</a></p>\n<p>Points: 516</p>\n<p># Comments: 392</p>",
+      "published": "Tue, 29 Sep 2026 17:07:57 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: HN.watch \u2013 Videos of all Hacker News posts",
-      "url": "https://hn.watch/",
-      "summary": "<p>Hi HN, I\u2019m Per, founder of Scrimba (YC S20). We\u2019ve spent the last decade teaching people how to code with an HTML-based video format. We\u2019ve now plugged an LLM into it, so that people can create explainer videos about anything. It\u2019s called \u201cScrimba Explain\u201d.<p>To demo this technology for Hacker Ne",
-      "published": "Mon, 28 Sep 2026 15:16:13 +0000",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-1-sol/\">https://openai.com/index/introducing-gpt-6-1-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896586\">https://news.ycombinator.com/item?id=49896586</a></p>\n<p>Points: 847</p>\n<p># Comments: 773</",
+      "published": "Tue, 29 Sep 2026 17:06:45 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Simulating Airband Am Radios",
-      "url": "https://bitbashing.io/am-radio.html",
-      "summary": "<p>Article URL: <a href=\"https://bitbashing.io/am-radio.html\">https://bitbashing.io/am-radio.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49862602\">https://news.ycombinator.com/item?id=49862602</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-      "published": "Sun, 27 Sep 2026 02:01:35 +0000",
+      "title": "Show HN: NSL \u2013 WSL for Linux",
+      "url": "https://frostyard.github.io/nsl/",
+      "summary": "<p>One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts",
+      "published": "Tue, 29 Sep 2026 14:51:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "What reversing, modernising old games tells us about the economic impact of AI",
-      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-      "summary": "<p>Article URL: <a href=\"https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/\">https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/</a></p>\n<p>Comments URL: <a href=\"",
-      "published": "Sat, 26 Sep 2026 23:49:01 +0000",
+      "title": "Ask HN: What are you reading?",
+      "url": "https://news.ycombinator.com/item?id=49893157",
+      "summary": "<p>I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough.  I'm also wrapping up Doctorow's _Enshittification_, and I'm looking for something a little meaty to keep the brain working...</p>\n<hr />\n<p>Comments URL: <a ",
+      "published": "Tue, 29 Sep 2026 13:44:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "summary": "<p>Article URL: <a href=\"https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/\">https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49855059\">https://news.ycombinator.",
-      "published": "Sat, 26 Sep 2026 10:16:26 +0000",
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "summary": "<p>Article URL: <a href=\"https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart\">https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart</a></p>\n<p>Comments URL: <a href=\"https://ne",
+      "published": "Tue, 29 Sep 2026 10:10:20 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "url": "https://somethingbig.ai/computer",
+      "summary": "<p>Article URL: <a href=\"https://somethingbig.ai/computer\">https://somethingbig.ai/computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49871018\">https://news.ycombinator.com/item?id=49871018</a></p>\n<p>Points: 118</p>\n<p># Comments: 66</p>",
+      "published": "Sun, 27 Sep 2026 21:26:06 +0000",
       "source": "Hacker News"
     }
   ]

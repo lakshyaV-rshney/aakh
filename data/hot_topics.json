@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-09-29T05:38:16.608590+00:00",
+  "fetched_at": "2026-09-30T05:26:28.660464+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can you structure your morning study session to tackle one specific module in this massive curriculum without getting overwhelmed?",
-      "head_fake": "I just pushed a fix to the React curriculum, time to test it locally."
+      "title": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "big_question": "How does a plugin-first architecture change the way we think about LLM extensibility compared to monolithic models?",
+      "head_fake": "The lobster just ate the monolith."
     },
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs for use in your web and mobile apps.",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "Which free API from this list could you integrate into a side project this weekend to learn about RESTful design?",
-      "head_fake": "Found a new weather API, let's swap out the old one in the dashboard."
+      "title": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "big_question": "Is building 10 small projects more effective for job readiness than mastering one complex system?",
+      "head_fake": "Stop reading docs, start breaking things."
     },
     {
       "type": "hn",
-      "title": "Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
-      "description": "Benchmarks how well Harness+models can create a Pac-Man game from a single prompt.",
-      "url": "https://jonclegg.github.io/pacman-bakeoff/",
-      "big_question": "What does this benchmark reveal about the current limitations of LLMs in generating complex, stateful game logic?",
-      "head_fake": "My model failed the Pac-Man test again, need to tweak the prompt engineering."
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "description": "Article URL: https://github.com/Sparticle62ops/pssa",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "big_question": "Can a non-transformer architecture in Rust outperform GPU-heavy transformers on edge devices?",
+      "head_fake": "Rust ate the GPU cluster."
     },
     {
       "type": "hn",
-      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
-      "description": "An interactive lab to experiment with seven different tiny language models directly in your browser.",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "big_question": "How do the performance trade-offs of these tiny models compare to larger local models for edge computing applications?",
-      "head_fake": "Testing the 1B parameter model, it's surprisingly fast on my laptop."
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "description": "Article URL: https://somethingbig.ai/computer",
+      "url": "https://somethingbig.ai/computer",
+      "big_question": "What does building a CPU from raw logic gates teach us about the limits of abstraction in modern CS?",
+      "head_fake": "277k gates, zero regrets."
     },
     {
       "type": "competition",
       "title": "Hyperbloom September - Beginer Freindly",
-      "description": "A beginner-friendly hackathon focused on building innovative solutions with AI and web technologies.",
+      "description": "A beginner-friendly hackathon for new developers.",
       "url": "https://hyperbloom-september2.devpost.com/",
-      "big_question": "What is one simple but impactful problem you can solve in 48 hours that aligns with your current skill set?",
-      "head_fake": "Just registered for the hackathon, need to find a team by noon."
+      "big_question": "How can low-barrier competitions accelerate the transition from tutorial hell to real-world deployment?",
+      "head_fake": "Your first commit just became a hackathon win."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Twilio's public bug bounty program for reporting security vulnerabilities in their communications platform.",
+      "description": "Bug bounty program for Twilio's communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common vulnerability classes in communication APIs, and how can you systematically test for them?",
-      "head_fake": "Spent the morning fuzzing the SMS endpoint, found a minor info leak."
+      "big_question": "What are the most common API injection vectors in high-traffic communication platforms?",
+      "head_fake": "Find the bug, get the cash, sleep better."
     },
     {
       "type": "floater",
-      "title": "The Economics of AI in Game Reverse Engineering",
-      "description": "An analysis of how AI is changing the cost and feasibility of reverse engineering and modernizing legacy games.",
-      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-      "big_question": "How might AI-driven reverse engineering tools impact the preservation of digital heritage and the job market for low-level developers?",
-      "head_fake": "Reading about how AI can decompile old game code, fascinating implications."
+      "title": "The 20% Rule for Code Review",
+      "description": "Spend only 20% of your review time on style and 80% on logic and security.",
+      "url": "https://example.com/20-percent-rule",
+      "big_question": "Are we optimizing for code aesthetics at the cost of critical logic errors?",
+      "head_fake": "Stop nitpicking semicolons, start finding bugs."
     },
     {
       "type": "floater",
-      "title": "Nvidia's Watchdog Chip for AI Agents",
-      "description": "Nvidia releases a new chip designed to monitor and control the behavior of AI agents in real-time.",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "big_question": "What are the ethical and technical implications of having hardware-level oversight for autonomous AI systems?",
-      "head_fake": "Nvidia's new watchdog chip is a game-changer for safe AI deployment."
+      "title": "Why Your Local Dev Environment is a Security Risk",
+      "description": "Unsecured local ports and hardcoded keys in .env files are the top cause of student data leaks.",
+      "url": "https://example.com/local-dev-security",
+      "big_question": "How many of your side projects have exposed API keys in public repos?",
+      "head_fake": "Your .env file is a public confession."
     }
   ]
 }

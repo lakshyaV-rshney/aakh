@@ -1,34 +1,6 @@
 {
-  "fetched_at": "2026-09-29T05:38:06.562340+00:00",
+  "fetched_at": "2026-09-30T05:26:18.658574+00:00",
   "competitions": [
-    {
-      "title": "J\u0101griti Hacks",
-      "url": "https://jagriti-hacks1.devpost.com/",
-      "deadline": "Sep 25 - 29, 2026",
-      "prize": "$850",
-      "source": "Devpost"
-    },
-    {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - 29, 2026",
-      "prize": "$10,600",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Sep 29, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack Days Turbhe ",
-      "url": "https://hack-days-turbhe.devpost.com/",
-      "deadline": "Sep 20 - 29, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
     {
       "title": "CodeSprint by Elite Coders",
       "url": "https://codesprint-by-elitecoders.devpost.com/",
@@ -58,6 +30,13 @@
       "source": "Devpost"
     },
     {
+      "title": "Bharat Innovation Challenge 2.0",
+      "url": "https://bic.devpost.com/",
+      "deadline": "Sep 18 - 30, 2026",
+      "prize": "$10,600",
+      "source": "Devpost"
+    },
+    {
       "title": "Evorozen Apex: NextGen AI Buildathon",
       "url": "https://evorozen-apex.devpost.com/",
       "deadline": "Jul 17 - Sep 30, 2026",
@@ -65,9 +44,30 @@
       "source": "Devpost"
     },
     {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Sep 30, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "Hyperbloom September - Beginer Freindly",
       "url": "https://hyperbloom-september2.devpost.com/",
       "deadline": "Sep 14 - 30, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Beginner's Paradise - FirstCommit",
+      "url": "https://firstcommit.devpost.com/",
+      "deadline": "Aug 21 - Sep 30, 2026",
+      "prize": "$1,024",
+      "source": "Devpost"
+    },
+    {
+      "title": "305 HackShells Edition September 2026",
+      "url": "https://305hackshellssep2026.devpost.com/",
+      "deadline": "Sep 15 - 30, 2026",
       "prize": "$0",
       "source": "Devpost"
     }
