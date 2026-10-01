@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-09-30T05:26:28.660464+00:00",
+  "fetched_at": "2026-10-01T05:44:32.970055+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "big_question": "How does a plugin-first architecture change the way we think about LLM extensibility compared to monolithic models?",
-      "head_fake": "The lobster just ate the monolith."
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "How can you use this repository to build a personal algorithm practice tracker that visualizes your progress in sorting and graph theory?",
+      "head_fake": "\ud83e\udde0 Algorithm Gym: 500+ implementations to master CS fundamentals"
     },
     {
       "type": "repo",
-      "title": "practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "big_question": "Is building 10 small projects more effective for job readiness than mastering one complex system?",
-      "head_fake": "Stop reading docs, start breaking things."
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "What is the most efficient way to contribute to the curriculum documentation to build a strong open-source portfolio?",
+      "head_fake": "\ud83c\udf93 Open Source Learning: Contribute to the world's largest free coding curriculum"
     },
     {
       "type": "hn",
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "description": "Article URL: https://github.com/Sparticle62ops/pssa",
-      "url": "https://github.com/Sparticle62ops/pssa",
-      "big_question": "Can a non-transformer architecture in Rust outperform GPU-heavy transformers on edge devices?",
-      "head_fake": "Rust ate the GPU cluster."
+      "title": "Is sandboxing sufficient to contain rogue agents?",
+      "description": "Article URL: https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+      "big_question": "How does the current state of sandboxing impact the security architecture of AI-driven development tools you might use?",
+      "head_fake": "\ud83d\udd12 Security Deep Dive: The limits of sandboxing in the age of autonomous agents"
     },
     {
       "type": "hn",
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "description": "Article URL: https://somethingbig.ai/computer",
-      "url": "https://somethingbig.ai/computer",
-      "big_question": "What does building a CPU from raw logic gates teach us about the limits of abstraction in modern CS?",
-      "head_fake": "277k gates, zero regrets."
+      "title": "Show HN: Ledge.sh \u2013 Runnable Markdown Notes",
+      "description": "Ledge is a Markdown notebook that runs shell commands, code, SQL, etc.",
+      "url": "https://ledge.sh",
+      "big_question": "Could replacing static documentation with executable Markdown notes improve your personal knowledge management and debugging workflow?",
+      "head_fake": "\u26a1 Productivity Hack: Markdown that actually runs your code"
     },
     {
       "type": "competition",
-      "title": "Hyperbloom September - Beginer Freindly",
-      "description": "A beginner-friendly hackathon for new developers.",
-      "url": "https://hyperbloom-september2.devpost.com/",
-      "big_question": "How can low-barrier competitions accelerate the transition from tutorial hell to real-world deployment?",
-      "head_fake": "Your first commit just became a hackathon win."
+      "title": "Beginner's Paradise - FirstCommit",
+      "description": "A hackathon designed specifically for first-time participants to learn and build.",
+      "url": "https://firstcommit.devpost.com/",
+      "big_question": "How can participating in a beginner-focused hackathon help you overcome imposter syndrome and build your first end-to-end project?",
+      "head_fake": "\ud83d\ude80 First Steps: A low-pressure environment to make your first major commit"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio's communication platform.",
+      "description": "Twilio's public bug bounty program for security researchers.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common API injection vectors in high-traffic communication platforms?",
-      "head_fake": "Find the bug, get the cash, sleep better."
+      "big_question": "What are the common API security vulnerabilities in communication platforms that you could start researching this weekend?",
+      "head_fake": "\ud83d\udcb0 Security Research: Explore vulnerabilities in a major communication infrastructure provider"
     },
     {
       "type": "floater",
-      "title": "The 20% Rule for Code Review",
-      "description": "Spend only 20% of your review time on style and 80% on logic and security.",
-      "url": "https://example.com/20-percent-rule",
-      "big_question": "Are we optimizing for code aesthetics at the cost of critical logic errors?",
-      "head_fake": "Stop nitpicking semicolons, start finding bugs."
+      "title": "Morning Focus: Deep Work Block",
+      "description": "Dedicate the first 90 minutes of your day to a single complex problem without notifications.",
+      "url": "https://example.com/focus",
+      "big_question": "What is the one technical challenge you have been avoiding, and how can you tackle it in a distraction-free environment?",
+      "head_fake": "\ud83e\uddd8 Mindset: Protect your cognitive peak for high-value coding"
     },
     {
       "type": "floater",
-      "title": "Why Your Local Dev Environment is a Security Risk",
-      "description": "Unsecured local ports and hardcoded keys in .env files are the top cause of student data leaks.",
-      "url": "https://example.com/local-dev-security",
-      "big_question": "How many of your side projects have exposed API keys in public repos?",
-      "head_fake": "Your .env file is a public confession."
+      "title": "Code Review Ritual",
+      "description": "Spend 15 minutes reviewing a pull request from an open-source project to learn new patterns.",
+      "url": "https://github.com",
+      "big_question": "How can reviewing others' code help you identify anti-patterns in your own development style?",
+      "head_fake": "\ud83d\udc40 Learning Loop: Grow your skills by critiquing and learning from peers"
     }
   ]
 }

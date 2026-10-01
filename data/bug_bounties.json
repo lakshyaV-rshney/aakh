@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T05:26:02.513816+00:00",
+  "fetched_at": "2026-10-01T05:44:08.027975+00:00",
   "bug_bounties": [
     {
       "title": "d-you App & German EUDI Wallet Ecosystem",
@@ -1174,12 +1174,6 @@
     {
       "title": "FetLife",
       "url": "https://hackerone.com/fetlife",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Algolia",
-      "url": "https://hackerone.com/algolia",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -2966,6 +2960,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Vinted Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/vinted-uab-mbb",
+      "bounty": "$4,000",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Volkswagen ",
       "url": "https://bugcrowd.com/engagements/volkswagen-og",
       "bounty": "$2,500",
@@ -3686,6 +3686,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Sqills",
+      "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+      "bounty": "\u20ac2,500",
+      "source": "Intigriti"
+    },
+    {
       "title": "Storebrand Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail",
       "bounty": "Bounty offered",
@@ -3746,6 +3752,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "TrueLayer",
+      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "TrueLayer VDP",
       "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
       "bounty": "Bounty offered",
@@ -3761,6 +3773,12 @@
       "title": "Tweakers",
       "url": "https://www.intigriti.com/programs/dpgm/tweakers/detail",
       "bounty": "\u20ac2,200",
+      "source": "Intigriti"
+    },
+    {
+      "title": "UZ Leuven",
+      "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3806,12 +3824,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Venly",
-      "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-      "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Veriff Bug Bounty",
       "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
       "bounty": "\u20ac6,000",
@@ -3839,12 +3851,6 @@
       "title": "Voi Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "WP Engine Bug Bounty",
-      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {

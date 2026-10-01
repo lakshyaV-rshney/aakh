@@ -1,88 +1,67 @@
 {
-  "fetched_at": "2026-09-30T05:26:02.450844+00:00",
+  "fetched_at": "2026-10-01T05:44:07.582232+00:00",
   "stories": [
     {
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "url": "https://github.com/Sparticle62ops/pssa",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Sparticle62ops/pssa\">https://github.com/Sparticle62ops/pssa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903993\">https://news.ycombinator.com/item?id=49903993</a></p>\n<p>Points: 38</p>\n<p># Comments: 11</p>",
-      "published": "Wed, 30 Sep 2026 03:19:54 +0000",
+      "title": "Is sandboxing sufficient to contain rogue agents?",
+      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+      "summary": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\">https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id",
+      "published": "Thu, 01 Oct 2026 03:27:41 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Yantra \u2013 an LALR(1) parser generator for C++",
+      "url": "https://github.com/TantrixAuto/yantra",
+      "summary": "<p>Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.<p>Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.<p>That means at the time a rule'",
+      "published": "Thu, 01 Oct 2026 02:30:48 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "summary": "<p>Article URL: <a href=\"https://www.neuroai.science/p/functional-ultrasound-imaging-from\">https://www.neuroai.science/p/functional-ultrasound-imaging-from</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913604\">https://news.ycombinator.com/item?id=49913604</a></p>\n<p>Points",
+      "published": "Wed, 30 Sep 2026 20:06:39 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/#transition",
+      "summary": "<p><a href=\"https://github.com/edgcpp/compiler\" rel=\"nofollow\">https://github.com/edgcpp/compiler</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913192\">https://news.ycombinator.com/item?id=49913192</a></p>\n<p>Points: 187</p>\n<p># Comments: 84</p>",
+      "published": "Wed, 30 Sep 2026 19:26:37 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\">https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4",
+      "published": "Wed, 30 Sep 2026 19:04:50 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "summary": "<p>Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.<p>We're both software engineers and previously built ",
+      "published": "Wed, 30 Sep 2026 17:37:40 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer\">https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49911531\">https://news.ycombinato",
+      "published": "Wed, 30 Sep 2026 17:00:20 +0000",
       "source": "Hacker News"
     },
     {
       "title": "Responsible Release of AI-Generated Mathematics",
       "url": "https://agmai.org/general-sep29/",
-      "summary": "<p>Article URL: <a href=\"https://agmai.org/general-sep29/\">https://agmai.org/general-sep29/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903713\">https://news.ycombinator.com/item?id=49903713</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+      "summary": "<p>Article URL: <a href=\"https://agmai.org/general-sep29/\">https://agmai.org/general-sep29/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903713\">https://news.ycombinator.com/item?id=49903713</a></p>\n<p>Points: 84</p>\n<p># Comments: 105</p>",
       "published": "Wed, 30 Sep 2026 02:36:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ballmer Peak",
-      "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Ballmer_Peak\">https://en.wikipedia.org/wiki/Ballmer_Peak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903712\">https://news.ycombinator.com/item?id=49903712</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
-      "published": "Wed, 30 Sep 2026 02:35:58 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Deser: Rethinking Rust Serialization",
-      "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
-      "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/9/29/deser/\">https://lucumr.pocoo.org/2026/9/29/deser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901149\">https://news.ycombinator.com/item?id=49901149</a></p>\n<p>Points: 49</p>\n<p># Comments: 6</p>",
-      "published": "Tue, 29 Sep 2026 21:48:27 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: A working 3D model of an Enigma machine",
-      "url": "https://enigma.design",
-      "summary": "<p>I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work. I used Astra to build out the inner components through a combination of reference images, writin",
-      "published": "Tue, 29 Sep 2026 17:15:56 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Tcl/Tk 9.1",
-      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "summary": "<p>Article URL: <a href=\"https://www.tcl-lang.org/software/tcltk/9.1.html\">https://www.tcl-lang.org/software/tcltk/9.1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896712\">https://news.ycombinator.com/item?id=49896712</a></p>\n<p>Points: 256</p>\n<p># Comments: 100</p>",
-      "published": "Tue, 29 Sep 2026 17:13:38 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-dots/\">https://openai.com/index/introducing-dots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896604\">https://news.ycombinator.com/item?id=49896604</a></p>\n<p>Points: 516</p>\n<p># Comments: 392</p>",
-      "published": "Tue, 29 Sep 2026 17:07:57 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-1-sol/\">https://openai.com/index/introducing-gpt-6-1-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896586\">https://news.ycombinator.com/item?id=49896586</a></p>\n<p>Points: 847</p>\n<p># Comments: 773</",
-      "published": "Tue, 29 Sep 2026 17:06:45 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: NSL \u2013 WSL for Linux",
-      "url": "https://frostyard.github.io/nsl/",
-      "summary": "<p>One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts",
-      "published": "Tue, 29 Sep 2026 14:51:36 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Ask HN: What are you reading?",
-      "url": "https://news.ycombinator.com/item?id=49893157",
-      "summary": "<p>I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough.  I'm also wrapping up Doctorow's _Enshittification_, and I'm looking for something a little meaty to keep the brain working...</p>\n<hr />\n<p>Comments URL: <a ",
-      "published": "Tue, 29 Sep 2026 13:44:43 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "summary": "<p>Article URL: <a href=\"https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart\">https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart</a></p>\n<p>Comments URL: <a href=\"https://ne",
-      "published": "Tue, 29 Sep 2026 10:10:20 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "url": "https://somethingbig.ai/computer",
-      "summary": "<p>Article URL: <a href=\"https://somethingbig.ai/computer\">https://somethingbig.ai/computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49871018\">https://news.ycombinator.com/item?id=49871018</a></p>\n<p>Points: 118</p>\n<p># Comments: 66</p>",
-      "published": "Sun, 27 Sep 2026 21:26:06 +0000",
+      "title": "Show HN: Ledge.sh \u2013 Runnable Markdown Notes",
+      "url": "https://ledge.sh",
+      "summary": "<p>Hi HN,<p>Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.<p>I built Ledge because I spend much of my day copy/pasting commands from my notes into the terminal. I was inspired by how much cmux helped me organize my terminals - but there was still a ",
+      "published": "Tue, 29 Sep 2026 23:41:34 +0000",
       "source": "Hacker News"
     }
   ]
