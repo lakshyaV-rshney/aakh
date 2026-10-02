@@ -1,32 +1,11 @@
 {
-  "fetched_at": "2026-10-01T05:44:22.478562+00:00",
+  "fetched_at": "2026-10-02T05:28:30.214108+00:00",
   "competitions": [
-    {
-      "title": "CCT IT CLUB X INOVEXHQ HACK DAYS",
-      "url": "https://cct-it-club-inovexhq-hack-days.devpost.com/",
-      "deadline": "Oct 01, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "Global Innovation Build Challenge V2",
       "url": "https://gibc-v2.devpost.com/",
-      "deadline": "Jul 11 - Oct 01, 2026",
+      "deadline": "Jul 11 - Oct 02, 2026",
       "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "RevenueCat Shipaton 2026",
-      "url": "https://revenuecat-shipaton-2026.devpost.com/",
-      "deadline": "Jul 31 - Oct 01, 2026",
-      "prize": "$740,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Planet Resilience: Innovation for Sustainable Impact Hackathon",
-      "url": "https://uob-suss-planet-resilience.devpost.com/",
-      "deadline": "Sep 28 - Oct 01, 2026",
-      "prize": "$1,700",
       "source": "Devpost"
     },
     {
@@ -37,10 +16,24 @@
       "source": "Devpost"
     },
     {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - Oct 03, 2026",
-      "prize": "$10,600",
+      "title": "Women's Hack Night",
+      "url": "https://women-s-hack-night.devpost.com/",
+      "deadline": "Oct 02, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "RESPIRA HACKATHON",
+      "url": "https://respira-hackathon.devpost.com/",
+      "deadline": "Oct 01 - 03, 2026",
+      "prize": "\u20ac0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Oct 03, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
@@ -51,6 +44,13 @@
       "source": "Devpost"
     },
     {
+      "title": "CSIT RE:Uni Hackathon 2026",
+      "url": "https://csit-re-uni-hackathon-2026.devpost.com/",
+      "deadline": "Oct 02 - 03, 2026",
+      "prize": "$1,000",
+      "source": "Devpost"
+    },
+    {
       "title": "FIK FAIR 2026",
       "url": "https://fik-fair-2026.devpost.com/",
       "deadline": "Sep 29 - Oct 04, 2026",
@@ -58,17 +58,17 @@
       "source": "Devpost"
     },
     {
+      "title": "Bharat Innovation Challenge 2.0",
+      "url": "https://bic.devpost.com/",
+      "deadline": "Sep 18 - Oct 04, 2026",
+      "prize": "$10,600",
+      "source": "Devpost"
+    },
+    {
       "title": "LovHack Season 3",
       "url": "https://lovhack-season-3.devpost.com/",
       "deadline": "Sep 26 - Oct 04, 2026",
       "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "OneAquaHealth IEEE Global Hackathon",
-      "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
-      "deadline": "Sep 14 - Oct 05, 2026",
-      "prize": "$3,500",
       "source": "Devpost"
     }
   ]

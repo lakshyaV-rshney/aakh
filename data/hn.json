@@ -1,67 +1,60 @@
 {
-  "fetched_at": "2026-10-01T05:44:07.582232+00:00",
+  "fetched_at": "2026-10-02T05:28:18.428812+00:00",
   "stories": [
     {
-      "title": "Is sandboxing sufficient to contain rogue agents?",
-      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-      "summary": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\">https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id",
-      "published": "Thu, 01 Oct 2026 03:27:41 +0000",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1097401/\">https://lwn.net/Articles/1097401/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928121\">https://news.ycombinator.com/item?id=49928121</a></p>\n<p>Points: 207</p>\n<p># Comments: 135</p>",
+      "published": "Thu, 01 Oct 2026 23:10:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Yantra \u2013 an LALR(1) parser generator for C++",
-      "url": "https://github.com/TantrixAuto/yantra",
-      "summary": "<p>Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.<p>Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.<p>That means at the time a rule'",
-      "published": "Thu, 01 Oct 2026 02:30:48 +0000",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.frogandtoad.ai/\">https://www.frogandtoad.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927760\">https://news.ycombinator.com/item?id=49927760</a></p>\n<p>Points: 100</p>\n<p># Comments: 16</p>",
+      "published": "Thu, 01 Oct 2026 22:23:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-      "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-      "summary": "<p>Article URL: <a href=\"https://www.neuroai.science/p/functional-ultrasound-imaging-from\">https://www.neuroai.science/p/functional-ultrasound-imaging-from</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913604\">https://news.ycombinator.com/item?id=49913604</a></p>\n<p>Points",
-      "published": "Wed, 30 Sep 2026 20:06:39 +0000",
+      "title": "Automatic Transmission \u2013 a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "summary": "<p>Article URL: <a href=\"https://automatictransmission.khoury.northeastern.edu/index.html\">https://automatictransmission.khoury.northeastern.edu/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926628\">https://news.ycombinator.com/item?id=49926628</a></p>\n<p>Points",
+      "published": "Thu, 01 Oct 2026 20:23:27 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "EDG C++ front-end goes public",
-      "url": "https://edgcpp.org/#transition",
-      "summary": "<p><a href=\"https://github.com/edgcpp/compiler\" rel=\"nofollow\">https://github.com/edgcpp/compiler</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913192\">https://news.ycombinator.com/item?id=49913192</a></p>\n<p>Points: 187</p>\n<p># Comments: 84</p>",
-      "published": "Wed, 30 Sep 2026 19:26:37 +0000",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "url": "https://stoppels.ch/goalposts/",
+      "summary": "<p>Article URL: <a href=\"https://stoppels.ch/goalposts/\">https://stoppels.ch/goalposts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49924618\">https://news.ycombinator.com/item?id=49924618</a></p>\n<p>Points: 121</p>\n<p># Comments: 122</p>",
+      "published": "Thu, 01 Oct 2026 17:32:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\">https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4",
-      "published": "Wed, 30 Sep 2026 19:04:50 +0000",
+      "title": "RIP, vector database",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "summary": "<p>Article URL: <a href=\"https://turbopuffer.com/blog/rip-vector-database\">https://turbopuffer.com/blog/rip-vector-database</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923466\">https://news.ycombinator.com/item?id=49923466</a></p>\n<p>Points: 298</p>\n<p># Comments: 81</p>",
+      "published": "Thu, 01 Oct 2026 16:01:56 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "summary": "<p>Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.<p>We're both software engineers and previously built ",
-      "published": "Wed, 30 Sep 2026 17:37:40 +0000",
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "summary": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company\u2014no\nrecruiting firms or job boards. One post per company. If i",
+      "published": "Thu, 01 Oct 2026 15:02:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer\">https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49911531\">https://news.ycombinato",
-      "published": "Wed, 30 Sep 2026 17:00:20 +0000",
+      "title": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "summary": "<p>Article URL: <a href=\"https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html\">https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4992089",
+      "published": "Thu, 01 Oct 2026 12:44:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
-      "summary": "<p>Article URL: <a href=\"https://agmai.org/general-sep29/\">https://agmai.org/general-sep29/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903713\">https://news.ycombinator.com/item?id=49903713</a></p>\n<p>Points: 84</p>\n<p># Comments: 105</p>",
-      "published": "Wed, 30 Sep 2026 02:36:12 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: Ledge.sh \u2013 Runnable Markdown Notes",
-      "url": "https://ledge.sh",
-      "summary": "<p>Hi HN,<p>Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.<p>I built Ledge because I spend much of my day copy/pasting commands from my notes into the terminal. I was inspired by how much cmux helped me organize my terminals - but there was still a ",
-      "published": "Tue, 29 Sep 2026 23:41:34 +0000",
+      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+      "url": "https://news.ycombinator.com/item?id=49911500",
+      "summary": "<p>A few months ago we started building a model router for coding agents because we thought we could outperform any single model with an ensemble approach. Recently we\u2019ve achieved that milestone and I want to talk about how we did it.<p>First of all, a quick explanation: the Weave Router (<a href=\"h",
+      "published": "Wed, 30 Sep 2026 16:58:24 +0000",
       "source": "Hacker News"
     }
   ]
