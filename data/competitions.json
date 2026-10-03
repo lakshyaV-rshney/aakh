@@ -1,32 +1,25 @@
 {
-  "fetched_at": "2026-10-02T05:28:30.214108+00:00",
+  "fetched_at": "2026-10-03T05:11:32.295191+00:00",
   "competitions": [
-    {
-      "title": "Global Innovation Build Challenge V2",
-      "url": "https://gibc-v2.devpost.com/",
-      "deadline": "Jul 11 - Oct 02, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Beginner's Paradise - FirstCommit",
-      "url": "https://firstcommit.devpost.com/",
-      "deadline": "Aug 21 - Oct 02, 2026",
-      "prize": "$1,024",
-      "source": "Devpost"
-    },
-    {
-      "title": "Women's Hack Night",
-      "url": "https://women-s-hack-night.devpost.com/",
-      "deadline": "Oct 02, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "RESPIRA HACKATHON",
       "url": "https://respira-hackathon.devpost.com/",
       "deadline": "Oct 01 - 03, 2026",
       "prize": "\u20ac0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hacktoberfest Hack Day Dinajpur",
+      "url": "https://hacktoberfest-dinajpur.devpost.com/",
+      "deadline": "Oct 03, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Kurukshetra CTF",
+      "url": "https://kurukshetractf.devpost.com/",
+      "deadline": "Oct 03, 2026",
+      "prize": "\u20b9 20,000",
       "source": "Devpost"
     },
     {
@@ -44,6 +37,13 @@
       "source": "Devpost"
     },
     {
+      "title": "AdaHack 2026",
+      "url": "https://adahack-2026.devpost.com/",
+      "deadline": "Oct 03, 2026",
+      "prize": "\u00a30",
+      "source": "Devpost"
+    },
+    {
       "title": "CSIT RE:Uni Hackathon 2026",
       "url": "https://csit-re-uni-hackathon-2026.devpost.com/",
       "deadline": "Oct 02 - 03, 2026",
@@ -51,23 +51,23 @@
       "source": "Devpost"
     },
     {
-      "title": "FIK FAIR 2026",
-      "url": "https://fik-fair-2026.devpost.com/",
-      "deadline": "Sep 29 - Oct 04, 2026",
-      "prize": "$360",
+      "title": "BigRed//Hacks 2026",
+      "url": "https://bigredhacks2026.devpost.com/",
+      "deadline": "Oct 02 - 04, 2026",
+      "prize": "$950",
       "source": "Devpost"
     },
     {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - Oct 04, 2026",
-      "prize": "$10,600",
+      "title": "CodeML",
+      "url": "https://codeml-31598.devpost.com/",
+      "deadline": "Oct 02 - 04, 2026",
+      "prize": "$7,000",
       "source": "Devpost"
     },
     {
-      "title": "LovHack Season 3",
-      "url": "https://lovhack-season-3.devpost.com/",
-      "deadline": "Sep 26 - Oct 04, 2026",
+      "title": "Gator Quant Hacks",
+      "url": "https://gqhacks.devpost.com/",
+      "deadline": "Oct 02 - 04, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

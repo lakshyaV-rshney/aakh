@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T05:28:14.556821+00:00",
+  "fetched_at": "2026-10-03T05:11:16.432577+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1070,12 +1070,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "PortSwigger Web Security",
       "url": "https://hackerone.com/portswigger",
       "bounty": "Bounty offered",
@@ -1418,7 +1412,7 @@
       "source": "Bugcrowd"
     },
     {
-      "title": "AI | Apps+ Marketplace Bug Bounty Program ",
+      "title": "AI | Apps+ Marketplace Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/apps-plus2",
       "bounty": "$1,500",
       "source": "Bugcrowd"
@@ -3488,12 +3482,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Moralis VDP",
-      "url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
-      "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
       "title": "NVIDIA Public Bug Bounty",
       "url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
       "bounty": "$15,000",
@@ -3764,6 +3752,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "TrueLayer",
+      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "TrueLayer VDP",
       "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
       "bounty": "Bounty offered",
@@ -3779,6 +3773,12 @@
       "title": "Tweakers",
       "url": "https://www.intigriti.com/programs/dpgm/tweakers/detail",
       "bounty": "\u20ac2,200",
+      "source": "Intigriti"
+    },
+    {
+      "title": "UZ Leuven",
+      "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3824,9 +3824,21 @@
       "source": "Intigriti"
     },
     {
+      "title": "Venly",
+      "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+      "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Veriff Bug Bounty",
       "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
       "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Visma",
+      "url": "https://www.intigriti.com/programs/visma/visma/detail",
+      "bounty": "\u20ac7,500",
       "source": "Intigriti"
     },
     {

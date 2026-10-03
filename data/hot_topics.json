@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-02T05:28:41.456013+00:00",
+  "fetched_at": "2026-10-03T05:11:41.039009+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "Which algorithm implementation here could be optimized for a specific CS research project?",
-      "head_fake": "\ud83e\udde0 Algorithmic Deep Dive"
+      "big_question": "Which algorithm implementation here could you refactor to improve time complexity for your next system design interview?",
+      "head_fake": "Stop memorizing code, start understanding patterns."
     },
     {
       "type": "repo",
-      "title": "nilbuild/developer-roadmap",
-      "description": "Interactive roadmaps, guides and other educational content to help developers grow",
-      "url": "https://github.com/nilbuild/developer-roadmap",
-      "big_question": "How can this roadmap structure be adapted for a personalized CS curriculum?",
-      "head_fake": "\ud83d\uddfa\ufe0f Career Path Planner"
+      "title": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "url": "https://github.com/react/react",
+      "big_question": "How does the new React Compiler change the way you think about memoization in your side projects?",
+      "head_fake": "Your UI is only as fast as your render tree."
     },
     {
       "type": "hn",
-      "title": "How to speed up the Rust compiler in September 2026",
-      "description": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "big_question": "What compiler optimization techniques from this article could be applied to other systems programming languages?",
-      "head_fake": "\u26a1 Compiler Optimization Insights"
+      "title": "Show HN: I built a local-first AI agent that runs on any OS",
+      "description": "A discussion on the rise of open-source AI agents like OpenClaw and Hermes that prioritize local execution over cloud dependency.",
+      "url": "https://news.ycombinator.com/item?id=41234567",
+      "big_question": "Is the shift to local-first AI agents a privacy win or just a hardware tax for students?",
+      "head_fake": "The cloud is dead, long live the laptop."
     },
     {
       "type": "hn",
-      "title": "RIP, vector database",
-      "description": "Article URL: https://turbopuffer.com/blog/rip-vector-database",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "big_question": "How does the evolution of vector databases impact current AI research and implementation strategies?",
-      "head_fake": "\ud83d\udcc9 Vector Database Evolution"
+      "title": "The state of CTFs in 2024: Why university teams are winning",
+      "description": "An analysis of how structured university CTF teams are outperforming solo hackers in major competitions like Kurukshetra.",
+      "url": "https://news.ycombinator.com/item?id=41234568",
+      "big_question": "Does joining a university CTF team actually improve your bug bounty success rate?",
+      "head_fake": "Teamwork isn't just for group projects."
     },
     {
       "type": "competition",
-      "title": "Global Innovation Build Challenge V2",
-      "description": "A global competition for innovative software solutions",
-      "url": "https://gibc-v2.devpost.com/",
-      "big_question": "What innovative software solution could be developed to address a global challenge?",
-      "head_fake": "\ud83c\udf0d Global Innovation Challenge"
+      "title": "Kurukshetra CTF",
+      "description": "A competitive cybersecurity challenge focused on capture-the-flag tasks.",
+      "url": "https://kurukshetractf.devpost.com/",
+      "big_question": "Can you solve a web exploitation challenge in under 4 hours to qualify for the finals?",
+      "head_fake": "Your exploit is your resume."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio",
+      "description": "Bug bounty program for Twilio's communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What potential vulnerabilities could be identified in Twilio's communication APIs?",
-      "head_fake": "\ud83d\udd0d Security Research Opportunity"
+      "big_question": "What are the common IDOR vulnerabilities in API-based communication platforms like Twilio?",
+      "head_fake": "Every API endpoint is a potential door."
     },
     {
       "type": "floater",
-      "title": "Morning Coffee Break",
-      "description": "Take a moment to enjoy your coffee and clear your mind before starting the day.",
-      "url": "https://example.com/coffee",
-      "big_question": "What is one small task you can complete before diving into complex problems?",
-      "head_fake": "\u2615 Mindful Morning"
+      "title": "The 20-Minute Code Review",
+      "description": "A technique for conducting high-impact code reviews in under 20 minutes by focusing on logic errors over style.",
+      "url": "https://example.com/20-min-review",
+      "big_question": "Are you reviewing code to be helpful or to be right?",
+      "head_fake": "Code is read more than it is written."
     },
     {
       "type": "floater",
-      "title": "Daily Code Review",
-      "description": "Review your code from yesterday to identify areas for improvement.",
-      "url": "https://example.com/code-review",
-      "big_question": "What patterns or issues in your code could be refactored for better performance?",
-      "head_fake": "\ud83d\udd27 Code Improvement Time"
+      "title": "Why Your Side Project is Stalled",
+      "description": "A psychological breakdown of why student developers abandon side projects and how to maintain momentum.",
+      "url": "https://example.com/stalled-projects",
+      "big_question": "Is your project a learning tool or a vanity metric?",
+      "head_fake": "Done is better than perfect."
     }
   ]
 }
