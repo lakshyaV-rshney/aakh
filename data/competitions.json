@@ -1,60 +1,32 @@
 {
-  "fetched_at": "2026-10-03T05:11:32.295191+00:00",
+  "fetched_at": "2026-10-04T05:44:49.514105+00:00",
   "competitions": [
-    {
-      "title": "RESPIRA HACKATHON",
-      "url": "https://respira-hackathon.devpost.com/",
-      "deadline": "Oct 01 - 03, 2026",
-      "prize": "\u20ac0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hacktoberfest Hack Day Dinajpur",
-      "url": "https://hacktoberfest-dinajpur.devpost.com/",
-      "deadline": "Oct 03, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Kurukshetra CTF",
-      "url": "https://kurukshetractf.devpost.com/",
-      "deadline": "Oct 03, 2026",
-      "prize": "\u20b9 20,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Oct 03, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "UIUC Product Hackathon - Hack to the Future",
-      "url": "https://product-hackathon-uiuc.devpost.com/",
-      "deadline": "Sep 29 - Oct 03, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "AdaHack 2026",
-      "url": "https://adahack-2026.devpost.com/",
-      "deadline": "Oct 03, 2026",
-      "prize": "\u00a30",
-      "source": "Devpost"
-    },
-    {
-      "title": "CSIT RE:Uni Hackathon 2026",
-      "url": "https://csit-re-uni-hackathon-2026.devpost.com/",
-      "deadline": "Oct 02 - 03, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
     {
       "title": "BigRed//Hacks 2026",
       "url": "https://bigredhacks2026.devpost.com/",
       "deadline": "Oct 02 - 04, 2026",
       "prize": "$950",
+      "source": "Devpost"
+    },
+    {
+      "title": "GirlHacks 2026",
+      "url": "https://girlhacks2026.devpost.com/",
+      "deadline": "Oct 03 - 04, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "WolfHacks 2026 by ACM NCSU",
+      "url": "https://wolfhacks-2026.devpost.com/",
+      "deadline": "Oct 03 - 04, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Gator Quant Hacks",
+      "url": "https://gqhacks.devpost.com/",
+      "deadline": "Oct 02 - 04, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
@@ -65,10 +37,38 @@
       "source": "Devpost"
     },
     {
-      "title": "Gator Quant Hacks",
-      "url": "https://gqhacks.devpost.com/",
-      "deadline": "Oct 02 - 04, 2026",
+      "title": "Dream Team Engineering Designathon 2026",
+      "url": "https://dte-designathon-2026.devpost.com/",
+      "deadline": "Oct 03 - 04, 2026",
+      "prize": "$700",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack Dearborn: Conjure Reality",
+      "url": "https://hack-dearborn-5.devpost.com/",
+      "deadline": "Oct 03 - 04, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "MHacks 2026",
+      "url": "https://mhacks-2026.devpost.com/",
+      "deadline": "Oct 03 - 04, 2026",
+      "prize": "$15,800",
+      "source": "Devpost"
+    },
+    {
+      "title": "Rowdy Hacks XII",
+      "url": "https://rowdy-hacks-xii.devpost.com/",
+      "deadline": "Oct 01 - 04, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "FIK FAIR 2026",
+      "url": "https://fik-fair-2026.devpost.com/",
+      "deadline": "Sep 29 - Oct 04, 2026",
+      "prize": "$360",
       "source": "Devpost"
     }
   ]

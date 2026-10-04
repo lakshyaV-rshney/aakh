@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03T05:11:16.432577+00:00",
+  "fetched_at": "2026-10-04T05:44:34.883403+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3749,12 +3749,6 @@
       "title": "Trouw",
       "url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
       "bounty": "\u20ac2,200",
-      "source": "Intigriti"
-    },
-    {
-      "title": "TrueLayer",
-      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {
