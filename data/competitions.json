@@ -1,74 +1,74 @@
 {
-  "fetched_at": "2026-10-04T05:44:49.514105+00:00",
+  "fetched_at": "2026-10-05T05:29:12.401252+00:00",
   "competitions": [
     {
-      "title": "BigRed//Hacks 2026",
-      "url": "https://bigredhacks2026.devpost.com/",
-      "deadline": "Oct 02 - 04, 2026",
-      "prize": "$950",
+      "title": "CSC Back-to-School Hackathon",
+      "url": "https://csc-back-to-school.devpost.com/",
+      "deadline": "Sep 04 - Oct 05, 2026",
+      "prize": "$400",
       "source": "Devpost"
     },
     {
-      "title": "GirlHacks 2026",
-      "url": "https://girlhacks2026.devpost.com/",
-      "deadline": "Oct 03 - 04, 2026",
+      "title": "Bharat Innovation Challenge 2.0",
+      "url": "https://bic.devpost.com/",
+      "deadline": "Sep 18 - Oct 05, 2026",
+      "prize": "$10,600",
+      "source": "Devpost"
+    },
+    {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Oct 05, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "WolfHacks 2026 by ACM NCSU",
-      "url": "https://wolfhacks-2026.devpost.com/",
-      "deadline": "Oct 03 - 04, 2026",
+      "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
+      "url": "https://daisisg26.devpost.com/",
+      "deadline": "Sep 16 - Oct 06, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "Gator Quant Hacks",
-      "url": "https://gqhacks.devpost.com/",
-      "deadline": "Oct 02 - 04, 2026",
+      "title": "ImpactHack 2026",
+      "url": "https://impacthack26.devpost.com/",
+      "deadline": "Oct 01 - 08, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "CodeML",
-      "url": "https://codeml-31598.devpost.com/",
-      "deadline": "Oct 02 - 04, 2026",
-      "prize": "$7,000",
+      "title": "Hack Away Hunger: Food Insecurity Challenge",
+      "url": "https://hack-away-hunger.devpost.com/",
+      "deadline": "Jul 18 - Oct 08, 2026",
+      "prize": "$5,000",
       "source": "Devpost"
     },
     {
-      "title": "Dream Team Engineering Designathon 2026",
-      "url": "https://dte-designathon-2026.devpost.com/",
-      "deadline": "Oct 03 - 04, 2026",
-      "prize": "$700",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack Dearborn: Conjure Reality",
-      "url": "https://hack-dearborn-5.devpost.com/",
-      "deadline": "Oct 03 - 04, 2026",
+      "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
+      "url": "https://ml-build-challenge-3.devpost.com/",
+      "deadline": "Sep 05 - Oct 10, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "MHacks 2026",
-      "url": "https://mhacks-2026.devpost.com/",
-      "deadline": "Oct 03 - 04, 2026",
-      "prize": "$15,800",
+      "title": "ForgeHacks Online 2026",
+      "url": "https://forgehacks-2026.devpost.com/",
+      "deadline": "Oct 01 - 10, 2026",
+      "prize": "$1,097,385",
       "source": "Devpost"
     },
     {
-      "title": "Rowdy Hacks XII",
-      "url": "https://rowdy-hacks-xii.devpost.com/",
-      "deadline": "Oct 01 - 04, 2026",
+      "title": "Hackyard Build 2026 | 24-Hour Hackathon at IIT Guwahati",
+      "url": "https://hackyardbuild2026.devpost.com/",
+      "deadline": "Sep 25 - Oct 10, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "FIK FAIR 2026",
-      "url": "https://fik-fair-2026.devpost.com/",
-      "deadline": "Sep 29 - Oct 04, 2026",
-      "prize": "$360",
+      "title": "AIC Internal Competition -2026 (Agentic AI) ",
+      "url": "https://aic-ic-2026.devpost.com/",
+      "deadline": "Sep 30 - Oct 12, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]

@@ -1,67 +1,60 @@
 {
-  "fetched_at": "2026-10-04T05:44:37.611520+00:00",
+  "fetched_at": "2026-10-05T05:28:58.731682+00:00",
   "stories": [
     {
-      "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU\">https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946895\">https://news.ycombinator.com/item?id=49946895</a></p>\n<p>Points: 205</p>\n<p>#",
-      "published": "Sat, 03 Oct 2026 19:14:48 +0000",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "summary": "<p>Article URL: <a href=\"https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\">https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/<",
+      "published": "Mon, 05 Oct 2026 01:54:08 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "RetailReady (YC W24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations\">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945904\">https://news.ycombinator.com/item?i",
-      "published": "Sat, 03 Oct 2026 17:00:12 +0000",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "summary": "<p>Paper: \n<a href=\"https://www.usenix.org/system/files/atc21-ousterhout.pdf\" rel=\"nofollow\">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href=\"https://lwn.net/Articles/1003059/\" rel=\"nofollow\">https://lwn.net/Articles/1003059/</a>, <a href=\"https://www.theregister.com/",
+      "published": "Sun, 04 Oct 2026 19:42:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "summary": "<p><a href=\"https://archive.ph/5GQx8\" rel=\"nofollow\">https://archive.ph/5GQx8</a><p><a href=\"https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/oct/03/openai-sa...</a></p>\n<hr",
-      "published": "Sat, 03 Oct 2026 13:46:34 +0000",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "summary": "<p>Article URL: <a href=\"https://github.com/omlahore/RemoveMacAI\">https://github.com/omlahore/RemoveMacAI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957116\">https://news.ycombinator.com/item?id=49957116</a></p>\n<p>Points: 464</p>\n<p># Comments: 290</p>",
+      "published": "Sun, 04 Oct 2026 19:42:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
-      "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "summary": "<p>Article URL: <a href=\"https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program\">https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942130\">https://news.ycombinator.",
-      "published": "Sat, 03 Oct 2026 07:32:47 +0000",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "summary": "<p>Article URL: <a href=\"https://github.com/allenv0/SCM\">https://github.com/allenv0/SCM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952111\">https://news.ycombinator.com/item?id=49952111</a></p>\n<p>Points: 146</p>\n<p># Comments: 66</p>",
+      "published": "Sun, 04 Oct 2026 09:24:52 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Thoreau BASIC \u2013\u00a0What if BASIC hadn't gone out of fashion?",
-      "url": "https://thoreaubasic.com/",
-      "summary": "<p>Thoreau BASIC started as a joke. I wanted a BASIC where I could type something ridiculous like:<p><pre><code>  DIM A%(12000000000)\n</code></pre>\n\u2026and have it actually work. Then I kept adding things. The result is Thoreau BASIC, a free x64 BASIC interpreter inspired by GW-BASIC, running both as a",
-      "published": "Sat, 03 Oct 2026 07:28:54 +0000",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GLvFTMtw4Jk\">https://www.youtube.com/watch?v=GLvFTMtw4Jk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951891\">https://news.ycombinator.com/item?id=49951891</a></p>\n<p>Points: 70</p>\n<p># Comments: 18</p>",
+      "published": "Sun, 04 Oct 2026 08:41:58 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "New York City should carefully measure a new tree",
-      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
-      "summary": "<p>Article URL: <a href=\"https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/\">https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940877\">https://news.ycombinator.com/item?id=4994",
-      "published": "Sat, 03 Oct 2026 02:28:03 +0000",
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
+      "summary": "<p>Article URL: <a href=\"https://alexalejandre.com/interviews/peter-bex/\">https://alexalejandre.com/interviews/peter-bex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49939308\">https://news.ycombinator.com/item?id=49939308</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
+      "published": "Fri, 02 Oct 2026 22:17:04 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "summary": "<p>Article URL: <a href=\"https://royapakzad.substack.com/p/multilingual-ai-agents\">https://royapakzad.substack.com/p/multilingual-ai-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938326\">https://news.ycombinator.com/item?id=49938326</a></p>\n<p>Points: 19</p>\n<p># Co",
-      "published": "Fri, 02 Oct 2026 20:39:05 +0000",
+      "title": "The Tao of Backup",
+      "url": "http://www.taobackup.com/index.html",
+      "summary": "<p>Article URL: <a href=\"http://www.taobackup.com/index.html\">http://www.taobackup.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932236\">https://news.ycombinator.com/item?id=49932236</a></p>\n<p>Points: 81</p>\n<p># Comments: 16</p>",
+      "published": "Fri, 02 Oct 2026 11:19:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev/",
-      "summary": "<p>pi pod runs sessions of the pi coding agent in isolated sandboxes (\"pods\") on a server you run, in composable environments.<p>----<p>Since moving my company towards AI-native work, I have been really frustrated by the state of \"agentic engineering\" environments. Products by the labs (claude code,",
-      "published": "Fri, 02 Oct 2026 19:10:38 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "C++ Insights \u2013 See your source code with the eyes of a Compiler",
-      "url": "https://github.com/andreasfertig/cppinsights",
-      "summary": "<p>Article URL: <a href=\"https://github.com/andreasfertig/cppinsights\">https://github.com/andreasfertig/cppinsights</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928361\">https://news.ycombinator.com/item?id=49928361</a></p>\n<p>Points: 151</p>\n<p># Comments: 28</p>",
-      "published": "Thu, 01 Oct 2026 23:53:36 +0000",
+      "title": "cp: -r or -R?",
+      "url": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
+      "summary": "<p>Article URL: <a href=\"https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html\">https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49910465\">https://news.ycombinator.com/item?id=49910465</a></p>\n<p>Points: 113</p>\n<p",
+      "published": "Wed, 30 Sep 2026 15:44:02 +0000",
       "source": "Hacker News"
     }
   ]
