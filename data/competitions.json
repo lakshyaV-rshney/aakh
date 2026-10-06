@@ -1,32 +1,25 @@
 {
-  "fetched_at": "2026-10-05T05:29:12.401252+00:00",
+  "fetched_at": "2026-10-06T06:13:20.648666+00:00",
   "competitions": [
-    {
-      "title": "CSC Back-to-School Hackathon",
-      "url": "https://csc-back-to-school.devpost.com/",
-      "deadline": "Sep 04 - Oct 05, 2026",
-      "prize": "$400",
-      "source": "Devpost"
-    },
-    {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - Oct 05, 2026",
-      "prize": "$10,600",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Oct 05, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
       "url": "https://daisisg26.devpost.com/",
       "deadline": "Sep 16 - Oct 06, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Bharat Innovation Challenge 2.0",
+      "url": "https://bic.devpost.com/",
+      "deadline": "Sep 18 - Oct 06, 2026",
+      "prize": "$10,600",
+      "source": "Devpost"
+    },
+    {
+      "title": "Affinda AI Innovation Challenge",
+      "url": "https://affinda-challenge.devpost.com/",
+      "deadline": "Oct 05 - 08, 2026",
+      "prize": "$1,000",
       "source": "Devpost"
     },
     {
@@ -54,13 +47,20 @@
       "title": "ForgeHacks Online 2026",
       "url": "https://forgehacks-2026.devpost.com/",
       "deadline": "Oct 01 - 10, 2026",
-      "prize": "$1,097,385",
+      "prize": "$1,218,635",
       "source": "Devpost"
     },
     {
       "title": "Hackyard Build 2026 | 24-Hour Hackathon at IIT Guwahati",
       "url": "https://hackyardbuild2026.devpost.com/",
       "deadline": "Sep 25 - Oct 10, 2026",
+      "prize": "\u20b9 447,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "Graphiques Innovation Challenge ",
+      "url": "https://graphiques-challenge.devpost.com/",
+      "deadline": "Aug 21 - Oct 10, 2026",
       "prize": "$0",
       "source": "Devpost"
     },

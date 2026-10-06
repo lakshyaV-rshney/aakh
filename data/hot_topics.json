@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-05T05:29:26.077838+00:00",
+  "fetched_at": "2026-10-06T06:13:28.088060+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "How can implementing classic algorithms from scratch improve your interview readiness and deep understanding of data structures?",
-      "head_fake": "Stop memorizing LeetCode patterns and start building the fundamentals from this repo."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "Which free API could power your next weekend project without a single line of backend code?",
+      "head_fake": "API explorer mode engaged"
     },
     {
       "type": "repo",
-      "title": "n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual workflows with code.",
-      "url": "https://github.com/n8n-io/n8n",
-      "big_question": "Can you automate your daily study or dev tasks using n8n's visual nodes and AI integrations?",
-      "head_fake": "Build a personal automation pipeline that fetches news and summarizes it for your morning dashboard."
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How does a massive open-source curriculum handle state management for millions of concurrent learners?",
+      "head_fake": "Curriculum deep-dive started"
     },
     {
       "type": "hn",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "description": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "big_question": "Why is TCP considered a bottleneck for modern AI training clusters, and what does Homa propose instead?",
-      "head_fake": "If you're interested in distributed systems or AI infrastructure, this talk explains why the network layer is changing."
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "description": "Article URL: https://qlabs.sh/research/dust",
+      "url": "https://qlabs.sh/research/dust",
+      "big_question": "If we can pretrain without backprop, how does that change the compute cost of training the next generation of models?",
+      "head_fake": "Reading research paper"
     },
     {
       "type": "hn",
-      "title": "cp: -r or -R?",
-      "description": "A blog post discussing the differences and best practices for recursive copying in Unix systems.",
-      "url": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
-      "big_question": "What are the subtle differences between -r and -R in cp, and which one should you use for safe backups?",
-      "head_fake": "A quick deep dive into a common Unix command that trips up many developers during system administration tasks."
+      "title": "Linux containers in 500 lines of code (2016)",
+      "description": "Article URL: https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "big_question": "What are the core system calls that actually make a container work, stripped down to the bare minimum?",
+      "head_fake": "OS internals study session"
     },
     {
       "type": "competition",
       "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
-      "description": "A major competition offering significant prizes for machine learning projects.",
+      "description": "https://ml-build-challenge-3.devpost.com/",
       "url": "https://ml-build-challenge-3.devpost.com/",
-      "big_question": "Can you leverage your ML skills to build a project that qualifies for one of the largest prize pools in student competitions?",
-      "head_fake": "With $400k in prizes, this is a high-stakes opportunity to showcase your ML capabilities to industry judges."
+      "big_question": "Is the prize pool worth the time investment compared to building a personal portfolio project?",
+      "head_fake": "Evaluating hackathon ROI"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio, a cloud communications platform.",
+      "description": "https://hackerone.com/twilio",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What security vulnerabilities might exist in a platform that handles critical communication infrastructure for businesses?",
-      "head_fake": "Twilio is a prime target for security researchers due to its critical role in business communications and high reward potential."
+      "big_question": "What are the most common API authentication bypasses in communication platforms like Twilio?",
+      "head_fake": "Security research mode"
     },
     {
       "type": "floater",
-      "title": "The Tao of Backup",
-      "description": "A comprehensive guide to backup strategies and principles.",
-      "url": "http://www.taobackup.com/index.html",
-      "big_question": "What are the core principles of a robust backup strategy that ensures data integrity and recoverability?",
-      "head_fake": "Before you lose your semester's work, read this timeless guide on how to back up your data properly."
+      "title": "Morning Coffee & Code",
+      "description": "Start your day with a warm beverage and a clear mind before diving into complex logic.",
+      "url": "https://example.com/coffee",
+      "big_question": "What is the optimal caffeine-to-code ratio for a productive morning?",
+      "head_fake": "Brewing focus"
     },
     {
       "type": "floater",
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "description": "An interview with the maintainer of the Chicken Scheme programming language.",
-      "url": "https://alexalejandre.com/interviews/peter-bex/",
-      "big_question": "What insights can be gained from maintaining a niche programming language like Chicken Scheme?",
-      "head_fake": "A fascinating look into the world of Lisp dialects and the challenges of maintaining a small but dedicated community."
+      "title": "Stretch Break",
+      "description": "Take 5 minutes to stretch your neck and shoulders to prevent repetitive strain injury.",
+      "url": "https://example.com/stretch",
+      "big_question": "How does physical movement impact cognitive performance during long coding sessions?",
+      "head_fake": "Body maintenance"
     }
   ]
 }

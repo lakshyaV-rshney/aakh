@@ -1,60 +1,67 @@
 {
-  "fetched_at": "2026-10-05T05:28:58.731682+00:00",
+  "fetched_at": "2026-10-06T06:13:04.167914+00:00",
   "stories": [
     {
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "summary": "<p>Article URL: <a href=\"https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\">https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/<",
-      "published": "Mon, 05 Oct 2026 01:54:08 +0000",
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "summary": "<p>Article URL: <a href=\"https://gwern.net/doc/design/2026-10-03-gwern-samon.html\">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972211\">https://news.ycombinator.com/item?id=49972211</a></p>\n<p>Points: 38</p>\n<p># Co",
+      "published": "Mon, 05 Oct 2026 23:35:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "summary": "<p>Paper: \n<a href=\"https://www.usenix.org/system/files/atc21-ousterhout.pdf\" rel=\"nofollow\">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href=\"https://lwn.net/Articles/1003059/\" rel=\"nofollow\">https://lwn.net/Articles/1003059/</a>, <a href=\"https://www.theregister.com/",
-      "published": "Sun, 04 Oct 2026 19:42:25 +0000",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "summary": "<p>Article URL: <a href=\"https://qlabs.sh/research/dust\">https://qlabs.sh/research/dust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49970871\">https://news.ycombinator.com/item?id=49970871</a></p>\n<p>Points: 147</p>\n<p># Comments: 34</p>",
+      "published": "Mon, 05 Oct 2026 21:15:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "summary": "<p>Article URL: <a href=\"https://github.com/omlahore/RemoveMacAI\">https://github.com/omlahore/RemoveMacAI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957116\">https://news.ycombinator.com/item?id=49957116</a></p>\n<p>Points: 464</p>\n<p># Comments: 290</p>",
-      "published": "Sun, 04 Oct 2026 19:42:25 +0000",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "summary": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49970667\">https://news.ycombinator.com/item?id=49970667</a></p>\n<p>Po",
+      "published": "Mon, 05 Oct 2026 21:00:21 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "summary": "<p>Article URL: <a href=\"https://github.com/allenv0/SCM\">https://github.com/allenv0/SCM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952111\">https://news.ycombinator.com/item?id=49952111</a></p>\n<p>Points: 146</p>\n<p># Comments: 66</p>",
-      "published": "Sun, 04 Oct 2026 09:24:52 +0000",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "summary": "<p>Article URL: <a href=\"https://reflection.ai/blog/introducing-beam\">https://reflection.ai/blog/introducing-beam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49969183\">https://news.ycombinator.com/item?id=49969183</a></p>\n<p>Points: 387</p>\n<p># Comments: 120</p>",
+      "published": "Mon, 05 Oct 2026 19:16:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GLvFTMtw4Jk\">https://www.youtube.com/watch?v=GLvFTMtw4Jk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951891\">https://news.ycombinator.com/item?id=49951891</a></p>\n<p>Points: 70</p>\n<p># Comments: 18</p>",
-      "published": "Sun, 04 Oct 2026 08:41:58 +0000",
+      "title": "Linux containers in 500 lines of code (2016)",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.lizzie.io/linux-containers-in-500-loc.html\">https://blog.lizzie.io/linux-containers-in-500-loc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49965118\">https://news.ycombinator.com/item?id=49965118</a></p>\n<p>Points: 113</p>\n<p># Com",
+      "published": "Mon, 05 Oct 2026 14:09:15 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "url": "https://alexalejandre.com/interviews/peter-bex/",
-      "summary": "<p>Article URL: <a href=\"https://alexalejandre.com/interviews/peter-bex/\">https://alexalejandre.com/interviews/peter-bex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49939308\">https://news.ycombinator.com/item?id=49939308</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
-      "published": "Fri, 02 Oct 2026 22:17:04 +0000",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html\">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49961",
+      "published": "Mon, 05 Oct 2026 05:37:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Tao of Backup",
-      "url": "http://www.taobackup.com/index.html",
-      "summary": "<p>Article URL: <a href=\"http://www.taobackup.com/index.html\">http://www.taobackup.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932236\">https://news.ycombinator.com/item?id=49932236</a></p>\n<p>Points: 81</p>\n<p># Comments: 16</p>",
-      "published": "Fri, 02 Oct 2026 11:19:36 +0000",
+      "title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "url": "https://github.com/dfd-tud/deda",
+      "summary": "<p>Article URL: <a href=\"https://github.com/dfd-tud/deda\">https://github.com/dfd-tud/deda</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953195\">https://news.ycombinator.com/item?id=49953195</a></p>\n<p>Points: 54</p>\n<p># Comments: 6</p>",
+      "published": "Sun, 04 Oct 2026 12:09:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "cp: -r or -R?",
-      "url": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
-      "summary": "<p>Article URL: <a href=\"https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html\">https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49910465\">https://news.ycombinator.com/item?id=49910465</a></p>\n<p>Points: 113</p>\n<p",
-      "published": "Wed, 30 Sep 2026 15:44:02 +0000",
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "summary": "<p>Article URL: <a href=\"https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/\">https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945588\">https:/",
+      "published": "Sat, 03 Oct 2026 16:23:07 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Photoc \u2013 Command-line tools for photographers",
+      "url": "https://github.com/ahmetomerv/photoc",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ahmetomerv/photoc\">https://github.com/ahmetomerv/photoc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49944196\">https://news.ycombinator.com/item?id=49944196</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
+      "published": "Sat, 03 Oct 2026 13:42:23 +0000",
       "source": "Hacker News"
     }
   ]

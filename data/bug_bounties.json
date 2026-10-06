@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T05:28:59.010554+00:00",
+  "fetched_at": "2026-10-06T06:13:03.788934+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -434,12 +434,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "MetaMask",
-      "url": "https://hackerone.com/metamask",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "FloQast",
       "url": "https://hackerone.com/floqast",
       "bounty": "Bounty offered",
@@ -800,12 +794,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "Netlify",
-      "url": "https://hackerone.com/netlify",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "FanDuel",
       "url": "https://hackerone.com/fanduel",
       "bounty": "Bounty offered",
@@ -1066,6 +1054,12 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1522,7 +1516,7 @@
     {
       "title": "Bitso Managed Bug Bounty Engagement",
       "url": "https://bugcrowd.com/engagements/bitso-mbb-og",
-      "bounty": "$7,500",
+      "bounty": "$15,000",
       "source": "Bugcrowd"
     },
     {
@@ -3338,12 +3332,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Here Technologies",
-      "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-      "bounty": "\u20ac2,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Het Laatste Nieuws",
       "url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
       "bounty": "\u20ac2,200",
@@ -3524,6 +3512,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Ninja Kiwi Games Bug Bounty program",
+      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+      "bounty": "\u20ac4,125",
+      "source": "Intigriti"
+    },
+    {
       "title": "NxtPort VDP",
       "url": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
       "bounty": "Bounty offered",
@@ -3662,12 +3656,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Skoda Auto Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-      "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Social Deal",
       "url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
       "bounty": "\u20ac750",
@@ -3752,15 +3740,15 @@
       "source": "Intigriti"
     },
     {
-      "title": "TrueLayer VDP",
-      "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
-      "bounty": "Bounty offered",
+      "title": "TrueLayer",
+      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {
-      "title": "Trusted Firmware",
-      "url": "https://www.intigriti.com/programs/arm/trustedfirmware/detail",
-      "bounty": "$20,000",
+      "title": "TrueLayer VDP",
+      "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
+      "bounty": "Bounty offered",
       "source": "Intigriti"
     },
     {
