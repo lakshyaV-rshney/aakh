@@ -1,10 +1,12 @@
 {
-  "fetched_at": "2026-10-06T06:13:13.696268+00:00",
+  "fetched_at": "2026-10-07T05:49:49.044573+00:00",
   "word_of_day": {
-    "word": "lucid",
-    "part_of_speech": "adjective",
-    "definition": "Expressed clearly; easy to understand.",
-    "example": "He gave a lucid account of the incident.",
-    "date": "October 06, 2026"
+    "word": "serendipity",
+    "phonetic": "/\u02ccs\u025b.\u0279\u0259n.\u02c8d\u026a.p\u026a.ti/",
+    "part_of_speech": "noun",
+    "definition": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome.",
+    "example": "",
+    "date": "October 07, 2026",
+    "source_url": "https://www.merriam-webster.com/dictionary/serendipity"
   }
 }

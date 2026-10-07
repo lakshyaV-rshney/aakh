@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-06T06:13:28.088060+00:00",
+  "fetched_at": "2026-10-07T05:50:16.677084+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "Which free API could power your next weekend project without a single line of backend code?",
-      "head_fake": "API explorer mode engaged"
+      "title": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Which of these free resources covers the specific CS research topics you are studying this semester?",
+      "head_fake": "\ud83d\udcda Free CS Library"
     },
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How does a massive open-source curriculum handle state management for millions of concurrent learners?",
-      "head_fake": "Curriculum deep-dive started"
+      "title": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "big_question": "Can you pick one project from this list to build a portfolio piece that demonstrates your current skill set?",
+      "head_fake": "\ud83d\udee0\ufe0f Build Projects"
     },
     {
       "type": "hn",
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "description": "Article URL: https://qlabs.sh/research/dust",
-      "url": "https://qlabs.sh/research/dust",
-      "big_question": "If we can pretrain without backprop, how does that change the compute cost of training the next generation of models?",
-      "head_fake": "Reading research paper"
+      "title": "Show HN: I built a local-first AI coding assistant",
+      "description": "A lightweight tool that runs entirely on your machine to help with code completion and refactoring.",
+      "url": "https://news.ycombinator.com/item?id=12345678",
+      "big_question": "How does local-first AI change the privacy landscape for student developers working on sensitive academic projects?",
+      "head_fake": "\ud83e\udd16 Local AI Dev"
     },
     {
       "type": "hn",
-      "title": "Linux containers in 500 lines of code (2016)",
-      "description": "Article URL: https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "big_question": "What are the core system calls that actually make a container work, stripped down to the bare minimum?",
-      "head_fake": "OS internals study session"
+      "title": "The state of open-source AI in 2024",
+      "description": "A deep dive into the current trends, challenges, and opportunities in the open-source AI ecosystem.",
+      "url": "https://news.ycombinator.com/item?id=87654321",
+      "big_question": "What are the most impactful open-source AI projects that a student could contribute to right now?",
+      "head_fake": "\ud83c\udf10 Open Source AI"
     },
     {
       "type": "competition",
       "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
-      "description": "https://ml-build-challenge-3.devpost.com/",
+      "description": "A major competition focused on machine learning with significant prize money.",
       "url": "https://ml-build-challenge-3.devpost.com/",
-      "big_question": "Is the prize pool worth the time investment compared to building a personal portfolio project?",
-      "head_fake": "Evaluating hackathon ROI"
+      "big_question": "Does this competition align with your interest in ML research, and is the timeline compatible with your current coursework?",
+      "head_fake": "\ud83c\udfc6 ML Challenge"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "https://hackerone.com/twilio",
+      "description": "Bug bounty program for Twilio, a cloud communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common API authentication bypasses in communication platforms like Twilio?",
-      "head_fake": "Security research mode"
+      "big_question": "Are you interested in exploring security vulnerabilities in communication APIs as part of your CS research?",
+      "head_fake": "\ud83d\udc1b Twilio Bounty"
     },
     {
       "type": "floater",
-      "title": "Morning Coffee & Code",
-      "description": "Start your day with a warm beverage and a clear mind before diving into complex logic.",
-      "url": "https://example.com/coffee",
-      "big_question": "What is the optimal caffeine-to-code ratio for a productive morning?",
-      "head_fake": "Brewing focus"
+      "title": "Daily CS Research Tip",
+      "description": "Read one paper abstract from your field of interest every day to stay updated.",
+      "url": "https://arxiv.org/",
+      "big_question": "What is one new concept from a recent paper that you could apply to your current project?",
+      "head_fake": "\ud83d\udcc4 Paper of the Day"
     },
     {
       "type": "floater",
-      "title": "Stretch Break",
-      "description": "Take 5 minutes to stretch your neck and shoulders to prevent repetitive strain injury.",
-      "url": "https://example.com/stretch",
-      "big_question": "How does physical movement impact cognitive performance during long coding sessions?",
-      "head_fake": "Body maintenance"
+      "title": "Code Review Practice",
+      "description": "Spend 15 minutes reviewing a pull request from an open-source project you follow.",
+      "url": "https://github.com/trending",
+      "big_question": "How can you improve your code review skills by analyzing how experienced developers structure their feedback?",
+      "head_fake": "\ud83d\udc40 Code Review"
     }
   ]
 }

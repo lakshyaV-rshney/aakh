@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T06:13:03.788934+00:00",
+  "fetched_at": "2026-10-07T05:49:50.078330+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1156,6 +1156,12 @@
     {
       "title": "FetLife",
       "url": "https://hackerone.com/fetlife",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Algolia",
+      "url": "https://hackerone.com/algolia",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3047,12 +3053,6 @@
       "title": "ADAC Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Adobe Public",
-      "url": "https://www.intigriti.com/programs/adobe/adobepublic/detail",
-      "bounty": "$15,000",
       "source": "Intigriti"
     },
     {
