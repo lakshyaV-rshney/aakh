@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-07T05:50:16.677084+00:00",
+  "fetched_at": "2026-10-08T05:55:25.753861+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "Which of these free resources covers the specific CS research topics you are studying this semester?",
-      "head_fake": "\ud83d\udcda Free CS Library"
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "Can you refactor a complex sorting algorithm to be more memory efficient before your next systems design interview?",
+      "head_fake": "I just optimized my quicksort implementation and it's 20% faster. Who else is grinding algorithms this morning?"
     },
     {
       "type": "repo",
-      "title": "practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "big_question": "Can you pick one project from this list to build a portfolio piece that demonstrates your current skill set?",
-      "head_fake": "\ud83d\udee0\ufe0f Build Projects"
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and more.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "What is the best way to contribute to a massive open-source curriculum without getting overwhelmed by the issue tracker?",
+      "head_fake": "Finally finished the JavaScript certification. Time to dive into the React curriculum. Any tips for staying consistent?"
     },
     {
       "type": "hn",
-      "title": "Show HN: I built a local-first AI coding assistant",
-      "description": "A lightweight tool that runs entirely on your machine to help with code completion and refactoring.",
-      "url": "https://news.ycombinator.com/item?id=12345678",
-      "big_question": "How does local-first AI change the privacy landscape for student developers working on sensitive academic projects?",
-      "head_fake": "\ud83e\udd16 Local AI Dev"
+      "title": "Terence Tao Responds to the OpenAI Math Drop",
+      "description": "A response from a renowned mathematician regarding recent AI advancements in mathematical proof generation.",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "big_question": "How will AI-generated proofs change the way we teach formal verification in computer science courses?",
+      "head_fake": "Reading Tao's take on AI math proofs is fascinating. It's not just about speed, it's about the nature of discovery."
     },
     {
       "type": "hn",
-      "title": "The state of open-source AI in 2024",
-      "description": "A deep dive into the current trends, challenges, and opportunities in the open-source AI ecosystem.",
-      "url": "https://news.ycombinator.com/item?id=87654321",
-      "big_question": "What are the most impactful open-source AI projects that a student could contribute to right now?",
-      "head_fake": "\ud83c\udf10 Open Source AI"
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "description": "Introduction of TidesDB, a new storage engine for MySQL focused on write and space optimization.",
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "big_question": "What are the trade-offs between using a new storage engine versus sticking with InnoDB for high-write workloads?",
+      "head_fake": "Just tested the new MySQL storage engine. The write throughput is impressive, but I'm curious about the long-term stability."
     },
     {
       "type": "competition",
       "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
-      "description": "A major competition focused on machine learning with significant prize money.",
+      "description": "A large-scale challenge focused on machine learning applications with significant prize money.",
       "url": "https://ml-build-challenge-3.devpost.com/",
-      "big_question": "Does this competition align with your interest in ML research, and is the timeline compatible with your current coursework?",
-      "head_fake": "\ud83c\udfc6 ML Challenge"
+      "big_question": "Is it worth dedicating a weekend to a $400k prize pool if you don't have a strong ML background yet?",
+      "head_fake": "The prize pool for this ML challenge is insane. I'm thinking of teaming up with a few friends to give it a shot."
     },
     {
       "type": "bugbounty",
-      "title": "Twilio",
-      "description": "Bug bounty program for Twilio, a cloud communications platform.",
-      "url": "https://hackerone.com/twilio",
-      "big_question": "Are you interested in exploring security vulnerabilities in communication APIs as part of your CS research?",
-      "head_fake": "\ud83d\udc1b Twilio Bounty"
+      "title": "DoorDash",
+      "description": "Public bug bounty program for DoorDash, a major food delivery platform.",
+      "url": "https://hackerone.com/doordash",
+      "big_question": "What are the most common vulnerability classes in food delivery apps that students often overlook?",
+      "head_fake": "Spent the last hour looking at DoorDash's bounty scope. The API endpoints look interesting for potential IDOR issues."
     },
     {
       "type": "floater",
-      "title": "Daily CS Research Tip",
-      "description": "Read one paper abstract from your field of interest every day to stay updated.",
-      "url": "https://arxiv.org/",
-      "big_question": "What is one new concept from a recent paper that you could apply to your current project?",
-      "head_fake": "\ud83d\udcc4 Paper of the Day"
+      "title": "The 15-year search for a band that charted once and vanished",
+      "description": "A story about the mysterious disappearance of a band that had a single charting hit.",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "big_question": "How does the ephemeral nature of digital music compare to the physical scarcity of vinyl in the 90s?",
+      "head_fake": "This story about the vanished band is giving me major nostalgia. It reminds me of how hard it was to find obscure music back then."
     },
     {
       "type": "floater",
-      "title": "Code Review Practice",
-      "description": "Spend 15 minutes reviewing a pull request from an open-source project you follow.",
-      "url": "https://github.com/trending",
-      "big_question": "How can you improve your code review skills by analyzing how experienced developers structure their feedback?",
-      "head_fake": "\ud83d\udc40 Code Review"
+      "title": "Living off-grid: Hundred Rabbits",
+      "description": "A guide and community focused on sustainable, off-grid living and self-sufficiency.",
+      "url": "https://100r.ca/site/home.html",
+      "big_question": "Can the principles of off-grid sustainability be applied to reducing the carbon footprint of cloud computing?",
+      "head_fake": "Reading about off-grid living makes me appreciate how much energy my dev environment consumes. Maybe it's time to optimize my local setup."
     }
   ]
 }

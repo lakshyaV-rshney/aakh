@@ -1,12 +1,10 @@
 {
-  "fetched_at": "2026-10-07T05:49:49.044573+00:00",
+  "fetched_at": "2026-10-08T05:55:09.844766+00:00",
   "word_of_day": {
-    "word": "serendipity",
-    "phonetic": "/\u02ccs\u025b.\u0279\u0259n.\u02c8d\u026a.p\u026a.ti/",
+    "word": "sonder",
     "part_of_speech": "noun",
-    "definition": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome.",
+    "definition": "The realization that each passerby has a life as vivid and complex as your own.",
     "example": "",
-    "date": "October 07, 2026",
-    "source_url": "https://www.merriam-webster.com/dictionary/serendipity"
+    "date": "October 08, 2026"
   }
 }
