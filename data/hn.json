@@ -1,81 +1,67 @@
 {
-  "fetched_at": "2026-10-08T05:55:00.461706+00:00",
+  "fetched_at": "2026-10-09T06:01:14.146619+00:00",
   "stories": [
     {
-      "title": "Terence Tao Responds to the OpenAI Math Drop",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "summary": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117395269325940185\">https://mathstodon.xyz/@tao/117395269325940185</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002008\">https://news.ycombinator.com/item?id=50002008</a></p>\n<p>Points: 55</p>\n<p># Comments: 17</p>",
-      "published": "Thu, 08 Oct 2026 05:14:14 +0000",
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "url": "https://quake-srp.pages.dev/",
+      "summary": "<p>Article URL: <a href=\"https://quake-srp.pages.dev/\">https://quake-srp.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016312\">https://news.ycombinator.com/item?id=50016312</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
+      "published": "Fri, 09 Oct 2026 05:22:58 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Self-Modeling Interventions Modulate Emergent Misalignment",
-      "url": "https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment\">https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat",
-      "published": "Thu, 08 Oct 2026 03:48:35 +0000",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "summary": "<p>Article URL: <a href=\"https://biohub.org/news/virtual-biology-initiative-expansion/\">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011999\">https://news.ycombinator.com/item?id=50011999</a></p>\n<p>Points: 104<",
+      "published": "Thu, 08 Oct 2026 20:46:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-haiku-5-5\">https://www.anthropic.com/claude-haiku-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996437\">https://news.ycombinator.com/item?id=49996437</a></p>\n<p>Points: 788</p>\n<p># Comments: 389</p>",
-      "published": "Wed, 07 Oct 2026 18:01:32 +0000",
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "summary": "<p>Article URL: <a href=\"http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html\">http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008047\">https://news.ycombinator.co",
+      "published": "Thu, 08 Oct 2026 16:37:24 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "GPT\u20116 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/gpt-6-for-everyone/\">https://openai.com/index/gpt-6-for-everyone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996425\">https://news.ycombinator.com/item?id=49996425</a></p>\n<p>Points: 570</p>\n<p># Comments: 296</p>",
-      "published": "Wed, 07 Oct 2026 18:00:58 +0000",
+      "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "summary": "<p>Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.<p>We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.<p>So we let jev 1.13, kev, clef, clef ",
+      "published": "Thu, 08 Oct 2026 16:34:13 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html\">https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49996406\">https://news.ycombinator.com/it",
-      "published": "Wed, 07 Oct 2026 17:59:34 +0000",
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "summary": "<p>Article URL: <a href=\"https://openrouter.ai/stepfun/step-5-preview\">https://openrouter.ai/stepfun/step-5-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50007764\">https://news.ycombinator.com/item?id=50007764</a></p>\n<p>Points: 119</p>\n<p># Comments: 28</p>",
+      "published": "Thu, 08 Oct 2026 16:20:20 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "summary": "<p><a href=\"https://github.com/openai/math\" rel=\"nofollow\">https://github.com/openai/math</a><p><a href=\"https://github.com/openai/math/tree/main/preprints\" rel=\"nofollow\">https://github.com/openai/math/tree/main/preprints</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id",
-      "published": "Tue, 06 Oct 2026 22:17:21 +0000",
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9\">https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002665\">https://news.ycombinator.com/item?id=50002665</a></p>\n<p>Points: 132</p>\n<p># Comments: 58</p>",
+      "published": "Thu, 08 Oct 2026 07:07:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Wood Tape (2004)",
-      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
-      "summary": "<p>Article URL: <a href=\"http://gamesbyemail.com/WoodTape/Default.htm\">http://gamesbyemail.com/WoodTape/Default.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49974173\">https://news.ycombinator.com/item?id=49974173</a></p>\n<p>Points: 179</p>\n<p># Comments: 27</p>",
-      "published": "Tue, 06 Oct 2026 04:25:41 +0000",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "summary": "<p><a href=\"https://github.com/openai/math/blob/main/history.md\" rel=\"nofollow\">https://github.com/openai/math/blob/main/history.md</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002650\">https://news.ycombinator.com/item?id=50002650</a></p>\n<p>Points: 276</p>\n<p># Co",
+      "published": "Thu, 08 Oct 2026 07:05:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "ENIAC Programmers (2011)",
-      "url": "https://www.columbia.edu/cu/computinghistory/eniac.html",
-      "summary": "<p>Article URL: <a href=\"https://www.columbia.edu/cu/computinghistory/eniac.html\">https://www.columbia.edu/cu/computinghistory/eniac.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49971347\">https://news.ycombinator.com/item?id=49971347</a></p>\n<p>Points: 9</p>\n<p># Comme",
-      "published": "Mon, 05 Oct 2026 21:50:23 +0000",
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "url": "https://naturalsystems.io/eth68",
+      "summary": "<p>Article URL: <a href=\"https://naturalsystems.io/eth68\">https://naturalsystems.io/eth68</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49992994\">https://news.ycombinator.com/item?id=49992994</a></p>\n<p>Points: 129</p>\n<p># Comments: 77</p>",
+      "published": "Wed, 07 Oct 2026 13:58:05 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Living off-grid: Hundred Rabbits",
-      "url": "https://100r.ca/site/home.html",
-      "summary": "<p>Article URL: <a href=\"https://100r.ca/site/home.html\">https://100r.ca/site/home.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49970767\">https://news.ycombinator.com/item?id=49970767</a></p>\n<p>Points: 116</p>\n<p># Comments: 21</p>",
-      "published": "Mon, 05 Oct 2026 21:08:33 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "A new write and space optimized storage engine for MySQL is here",
-      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
-      "summary": "<p>Article URL: <a href=\"https://tidesdb.com/articles/tidesdb-now-available-for-mysql/\">https://tidesdb.com/articles/tidesdb-now-available-for-mysql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49963568\">https://news.ycombinator.com/item?id=49963568</a></p>\n<p>Points: 53</",
-      "published": "Mon, 05 Oct 2026 11:40:15 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "The 15-year search for a band that charted once and vanished",
-      "url": "https://shahidhussain.com/writing/search-for-salvage/",
-      "summary": "<p>Article URL: <a href=\"https://shahidhussain.com/writing/search-for-salvage/\">https://shahidhussain.com/writing/search-for-salvage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49959280\">https://news.ycombinator.com/item?id=49959280</a></p>\n<p>Points: 18</p>\n<p># Comments",
-      "published": "Mon, 05 Oct 2026 00:06:43 +0000",
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "url": "https://news.ycombinator.com/item?id=49985548",
+      "summary": "<p>DHH's \"AI shed\" idea got me thinking about getting a small $5\u201310/month VPS.<p>I'm a Linux guy and have on many points of my life have a personal server. So I like the idea of having something always on, but I\u2019m not sure the maintenance is worth it when most things can just run on my laptop.<p>Tha",
+      "published": "Tue, 06 Oct 2026 23:16:56 +0000",
       "source": "Hacker News"
     }
   ]

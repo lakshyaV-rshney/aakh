@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T05:55:00.585003+00:00",
+  "fetched_at": "2026-10-09T06:01:13.716887+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1322,12 +1322,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "Django",
-      "url": "https://hackerone.com/django",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "HackerOne",
       "url": "https://hackerone.com/security",
       "bounty": "Bounty offered",
@@ -1406,6 +1400,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Almarise Marketplace Managed Bug Bounty Engagement ",
+      "url": "https://bugcrowd.com/engagements/almarise-market",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "AppLiger",
       "url": "https://bugcrowd.com/engagements/appliger",
       "bounty": "$1,500",
@@ -1462,6 +1462,12 @@
     {
       "title": "AppFox",
       "url": "https://bugcrowd.com/engagements/automationconsultants",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Avisi Marketplace Bug Bounty Program",
+      "url": "https://bugcrowd.com/engagements/avisi",
       "bounty": "$1,500",
       "source": "Bugcrowd"
     },
@@ -1754,6 +1760,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Cvent Bug Bounty ",
+      "url": "https://bugcrowd.com/engagements/cvent-bb-og",
+      "bounty": "$3,000",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Dell Technologies Application Bug Bounty",
       "url": "https://bugcrowd.com/engagements/dell-com",
       "bounty": "$2,500",
@@ -1865,6 +1877,12 @@
       "title": "Etsy",
       "url": "https://bugcrowd.com/engagements/etsy",
       "bounty": "$10,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Excentia Bug Bounty",
+      "url": "https://bugcrowd.com/engagements/excentia",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -3332,6 +3350,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Here Technologies",
+      "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+      "bounty": "\u20ac2,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Het Laatste Nieuws",
       "url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
       "bounty": "\u20ac2,200",
@@ -3482,12 +3506,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Nestl\u00e9 VDP",
-      "url": "https://www.intigriti.com/programs/nestl%C3%A9/nestl%C3%A9vdp/detail",
-      "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
       "title": "Nexo",
       "url": "https://www.intigriti.com/programs/nexo/nexo/detail",
       "bounty": "$4,800",
@@ -3509,12 +3527,6 @@
       "title": "Nexuzhealth Web PACS",
       "url": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
       "bounty": "\u20ac1,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Ninja Kiwi Games Bug Bounty program",
-      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "bounty": "\u20ac4,125",
       "source": "Intigriti"
     },
     {
@@ -3740,12 +3752,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "TrueLayer",
-      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-      "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "TrueLayer VDP",
       "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
       "bounty": "Bounty offered",
@@ -3782,12 +3788,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Uphold",
-      "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-      "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "VDP",
       "url": "https://www.intigriti.com/programs/showpad/vdp/detail",
       "bounty": "Bounty offered",
@@ -3809,12 +3809,6 @@
       "title": "Venly",
       "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
       "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Veriff Bug Bounty",
-      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {
