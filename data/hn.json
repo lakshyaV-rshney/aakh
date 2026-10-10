@@ -1,67 +1,116 @@
 {
-  "fetched_at": "2026-10-09T06:01:14.146619+00:00",
+  "fetched_at": "2026-10-10T05:44:02.317728+00:00",
   "stories": [
     {
-      "title": "Show HN: Quake ported to safe Rust, playable in browser",
-      "url": "https://quake-srp.pages.dev/",
-      "summary": "<p>Article URL: <a href=\"https://quake-srp.pages.dev/\">https://quake-srp.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016312\">https://news.ycombinator.com/item?id=50016312</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
-      "published": "Fri, 09 Oct 2026 05:22:58 +0000",
+      "title": "If AI is conscient, then we are making slaves",
+      "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+      "summary": "<p>Article URL: <a href=\"https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi\">https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029681\">https://news.ycombinator.com/it",
+      "published": "Sat, 10 Oct 2026 04:51:26 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "summary": "<p>Article URL: <a href=\"https://biohub.org/news/virtual-biology-initiative-expansion/\">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011999\">https://news.ycombinator.com/item?id=50011999</a></p>\n<p>Points: 104<",
-      "published": "Thu, 08 Oct 2026 20:46:25 +0000",
+      "title": "Lobbying",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+      "summary": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html\">https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029630\">https://news.ycombinator.com/item?id=50029630</a></p>",
+      "published": "Sat, 10 Oct 2026 04:40:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "summary": "<p>Article URL: <a href=\"http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html\">http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008047\">https://news.ycombinator.co",
-      "published": "Thu, 08 Oct 2026 16:37:24 +0000",
+      "title": "Put a price on breakthroughs",
+      "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+      "summary": "<p>Article URL: <a href=\"https://alexwang.ai/posts/put-a-price-on-breakthroughs/\">https://alexwang.ai/posts/put-a-price-on-breakthroughs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028982\">https://news.ycombinator.com/item?id=50028982</a></p>\n<p>Points: 10</p>\n<p># Comm",
+      "published": "Sat, 10 Oct 2026 02:37:47 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
-      "url": "https://opper.ai/jevman-benchmark/",
-      "summary": "<p>Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.<p>We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.<p>So we let jev 1.13, kev, clef, clef ",
-      "published": "Thu, 08 Oct 2026 16:34:13 +0000",
+      "title": "REA Reverse \u2013 Engineer Anything",
+      "url": "https://rea.tools/",
+      "summary": "<p>Article URL: <a href=\"https://rea.tools/\">https://rea.tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028275\">https://news.ycombinator.com/item?id=50028275</a></p>\n<p>Points: 244</p>\n<p># Comments: 81</p>",
+      "published": "Sat, 10 Oct 2026 00:37:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "url": "https://openrouter.ai/stepfun/step-5-preview",
-      "summary": "<p>Article URL: <a href=\"https://openrouter.ai/stepfun/step-5-preview\">https://openrouter.ai/stepfun/step-5-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50007764\">https://news.ycombinator.com/item?id=50007764</a></p>\n<p>Points: 119</p>\n<p># Comments: 28</p>",
-      "published": "Thu, 08 Oct 2026 16:20:20 +0000",
+      "title": "Compiling Rust to readable C with Eurydice",
+      "url": "https://lwn.net/Articles/1055211/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1055211/\">https://lwn.net/Articles/1055211/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027853\">https://news.ycombinator.com/item?id=50027853</a></p>\n<p>Points: 47</p>\n<p># Comments: 6</p>",
+      "published": "Fri, 09 Oct 2026 23:28:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9\">https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002665\">https://news.ycombinator.com/item?id=50002665</a></p>\n<p>Points: 132</p>\n<p># Comments: 58</p>",
-      "published": "Thu, 08 Oct 2026 07:07:34 +0000",
+      "title": "Rewriting Prime Agent in Rust",
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/prime-agent-rust\">https://www.primeintellect.ai/blog/prime-agent-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027694\">https://news.ycombinator.com/item?id=50027694</a></p>\n<p>Points: 41</p>\n<p># Comments: 13",
+      "published": "Fri, 09 Oct 2026 23:06:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "summary": "<p><a href=\"https://github.com/openai/math/blob/main/history.md\" rel=\"nofollow\">https://github.com/openai/math/blob/main/history.md</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002650\">https://news.ycombinator.com/item?id=50002650</a></p>\n<p>Points: 276</p>\n<p># Co",
-      "published": "Thu, 08 Oct 2026 07:05:40 +0000",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "summary": "<p>Article URL: <a href=\"https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/\">https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</a></p>\n<p>Comments UR",
+      "published": "Fri, 09 Oct 2026 22:00:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "ETH-68: Ethernet Audio Interface for Linux",
-      "url": "https://naturalsystems.io/eth68",
-      "summary": "<p>Article URL: <a href=\"https://naturalsystems.io/eth68\">https://naturalsystems.io/eth68</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49992994\">https://news.ycombinator.com/item?id=49992994</a></p>\n<p>Points: 129</p>\n<p># Comments: 77</p>",
-      "published": "Wed, 07 Oct 2026 13:58:05 +0000",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\">https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306</a></p>\n<p>Comments URL: <a href=\"https://ne",
+      "published": "Fri, 09 Oct 2026 21:06:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-      "url": "https://news.ycombinator.com/item?id=49985548",
-      "summary": "<p>DHH's \"AI shed\" idea got me thinking about getting a small $5\u201310/month VPS.<p>I'm a Linux guy and have on many points of my life have a personal server. So I like the idea of having something always on, but I\u2019m not sure the maintenance is worth it when most things can just run on my laptop.<p>Tha",
-      "published": "Tue, 06 Oct 2026 23:16:56 +0000",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "summary": "<p>Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There\u2019s still quite a bit of work to be done in checking my ass",
+      "published": "Fri, 09 Oct 2026 18:10:55 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/\">https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/</a",
+      "published": "Fri, 09 Oct 2026 17:42:12 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/series-ai\">https://typesafe.ai/blog/series-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50023450\">https://news.ycombinator.com/item?id=50023450</a></p>\n<p>Points: 324</p>\n<p># Comments: 237</p>",
+      "published": "Fri, 09 Oct 2026 17:02:31 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "summary": "<p>Article URL: <a href=\"https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/\">https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019056\">https://news.ycombinator.com/item?id=50019056</",
+      "published": "Fri, 09 Oct 2026 11:36:20 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Proton Drive for Linux",
+      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "summary": "<p>Hello everyone, I wanted to share this small project that I have.\nIt's born out of a necessity that I had, because Proton doesn't ship a Linux version of the drive yet (it's apparently coming out later this year but who knows?) and all the current solutions are hacky and wonky at best. But for th",
+      "published": "Thu, 08 Oct 2026 09:10:42 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "summary": "<p>Article URL: <a href=\"https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo\">https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49997481\">https://news.ycombinator.com/item?id=499974",
+      "published": "Wed, 07 Oct 2026 19:15:57 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to head into VR without wearing a headset",
+      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+      "summary": "<p>Article URL: <a href=\"https://www.kyushu-u.ac.jp/en/researches/view/414/\">https://www.kyushu-u.ac.jp/en/researches/view/414/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49981264\">https://news.ycombinator.com/item?id=49981264</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "Tue, 06 Oct 2026 17:07:12 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Communication Between the Compiler, the Build System, and Beyond",
+      "url": "https://shrub.industries/words/problem.html",
+      "summary": "<p>Article URL: <a href=\"https://shrub.industries/words/problem.html\">https://shrub.industries/words/problem.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49980208\">https://news.ycombinator.com/item?id=49980208</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+      "published": "Tue, 06 Oct 2026 15:44:42 +0000",
       "source": "Hacker News"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T06:01:13.716887+00:00",
+  "fetched_at": "2026-10-10T05:44:01.888428+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1058,12 +1058,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "PortSwigger Web Security",
       "url": "https://hackerone.com/portswigger",
       "bounty": "Bounty offered",
@@ -1763,6 +1757,12 @@
       "title": "Cvent Bug Bounty ",
       "url": "https://bugcrowd.com/engagements/cvent-bb-og",
       "bounty": "$3,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Decadis AG",
+      "url": "https://bugcrowd.com/engagements/decadisag",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -3506,6 +3506,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Nestl\u00e9 VDP",
+      "url": "https://www.intigriti.com/programs/nestl%C3%A9/nestl%C3%A9vdp/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Nexo",
       "url": "https://www.intigriti.com/programs/nexo/nexo/detail",
       "bounty": "$4,800",
@@ -3785,6 +3791,12 @@
       "title": "Universit\u00e4tsspital Z\u00fcrich VDP",
       "url": "https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Uphold",
+      "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {

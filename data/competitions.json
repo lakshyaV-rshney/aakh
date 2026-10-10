@@ -1,27 +1,6 @@
 {
-  "fetched_at": "2026-10-09T06:01:26.178254+00:00",
+  "fetched_at": "2026-10-10T05:44:15.491506+00:00",
   "competitions": [
-    {
-      "title": "Prompt2Product: MLH Hack Day @ AITR",
-      "url": "https://prompt2product.devpost.com/",
-      "deadline": "Oct 08 - 09, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - Oct 09, 2026",
-      "prize": "$10,600",
-      "source": "Devpost"
-    },
-    {
-      "title": "Shiva Tech -Prompt Wars",
-      "url": "https://shiva-tech-prompt-wars.devpost.com/",
-      "deadline": "Oct 09, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
       "url": "https://ml-build-challenge-3.devpost.com/",
@@ -37,17 +16,31 @@
       "source": "Devpost"
     },
     {
-      "title": "Caribbean AI Summit Hackathon",
-      "url": "https://caribbean-ai-summit-hackathon.devpost.com/",
-      "deadline": "Oct 08 - 10, 2026",
-      "prize": "$10,000",
-      "source": "Devpost"
-    },
-    {
       "title": "ForgeHacks Online 2026",
       "url": "https://forgehacks-2026.devpost.com/",
       "deadline": "Oct 01 - 10, 2026",
       "prize": "$1,382,700",
+      "source": "Devpost"
+    },
+    {
+      "title": "Caribbean AI Summit Hackathon",
+      "url": "https://caribbean-ai-summit-hackathon.devpost.com/",
+      "deadline": "Oct 08 - 10, 2026",
+      "prize": "$10,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "Build Multiplayer Data Science Agents \u00b7 PyMC Labs",
+      "url": "https://daimon-hackathon.devpost.com/",
+      "deadline": "Oct 10, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "IslanderHack",
+      "url": "https://islanderhack-2026.devpost.com/",
+      "deadline": "Oct 09 - 10, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
@@ -58,6 +51,13 @@
       "source": "Devpost"
     },
     {
+      "title": "Bharat Innovation Challenge 2.0",
+      "url": "https://bic.devpost.com/",
+      "deadline": "Sep 18 - Oct 10, 2026",
+      "prize": "$10,600",
+      "source": "Devpost"
+    },
+    {
       "title": "Graphiques Innovation Challenge ",
       "url": "https://graphiques-challenge.devpost.com/",
       "deadline": "Aug 21 - Oct 10, 2026",
@@ -65,10 +65,10 @@
       "source": "Devpost"
     },
     {
-      "title": "AIC Internal Competition -2026 (Agentic AI) ",
-      "url": "https://aic-ic-2026.devpost.com/",
-      "deadline": "Sep 30 - Oct 12, 2026",
-      "prize": "$0",
+      "title": "hackPHS 2026",
+      "url": "https://hackphs2026.devpost.com/",
+      "deadline": "Oct 10 - 11, 2026",
+      "prize": "$1,000",
       "source": "Devpost"
     }
   ]

@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-09T06:01:39.383005+00:00",
+  "fetched_at": "2026-10-10T05:44:27.477394+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can I contribute to the curriculum to improve the learning path for new developers?",
-      "head_fake": "The ultimate open-source classroom is calling your name."
+      "title": "EbookFoundation/free-programming-books",
+      "description": "Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Which specific language or framework book in this list would fill the biggest gap in your current skill set for the next 3 months?",
+      "head_fake": "I found a hidden gem in the systems programming section that explains memory management better than my university lectures."
     },
     {
       "type": "repo",
-      "title": "vinta/awesome-python",
-      "description": "The definitive list that answers 'I want to do X in Python, which tool should I use?'",
-      "url": "https://github.com/vinta/awesome-python",
-      "big_question": "Which specific library in this list solves the most common pain points in my current project?",
-      "head_fake": "Stop searching, start building with the right Python tools."
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "big_question": "How can you integrate this agentic methodology into your current workflow to reduce the time spent on boilerplate code?",
+      "head_fake": "Just tried this on my side project and it actually handled the error handling I usually dread writing."
     },
     {
       "type": "hn",
-      "title": "Show HN: Quake ported to safe Rust, playable in browser",
-      "description": "A high-performance port of the classic game Quake written in safe Rust, running directly in the browser.",
-      "url": "https://quake-srp.pages.dev/",
-      "big_question": "What are the performance trade-offs of using safe Rust for game engines compared to C++?",
-      "head_fake": "Rust just proved it can handle real-time graphics without segfaults."
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "description": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "big_question": "Could formal verification tools like Lean change how we approach debugging complex logic in our CS capstone projects?",
+      "head_fake": "Terry Tao's perspective on AI and formal proofs is a must-read for anyone interested in the intersection of math and CS."
     },
     {
       "type": "hn",
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-      "description": "A discussion on cost-effective self-hosting solutions for developers, inspired by the 'AI shed' concept.",
-      "url": "https://news.ycombinator.com/item?id=49985548",
-      "big_question": "What is the most valuable low-cost service I can self-host to improve my dev workflow?",
-      "head_fake": "Your $5 server could be the most important part of your stack."
+      "title": "Compiling Rust to readable C with Eurydice",
+      "description": "Article URL: https://lwn.net/Articles/1055211/",
+      "url": "https://lwn.net/Articles/1055211/",
+      "big_question": "What are the performance implications of using Rust for systems programming when you need to interface with legacy C codebases?",
+      "head_fake": "This tool is a game-changer for understanding what Rust is actually doing under the hood."
     },
     {
       "type": "competition",
       "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
-      "description": "A major competition offering substantial prizes for machine learning projects and solutions.",
+      "description": "A high-stakes competition focused on machine learning applications with significant prize money.",
       "url": "https://ml-build-challenge-3.devpost.com/",
-      "big_question": "Can I leverage my current ML skills to build a scalable solution for this challenge?",
-      "head_fake": "Big prizes, big opportunities: time to flex your ML muscles."
+      "big_question": "Do you have a team ready to tackle an ML-focused project with the potential for a substantial prize pool?",
+      "head_fake": "The prize pool is huge, but the real value is the portfolio piece you'll build for your resume."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio, a global cloud communications platform.",
+      "description": "Bug bounty program for Twilio, a major communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common API security vulnerabilities in communication platforms like Twilio?",
-      "head_fake": "Secure the pipes that connect the world's apps."
+      "big_question": "Are you comfortable with API security and web application vulnerabilities to start exploring this high-profile target?",
+      "head_fake": "Twilio is a great starting point for beginners because their documentation is extensive and their attack surface is well-documented."
     },
     {
       "type": "floater",
-      "title": "Morning Coffee & Code",
-      "description": "Take a 5-minute break to hydrate and stretch before diving into your first coding session.",
-      "url": "https://example.com/break",
-      "big_question": "Am I starting my day with the right mindset for deep work?",
-      "head_fake": "Fuel your brain before you fuel your code."
+      "title": "The 4-Hour Study Block",
+      "description": "A technique to maximize deep work by studying in 4-hour blocks with strict breaks.",
+      "url": "https://example.com/deep-work-study",
+      "big_question": "Can you commit to one 4-hour block of uninterrupted coding or studying today?",
+      "head_fake": "I tried this yesterday and actually finished my algorithm assignment in half the time."
     },
     {
       "type": "floater",
-      "title": "Daily Git Commit",
-      "description": "Review your last commit and ensure your local branch is up-to-date with the main repository.",
-      "url": "https://github.com",
-      "big_question": "Is my codebase clean and ready for collaboration today?",
-      "head_fake": "Keep your history clean and your mind clear."
+      "title": "Rubber Duck Debugging 2.0",
+      "description": "Explain your code to an AI assistant to find logical errors faster.",
+      "url": "https://example.com/ai-debugging",
+      "big_question": "Have you tried explaining your current bug to an AI assistant to see if it spots the logic error?",
+      "head_fake": "It's like having a senior dev who doesn't judge you for the silly mistakes."
     }
   ]
 }
