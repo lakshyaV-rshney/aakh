@@ -1,67 +1,32 @@
 {
-  "fetched_at": "2026-10-10T05:44:15.491506+00:00",
+  "fetched_at": "2026-10-11T05:39:14.912601+00:00",
   "competitions": [
     {
-      "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
-      "url": "https://ml-build-challenge-3.devpost.com/",
-      "deadline": "Sep 05 - Oct 10, 2026",
-      "prize": "$0",
+      "title": "PalmettoHacks 2026",
+      "url": "https://palmettohacks-2026.devpost.com/",
+      "deadline": "Oct 10 - 11, 2026",
+      "prize": "$3,250",
       "source": "Devpost"
     },
     {
-      "title": "Ensign Build",
-      "url": "https://ensign-build.devpost.com/",
-      "deadline": "Oct 09 - 10, 2026",
-      "prize": "$0",
+      "title": "Hacklanta '26",
+      "url": "https://hacklanta.devpost.com/",
+      "deadline": "Oct 09 - 11, 2026",
+      "prize": "$14,000",
       "source": "Devpost"
     },
     {
-      "title": "ForgeHacks Online 2026",
-      "url": "https://forgehacks-2026.devpost.com/",
-      "deadline": "Oct 01 - 10, 2026",
-      "prize": "$1,382,700",
+      "title": "hackTurin",
+      "url": "https://hackturin-2026.devpost.com/",
+      "deadline": "Oct 10 - 11, 2026",
+      "prize": "\u20ac10,000",
       "source": "Devpost"
     },
     {
-      "title": "Caribbean AI Summit Hackathon",
-      "url": "https://caribbean-ai-summit-hackathon.devpost.com/",
-      "deadline": "Oct 08 - 10, 2026",
-      "prize": "$10,500",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build Multiplayer Data Science Agents \u00b7 PyMC Labs",
-      "url": "https://daimon-hackathon.devpost.com/",
-      "deadline": "Oct 10, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "IslanderHack",
-      "url": "https://islanderhack-2026.devpost.com/",
-      "deadline": "Oct 09 - 10, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hackyard Build 2026 | 24-Hour Hackathon at IIT Guwahati",
-      "url": "https://hackyardbuild2026.devpost.com/",
-      "deadline": "Sep 25 - Oct 10, 2026",
-      "prize": "\u20b9 447,500",
-      "source": "Devpost"
-    },
-    {
-      "title": "Bharat Innovation Challenge 2.0",
-      "url": "https://bic.devpost.com/",
-      "deadline": "Sep 18 - Oct 10, 2026",
-      "prize": "$10,600",
-      "source": "Devpost"
-    },
-    {
-      "title": "Graphiques Innovation Challenge ",
-      "url": "https://graphiques-challenge.devpost.com/",
-      "deadline": "Aug 21 - Oct 10, 2026",
-      "prize": "$0",
+      "title": "HackNC 2026",
+      "url": "https://hacknc-2026.devpost.com/",
+      "deadline": "Oct 10 - 11, 2026",
+      "prize": "$500",
       "source": "Devpost"
     },
     {
@@ -69,6 +34,41 @@
       "url": "https://hackphs2026.devpost.com/",
       "deadline": "Oct 10 - 11, 2026",
       "prize": "$1,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Knight Hacks IX",
+      "url": "https://knight-hacks-ix.devpost.com/",
+      "deadline": "Oct 09 - 11, 2026",
+      "prize": "$317,784",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackRU Fall 2026",
+      "url": "https://hackru-fall-2026.devpost.com/",
+      "deadline": "Oct 10 - 11, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "RecT Solutions Hackathon: Beyond the CV 2026",
+      "url": "https://rect-hackathon.devpost.com/",
+      "deadline": "Oct 10 - 11, 2026",
+      "prize": "\u20ac2,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack Knight Fall 2026",
+      "url": "https://hack-knight-fall-2026.devpost.com/",
+      "deadline": "Oct 09 - 11, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hacks for Humanity",
+      "url": "https://hacks-for-humanity-2026.devpost.com/",
+      "deadline": "Oct 10 - 11, 2026",
+      "prize": "$6,300",
       "source": "Devpost"
     }
   ]
