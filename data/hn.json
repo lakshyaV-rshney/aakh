@@ -1,67 +1,95 @@
 {
-  "fetched_at": "2026-10-11T05:39:01.617372+00:00",
+  "fetched_at": "2026-10-14T04:46:11.213423+00:00",
   "stories": [
     {
-      "title": "AI agents in a stand-up call",
-      "url": "https://atoll92.github.io/agent-standup/",
-      "summary": "<p>Article URL: <a href=\"https://atoll92.github.io/agent-standup/\">https://atoll92.github.io/agent-standup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50039630\">https://news.ycombinator.com/item?id=50039630</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-      "published": "Sun, 11 Oct 2026 03:42:47 +0000",
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "summary": "<p>Article URL: <a href=\"https://blumify.io/people\">https://blumify.io/people</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081151\">https://news.ycombinator.com/item?id=50081151</a></p>\n<p>Points: 44</p>\n<p># Comments: 26</p>",
+      "published": "Wed, 14 Oct 2026 01:09:13 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "summary": "<p>Article URL: <a href=\"https://momo5502.com/posts/2026-10-09-game-decompilation/\">https://momo5502.com/posts/2026-10-09-game-decompilation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50039092\">https://news.ycombinator.com/item?id=50039092</a></p>\n<p>Points: 66</p>\n<p># ",
-      "published": "Sun, 11 Oct 2026 02:02:38 +0000",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "summary": "<p>Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.<p>I felt ther",
+      "published": "Tue, 13 Oct 2026 23:13:23 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\">https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50035886\">https://news.ycombinator.com/item?id=50035886</a></p>\n<p>Points: ",
-      "published": "Sat, 10 Oct 2026 18:48:35 +0000",
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "summary": "<p>Article URL: <a href=\"https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0\">https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50078686\">https://news.ycombinator.com/item?id=50078686</a></p>\n<p>Po",
+      "published": "Tue, 13 Oct 2026 21:01:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 273</p>\n<p># Comments: 126</p>",
-      "published": "Sat, 10 Oct 2026 10:52:09 +0000",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "summary": "<p><a href=\"https://x.com/OpenAINewsroom/status/2110095403198849132\" rel=\"nofollow\">https://x.com/OpenAINewsroom/status/2110095403198849132</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50078141\">https://news.ycombinator.com/item?id=50078141</a></p>\n<p>Points: 478</p>",
+      "published": "Tue, 13 Oct 2026 20:23:55 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Food processing influences metabolism and brain activity",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "summary": "<p>Article URL: <a href=\"https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html\">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029830\">https://news.ycombinator.com/item?id=500298",
-      "published": "Sat, 10 Oct 2026 05:22:30 +0000",
+      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "summary": "<p>Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.<p>Method: it takes the patches that benchmarks already publish (DeepSWE, ",
+      "published": "Tue, 13 Oct 2026 19:50:31 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "summary": "<p>Article URL: <a href=\"https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/\">https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/</a></p>\n<p>Comments UR",
-      "published": "Fri, 09 Oct 2026 06:52:49 +0000",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "summary": "<p>Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tune",
+      "published": "Tue, 13 Oct 2026 19:11:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "C for Rust programmers",
-      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "summary": "<p>Article URL: <a href=\"https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/\">https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50005743\">https://news.ycombinator.com/item?id=50005743</a></p>\n<p>Points: 130</p>\n<p>#",
-      "published": "Thu, 08 Oct 2026 13:44:36 +0000",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "summary": "<p>Article URL: <a href=\"https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic\">https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073221\">h",
+      "published": "Tue, 13 Oct 2026 15:25:50 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
-      "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
-      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html\">https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49986919\">https://news.ycombinator.com/",
-      "published": "Wed, 07 Oct 2026 01:44:59 +0000",
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "summary": "<p>Article URL: <a href=\"https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/\">https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/</a></p>\n<p>Comments URL: <a href=\"https:",
+      "published": "Tue, 13 Oct 2026 15:07:37 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Grieving the loss of details",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "summary": "<p>Article URL: <a href=\"https://purplesyringa.moe/blog/grieving-the-loss-of-details/\">https://purplesyringa.moe/blog/grieving-the-loss-of-details/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49980880\">https://news.ycombinator.com/item?id=49980880</a></p>\n<p>Points: 390</p",
-      "published": "Tue, 06 Oct 2026 16:37:21 +0000",
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "summary": "<p><a href=\"https://www.apple.com/safari/switch/\" rel=\"nofollow\">https://www.apple.com/safari/switch/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072286\">https://news.ycombinator.com/item?id=50072286</a></p>\n<p>Points: 227</p>\n<p># Comments: 372</p>",
+      "published": "Tue, 13 Oct 2026 14:26:08 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust/issues/164250\">https://github.com/rust-lang/rust/issues/164250</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069499\">https://news.ycombinator.com/item?id=50069499</a></p>\n<p>Points: 694</p>\n<p># Comments: 386</p>",
+      "published": "Tue, 13 Oct 2026 10:27:00 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "url": "https://blog.plover.com/prog/git/history-proposal.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.plover.com/prog/git/history-proposal.html\">https://blog.plover.com/prog/git/history-proposal.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057119\">https://news.ycombinator.com/item?id=50057119</a></p>\n<p>Points: 12</p>\n<p># Commen",
+      "published": "Mon, 12 Oct 2026 14:41:27 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "summary": "<p><a href=\"https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html\" rel=\"nofollow\">https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wa...</a><p><a href=\"https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/\" rel=\"nofollow\">https",
+      "published": "Mon, 12 Oct 2026 10:09:37 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "summary": "<p>Article URL: <a href=\"https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html\">https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50053487\">https://news.yc",
+      "published": "Mon, 12 Oct 2026 09:05:02 +0000",
       "source": "Hacker News"
     }
   ]

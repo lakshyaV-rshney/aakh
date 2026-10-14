@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-11T05:39:24.692786+00:00",
+  "fetched_at": "2026-10-14T04:46:35.295140+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can you contribute to the curriculum to help the next generation of developers?",
-      "head_fake": "\ud83d\udcda Code your future, for free."
+      "title": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Which free book aligns best with your current CS research focus?",
+      "head_fake": "\ud83d\udcda Free knowledge is the ultimate cheat code."
     },
     {
       "type": "repo",
-      "title": "vinta/awesome-python",
-      "description": "The definitive list that answers 'I want to do X in Python, which tool should I use?'",
-      "url": "https://github.com/vinta/awesome-python",
-      "big_question": "Which Python library is the most underrated for your current project?",
-      "head_fake": "\ud83d\udc0d Python tools, curated."
+      "title": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "big_question": "Can you build a portfolio project from this list this weekend?",
+      "head_fake": "\ud83d\udee0\ufe0f Stop reading, start building."
     },
     {
       "type": "hn",
-      "title": "C for Rust programmers",
-      "description": "A guide for Rust programmers to understand C programming concepts and interop.",
-      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "big_question": "How does understanding C memory management improve your Rust unsafe code?",
-      "head_fake": "\ud83e\udd80 Rust meets C."
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "description": "Article URL: https://github.com/rust-lang/rust/issues/164250",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "big_question": "How do long-standing security flaws impact trust in systems programming languages?",
+      "head_fake": "\ud83e\udd80 Even the safe language has ghosts."
     },
     {
       "type": "hn",
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "description": "Policy-driven containment for AI agents, released by Microsoft.",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "big_question": "How will containerized AI agents change local development workflows?",
-      "head_fake": "\ud83d\udce6 Contain your AI."
+      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
+      "description": "Existing benchmarks measure solve rate and token output/cost, but don't punish verbosity.",
+      "url": "https://parsimony.lasu.dev/",
+      "big_question": "Does AI code generation actually improve efficiency or just increase complexity?",
+      "head_fake": "\ud83d\udcc9 Less code, more value."
     },
     {
       "type": "competition",
-      "title": "HackNC 2026",
-      "description": "A major hackathon for students and developers to build innovative projects.",
-      "url": "https://hacknc-2026.devpost.com/",
-      "big_question": "What problem can you solve in 24 hours that impacts your community?",
-      "head_fake": "\ud83d\ude80 Build. Break. Fix."
+      "title": "Multimodal AI Hackathon 2026",
+      "description": "Compete in building multimodal AI solutions.",
+      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
+      "big_question": "Can you integrate vision and language models into a cohesive project?",
+      "head_fake": "\ud83e\udd16 See, hear, and code."
     },
     {
       "type": "bugbounty",
-      "title": "DoorDash",
-      "description": "Public bug bounty program for DoorDash services.",
-      "url": "https://hackerone.com/doordash",
-      "big_question": "What API endpoints in food delivery apps are most vulnerable to logic errors?",
-      "head_fake": "\ud83d\udc1b Hunt for bugs, earn rewards."
+      "title": "Twilio",
+      "description": "Bug bounty program for Twilio.",
+      "url": "https://hackerone.com/twilio",
+      "big_question": "What security vulnerabilities exist in communication APIs?",
+      "head_fake": "\ud83d\udd0d Find the flaw in the message."
     },
     {
       "type": "floater",
-      "title": "The 20% Rule",
-      "description": "Spend 20% of your time on learning and 80% on building to maintain momentum.",
-      "url": "https://example.com/20-percent-rule",
-      "big_question": "Are you balancing learning and building effectively this week?",
-      "head_fake": "\u2696\ufe0f Balance is key."
+      "title": "Rust Borrow Checker Deep Dive",
+      "description": "Understanding the 11-year-old unsoundness bugs in Rust.",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "big_question": "How do memory safety guarantees fail in practice?",
+      "head_fake": "\ud83e\udde0 Memory safety is a journey, not a destination."
     },
     {
       "type": "floater",
-      "title": "Code Review Etiquette",
-      "description": "Tips for giving and receiving constructive feedback in code reviews.",
-      "url": "https://example.com/code-review-etiquette",
-      "big_question": "How can you make your code reviews more collaborative and less critical?",
-      "head_fake": "\ud83e\udd1d Code with kindness."
+      "title": "AI Code Verbosity Benchmark",
+      "description": "Exploring Parsimony, a benchmark for AI code efficiency.",
+      "url": "https://parsimony.lasu.dev/",
+      "big_question": "How can we measure the true efficiency of AI-generated code?",
+      "head_fake": "\u2696\ufe0f Balance innovation with simplicity."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T05:39:02.189261+00:00",
+  "fetched_at": "2026-10-14T04:46:11.072120+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -974,12 +974,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "Malwarebytes",
-      "url": "https://hackerone.com/malwarebytes",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "Superhuman (formerly Grammarly)",
       "url": "https://hackerone.com/superhuman",
       "bounty": "Bounty offered",
@@ -1054,6 +1048,12 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1973,12 +1973,6 @@
       "title": "HostGator LATAM Bug Bounty",
       "url": "https://bugcrowd.com/engagements/hostgator-latam-bb",
       "bounty": "$2,500",
-      "source": "Bugcrowd"
-    },
-    {
-      "title": "HotDoc",
-      "url": "https://bugcrowd.com/engagements/hotdoc",
-      "bounty": "$8,000",
       "source": "Bugcrowd"
     },
     {
@@ -2986,7 +2980,7 @@
     {
       "title": "Vinted Bug Bounty",
       "url": "https://bugcrowd.com/engagements/vinted-uab-mbb",
-      "bounty": "$4,000",
+      "bounty": "$8,000",
       "source": "Bugcrowd"
     },
     {
@@ -3560,12 +3554,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "PDQ bug bounty program",
-      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "bounty": "\u20ac3,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "PeopleCert VDP",
       "url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
       "bounty": "Bounty offered",
@@ -3695,12 +3683,6 @@
       "title": "Speakap Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Sqills",
-      "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {

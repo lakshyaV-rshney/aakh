@@ -1,74 +1,74 @@
 {
-  "fetched_at": "2026-10-11T05:39:14.912601+00:00",
+  "fetched_at": "2026-10-14T04:46:24.076640+00:00",
   "competitions": [
     {
-      "title": "PalmettoHacks 2026",
-      "url": "https://palmettohacks-2026.devpost.com/",
-      "deadline": "Oct 10 - 11, 2026",
-      "prize": "$3,250",
+      "title": "Multimodal AI Hackathon 2026",
+      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
+      "deadline": "Sep 29 - Oct 14, 2026",
+      "prize": "\u20b9 100,000",
       "source": "Devpost"
     },
     {
-      "title": "Hacklanta '26",
-      "url": "https://hacklanta.devpost.com/",
-      "deadline": "Oct 09 - 11, 2026",
-      "prize": "$14,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "hackTurin",
-      "url": "https://hackturin-2026.devpost.com/",
-      "deadline": "Oct 10 - 11, 2026",
-      "prize": "\u20ac10,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "HackNC 2026",
-      "url": "https://hacknc-2026.devpost.com/",
-      "deadline": "Oct 10 - 11, 2026",
-      "prize": "$500",
-      "source": "Devpost"
-    },
-    {
-      "title": "hackPHS 2026",
-      "url": "https://hackphs2026.devpost.com/",
-      "deadline": "Oct 10 - 11, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Knight Hacks IX",
-      "url": "https://knight-hacks-ix.devpost.com/",
-      "deadline": "Oct 09 - 11, 2026",
-      "prize": "$317,784",
-      "source": "Devpost"
-    },
-    {
-      "title": "HackRU Fall 2026",
-      "url": "https://hackru-fall-2026.devpost.com/",
-      "deadline": "Oct 10 - 11, 2026",
+      "title": "Child Safety in AI",
+      "url": "https://child-safety-in-ai.devpost.com/",
+      "deadline": "Oct 12 - 14, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "RecT Solutions Hackathon: Beyond the CV 2026",
-      "url": "https://rect-hackathon.devpost.com/",
-      "deadline": "Oct 10 - 11, 2026",
-      "prize": "\u20ac2,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack Knight Fall 2026",
-      "url": "https://hack-knight-fall-2026.devpost.com/",
-      "deadline": "Oct 09 - 11, 2026",
+      "title": "HACK47: OFFGRID",
+      "url": "https://hack47-offgrid.devpost.com/",
+      "deadline": "Sep 15 - Oct 15, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "Hacks for Humanity",
-      "url": "https://hacks-for-humanity-2026.devpost.com/",
-      "deadline": "Oct 10 - 11, 2026",
-      "prize": "$6,300",
+      "title": "INDUX 5.0-2026",
+      "url": "https://indux-5-0-2026.devpost.com/",
+      "deadline": "Sep 22 - Oct 15, 2026",
+      "prize": "\u20b9 225,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "CodeSprint by Elite Coders",
+      "url": "https://codesprint-by-elitecoders.devpost.com/",
+      "deadline": "Sep 25 - Oct 15, 2026",
+      "prize": "\u20b9 30,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Next Founders Hackathon",
+      "url": "https://next-founders.devpost.com/",
+      "deadline": "Aug 16 - Oct 15, 2026",
+      "prize": "$275",
+      "source": "Devpost"
+    },
+    {
+      "title": "RESPAWN",
+      "url": "https://respawn.devpost.com/",
+      "deadline": "Oct 12 - 15, 2026",
+      "prize": "\u20b9 15,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack Apertus",
+      "url": "https://hackapertus.devpost.com/",
+      "deadline": "Oct 01 - 16, 2026",
+      "prize": "\u20ac10,680",
+      "source": "Devpost"
+    },
+    {
+      "title": "MLAI Hackathon 2026",
+      "url": "https://mlai-hackathon.devpost.com/",
+      "deadline": "Sep 18 - Oct 16, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "NTU x ST Engineering Hackathon",
+      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
+      "deadline": "Oct 12 - 17, 2026",
+      "prize": "$2,500",
       "source": "Devpost"
     }
   ]
