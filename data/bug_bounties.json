@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T04:46:11.072120+00:00",
+  "fetched_at": "2026-10-15T04:28:57.478482+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3284,12 +3284,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Dstny",
-      "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-      "bounty": "\u20ac1,697",
-      "source": "Intigriti"
-    },
-    {
       "title": "Dutch Lottery VDP",
       "url": "https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail",
       "bounty": "Bounty offered",
@@ -3551,6 +3545,12 @@
       "title": "Orbia Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "PDQ bug bounty program",
+      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {

@@ -1,95 +1,81 @@
 {
-  "fetched_at": "2026-10-14T04:46:11.213423+00:00",
+  "fetched_at": "2026-10-15T04:28:56.975080+00:00",
   "stories": [
     {
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
-      "url": "https://blumify.io/people",
-      "summary": "<p>Article URL: <a href=\"https://blumify.io/people\">https://blumify.io/people</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081151\">https://news.ycombinator.com/item?id=50081151</a></p>\n<p>Points: 44</p>\n<p># Comments: 26</p>",
-      "published": "Wed, 14 Oct 2026 01:09:13 +0000",
+      "title": "Show HN: My Terminal Themes Web App",
+      "url": "https://news.ycombinator.com/item?id=50098454",
+      "summary": "<p>Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it!<p>I've been maintaining a popular repo of terminal themes at <a href=\"https://github.com/mbadolato/iTerm2-Color-Schemes\" rel=\"nofollow\">https://github.com/mbadolato/iTerm2-Color-Schemes</a>, and it was final",
+      "published": "Thu, 15 Oct 2026 02:33:42 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "summary": "<p>Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.<p>I felt ther",
-      "published": "Tue, 13 Oct 2026 23:13:23 +0000",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "summary": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm2-5-24b-a2b\">https://www.liquid.ai/blog/lfm2-5-24b-a2b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50097369\">https://news.ycombinator.com/item?id=50097369</a></p>\n<p>Points: 113</p>\n<p># Comments: 30</p>",
+      "published": "Wed, 14 Oct 2026 23:59:37 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-      "summary": "<p>Article URL: <a href=\"https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0\">https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50078686\">https://news.ycombinator.com/item?id=50078686</a></p>\n<p>Po",
-      "published": "Tue, 13 Oct 2026 21:01:12 +0000",
+      "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/jev-1-14\">https://typesafe.ai/blog/jev-1-14</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50095353\">https://news.ycombinator.com/item?id=50095353</a></p>\n<p>Points: 230</p>\n<p># Comments: 78</p>",
+      "published": "Wed, 14 Oct 2026 21:11:03 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "summary": "<p><a href=\"https://x.com/OpenAINewsroom/status/2110095403198849132\" rel=\"nofollow\">https://x.com/OpenAINewsroom/status/2110095403198849132</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50078141\">https://news.ycombinator.com/item?id=50078141</a></p>\n<p>Points: 478</p>",
-      "published": "Tue, 13 Oct 2026 20:23:55 +0000",
+      "title": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "summary": "<p>Article URL: <a href=\"https://nytpu.com/gemlog/2026-03-18\">https://nytpu.com/gemlog/2026-03-18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50093612\">https://news.ycombinator.com/item?id=50093612</a></p>\n<p>Points: 98</p>\n<p># Comments: 18</p>",
+      "published": "Wed, 14 Oct 2026 19:29:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "summary": "<p>Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.<p>Method: it takes the patches that benchmarks already publish (DeepSWE, ",
-      "published": "Tue, 13 Oct 2026 19:50:31 +0000",
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "summary": "<p>Article URL: <a href=\"https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/\">https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50092730\">https://news.ycombina",
+      "published": "Wed, 14 Oct 2026 18:37:21 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "summary": "<p>Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tune",
-      "published": "Tue, 13 Oct 2026 19:11:48 +0000",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "summary": "<p>Article URL: <a href=\"https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/\">https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i",
+      "published": "Wed, 14 Oct 2026 18:32:52 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "summary": "<p>Article URL: <a href=\"https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic\">https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073221\">h",
-      "published": "Tue, 13 Oct 2026 15:25:50 +0000",
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "summary": "<p>Hi HN!<p>I\u2019m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came",
+      "published": "Wed, 14 Oct 2026 18:23:14 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "summary": "<p>Article URL: <a href=\"https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/\">https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/</a></p>\n<p>Comments URL: <a href=\"https:",
-      "published": "Tue, 13 Oct 2026 15:07:37 +0000",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "<p>Article URL: <a href=\"https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\">https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html</a></p>\n<p>Comments URL: <a href=\"http",
+      "published": "Wed, 14 Oct 2026 17:45:23 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "summary": "<p><a href=\"https://www.apple.com/safari/switch/\" rel=\"nofollow\">https://www.apple.com/safari/switch/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072286\">https://news.ycombinator.com/item?id=50072286</a></p>\n<p>Points: 227</p>\n<p># Comments: 372</p>",
-      "published": "Tue, 13 Oct 2026 14:26:08 +0000",
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "<p>Article URL: <a href=\"https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1\">https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090799\">https://news.ycombinator.com/item?id=50090799</a></p>\n<p>Po",
+      "published": "Wed, 14 Oct 2026 16:52:42 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust/issues/164250\">https://github.com/rust-lang/rust/issues/164250</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069499\">https://news.ycombinator.com/item?id=50069499</a></p>\n<p>Points: 694</p>\n<p># Comments: 386</p>",
-      "published": "Tue, 13 Oct 2026 10:27:00 +0000",
+      "title": "Why is every rationalist blog post way too long?",
+      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "summary": "<p>Article URL: <a href=\"https://alexwennerberg.com/blog/2026-10-13-long.html\">https://alexwennerberg.com/blog/2026-10-13-long.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50083028\">https://news.ycombinator.com/item?id=50083028</a></p>\n<p>Points: 250</p>\n<p># Comments:",
+      "published": "Wed, 14 Oct 2026 06:02:16 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Maybe a better way to track the release history of a Git repo",
-      "url": "https://blog.plover.com/prog/git/history-proposal.html",
-      "summary": "<p>Article URL: <a href=\"https://blog.plover.com/prog/git/history-proposal.html\">https://blog.plover.com/prog/git/history-proposal.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057119\">https://news.ycombinator.com/item?id=50057119</a></p>\n<p>Points: 12</p>\n<p># Commen",
-      "published": "Mon, 12 Oct 2026 14:41:27 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "summary": "<p><a href=\"https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html\" rel=\"nofollow\">https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wa...</a><p><a href=\"https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/\" rel=\"nofollow\">https",
-      "published": "Mon, 12 Oct 2026 10:09:37 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "summary": "<p>Article URL: <a href=\"https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html\">https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50053487\">https://news.yc",
-      "published": "Mon, 12 Oct 2026 09:05:02 +0000",
+      "title": "Your C is not standard C",
+      "url": "https://sebsite.pw/w/20261012-notstdc.html",
+      "summary": "<p>Article URL: <a href=\"https://sebsite.pw/w/20261012-notstdc.html\">https://sebsite.pw/w/20261012-notstdc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071546\">https://news.ycombinator.com/item?id=50071546</a></p>\n<p>Points: 50</p>\n<p># Comments: 18</p>",
+      "published": "Tue, 13 Oct 2026 13:36:21 +0000",
       "source": "Hacker News"
     }
   ]

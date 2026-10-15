@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-14T04:46:35.295140+00:00",
+  "fetched_at": "2026-10-15T04:29:22.504600+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "Which free book aligns best with your current CS research focus?",
-      "head_fake": "\ud83d\udcda Free knowledge is the ultimate cheat code."
+      "title": "torvalds/linux",
+      "description": "Linux kernel source tree",
+      "url": "https://github.com/torvalds/linux",
+      "big_question": "How does the kernel's scheduler handle context switching for AI inference workloads?",
+      "head_fake": "Diving into the kernel's core scheduling logic to understand low-level performance bottlenecks."
     },
     {
       "type": "repo",
-      "title": "practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "big_question": "Can you build a portfolio project from this list this weekend?",
-      "head_fake": "\ud83d\udee0\ufe0f Stop reading, start building."
+      "title": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "url": "https://github.com/react/react",
+      "big_question": "What are the latest changes in React's concurrent rendering features?",
+      "head_fake": "Reviewing React's recent commits to see how concurrent features are evolving for better UX."
     },
     {
       "type": "hn",
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "description": "Article URL: https://github.com/rust-lang/rust/issues/164250",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "big_question": "How do long-standing security flaws impact trust in systems programming languages?",
-      "head_fake": "\ud83e\udd80 Even the safe language has ghosts."
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "description": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "big_question": "How does this model optimize for edge devices without sacrificing intelligence?",
+      "head_fake": "Exploring the technical details of on-device LLM optimization and its implications for mobile apps."
     },
     {
       "type": "hn",
-      "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
-      "description": "Existing benchmarks measure solve rate and token output/cost, but don't punish verbosity.",
-      "url": "https://parsimony.lasu.dev/",
-      "big_question": "Does AI code generation actually improve efficiency or just increase complexity?",
-      "head_fake": "\ud83d\udcc9 Less code, more value."
+      "title": "Your C is not standard C",
+      "description": "Article URL: https://sebsite.pw/w/20261012-notstdc.html",
+      "url": "https://sebsite.pw/w/20261012-notstdc.html",
+      "big_question": "What are the common non-standard extensions in C that developers rely on?",
+      "head_fake": "Reading about the pitfalls of using non-standard C features and how to write portable code."
     },
     {
       "type": "competition",
       "title": "Multimodal AI Hackathon 2026",
-      "description": "Compete in building multimodal AI solutions.",
+      "description": "A hackathon focused on multimodal AI applications.",
       "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-      "big_question": "Can you integrate vision and language models into a cohesive project?",
-      "head_fake": "\ud83e\udd16 See, hear, and code."
+      "big_question": "What innovative multimodal AI projects are being built this year?",
+      "head_fake": "Checking out the latest projects and challenges in the Multimodal AI Hackathon 2026."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
       "description": "Bug bounty program for Twilio.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What security vulnerabilities exist in communication APIs?",
-      "head_fake": "\ud83d\udd0d Find the flaw in the message."
+      "big_question": "What are the common security vulnerabilities in communication platforms?",
+      "head_fake": "Reviewing recent bug reports and security advisories for Twilio to learn about common vulnerabilities."
     },
     {
       "type": "floater",
-      "title": "Rust Borrow Checker Deep Dive",
-      "description": "Understanding the 11-year-old unsoundness bugs in Rust.",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "big_question": "How do memory safety guarantees fail in practice?",
-      "head_fake": "\ud83e\udde0 Memory safety is a journey, not a destination."
+      "title": "The Future of AI Agents",
+      "description": "A discussion on the evolving landscape of AI agents and their impact on software development.",
+      "url": "https://example.com/ai-agents",
+      "big_question": "How will AI agents change the way we build and maintain software?",
+      "head_fake": "Thinking about the potential of AI agents to automate complex software development tasks."
     },
     {
       "type": "floater",
-      "title": "AI Code Verbosity Benchmark",
-      "description": "Exploring Parsimony, a benchmark for AI code efficiency.",
-      "url": "https://parsimony.lasu.dev/",
-      "big_question": "How can we measure the true efficiency of AI-generated code?",
-      "head_fake": "\u2696\ufe0f Balance innovation with simplicity."
+      "title": "Quantum Computing for Developers",
+      "description": "An introduction to quantum computing concepts for software developers.",
+      "url": "https://example.com/quantum-computing",
+      "big_question": "What are the practical applications of quantum computing for developers?",
+      "head_fake": "Exploring the basics of quantum computing and how it might impact future software development."
     }
   ]
 }

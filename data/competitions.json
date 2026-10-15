@@ -1,25 +1,11 @@
 {
-  "fetched_at": "2026-10-14T04:46:24.076640+00:00",
+  "fetched_at": "2026-10-15T04:29:09.682318+00:00",
   "competitions": [
     {
       "title": "Multimodal AI Hackathon 2026",
       "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-      "deadline": "Sep 29 - Oct 14, 2026",
+      "deadline": "Sep 29 - Oct 15, 2026",
       "prize": "\u20b9 100,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Child Safety in AI",
-      "url": "https://child-safety-in-ai.devpost.com/",
-      "deadline": "Oct 12 - 14, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "HACK47: OFFGRID",
-      "url": "https://hack47-offgrid.devpost.com/",
-      "deadline": "Sep 15 - Oct 15, 2026",
-      "prize": "$0",
       "source": "Devpost"
     },
     {
@@ -58,6 +44,13 @@
       "source": "Devpost"
     },
     {
+      "title": "ThunderHacks II",
+      "url": "https://thunderhacks-ii.devpost.com/",
+      "deadline": "Oct 14 - 16, 2026",
+      "prize": "$CAD 5,000",
+      "source": "Devpost"
+    },
+    {
       "title": "MLAI Hackathon 2026",
       "url": "https://mlai-hackathon.devpost.com/",
       "deadline": "Sep 18 - Oct 16, 2026",
@@ -69,6 +62,13 @@
       "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
       "deadline": "Oct 12 - 17, 2026",
       "prize": "$2,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "AI Lodge Hackathon 2026",
+      "url": "https://ai-lodge-hackathon-2026.devpost.com/",
+      "deadline": "Sep 22 - Oct 18, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]
