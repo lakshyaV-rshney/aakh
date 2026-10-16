@@ -1,41 +1,6 @@
 {
-  "fetched_at": "2026-10-15T04:29:09.682318+00:00",
+  "fetched_at": "2026-10-16T04:23:56.718529+00:00",
   "competitions": [
-    {
-      "title": "Multimodal AI Hackathon 2026",
-      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-      "deadline": "Sep 29 - Oct 15, 2026",
-      "prize": "\u20b9 100,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "INDUX 5.0-2026",
-      "url": "https://indux-5-0-2026.devpost.com/",
-      "deadline": "Sep 22 - Oct 15, 2026",
-      "prize": "\u20b9 225,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "CodeSprint by Elite Coders",
-      "url": "https://codesprint-by-elitecoders.devpost.com/",
-      "deadline": "Sep 25 - Oct 15, 2026",
-      "prize": "\u20b9 30,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Next Founders Hackathon",
-      "url": "https://next-founders.devpost.com/",
-      "deadline": "Aug 16 - Oct 15, 2026",
-      "prize": "$275",
-      "source": "Devpost"
-    },
-    {
-      "title": "RESPAWN",
-      "url": "https://respawn.devpost.com/",
-      "deadline": "Oct 12 - 15, 2026",
-      "prize": "\u20b9 15,000",
-      "source": "Devpost"
-    },
     {
       "title": "Hack Apertus",
       "url": "https://hackapertus.devpost.com/",
@@ -65,9 +30,44 @@
       "source": "Devpost"
     },
     {
+      "title": "Build-A-Thon",
+      "url": "https://build-a-thon-30568.devpost.com/",
+      "deadline": "Oct 16 - 17, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agentic Enterprise AI Hackathon \u2014 Box + AWS",
+      "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
+      "deadline": "Oct 16 - 17, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "SPU Hacks",
+      "url": "https://spu-hacks.devpost.com/",
+      "deadline": "Oct 15 - 18, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "AI Lodge Hackathon 2026",
       "url": "https://ai-lodge-hackathon-2026.devpost.com/",
       "deadline": "Sep 22 - Oct 18, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hackfest Season - 1",
+      "url": "https://hackfest-season-1.devpost.com/",
+      "deadline": "Oct 15 - 18, 2026",
+      "prize": "$600,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackGB",
+      "url": "https://hackgb-2026.devpost.com/",
+      "deadline": "Oct 13 - 18, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

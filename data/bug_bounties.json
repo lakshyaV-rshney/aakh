@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T04:28:57.478482+00:00",
+  "fetched_at": "2026-10-16T04:23:40.964939+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1400,6 +1400,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Amoeboids",
+      "url": "https://bugcrowd.com/engagements/amoeboids",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "AppLiger",
       "url": "https://bugcrowd.com/engagements/appliger",
       "bounty": "$1,500",
@@ -1856,6 +1862,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Smart Guess ehf. - Marketplace Bug Bounty Program ",
+      "url": "https://bugcrowd.com/engagements/envision-ehf",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "EPAM Systems Managed Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/epam-mbb-og",
       "bounty": "$1,000",
@@ -2170,6 +2182,12 @@
     {
       "title": "Litew8 GmbH - Marketplace Bug Bounty ",
       "url": "https://bugcrowd.com/engagements/litew8",
+      "bounty": "$1,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Lively Apps GmbH - marketplace Bug Bounty Program ",
+      "url": "https://bugcrowd.com/engagements/lively-apps",
       "bounty": "$1,500",
       "source": "Bugcrowd"
     },
@@ -3284,6 +3302,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Dstny",
+      "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
+      "bounty": "\u20ac1,100",
+      "source": "Intigriti"
+    },
+    {
       "title": "Dutch Lottery VDP",
       "url": "https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail",
       "bounty": "Bounty offered",
@@ -3746,6 +3770,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "TrueLayer",
+      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "TrueLayer VDP",
       "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
       "bounty": "Bounty offered",
@@ -3812,6 +3842,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Veriff Bug Bounty",
+      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+      "bounty": "\u20ac4,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Visma",
       "url": "https://www.intigriti.com/programs/visma/visma/detail",
       "bounty": "\u20ac7,500",
@@ -3839,6 +3875,12 @@
       "title": "Voi Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "WP Engine Bug Bounty",
+      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {

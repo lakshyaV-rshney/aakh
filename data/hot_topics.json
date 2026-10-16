@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-15T04:29:22.504600+00:00",
+  "fetched_at": "2026-10-16T04:24:08.549105+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "torvalds/linux",
-      "description": "Linux kernel source tree",
-      "url": "https://github.com/torvalds/linux",
-      "big_question": "How does the kernel's scheduler handle context switching for AI inference workloads?",
-      "head_fake": "Diving into the kernel's core scheduling logic to understand low-level performance bottlenecks."
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How can I contribute to the curriculum to help other students while solidifying my own fundamentals?",
+      "head_fake": "The open-source classroom where your next skill is a pull request away."
     },
     {
       "type": "repo",
-      "title": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "url": "https://github.com/react/react",
-      "big_question": "What are the latest changes in React's concurrent rendering features?",
-      "head_fake": "Reviewing React's recent commits to see how concurrent features are evolving for better UX."
+      "title": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Which specific free book aligns best with my current project stack to accelerate learning?",
+      "head_fake": "A library of code wisdom, free for the taking."
     },
     {
       "type": "hn",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "description": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "big_question": "How does this model optimize for edge devices without sacrificing intelligence?",
-      "head_fake": "Exploring the technical details of on-device LLM optimization and its implications for mobile apps."
+      "title": "Show HN: openclaw - The AI that really does things",
+      "description": "A cross-platform AI agent framework that executes tasks on any OS, gaining traction for its practical automation capabilities.",
+      "url": "https://github.com/openclaw/openclaw",
+      "big_question": "Can this agent framework be integrated into my local dev environment to automate repetitive setup tasks?",
+      "head_fake": "The lobster that actually works: AI agents that do, not just talk."
     },
     {
       "type": "hn",
-      "title": "Your C is not standard C",
-      "description": "Article URL: https://sebsite.pw/w/20261012-notstdc.html",
-      "url": "https://sebsite.pw/w/20261012-notstdc.html",
-      "big_question": "What are the common non-standard extensions in C that developers rely on?",
-      "head_fake": "Reading about the pitfalls of using non-standard C features and how to write portable code."
+      "title": "Show HN: morluto/rea - Reverse engineer anything with agents",
+      "description": "A tool that uses AI agents to reverse engineer app behavior down to native binaries, sparking debate on security and ethics.",
+      "url": "https://github.com/morluto/rea",
+      "big_question": "How does agent-driven reverse engineering change the landscape for security research and software analysis?",
+      "head_fake": "Peeling back the layers of software with AI-powered precision."
     },
     {
       "type": "competition",
-      "title": "Multimodal AI Hackathon 2026",
-      "description": "A hackathon focused on multimodal AI applications.",
-      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-      "big_question": "What innovative multimodal AI projects are being built this year?",
-      "head_fake": "Checking out the latest projects and challenges in the Multimodal AI Hackathon 2026."
+      "title": "MLAI Hackathon 2026",
+      "description": "A hackathon focused on Machine Learning and AI applications, offering a platform for students to build and showcase innovative models.",
+      "url": "https://mlai-hackathon.devpost.com/",
+      "big_question": "What unique ML problem can I solve that stands out in a crowded field of AI submissions?",
+      "head_fake": "Where algorithms meet ambition: build the future of AI."
     },
     {
       "type": "bugbounty",
-      "title": "Twilio",
-      "description": "Bug bounty program for Twilio.",
-      "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common security vulnerabilities in communication platforms?",
-      "head_fake": "Reviewing recent bug reports and security advisories for Twilio to learn about common vulnerabilities."
+      "title": "DoorDash",
+      "description": "Public bug bounty program for DoorDash, offering rewards for security vulnerabilities in their platform.",
+      "url": "https://hackerone.com/doordash",
+      "big_question": "What are the most common vulnerability classes in food delivery platforms that I can test for?",
+      "head_fake": "Hunt for bugs in the world's most popular food delivery app."
     },
     {
       "type": "floater",
-      "title": "The Future of AI Agents",
-      "description": "A discussion on the evolving landscape of AI agents and their impact on software development.",
-      "url": "https://example.com/ai-agents",
-      "big_question": "How will AI agents change the way we build and maintain software?",
-      "head_fake": "Thinking about the potential of AI agents to automate complex software development tasks."
+      "title": "The Rise of Agentic AI",
+      "description": "Discussion on how AI agents are moving from chatbots to autonomous task executors, impacting developer workflows.",
+      "url": "https://example.com/agentic-ai-trends",
+      "big_question": "How will autonomous agents change the role of the software engineer in the next 5 years?",
+      "head_fake": "From prompts to actions: the new era of software development."
     },
     {
       "type": "floater",
-      "title": "Quantum Computing for Developers",
-      "description": "An introduction to quantum computing concepts for software developers.",
-      "url": "https://example.com/quantum-computing",
-      "big_question": "What are the practical applications of quantum computing for developers?",
-      "head_fake": "Exploring the basics of quantum computing and how it might impact future software development."
+      "title": "Open Source Sustainability",
+      "description": "Analysis of how major tech companies are funding open source projects and the impact on community-driven development.",
+      "url": "https://example.com/oss-sustainability",
+      "big_question": "What sustainable models can student developers adopt to maintain their own open source projects?",
+      "head_fake": "Keeping the lights on: the economics of open source."
     }
   ]
 }
