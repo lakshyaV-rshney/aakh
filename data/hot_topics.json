@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-16T04:24:08.549105+00:00",
+  "fetched_at": "2026-10-17T04:17:41.369312+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can I contribute to the curriculum to help other students while solidifying my own fundamentals?",
-      "head_fake": "The open-source classroom where your next skill is a pull request away."
+      "title": "torvalds/linux",
+      "description": "Linux kernel source tree",
+      "url": "https://github.com/torvalds/linux",
+      "big_question": "How does the kernel's memory management subsystem handle concurrent page faults in a multi-core environment?",
+      "head_fake": "Diving into the vma_merge logic to understand why my segmentation fault only happens under load."
     },
     {
       "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "Which specific free book aligns best with my current project stack to accelerate learning?",
-      "head_fake": "A library of code wisdom, free for the taking."
+      "title": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "url": "https://github.com/react/react",
+      "big_question": "What are the performance implications of using concurrent features in React for large-scale data grids?",
+      "head_fake": "Refactoring the state management in my side project to leverage useTransition for smoother UI updates."
     },
     {
       "type": "hn",
-      "title": "Show HN: openclaw - The AI that really does things",
-      "description": "A cross-platform AI agent framework that executes tasks on any OS, gaining traction for its practical automation capabilities.",
-      "url": "https://github.com/openclaw/openclaw",
-      "big_question": "Can this agent framework be integrated into my local dev environment to automate repetitive setup tasks?",
-      "head_fake": "The lobster that actually works: AI agents that do, not just talk."
+      "title": "You could have invented transformers from memory",
+      "description": "Article URL: https://alexwang.ai/posts/associative-memory/",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "big_question": "Can associative memory models provide a more biologically plausible alternative to attention mechanisms?",
+      "head_fake": "Reading this to see if I can simplify my NLP project's architecture without losing accuracy."
     },
     {
       "type": "hn",
-      "title": "Show HN: morluto/rea - Reverse engineer anything with agents",
-      "description": "A tool that uses AI agents to reverse engineer app behavior down to native binaries, sparking debate on security and ethics.",
-      "url": "https://github.com/morluto/rea",
-      "big_question": "How does agent-driven reverse engineering change the landscape for security research and software analysis?",
-      "head_fake": "Peeling back the layers of software with AI-powered precision."
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "description": "Article URL: https://github.com/cobanov/PS5LM",
+      "url": "https://github.com/cobanov/PS5LM",
+      "big_question": "What are the hardware constraints of running LLMs on consumer gaming consoles compared to dedicated GPUs?",
+      "head_fake": "Curious if I can port my local LLM setup to a PS5 for a fun weekend hack."
     },
     {
       "type": "competition",
-      "title": "MLAI Hackathon 2026",
-      "description": "A hackathon focused on Machine Learning and AI applications, offering a platform for students to build and showcase innovative models.",
-      "url": "https://mlai-hackathon.devpost.com/",
-      "big_question": "What unique ML problem can I solve that stands out in a crowded field of AI submissions?",
-      "head_fake": "Where algorithms meet ambition: build the future of AI."
+      "title": "Agentic Enterprise AI Hackathon \u2014 Box + AWS",
+      "description": "Agentic Enterprise AI Hackathon \u2014 Box + AWS",
+      "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
+      "big_question": "How can agentic AI systems be integrated into enterprise workflows to automate complex document processing?",
+      "head_fake": "Considering entering this to learn more about building AI agents for enterprise use cases."
     },
     {
       "type": "bugbounty",
-      "title": "DoorDash",
-      "description": "Public bug bounty program for DoorDash, offering rewards for security vulnerabilities in their platform.",
-      "url": "https://hackerone.com/doordash",
-      "big_question": "What are the most common vulnerability classes in food delivery platforms that I can test for?",
-      "head_fake": "Hunt for bugs in the world's most popular food delivery app."
+      "title": "Twilio",
+      "description": "Twilio",
+      "url": "https://hackerone.com/twilio",
+      "big_question": "What are the common security vulnerabilities in API-driven communication platforms like Twilio?",
+      "head_fake": "Reviewing Twilio's bug bounty scope to find potential security issues in their API endpoints."
     },
     {
       "type": "floater",
-      "title": "The Rise of Agentic AI",
-      "description": "Discussion on how AI agents are moving from chatbots to autonomous task executors, impacting developer workflows.",
-      "url": "https://example.com/agentic-ai-trends",
-      "big_question": "How will autonomous agents change the role of the software engineer in the next 5 years?",
-      "head_fake": "From prompts to actions: the new era of software development."
+      "title": "Morning Coffee & Code",
+      "description": "Start your day with a cup of coffee and a quick review of your codebase.",
+      "url": "https://example.com/coffee",
+      "big_question": "How can I balance productivity with mental health during long coding sessions?",
+      "head_fake": "Taking a 10-minute break to stretch and hydrate before diving into the next task."
     },
     {
       "type": "floater",
-      "title": "Open Source Sustainability",
-      "description": "Analysis of how major tech companies are funding open source projects and the impact on community-driven development.",
-      "url": "https://example.com/oss-sustainability",
-      "big_question": "What sustainable models can student developers adopt to maintain their own open source projects?",
-      "head_fake": "Keeping the lights on: the economics of open source."
+      "title": "Daily CS Research Digest",
+      "description": "A curated list of the latest research papers in computer science.",
+      "url": "https://example.com/cs-research",
+      "big_question": "What are the emerging trends in AI and machine learning research this week?",
+      "head_fake": "Skimming through the latest arXiv papers to stay updated on new developments in AI."
     }
   ]
 }

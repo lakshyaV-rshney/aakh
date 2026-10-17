@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T04:23:40.964939+00:00",
+  "fetched_at": "2026-10-17T04:17:16.487155+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1048,12 +1048,6 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3104,12 +3098,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Altera",
-      "url": "https://www.intigriti.com/programs/altera/altera/detail",
-      "bounty": "$30,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Anaconda Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
       "bounty": "Bounty offered",
@@ -3251,6 +3239,12 @@
       "title": "Dashlane Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/dashlane/dashlanevulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "DataCamp",
+      "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "bounty": "\u20ac1,500",
       "source": "Intigriti"
     },
     {
@@ -3686,6 +3680,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Skoda Auto Bug Bounty Program",
+      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+      "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Social Deal",
       "url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
       "bounty": "\u20ac750",
@@ -3767,12 +3767,6 @@
       "title": "Trouw",
       "url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
       "bounty": "\u20ac2,200",
-      "source": "Intigriti"
-    },
-    {
-      "title": "TrueLayer",
-      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {
