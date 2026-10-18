@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-17T04:17:41.369312+00:00",
+  "fetched_at": "2026-10-18T04:23:05.284678+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "torvalds/linux",
-      "description": "Linux kernel source tree",
-      "url": "https://github.com/torvalds/linux",
-      "big_question": "How does the kernel's memory management subsystem handle concurrent page faults in a multi-core environment?",
-      "head_fake": "Diving into the vma_merge logic to understand why my segmentation fault only happens under load."
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "How can I use this repository to quickly reference and implement common sorting or graph algorithms for my upcoming data structures exam?",
+      "head_fake": "Stop re-deriving Dijkstra's from scratch; just read the implementation here and test it against your own edge cases."
     },
     {
       "type": "repo",
-      "title": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "url": "https://github.com/react/react",
-      "big_question": "What are the performance implications of using concurrent features in React for large-scale data grids?",
-      "head_fake": "Refactoring the state management in my side project to leverage useTransition for smoother UI updates."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "Which specific free API in this list can I integrate into my final project to fetch real-time data without needing an API key?",
+      "head_fake": "This is the fastest way to find a data source for your hackathon project without spending an hour reading documentation."
     },
     {
       "type": "hn",
-      "title": "You could have invented transformers from memory",
-      "description": "Article URL: https://alexwang.ai/posts/associative-memory/",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "big_question": "Can associative memory models provide a more biologically plausible alternative to attention mechanisms?",
-      "head_fake": "Reading this to see if I can simplify my NLP project's architecture without losing accuracy."
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "description": "DeepSeek releases new model version with updated API documentation and Hugging Face availability.",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "big_question": "Does this new Flash version offer better inference speed for local development compared to the previous stable release?",
+      "head_fake": "Check if the latency improvements in this release justify switching your local dev environment setup."
     },
     {
       "type": "hn",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "description": "Article URL: https://github.com/cobanov/PS5LM",
-      "url": "https://github.com/cobanov/PS5LM",
-      "big_question": "What are the hardware constraints of running LLMs on consumer gaming consoles compared to dedicated GPUs?",
-      "head_fake": "Curious if I can port my local LLM setup to a PS5 for a fun weekend hack."
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "description": "A tool to benchmark local LLM performance to help with hardware purchasing decisions.",
+      "url": "https://llmspeed.dev/",
+      "big_question": "Can I use this tool to determine if my current laptop GPU is sufficient for running 7B parameter models locally?",
+      "head_fake": "Save money on hardware by verifying your current setup's throughput before buying a new GPU."
     },
     {
       "type": "competition",
-      "title": "Agentic Enterprise AI Hackathon \u2014 Box + AWS",
-      "description": "Agentic Enterprise AI Hackathon \u2014 Box + AWS",
-      "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
-      "big_question": "How can agentic AI systems be integrated into enterprise workflows to automate complex document processing?",
-      "head_fake": "Considering entering this to learn more about building AI agents for enterprise use cases."
+      "title": "HackHarvard2026: Hack to the Moon",
+      "description": "A collegiate hackathon focused on space and technology innovation.",
+      "url": "https://hackharvard2026.devpost.com/",
+      "big_question": "What are the specific tracks for this hackathon, and do they align with my interest in satellite data processing?",
+      "head_fake": "If you are interested in aerospace software, this is a high-profile event to build your portfolio."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Twilio",
+      "description": "Public bug bounty program for Twilio's communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common security vulnerabilities in API-driven communication platforms like Twilio?",
-      "head_fake": "Reviewing Twilio's bug bounty scope to find potential security issues in their API endpoints."
+      "big_question": "What are the most common vulnerability classes in Twilio's API endpoints that are currently in scope for bounties?",
+      "head_fake": "Start with their API documentation to find potential IDOR or authentication bypass issues in their messaging endpoints."
     },
     {
       "type": "floater",
       "title": "Morning Coffee & Code",
-      "description": "Start your day with a cup of coffee and a quick review of your codebase.",
-      "url": "https://example.com/coffee",
-      "big_question": "How can I balance productivity with mental health during long coding sessions?",
-      "head_fake": "Taking a 10-minute break to stretch and hydrate before diving into the next task."
+      "description": "A reminder to hydrate and stretch before diving into complex debugging sessions.",
+      "url": "https://example.com/health",
+      "big_question": "Have I taken a break from the screen in the last hour to maintain cognitive focus?",
+      "head_fake": "Your brain works better on hard logic problems after a 5-minute walk."
     },
     {
       "type": "floater",
-      "title": "Daily CS Research Digest",
-      "description": "A curated list of the latest research papers in computer science.",
-      "url": "https://example.com/cs-research",
-      "big_question": "What are the emerging trends in AI and machine learning research this week?",
-      "head_fake": "Skimming through the latest arXiv papers to stay updated on new developments in AI."
+      "title": "Git Commit Hygiene",
+      "description": "Check your local git status and ensure your commits follow conventional commit standards.",
+      "url": "https://example.com/git",
+      "big_question": "Are my recent commit messages descriptive enough for a reviewer to understand the 'why' behind the change?",
+      "head_fake": "Bad commit messages are a sign of rushed work; take 30 seconds to write a clear summary."
     }
   ]
 }

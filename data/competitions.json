@@ -1,74 +1,74 @@
 {
-  "fetched_at": "2026-10-17T04:17:34.179252+00:00",
+  "fetched_at": "2026-10-18T04:22:53.645317+00:00",
   "competitions": [
     {
-      "title": "Hack For Humanity (Taipei)",
-      "url": "https://hack-for-humanity-taipei.devpost.com/",
-      "deadline": "Oct 16 - 17, 2026",
+      "title": "InnovateLA x Dual-Use Hackathon",
+      "url": "https://innovatela.devpost.com/",
+      "deadline": "Oct 16 - 18, 2026",
+      "prize": "$2,300",
+      "source": "Devpost"
+    },
+    {
+      "title": "ZotHacks 2026",
+      "url": "https://zothacks-2026.devpost.com/",
+      "deadline": "Oct 17 - 18, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "AI Hackathon - Kenya",
-      "url": "https://ai-hackathon-ken.devpost.com/",
-      "deadline": "Oct 16 - 17, 2026",
+      "title": "Hacktoberfest Hack Day Dhaka",
+      "url": "https://hacktoberfest-hack-day-dhaka.devpost.com/",
+      "deadline": "Oct 18, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "IKU Womxn in STEM Hackathon",
+      "url": "https://iku-womxn-in-stem-hackathon.devpost.com/",
+      "deadline": "Oct 17 - 18, 2026",
+      "prize": "\u00a30",
+      "source": "Devpost"
+    },
+    {
+      "title": "SwampHacks XII",
+      "url": "https://swamphacks-xii.devpost.com/",
+      "deadline": "Oct 16 - 18, 2026",
+      "prize": "$9,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack the Valley 11",
+      "url": "https://hack-the-valley-11.devpost.com/",
+      "deadline": "Oct 16 - 18, 2026",
+      "prize": "$CAD 6,700",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackHarvard2026: Hack to the Moon",
+      "url": "https://hackharvard2026.devpost.com/",
+      "deadline": "Oct 16 - 18, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "SPU Hacks",
+      "url": "https://spu-hacks.devpost.com/",
+      "deadline": "Oct 15 - 18, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Lehigh Fall 2026 Collegiate Hackathon",
+      "url": "https://lehigh-hacks.devpost.com/",
+      "deadline": "Oct 17 - 18, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
       "title": "NTU x ST Engineering Hackathon",
       "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
-      "deadline": "Oct 12 - 17, 2026",
+      "deadline": "Oct 12 - 18, 2026",
       "prize": "$2,500",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build-A-Thon",
-      "url": "https://build-a-thon-30568.devpost.com/",
-      "deadline": "Oct 16 - 17, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Cornell Six Sigma Hackathon",
-      "url": "https://six-sigma-hackathon.devpost.com/",
-      "deadline": "Oct 16 - 17, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "SEPHacks 2026",
-      "url": "https://sephacks-2026.devpost.com/",
-      "deadline": "Oct 16 - 17, 2026",
-      "prize": "$3,300",
-      "source": "Devpost"
-    },
-    {
-      "title": "Blank Page",
-      "url": "https://blankpage.devpost.com/",
-      "deadline": "Oct 17, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "De Anza Hackathon 5.0",
-      "url": "https://dahacks5.devpost.com/",
-      "deadline": "Oct 16 - 17, 2026",
-      "prize": "$700",
-      "source": "Devpost"
-    },
-    {
-      "title": "Agentic Enterprise AI Hackathon \u2014 Box + AWS",
-      "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
-      "deadline": "Oct 16 - 17, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "InnovateLA x Dual-Use Hackathon",
-      "url": "https://innovatela.devpost.com/",
-      "deadline": "Oct 16 - 17, 2026",
-      "prize": "$2,300",
       "source": "Devpost"
     }
   ]

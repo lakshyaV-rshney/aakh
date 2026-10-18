@@ -1,102 +1,32 @@
 {
-  "fetched_at": "2026-10-17T04:17:18.971517+00:00",
+  "fetched_at": "2026-10-18T04:22:46.100377+00:00",
   "stories": [
     {
-      "title": "Show HN: Fakeipedia \u2013 Wikipedia for worlds that don't exist",
-      "url": "https://fakeipedia.org",
-      "summary": "<p>Hi HN!<p>Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.<p>I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it unt",
-      "published": "Fri, 16 Oct 2026 23:52:04 +0000",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/25921\">https://github.com/openai/codex/issues/25921</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133231\">https://news.ycombinator.com/item?id=50133231</a></p>\n<p>Points: 103</p>\n<p># Comments: 33</p>",
+      "published": "Sat, 17 Oct 2026 17:45:08 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nine-Inch Snails",
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/\">https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50125545\">https://news.",
-      "published": "Fri, 16 Oct 2026 22:21:05 +0000",
+      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "summary": "<p>Article URL: <a href=\"https://pele.run/\">https://pele.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132193\">https://news.ycombinator.com/item?id=50132193</a></p>\n<p>Points: 313</p>\n<p># Comments: 27</p>",
+      "published": "Sat, 17 Oct 2026 15:55:09 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "summary": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-image-klein\">https://bfl.ai/blog/flux-3-image-klein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123580\">https://news.ycombinator.com/item?id=50123580</a></p>\n<p>Points: 130</p>\n<p># Comments: 38</p>",
-      "published": "Fri, 16 Oct 2026 19:47:13 +0000",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "<p><a href=\"https://api-docs.deepseek.com/news/news261017/\" rel=\"nofollow\">https://api-docs.deepseek.com/news/news261017/</a><p><a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\" rel=\"nofollow\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<hr />\n<p>Comments URL: <a ",
+      "published": "Sat, 17 Oct 2026 08:21:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "summary": "<p>Article URL: <a href=\"https://alexwang.ai/posts/associative-memory/\">https://alexwang.ai/posts/associative-memory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122878\">https://news.ycombinator.com/item?id=50122878</a></p>\n<p>Points: 181</p>\n<p># Comments: 51</p>",
-      "published": "Fri, 16 Oct 2026 19:01:17 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "summary": "<p>Article URL: <a href=\"https://github.com/cobanov/PS5LM\">https://github.com/cobanov/PS5LM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122431\">https://news.ycombinator.com/item?id=50122431</a></p>\n<p>Points: 226</p>\n<p># Comments: 62</p>",
-      "published": "Fri, 16 Oct 2026 18:32:35 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/designing-efficient-quantum-circuits\">https://www.anthropic.com/research/designing-efficient-quantum-circuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121939\">https://news.ycombinator.com/item?id=50121939</a>",
-      "published": "Fri, 16 Oct 2026 18:00:18 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "<p>Article URL: <a href=\"https://www.mercor.com/research/labor-index/benchmark-map/\">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121179\">https://news.ycombinator.com/item?id=50121179</a></p>\n<p>Points: 437</p>\n<p",
-      "published": "Fri, 16 Oct 2026 17:08:38 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "summary": "<p>Article URL: <a href=\"https://calif.io/research/big-fish\">https://calif.io/research/big-fish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118977\">https://news.ycombinator.com/item?id=50118977</a></p>\n<p>Points: 170</p>\n<p># Comments: 48</p>",
-      "published": "Fri, 16 Oct 2026 14:44:02 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "What on Earth Is Dekton?",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "summary": "<p>Article URL: <a href=\"https://www.worksinprogress.news/p/porcelain\">https://www.worksinprogress.news/p/porcelain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118828\">https://news.ycombinator.com/item?id=50118828</a></p>\n<p>Points: 137</p>\n<p># Comments: 47</p>",
-      "published": "Fri, 16 Oct 2026 14:31:43 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "summary": "<p>I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118688\">https://news.ycombinator.com/item?id=501186",
-      "published": "Fri, 16 Oct 2026 14:18:44 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/mlx-distributed-inference\">https://machinelearning.apple.com/research/mlx-distributed-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118320\">https://news.ycombinator.com/item?id=50118320</a></p>\n<",
-      "published": "Fri, 16 Oct 2026 13:43:48 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Coconuts in Medieval Britain (2015)",
-      "url": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
-      "summary": "<p>Article URL: <a href=\"https://www.themarysue.com/monty-python-holy-grail-coconuts/\">https://www.themarysue.com/monty-python-holy-grail-coconuts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50115703\">https://news.ycombinator.com/item?id=50115703</a></p>\n<p>Points: 6</p>\n",
-      "published": "Fri, 16 Oct 2026 08:28:54 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: Wonderhop \u2013 A daily game: guess what most people say, or what none do",
-      "url": "https://wonderhop.io/en/",
-      "summary": "<p>Hello HN!<p>Wonderhop is a small browser game with no account needed to play, everyday there are 4 rounds of 7 quesitons like \"Name a food that a lot of people hate\"\nThe goal depends on the mode: Either gives the answer most people would give, the one no one would give, the oldest answer or the m",
-      "published": "Tue, 13 Oct 2026 23:10:04 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "summary": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/\">https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074322\">https://news.ycombinator.com/item?i",
-      "published": "Tue, 13 Oct 2026 16:26:03 +0000",
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "summary": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 264</p>\n<p># Comments: 77</p>",
+      "published": "Sat, 17 Oct 2026 04:36:53 +0000",
       "source": "Hacker News"
     }
   ]

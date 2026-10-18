@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T04:17:16.487155+00:00",
+  "fetched_at": "2026-10-18T04:22:40.875034+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3677,12 +3677,6 @@
       "title": "SimScale",
       "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
       "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Skoda Auto Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
