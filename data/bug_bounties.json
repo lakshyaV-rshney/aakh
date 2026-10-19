@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T04:22:40.875034+00:00",
+  "fetched_at": "2026-10-19T04:32:08.374349+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3242,12 +3242,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "DataCamp",
-      "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "bounty": "\u20ac1,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "De Morgen",
       "url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
       "bounty": "\u20ac2,200",
@@ -3566,12 +3560,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "PDQ bug bounty program",
-      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "bounty": "\u20ac3,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "PeopleCert VDP",
       "url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
       "bounty": "Bounty offered",
@@ -3776,12 +3764,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "UZ Leuven",
-      "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-      "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Ubisoft Responsible Disclosure Program",
       "url": "https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail",
       "bounty": "Bounty offered",
@@ -3797,12 +3779,6 @@
       "title": "Universit\u00e4tsspital Z\u00fcrich VDP",
       "url": "https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Uphold",
-      "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {

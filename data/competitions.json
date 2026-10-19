@@ -1,74 +1,74 @@
 {
-  "fetched_at": "2026-10-18T04:22:53.645317+00:00",
+  "fetched_at": "2026-10-19T04:32:19.843673+00:00",
   "competitions": [
     {
-      "title": "InnovateLA x Dual-Use Hackathon",
-      "url": "https://innovatela.devpost.com/",
-      "deadline": "Oct 16 - 18, 2026",
-      "prize": "$2,300",
-      "source": "Devpost"
-    },
-    {
-      "title": "ZotHacks 2026",
-      "url": "https://zothacks-2026.devpost.com/",
-      "deadline": "Oct 17 - 18, 2026",
+      "title": "HEALTHHACK 48",
+      "url": "https://healthhack-48.devpost.com/",
+      "deadline": "Oct 17 - 19, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "Hacktoberfest Hack Day Dhaka",
-      "url": "https://hacktoberfest-hack-day-dhaka.devpost.com/",
-      "deadline": "Oct 18, 2026",
+      "title": "Hyperbloom October- UI/UX and Web Design",
+      "url": "https://hyperbloom-october.devpost.com/",
+      "deadline": "Oct 01 - 19, 2026",
+      "prize": "$9,117",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackIT 2026",
+      "url": "https://hackit-2026.devpost.com/",
+      "deadline": "Sep 14 - Oct 20, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "IKU Womxn in STEM Hackathon",
-      "url": "https://iku-womxn-in-stem-hackathon.devpost.com/",
-      "deadline": "Oct 17 - 18, 2026",
-      "prize": "\u00a30",
+      "title": "INDUX 5.0-2026",
+      "url": "https://indux-5-0-2026.devpost.com/",
+      "deadline": "Sep 22 - Oct 20, 2026",
+      "prize": "\u20b9 225,000",
       "source": "Devpost"
     },
     {
-      "title": "SwampHacks XII",
-      "url": "https://swamphacks-xii.devpost.com/",
-      "deadline": "Oct 16 - 18, 2026",
-      "prize": "$9,500",
+      "title": "EurekaDev 2026",
+      "url": "https://eurekadev.devpost.com/",
+      "deadline": "Sep 27 - Oct 20, 2026",
+      "prize": "$19,122",
       "source": "Devpost"
     },
     {
-      "title": "Hack the Valley 11",
-      "url": "https://hack-the-valley-11.devpost.com/",
-      "deadline": "Oct 16 - 18, 2026",
-      "prize": "$CAD 6,700",
-      "source": "Devpost"
-    },
-    {
-      "title": "HackHarvard2026: Hack to the Moon",
-      "url": "https://hackharvard2026.devpost.com/",
-      "deadline": "Oct 16 - 18, 2026",
+      "title": "UnivaBio ($40,000 in prizes) ",
+      "url": "https://univabio.devpost.com/",
+      "deadline": "Aug 07 - Oct 20, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "SPU Hacks",
-      "url": "https://spu-hacks.devpost.com/",
-      "deadline": "Oct 15 - 18, 2026",
+      "title": "IEEE Hack For Humanity",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "deadline": "Oct 11 - 21, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "Lehigh Fall 2026 Collegiate Hackathon",
-      "url": "https://lehigh-hacks.devpost.com/",
-      "deadline": "Oct 17 - 18, 2026",
+      "title": "HACK INSIGHT",
+      "url": "https://hack-insight.devpost.com/",
+      "deadline": "Oct 18 - 22, 2026",
+      "prize": "$144",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackOctober MLH X Tech4hack",
+      "url": "https://hackoctober-mlh-x-tech4hack.devpost.com/",
+      "deadline": "Oct 18 - 22, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "NTU x ST Engineering Hackathon",
-      "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
-      "deadline": "Oct 12 - 18, 2026",
-      "prize": "$2,500",
+      "title": "Build The Next Big Thing with AI - Devmarketplace",
+      "url": "https://build-next-big-thing-with-ai.devpost.com/",
+      "deadline": "Oct 19 - 22, 2026",
+      "prize": "\u20b9 100,000",
       "source": "Devpost"
     }
   ]

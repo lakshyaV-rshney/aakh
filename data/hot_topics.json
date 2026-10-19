@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-18T04:23:05.284678+00:00",
+  "fetched_at": "2026-10-19T04:32:32.590449+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "How can I use this repository to quickly reference and implement common sorting or graph algorithms for my upcoming data structures exam?",
-      "head_fake": "Stop re-deriving Dijkstra's from scratch; just read the implementation here and test it against your own edge cases."
+      "title": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+      "url": "https://github.com/openclaw/openclaw",
+      "big_question": "How does openclaw handle cross-platform state synchronization without a central server?",
+      "head_fake": "\ud83e\udd9e"
     },
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "Which specific free API in this list can I integrate into my final project to fetch real-time data without needing an API key?",
-      "head_fake": "This is the fastest way to find a data source for your hackathon project without spending an hour reading documentation."
+      "title": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "big_question": "Can LLM agents reliably map high-level app behavior to low-level binary instructions?",
+      "head_fake": "\ud83d\udd0d"
     },
     {
       "type": "hn",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "description": "DeepSeek releases new model version with updated API documentation and Hugging Face availability.",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "big_question": "Does this new Flash version offer better inference speed for local development compared to the previous stable release?",
-      "head_fake": "Check if the latency improvements in this release justify switching your local dev environment setup."
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "description": "Research on agents that process information in latent space but output actions as text.",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "big_question": "Does latent-space reasoning reduce token costs while maintaining action accuracy?",
+      "head_fake": "\ud83e\udde0"
     },
     {
       "type": "hn",
-      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
-      "description": "A tool to benchmark local LLM performance to help with hardware purchasing decisions.",
-      "url": "https://llmspeed.dev/",
-      "big_question": "Can I use this tool to determine if my current laptop GPU is sufficient for running 7B parameter models locally?",
-      "head_fake": "Save money on hardware by verifying your current setup's throughput before buying a new GPU."
+      "title": "I built a programming language that LLMs can't use",
+      "description": "A blog post about creating a programming language specifically designed to be opaque to LLMs.",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "big_question": "Is it possible to design syntax that is computationally valid but semantically opaque to transformers?",
+      "head_fake": "\ud83d\udee1\ufe0f"
     },
     {
       "type": "competition",
-      "title": "HackHarvard2026: Hack to the Moon",
-      "description": "A collegiate hackathon focused on space and technology innovation.",
-      "url": "https://hackharvard2026.devpost.com/",
-      "big_question": "What are the specific tracks for this hackathon, and do they align with my interest in satellite data processing?",
-      "head_fake": "If you are interested in aerospace software, this is a high-profile event to build your portfolio."
+      "title": "UnivaBio ($40,000 in prizes)",
+      "description": "A hackathon focused on biotechnology and software development with a $40,000 prize pool.",
+      "url": "https://univabio.devpost.com/",
+      "big_question": "How can software developers contribute to biotech solutions without a biology background?",
+      "head_fake": "\ud83e\uddec"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Public bug bounty program for Twilio's communication platform.",
+      "description": "Bug bounty program for Twilio, a cloud communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common vulnerability classes in Twilio's API endpoints that are currently in scope for bounties?",
-      "head_fake": "Start with their API documentation to find potential IDOR or authentication bypass issues in their messaging endpoints."
+      "big_question": "What are the common API authentication bypasses in cloud communication platforms?",
+      "head_fake": "\ud83d\udce1"
     },
     {
       "type": "floater",
-      "title": "Morning Coffee & Code",
-      "description": "A reminder to hydrate and stretch before diving into complex debugging sessions.",
-      "url": "https://example.com/health",
-      "big_question": "Have I taken a break from the screen in the last hour to maintain cognitive focus?",
-      "head_fake": "Your brain works better on hard logic problems after a 5-minute walk."
+      "title": "The 20-Minute Code Review",
+      "description": "A technique for conducting effective code reviews in under 20 minutes by focusing on logic rather than style.",
+      "url": "https://example.com/20-min-review",
+      "big_question": "Can strict time limits improve the quality of code feedback by forcing prioritization?",
+      "head_fake": "\u23f1\ufe0f"
     },
     {
       "type": "floater",
-      "title": "Git Commit Hygiene",
-      "description": "Check your local git status and ensure your commits follow conventional commit standards.",
-      "url": "https://example.com/git",
-      "big_question": "Are my recent commit messages descriptive enough for a reviewer to understand the 'why' behind the change?",
-      "head_fake": "Bad commit messages are a sign of rushed work; take 30 seconds to write a clear summary."
+      "title": "Local-First Software Design",
+      "description": "Principles for building applications that work offline and sync when connected, prioritizing user data ownership.",
+      "url": "https://example.com/local-first",
+      "big_question": "How does local-first architecture change the way we handle conflict resolution in distributed systems?",
+      "head_fake": "\ud83d\udcf1"
     }
   ]
 }
