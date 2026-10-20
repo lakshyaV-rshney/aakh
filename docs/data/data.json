@@ -1,77 +1,77 @@
 {
-  "generated_at": "2026-10-19T04:32:32.680001+00:00",
-  "date_label": "Monday, 19 October 2026",
+  "generated_at": "2026-10-20T04:42:06.345810+00:00",
+  "date_label": "Tuesday, 20 October 2026",
   "word_of_day": {
-    "word": "sonder",
-    "part_of_speech": "noun",
-    "definition": "The realization that each passerby has a life as vivid and complex as your own.",
-    "example": "",
-    "date": "October 19, 2026"
+    "word": "lucid",
+    "part_of_speech": "adjective",
+    "definition": "Expressed clearly; easy to understand.",
+    "example": "He gave a lucid account of the incident.",
+    "date": "October 20, 2026"
   },
   "hot_topics": [
     {
       "type": "repo",
-      "title": "openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
-      "url": "https://github.com/openclaw/openclaw",
-      "big_question": "How does openclaw handle cross-platform state synchronization without a central server?",
-      "head_fake": "\ud83e\udd9e"
+      "title": "EbookFoundation/free-programming-books",
+      "description": "Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "Which free resource covers the specific CS theory gap you're facing this semester?",
+      "head_fake": "\ud83d\udcda Free CS Library"
     },
     {
       "type": "repo",
-      "title": "morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
-      "url": "https://github.com/morluto/rea",
-      "big_question": "Can LLM agents reliably map high-level app behavior to low-level binary instructions?",
-      "head_fake": "\ud83d\udd0d"
+      "title": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "big_question": "Can you build a portfolio piece from this list that demonstrates a core CS concept better than a tutorial?",
+      "head_fake": "\ud83d\udee0\ufe0f Build & Learn"
     },
     {
       "type": "hn",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "description": "Research on agents that process information in latent space but output actions as text.",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "big_question": "Does latent-space reasoning reduce token costs while maintaining action accuracy?",
-      "head_fake": "\ud83e\udde0"
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "description": "Discussion on the risks and responsibilities of deploying AI-generated code in production.",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "big_question": "How do you verify the correctness of AI-assisted code before it reaches your capstone project?",
+      "head_fake": "\ud83e\udd16 AI Code Audit"
     },
     {
       "type": "hn",
-      "title": "I built a programming language that LLMs can't use",
-      "description": "A blog post about creating a programming language specifically designed to be opaque to LLMs.",
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
-      "big_question": "Is it possible to design syntax that is computationally valid but semantically opaque to transformers?",
-      "head_fake": "\ud83d\udee1\ufe0f"
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "description": "Go security update regarding certificate chain validation.",
+      "url": "https://github.com/golang/go/issues/82345",
+      "big_question": "How does this specific Go security change impact the backend services you are currently developing?",
+      "head_fake": "\ud83d\udd10 Go Security Patch"
     },
     {
       "type": "competition",
-      "title": "UnivaBio ($40,000 in prizes)",
-      "description": "A hackathon focused on biotechnology and software development with a $40,000 prize pool.",
-      "url": "https://univabio.devpost.com/",
-      "big_question": "How can software developers contribute to biotech solutions without a biology background?",
-      "head_fake": "\ud83e\uddec"
+      "title": "HackOctober MLH X Tech4hack",
+      "description": "A major hackathon event organized by MLH and Tech4hack.",
+      "url": "https://hackoctober-mlh-x-tech4hack.devpost.com/",
+      "big_question": "Does this hackathon's theme align with your current skill set and career interests?",
+      "head_fake": "\ud83c\udfc6 HackOctober"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio, a cloud communications platform.",
+      "description": "Bug bounty program for Twilio's communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common API authentication bypasses in cloud communication platforms?",
-      "head_fake": "\ud83d\udce1"
+      "big_question": "What API surface areas in Twilio's documentation present the most interesting attack vectors for a student researcher?",
+      "head_fake": "\ud83d\udc1b Twilio Bounty"
     },
     {
       "type": "floater",
-      "title": "The 20-Minute Code Review",
-      "description": "A technique for conducting effective code reviews in under 20 minutes by focusing on logic rather than style.",
-      "url": "https://example.com/20-min-review",
-      "big_question": "Can strict time limits improve the quality of code feedback by forcing prioritization?",
-      "head_fake": "\u23f1\ufe0f"
+      "title": "The Importance of Code Review in AI-Assisted Development",
+      "description": "Best practices for reviewing code generated by large language models.",
+      "url": "https://example.com/ai-code-review",
+      "big_question": "How can you establish a rigorous code review process for AI-generated code in your team projects?",
+      "head_fake": "\ud83d\udd0d AI Code Review"
     },
     {
       "type": "floater",
-      "title": "Local-First Software Design",
-      "description": "Principles for building applications that work offline and sync when connected, prioritizing user data ownership.",
-      "url": "https://example.com/local-first",
-      "big_question": "How does local-first architecture change the way we handle conflict resolution in distributed systems?",
-      "head_fake": "\ud83d\udcf1"
+      "title": "Understanding Cryptographic Certificate Chains",
+      "description": "A deep dive into how certificate chains work and why they matter for security.",
+      "url": "https://example.com/cert-chains",
+      "big_question": "Can you explain the concept of a certificate chain to a non-technical person in under two minutes?",
+      "head_fake": "\ud83d\udd17 Cert Chain Deep Dive"
     }
   ],
   "repos": [
@@ -79,10 +79,10 @@
       "name": "public-apis/public-apis",
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
-      "stars": 490141,
+      "stars": 490592,
       "language": "Python",
       "created_at": "2016-03-20T23:49:42Z",
-      "pushed_at": "2026-10-17T17:36:01Z",
+      "pushed_at": "2026-10-19T12:30:00Z",
       "topics": [
         "api",
         "apis",
@@ -104,10 +104,10 @@
       "name": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "stars": 457453,
+      "stars": 457539,
       "language": "TypeScript",
       "created_at": "2014-12-24T17:49:19Z",
-      "pushed_at": "2026-10-19T03:45:44Z",
+      "pushed_at": "2026-10-20T04:28:10Z",
       "topics": [
         "careers",
         "certification",
@@ -131,7 +131,7 @@
       "name": "EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
-      "stars": 399506,
+      "stars": 399612,
       "language": "Python",
       "created_at": "2013-10-11T06:50:37Z",
       "pushed_at": "2026-10-18T00:26:58Z",
@@ -148,10 +148,10 @@
       "name": "openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
       "url": "https://github.com/openclaw/openclaw",
-      "stars": 392418,
+      "stars": 392871,
       "language": "TypeScript",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-10-19T04:32:05Z",
+      "pushed_at": "2026-10-20T04:41:02Z",
       "topics": [
         "ai",
         "assistant",
@@ -164,20 +164,32 @@
       "trending_multiday": true
     },
     {
-      "name": "vinta/awesome-python",
-      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-      "url": "https://github.com/vinta/awesome-python",
-      "stars": 328525,
-      "language": "Python",
-      "created_at": "2014-06-27T21:00:06Z",
-      "pushed_at": "2026-10-17T08:58:57Z",
+      "name": "nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "stars": 369921,
+      "language": "TypeScript",
+      "created_at": "2017-03-15T13:45:52Z",
+      "pushed_at": "2026-10-19T14:54:57Z",
       "topics": [
-        "awesome",
-        "awesome-list",
-        "python",
-        "python-frameworks",
-        "python-libraries",
-        "python-tools"
+        "angular-roadmap",
+        "backend-roadmap",
+        "blockchain-roadmap",
+        "computer-science",
+        "dba-roadmap",
+        "developer-roadmap",
+        "devops-roadmap",
+        "frontend-roadmap",
+        "go-roadmap",
+        "java-roadmap",
+        "javascript-roadmap",
+        "nodejs-roadmap",
+        "python-roadmap",
+        "qa-roadmap",
+        "react-roadmap",
+        "roadmap",
+        "software-architect-roadmap",
+        "vue-roadmap"
       ],
       "trending_multiday": true
     },
@@ -185,10 +197,10 @@
       "name": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
-      "stars": 324933,
+      "stars": 338790,
       "language": "TypeScript",
       "created_at": "2026-04-14T00:51:32Z",
-      "pushed_at": "2026-10-19T04:27:27Z",
+      "pushed_at": "2026-10-20T04:17:06Z",
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -214,13 +226,102 @@
       "trending_multiday": true
     },
     {
+      "name": "vinta/awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "url": "https://github.com/vinta/awesome-python",
+      "stars": 328785,
+      "language": "Python",
+      "created_at": "2014-06-27T21:00:06Z",
+      "pushed_at": "2026-10-19T05:39:01Z",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "python",
+        "python-frameworks",
+        "python-libraries",
+        "python-tools"
+      ],
+      "trending_multiday": true
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "stars": 302205,
+      "language": "Shell",
+      "created_at": "2025-10-09T19:45:18Z",
+      "pushed_at": "2026-10-20T03:54:16Z",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "trending_multiday": false
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "url": "https://github.com/mattpocock/skills",
+      "stars": 297688,
+      "language": "Shell",
+      "created_at": "2026-02-03T11:15:53Z",
+      "pushed_at": "2026-10-19T15:52:15Z",
+      "topics": [],
+      "trending_multiday": true
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "stars": 287332,
+      "language": "Python",
+      "created_at": "2017-04-12T05:07:46Z",
+      "pushed_at": "2026-10-19T07:12:30Z",
+      "topics": [
+        "beginner-project",
+        "cpp",
+        "golang",
+        "javascript",
+        "project",
+        "python",
+        "tutorial",
+        "webdevelopment"
+      ],
+      "trending_multiday": true
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 284242,
+      "language": "JavaScript",
+      "created_at": "2026-01-18T00:51:51Z",
+      "pushed_at": "2026-10-20T03:39:21Z",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "trending_multiday": true
+    },
+    {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 254989,
+      "stars": 255324,
       "language": "Python",
       "created_at": "2025-07-22T22:22:28Z",
-      "pushed_at": "2026-10-19T04:16:16Z",
+      "pushed_at": "2026-10-20T04:35:52Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -239,26 +340,10 @@
       "trending_multiday": true
     },
     {
-      "name": "deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "stars": 253391,
-      "language": "TypeScript",
-      "created_at": "2026-08-13T11:56:32Z",
-      "pushed_at": "2026-10-17T08:16:09Z",
-      "topics": [
-        "ai-agents",
-        "cordis",
-        "dsh",
-        "dsh-plugin"
-      ],
-      "trending_multiday": true
-    },
-    {
       "name": "torvalds/linux",
       "description": "Linux kernel source tree",
       "url": "https://github.com/torvalds/linux",
-      "stars": 252484,
+      "stars": 252709,
       "language": "C",
       "created_at": "2011-09-04T22:48:12Z",
       "pushed_at": "2026-10-18T23:21:18Z",
@@ -269,10 +354,10 @@
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
       "url": "https://github.com/react/react",
-      "stars": 251323,
+      "stars": 251455,
       "language": "JavaScript",
       "created_at": "2013-05-24T16:15:54Z",
-      "pushed_at": "2026-10-19T00:36:28Z",
+      "pushed_at": "2026-10-19T20:01:37Z",
       "topics": [
         "declarative",
         "frontend",
@@ -284,13 +369,39 @@
       "trending_multiday": true
     },
     {
+      "name": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "stars": 225409,
+      "language": "Python",
+      "created_at": "2016-07-16T09:44:01Z",
+      "pushed_at": "2026-10-20T04:24:59Z",
+      "topics": [
+        "algorithm",
+        "algorithm-competitions",
+        "algorithms-implemented",
+        "algos",
+        "community-driven",
+        "education",
+        "hacktoberfest",
+        "interview",
+        "learn",
+        "practice",
+        "python",
+        "searches",
+        "sorting-algorithms",
+        "sorts"
+      ],
+      "trending_multiday": true
+    },
+    {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "url": "https://github.com/anomalyco/opencode",
-      "stars": 216793,
+      "stars": 217995,
       "language": "TypeScript",
       "created_at": "2025-04-30T20:08:00Z",
-      "pushed_at": "2026-10-19T04:30:50Z",
+      "pushed_at": "2026-10-20T04:40:06Z",
       "topics": [],
       "trending_multiday": true
     },
@@ -298,10 +409,10 @@
       "name": "n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 207956,
+      "stars": 208072,
       "language": "TypeScript",
       "created_at": "2019-06-22T09:24:21Z",
-      "pushed_at": "2026-10-19T00:49:41Z",
+      "pushed_at": "2026-10-20T00:47:46Z",
       "topics": [
         "ai",
         "apis",
@@ -330,10 +441,10 @@
       "name": "tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "url": "https://github.com/tensorflow/tensorflow",
-      "stars": 201142,
+      "stars": 201209,
       "language": "C++",
       "created_at": "2015-11-07T01:19:20Z",
-      "pushed_at": "2026-10-19T04:21:02Z",
+      "pushed_at": "2026-10-20T04:35:53Z",
       "topics": [
         "deep-learning",
         "deep-neural-networks",
@@ -350,7 +461,7 @@
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex \u2014 developed and maintained with no human intervention.",
       "url": "https://github.com/ultraworkers/claw-code",
-      "stars": 194919,
+      "stars": 194901,
       "language": "Rust",
       "created_at": "2026-03-31T08:58:08Z",
       "pushed_at": "2026-10-19T04:07:34Z",
@@ -361,10 +472,10 @@
       "name": "microsoft/vscode",
       "description": "Visual Studio Code",
       "url": "https://github.com/microsoft/vscode",
-      "stars": 193884,
+      "stars": 194043,
       "language": "TypeScript",
       "created_at": "2015-09-03T20:23:38Z",
-      "pushed_at": "2026-10-19T04:23:39Z",
+      "pushed_at": "2026-10-20T04:39:18Z",
       "topics": [
         "editor",
         "electron",
@@ -373,165 +484,17 @@
         "visual-studio-code"
       ],
       "trending_multiday": true
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. \ud83d\udd25",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 192837,
-      "language": "TypeScript",
-      "created_at": "2024-04-15T21:02:29Z",
-      "pushed_at": "2026-10-19T02:07:37Z",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-crawler",
-        "ai-scraping",
-        "ai-search",
-        "crawler",
-        "data-extraction",
-        "html-to-markdown",
-        "llm",
-        "markdown",
-        "scraper",
-        "scraping",
-        "web-crawler",
-        "web-data",
-        "web-data-extraction",
-        "web-scraper",
-        "web-scraping",
-        "web-search",
-        "webscraping"
-      ],
-      "trending_multiday": true
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "description": "\ud83d\ude43   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "stars": 190069,
-      "language": "Shell",
-      "created_at": "2009-08-28T18:15:37Z",
-      "pushed_at": "2026-10-18T12:53:51Z",
-      "topics": [
-        "cli",
-        "cli-app",
-        "oh-my-zsh",
-        "oh-my-zsh-plugin",
-        "oh-my-zsh-theme",
-        "ohmyzsh",
-        "plugin-framework",
-        "plugins",
-        "productivity",
-        "shell",
-        "terminal",
-        "theme",
-        "themes",
-        "zsh",
-        "zsh-configuration"
-      ],
-      "trending_multiday": true
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 187644,
-      "language": "Python",
-      "created_at": "2023-03-16T09:21:07Z",
-      "pushed_at": "2026-10-19T04:29:30Z",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "artificial-intelligence",
-        "autonomous-agents",
-        "claude",
-        "gpt",
-        "llama-api",
-        "llm",
-        "openai",
-        "python"
-      ],
-      "trending_multiday": true
-    },
-    {
-      "name": "ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "url": "https://github.com/ollama/ollama",
-      "stars": 183769,
-      "language": "Go",
-      "created_at": "2023-06-26T19:39:32Z",
-      "pushed_at": "2026-10-18T18:44:30Z",
-      "topics": [
-        "deepseek",
-        "gemma",
-        "gemma3",
-        "glm",
-        "go",
-        "golang",
-        "gpt-oss",
-        "llama",
-        "llama3",
-        "llm",
-        "llms",
-        "minimax",
-        "mistral",
-        "ollama",
-        "qwen"
-      ],
-      "trending_multiday": true
-    },
-    {
-      "name": "huggingface/transformers",
-      "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "url": "https://github.com/huggingface/transformers",
-      "stars": 167831,
-      "language": "Python",
-      "created_at": "2018-10-29T13:56:00Z",
-      "pushed_at": "2026-10-19T04:26:16Z",
-      "topics": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing",
-        "nlp",
-        "pretrained-models",
-        "python",
-        "pytorch",
-        "pytorch-transformers",
-        "qwen",
-        "speech-recognition",
-        "transformer",
-        "vlm"
-      ],
-      "trending_multiday": true
     }
   ],
   "competitions": [
     {
-      "title": "HEALTHHACK 48",
-      "url": "https://healthhack-48.devpost.com/",
-      "deadline": "Oct 17 - 19, 2026",
-      "prize": "$0",
+      "title": "InternWell Hack 2.0",
+      "url": "https://interwell-hack2-0.devpost.com/",
+      "deadline": "Oct 03 - 20, 2026",
+      "prize": "\u20b9 1,000",
       "source": "Devpost",
       "closing_soon": false,
-      "days_left": -2559
-    },
-    {
-      "title": "Hyperbloom October- UI/UX and Web Design",
-      "url": "https://hyperbloom-october.devpost.com/",
-      "deadline": "Oct 01 - 19, 2026",
-      "prize": "$9,117",
-      "source": "Devpost",
-      "closing_soon": false,
-      "days_left": -2575
+      "days_left": -2208
     },
     {
       "title": "HackIT 2026",
@@ -572,7 +535,7 @@
       "prize": "$0",
       "source": "Devpost",
       "closing_soon": false,
-      "days_left": -1834
+      "days_left": -1835
     },
     {
       "title": "HACK INSIGHT",
@@ -581,7 +544,16 @@
       "prize": "$144",
       "source": "Devpost",
       "closing_soon": false,
-      "days_left": -1462
+      "days_left": -1463
+    },
+    {
+      "title": "HackOctober MLH X Tech4hack",
+      "url": "https://hackoctober-mlh-x-tech4hack.devpost.com/",
+      "deadline": "Oct 18 - 22, 2026",
+      "prize": "$0",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -1463
     }
   ],
   "bug_bounties": [
@@ -648,59 +620,59 @@
   ],
   "hn_stories": [
     {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
-      "summary": "<p>Article URL: <a href=\"https://colo.to/cyberspace.html\">https://colo.to/cyberspace.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146625\">https://news.ycombinator.com/item?id=50146625</a></p>\n<p>Points: 103</p>\n<p># Comments: 18</p>",
-      "published": "Sun, 18 Oct 2026 23:37:57 +0000",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "url": "https://github.com/golang/go/issues/82345",
+      "summary": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/82345\">https://github.com/golang/go/issues/82345</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160877\">https://news.ycombinator.com/item?id=50160877</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
+      "published": "Tue, 20 Oct 2026 03:05:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "summary": "<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - ",
-      "published": "Sun, 18 Oct 2026 21:36:10 +0000",
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "summary": "<p>Article URL: <a href=\"https://www.openbsd.org/80.html\">https://www.openbsd.org/80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160494\">https://news.ycombinator.com/item?id=50160494</a></p>\n<p>Points: 70</p>\n<p># Comments: 18</p>",
+      "published": "Tue, 20 Oct 2026 02:06:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "summary": "<p>Article URL: <a href=\"https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=501",
-      "published": "Sun, 18 Oct 2026 21:09:12 +0000",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "summary": "<p>Article URL: <a href=\"https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159341\">https://news.ycombinator.com/item?id=50159341</a></p>\n<p>Po",
+      "published": "Mon, 19 Oct 2026 23:22:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "summary": "<p><a href=\"https://x.com/Jiaru_Zou/status/2110400256647340476\" rel=\"nofollow\">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href=\"https://github.com/togethercomputer/HybridAgent\" rel=\"nofollow\">https://github.com/togethercomputer/HybridAgent</a><p><a href=\"https://huggingface.co/colle",
-      "published": "Sun, 18 Oct 2026 20:48:14 +0000",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "summary": "<p>Article URL: <a href=\"https://bsd.network/@brynet/117407035545900963\">https://bsd.network/@brynet/117407035545900963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158138\">https://news.ycombinator.com/item?id=50158138</a></p>\n<p>Points: 119</p>\n<p># Comments: 28</p>",
+      "published": "Mon, 19 Oct 2026 21:11:45 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "url": "https://www.getlazarus.org/dynamic/",
-      "summary": "<p>Article URL: <a href=\"https://www.getlazarus.org/dynamic/\">https://www.getlazarus.org/dynamic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144066\">https://news.ycombinator.com/item?id=50144066</a></p>\n<p>Points: 130</p>\n<p># Comments: 28</p>",
-      "published": "Sun, 18 Oct 2026 18:48:04 +0000",
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "summary": "<p>Article URL: <a href=\"https://josie.lol/blog/linux-rtx-spark\">https://josie.lol/blog/linux-rtx-spark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158100\">https://news.ycombinator.com/item?id=50158100</a></p>\n<p>Points: 202</p>\n<p># Comments: 96</p>",
+      "published": "Mon, 19 Oct 2026 21:08:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Namecheap just seized and disabled all my domains",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\">https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id",
-      "published": "Sun, 18 Oct 2026 16:56:56 +0000",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310\">https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310</a></p>\n<p>Comments URL: <a href=\"http",
+      "published": "Mon, 19 Oct 2026 15:31:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html\">https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50142449\">https://news.ycombinator.com/item?id=50142449</a>",
-      "published": "Sun, 18 Oct 2026 16:20:27 +0000",
+      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+      "summary": "<p>Article URL: <a href=\"http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html\">http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152321\">https://news.ycombinato",
+      "published": "Mon, 19 Oct 2026 13:36:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
-      "summary": "<p>Article URL: <a href=\"https://blog.picheta.me/post/killswitch-lang/\">https://blog.picheta.me/post/killswitch-lang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50135762\">https://news.ycombinator.com/item?id=50135762</a></p>\n<p>Points: 113</p>\n<p># Comments: 92</p>",
-      "published": "Sat, 17 Oct 2026 22:26:47 +0000",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "summary": "<p>I saw this LinkedIn post from a Meta engineer and it resonated with me:<p><a href=\"https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N\" rel=\"nofollow\">https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...</a><p>> I'm an enginee",
+      "published": "Mon, 19 Oct 2026 11:24:34 +0000",
       "source": "Hacker News"
     }
   ]

@@ -1,67 +1,88 @@
 {
-  "fetched_at": "2026-10-19T04:32:11.222155+00:00",
+  "fetched_at": "2026-10-20T04:41:41.724608+00:00",
   "stories": [
     {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
-      "summary": "<p>Article URL: <a href=\"https://colo.to/cyberspace.html\">https://colo.to/cyberspace.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146625\">https://news.ycombinator.com/item?id=50146625</a></p>\n<p>Points: 103</p>\n<p># Comments: 18</p>",
-      "published": "Sun, 18 Oct 2026 23:37:57 +0000",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "url": "https://github.com/golang/go/issues/82345",
+      "summary": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/82345\">https://github.com/golang/go/issues/82345</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160877\">https://news.ycombinator.com/item?id=50160877</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
+      "published": "Tue, 20 Oct 2026 03:05:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "summary": "<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - ",
-      "published": "Sun, 18 Oct 2026 21:36:10 +0000",
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "summary": "<p>Article URL: <a href=\"https://www.openbsd.org/80.html\">https://www.openbsd.org/80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160494\">https://news.ycombinator.com/item?id=50160494</a></p>\n<p>Points: 70</p>\n<p># Comments: 18</p>",
+      "published": "Tue, 20 Oct 2026 02:06:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "summary": "<p>Article URL: <a href=\"https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=501",
-      "published": "Sun, 18 Oct 2026 21:09:12 +0000",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "summary": "<p>Article URL: <a href=\"https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159341\">https://news.ycombinator.com/item?id=50159341</a></p>\n<p>Po",
+      "published": "Mon, 19 Oct 2026 23:22:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "summary": "<p><a href=\"https://x.com/Jiaru_Zou/status/2110400256647340476\" rel=\"nofollow\">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href=\"https://github.com/togethercomputer/HybridAgent\" rel=\"nofollow\">https://github.com/togethercomputer/HybridAgent</a><p><a href=\"https://huggingface.co/colle",
-      "published": "Sun, 18 Oct 2026 20:48:14 +0000",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "summary": "<p>Article URL: <a href=\"https://bsd.network/@brynet/117407035545900963\">https://bsd.network/@brynet/117407035545900963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158138\">https://news.ycombinator.com/item?id=50158138</a></p>\n<p>Points: 119</p>\n<p># Comments: 28</p>",
+      "published": "Mon, 19 Oct 2026 21:11:45 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "url": "https://www.getlazarus.org/dynamic/",
-      "summary": "<p>Article URL: <a href=\"https://www.getlazarus.org/dynamic/\">https://www.getlazarus.org/dynamic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144066\">https://news.ycombinator.com/item?id=50144066</a></p>\n<p>Points: 130</p>\n<p># Comments: 28</p>",
-      "published": "Sun, 18 Oct 2026 18:48:04 +0000",
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "summary": "<p>Article URL: <a href=\"https://josie.lol/blog/linux-rtx-spark\">https://josie.lol/blog/linux-rtx-spark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158100\">https://news.ycombinator.com/item?id=50158100</a></p>\n<p>Points: 202</p>\n<p># Comments: 96</p>",
+      "published": "Mon, 19 Oct 2026 21:08:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Namecheap just seized and disabled all my domains",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\">https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id",
-      "published": "Sun, 18 Oct 2026 16:56:56 +0000",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310\">https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310</a></p>\n<p>Comments URL: <a href=\"http",
+      "published": "Mon, 19 Oct 2026 15:31:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html\">https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50142449\">https://news.ycombinator.com/item?id=50142449</a>",
-      "published": "Sun, 18 Oct 2026 16:20:27 +0000",
+      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+      "summary": "<p>Article URL: <a href=\"http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html\">http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152321\">https://news.ycombinato",
+      "published": "Mon, 19 Oct 2026 13:36:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
-      "summary": "<p>Article URL: <a href=\"https://blog.picheta.me/post/killswitch-lang/\">https://blog.picheta.me/post/killswitch-lang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50135762\">https://news.ycombinator.com/item?id=50135762</a></p>\n<p>Points: 113</p>\n<p># Comments: 92</p>",
-      "published": "Sat, 17 Oct 2026 22:26:47 +0000",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "summary": "<p>I saw this LinkedIn post from a Meta engineer and it resonated with me:<p><a href=\"https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N\" rel=\"nofollow\">https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...</a><p>> I'm an enginee",
+      "published": "Mon, 19 Oct 2026 11:24:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-      "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
-      "summary": "<p>Article URL: <a href=\"https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/\">https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122058\">https://news.ycombinator.com/item?id=50122058</a></p>\n<p>Poin",
-      "published": "Fri, 16 Oct 2026 18:07:44 +0000",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "summary": "<p>Article URL: <a href=\"https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166\">https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166</a></p>\n<p>Comments URL: <a ",
+      "published": "Mon, 19 Oct 2026 10:53:39 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
+      "url": "http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
+      "summary": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html\">http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138000\">https://news.ycombinator.com/item",
+      "published": "Sun, 18 Oct 2026 04:48:47 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The ovary doesn't retire after menopause",
+      "url": "https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
+      "summary": "<p>Article URL: <a href=\"https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&amp;utm_source=join1440&amp;utm_medium=email&amp;utm_placement=newsletter&amp;user_id=66c4bf745d78644b3aa57b08\">https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-af",
+      "published": "Sun, 18 Oct 2026 03:48:10 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The fire retardant in the seafood chain",
+      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+      "summary": "<p>Article URL: <a href=\"https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/\">https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50134359\">https://news.ycom",
+      "published": "Sat, 17 Oct 2026 19:37:54 +0000",
       "source": "Hacker News"
     }
   ]

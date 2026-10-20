@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T04:32:08.374349+00:00",
+  "fetched_at": "2026-10-20T04:41:41.970172+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -728,6 +728,12 @@
       "source": "HackerOne"
     },
     {
+      "title": "GoCardless Bug Bounty Program",
+      "url": "https://hackerone.com/gocardless_bbp",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
       "title": "ForeScout Technologies",
       "url": "https://hackerone.com/forescout_technologies",
       "bounty": "Bounty offered",
@@ -1052,6 +1058,12 @@
       "source": "HackerOne"
     },
     {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
       "title": "PortSwigger Web Security",
       "url": "https://hackerone.com/portswigger",
       "bounty": "Bounty offered",
@@ -1186,12 +1198,6 @@
     {
       "title": "KAYAK",
       "url": "https://hackerone.com/kayak",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Basecamp",
-      "url": "https://hackerone.com/basecamp",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3194,6 +3200,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Challenge 1026",
+      "url": "https://www.intigriti.com/programs/intigriti/challenge1026/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Citymesh Responsible Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
@@ -3332,6 +3344,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Fluvius",
+      "url": "https://www.intigriti.com/programs/fluvius/fluvius/detail",
+      "bounty": "\u20ac5,500",
+      "source": "Intigriti"
+    },
+    {
       "title": "GULP",
       "url": "https://www.intigriti.com/programs/randstad/gulp/detail",
       "bounty": "Bounty offered",
@@ -3464,6 +3482,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Lightspark Public Bug Bounty",
+      "url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
+      "bounty": "$5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "MAGNIFIC VDP",
       "url": "https://www.intigriti.com/programs/freepik/freepikcompany/detail",
       "bounty": "Bounty offered",
@@ -3557,6 +3581,12 @@
       "title": "Orbia Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "PDQ bug bounty program",
+      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {
@@ -3670,7 +3700,7 @@
     {
       "title": "Social Deal",
       "url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
-      "bounty": "\u20ac750",
+      "bounty": "\u20ac1,000",
       "source": "Intigriti"
     },
     {
@@ -3752,6 +3782,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "TrueLayer",
+      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+      "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "TrueLayer VDP",
       "url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
       "bounty": "Bounty offered",
@@ -3761,6 +3797,12 @@
       "title": "Tweakers",
       "url": "https://www.intigriti.com/programs/dpgm/tweakers/detail",
       "bounty": "\u20ac2,200",
+      "source": "Intigriti"
+    },
+    {
+      "title": "UZ Leuven",
+      "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3779,6 +3821,12 @@
       "title": "Universit\u00e4tsspital Z\u00fcrich VDP",
       "url": "https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Uphold",
+      "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {
@@ -3803,12 +3851,6 @@
       "title": "Venly",
       "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
       "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Veriff Bug Bounty",
-      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-      "bounty": "\u20ac4,000",
       "source": "Intigriti"
     },
     {
