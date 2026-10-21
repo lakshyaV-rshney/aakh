@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T04:41:41.970172+00:00",
+  "fetched_at": "2026-10-21T04:36:25.431095+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1198,6 +1198,12 @@
     {
       "title": "KAYAK",
       "url": "https://hackerone.com/kayak",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Basecamp",
+      "url": "https://hackerone.com/basecamp",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3482,12 +3488,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Lightspark Public Bug Bounty",
-      "url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-      "bounty": "$5,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "MAGNIFIC VDP",
       "url": "https://www.intigriti.com/programs/freepik/freepikcompany/detail",
       "bounty": "Bounty offered",
@@ -3698,6 +3698,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Skoda Auto Bug Bounty Program",
+      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+      "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Social Deal",
       "url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
       "bounty": "\u20ac1,000",
@@ -3719,6 +3725,12 @@
       "title": "Speakap Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Sqills",
+      "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {
