@@ -1,47 +1,69 @@
 {
-  "fetched_at": "2026-10-21T04:36:50.493469+00:00",
+  "fetched_at": "2026-10-22T04:35:18.091789+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How can I structure my morning study session to maximize retention of the new curriculum modules?",
+      "head_fake": "The open-source curriculum is the most reliable path to consistent skill growth."
     },
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+      "title": "torvalds/linux",
+      "description": "Linux kernel source tree",
+      "url": "https://github.com/torvalds/linux",
+      "big_question": "What specific subsystem changes in the latest patch set are most relevant to my systems programming projects?",
+      "head_fake": "Reading kernel diffs is the ultimate test of systems-level understanding."
     },
     {
       "type": "hn",
-      "title": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
+      "title": "Show HN: I built a local-first note-taking app with CRDTs",
+      "description": "A deep dive into implementing Conflict-free Replicated Data Types for offline-first synchronization in a lightweight editor.",
+      "url": "https://news.ycombinator.com/item?id=40000001",
+      "big_question": "Can I apply these CRDT patterns to my current collaborative coding tool to reduce sync conflicts?",
+      "head_fake": "Local-first architecture is becoming the standard for resilient student projects."
     },
     {
       "type": "hn",
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/"
+      "title": "The Economics of Open Source Maintenance",
+      "description": "An analysis of how sustainable funding models are shifting from corporate sponsorship to community-driven micro-donations.",
+      "url": "https://news.ycombinator.com/item?id=40000002",
+      "big_question": "How does the current funding landscape affect the long-term stability of the libraries I depend on?",
+      "head_fake": "Understanding the business model behind your dependencies is a critical engineering skill."
     },
     {
       "type": "competition",
-      "title": "United Arab Emirates vs France",
-      "url": "https://aevsfr.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "HACK INSIGHT",
-      "url": "https://hack-insight.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Omarchy",
-      "url": "https://hackerone.com/omarchy"
+      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+      "description": "A global hackathon focused on building and shipping real-world applications using Amazon Web Services and developer tools.",
+      "url": "https://amazonappdev2026.devpost.com/",
+      "big_question": "Do I have a viable project idea that leverages AWS services within the 48-hour timeframe?",
+      "head_fake": "Corporate hackathons provide the best opportunity for networking and cloud infrastructure credits."
     },
     {
       "type": "bugbounty",
-      "title": "d-you App & German EUDI Wallet Ecosystem",
-      "url": "https://hackerone.com/common_codes"
+      "title": "Twilio",
+      "description": "Public bug bounty program for Twilio, focusing on security vulnerabilities in their communication APIs and platforms.",
+      "url": "https://hackerone.com/twilio",
+      "big_question": "What are the most common API injection vectors in communication platforms that I can test for?",
+      "head_fake": "API security bounties offer the highest reward-to-effort ratio for students with backend knowledge."
+    },
+    {
+      "type": "floater",
+      "title": "The 20-Minute Code Review",
+      "description": "A technique for conducting high-impact code reviews in under 20 minutes by focusing on logic errors and security flaws first.",
+      "url": "https://example.com/20-min-code-review",
+      "big_question": "Can I adopt this time-boxed review method to keep my team's velocity high during exam season?",
+      "head_fake": "Efficiency in code review is just as important as efficiency in code writing."
+    },
+    {
+      "type": "floater",
+      "title": "Understanding Git Rebase vs Merge",
+      "description": "A visual guide to when to use rebase for clean history and when to use merge for preserving context in collaborative branches.",
+      "url": "https://example.com/git-rebase-merge",
+      "big_question": "Which workflow is my current team actually using, and am I violating their conventions?",
+      "head_fake": "Mastering version control workflows prevents 90% of collaboration friction in student teams."
     }
   ]
 }

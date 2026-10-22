@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T04:36:25.431095+00:00",
+  "fetched_at": "2026-10-22T04:34:52.091486+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1156,12 +1156,6 @@
     {
       "title": "FetLife",
       "url": "https://hackerone.com/fetlife",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Algolia",
-      "url": "https://hackerone.com/algolia",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3584,12 +3578,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "PDQ bug bounty program",
-      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "bounty": "\u20ac3,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "PeopleCert VDP",
       "url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
       "bounty": "Bounty offered",
@@ -3812,12 +3800,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "UZ Leuven",
-      "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-      "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Ubisoft Responsible Disclosure Program",
       "url": "https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail",
       "bounty": "Bounty offered",
@@ -3857,12 +3839,6 @@
       "title": "VTM GO",
       "url": "https://www.intigriti.com/programs/dpgm/vtmgo/detail",
       "bounty": "\u20ac2,200",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Venly",
-      "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
