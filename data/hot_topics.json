@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-22T04:35:18.091789+00:00",
+  "fetched_at": "2026-10-23T04:40:42.041905+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can I structure my morning study session to maximize retention of the new curriculum modules?",
-      "head_fake": "The open-source curriculum is the most reliable path to consistent skill growth."
+      "big_question": "How can open-source curricula scale personalized learning paths for millions of self-taught developers?",
+      "head_fake": "The open-source curriculum that powers the world's largest free coding bootcamp."
     },
     {
       "type": "repo",
-      "title": "torvalds/linux",
-      "description": "Linux kernel source tree",
-      "url": "https://github.com/torvalds/linux",
-      "big_question": "What specific subsystem changes in the latest patch set are most relevant to my systems programming projects?",
-      "head_fake": "Reading kernel diffs is the ultimate test of systems-level understanding."
+      "title": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "What is the most efficient way to curate and maintain a global library of free technical literature?",
+      "head_fake": "A massive, community-maintained list of free programming books and resources."
     },
     {
       "type": "hn",
-      "title": "Show HN: I built a local-first note-taking app with CRDTs",
-      "description": "A deep dive into implementing Conflict-free Replicated Data Types for offline-first synchronization in a lightweight editor.",
-      "url": "https://news.ycombinator.com/item?id=40000001",
-      "big_question": "Can I apply these CRDT patterns to my current collaborative coding tool to reduce sync conflicts?",
-      "head_fake": "Local-first architecture is becoming the standard for resilient student projects."
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "description": "Research from Anthropic on how large language models are lowering the barrier to entry for formal verification in software engineering.",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "big_question": "Can AI bridge the gap between theoretical correctness proofs and practical software development workflows?",
+      "head_fake": "New research suggests LLMs are finally making formal verification practical for real-world codebases."
     },
     {
       "type": "hn",
-      "title": "The Economics of Open Source Maintenance",
-      "description": "An analysis of how sustainable funding models are shifting from corporate sponsorship to community-driven micro-donations.",
-      "url": "https://news.ycombinator.com/item?id=40000002",
-      "big_question": "How does the current funding landscape affect the long-term stability of the libraries I depend on?",
-      "head_fake": "Understanding the business model behind your dependencies is a critical engineering skill."
+      "title": "Jailbreaking the Switch 2",
+      "description": "A detailed technical breakdown of the jailbreak process for the Nintendo Switch 2 console.",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "big_question": "What does the rapid jailbreak of new hardware reveal about the security architecture of modern gaming consoles?",
+      "head_fake": "The technical deep dive into how the latest Nintendo console was compromised."
     },
     {
       "type": "competition",
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-      "description": "A global hackathon focused on building and shipping real-world applications using Amazon Web Services and developer tools.",
+      "description": "A hackathon focused on building and shipping applications using Amazon developer tools and services.",
       "url": "https://amazonappdev2026.devpost.com/",
-      "big_question": "Do I have a viable project idea that leverages AWS services within the 48-hour timeframe?",
-      "head_fake": "Corporate hackathons provide the best opportunity for networking and cloud infrastructure credits."
+      "big_question": "How can students leverage major cloud platforms to accelerate the transition from prototype to production?",
+      "head_fake": "Compete to build and ship real applications using the Amazon developer ecosystem."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Public bug bounty program for Twilio, focusing on security vulnerabilities in their communication APIs and platforms.",
+      "description": "Bug bounty program for Twilio, a cloud communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common API injection vectors in communication platforms that I can test for?",
-      "head_fake": "API security bounties offer the highest reward-to-effort ratio for students with backend knowledge."
+      "big_question": "What are the most common security vulnerabilities in cloud-based communication APIs?",
+      "head_fake": "Hunt for vulnerabilities in one of the world's leading cloud communication platforms."
     },
     {
       "type": "floater",
-      "title": "The 20-Minute Code Review",
-      "description": "A technique for conducting high-impact code reviews in under 20 minutes by focusing on logic errors and security flaws first.",
-      "url": "https://example.com/20-min-code-review",
-      "big_question": "Can I adopt this time-boxed review method to keep my team's velocity high during exam season?",
-      "head_fake": "Efficiency in code review is just as important as efficiency in code writing."
+      "title": "The Cost of Context",
+      "description": "A reflection on how context window limits in LLMs are shaping new architectural patterns in software design.",
+      "url": "https://example.com/context-cost",
+      "big_question": "How are developers rethinking state management to accommodate the limitations of AI context windows?",
+      "head_fake": "Why the 'context window' is becoming the new bottleneck in software architecture."
     },
     {
       "type": "floater",
-      "title": "Understanding Git Rebase vs Merge",
-      "description": "A visual guide to when to use rebase for clean history and when to use merge for preserving context in collaborative branches.",
-      "url": "https://example.com/git-rebase-merge",
-      "big_question": "Which workflow is my current team actually using, and am I violating their conventions?",
-      "head_fake": "Mastering version control workflows prevents 90% of collaboration friction in student teams."
+      "title": "The Rise of Agentic Skills",
+      "description": "An overview of the emerging trend of 'agentic skills' frameworks that allow AI agents to learn and execute complex tasks.",
+      "url": "https://example.com/agentic-skills",
+      "big_question": "Will 'skills' become the new standard interface for human-AI collaboration in development?",
+      "head_fake": "The new paradigm where AI agents don't just chat, but learn and execute specific development tasks."
     }
   ]
 }

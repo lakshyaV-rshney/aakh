@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T04:34:52.091486+00:00",
+  "fetched_at": "2026-10-23T04:40:15.270679+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3662,12 +3662,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "SBB - Swiss Federal Railways",
-      "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
-      "bounty": "\u20ac6,666",
-      "source": "Intigriti"
-    },
-    {
       "title": "Salto Vulnerability Disclosure ",
       "url": "https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail",
       "bounty": "Bounty offered",
@@ -3800,6 +3794,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "UZ Leuven",
+      "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+      "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Ubisoft Responsible Disclosure Program",
       "url": "https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail",
       "bounty": "Bounty offered",
@@ -3857,12 +3857,6 @@
       "title": "Vlerick Business School",
       "url": "https://www.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Voi Scooters",
-      "url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {
