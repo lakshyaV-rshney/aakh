@@ -1,55 +1,6 @@
 {
-  "fetched_at": "2026-10-23T04:40:29.624936+00:00",
+  "fetched_at": "2026-10-24T04:28:53.998287+00:00",
   "competitions": [
-    {
-      "title": "United Arab Emirates vs Germany",
-      "url": "https://aevsge.devpost.com/",
-      "deadline": "Oct 22 - 23, 2026",
-      "prize": "$10,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Next Gen Hackathon 2026 -Bengaluru",
-      "url": "https://next-gen-hackathon.devpost.com/",
-      "deadline": "Sep 01 - Oct 23, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Cornell Six Sigma Hackathon",
-      "url": "https://six-sigma-hackathon.devpost.com/",
-      "deadline": "Oct 16 - 23, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-      "url": "https://amazonappdev2026.devpost.com/",
-      "deadline": "Aug 31 - Oct 23, 2026",
-      "prize": "$138,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "SVYCA Youth for Earth (Y4E) Hackathon",
-      "url": "https://svycay4e.devpost.com/",
-      "deadline": "Sep 20 - Oct 23, 2026",
-      "prize": "$550",
-      "source": "Devpost"
-    },
-    {
-      "title": "IEEE Hack For Humanity",
-      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-      "deadline": "Oct 11 - 23, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Black Code Collective Hacktoberfest",
-      "url": "https://bcc-hacktoberfest.devpost.com/",
-      "deadline": "Oct 12 - 24, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
     {
       "title": "Neighborhood Hacks",
       "url": "https://neighborhood-hacks-2026.devpost.com/",
@@ -65,10 +16,59 @@
       "source": "Devpost"
     },
     {
+      "title": "IEEE Hack For Humanity",
+      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+      "deadline": "Oct 11 - 24, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "uXperience Design Jam sponsored by Sunlife",
       "url": "https://uxperience-f26.devpost.com/",
       "deadline": "Oct 19 - 24, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "SpartHill Hacks 2026: IBM AI Challenge",
+      "url": "https://sparthill-ibm-2026.devpost.com/",
+      "deadline": "Oct 23 - 24, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Zero Human Company Hackathon at Whop HQ by Terac",
+      "url": "https://zhch-nyc.devpost.com/",
+      "deadline": "Oct 24, 2026",
+      "prize": "$2,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "Taskforge",
+      "url": "https://taskforge.devpost.com/",
+      "deadline": "Oct 17 - 24, 2026",
+      "prize": "$200",
+      "source": "Devpost"
+    },
+    {
+      "title": "Sydney Mobile AI Hackathon",
+      "url": "https://sydney-mobile-ai-hackathon.devpost.com/",
+      "deadline": "Oct 23 - 24, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "GLITCHATHON",
+      "url": "https://glitchathon.devpost.com/",
+      "deadline": "Oct 18 - 25, 2026",
+      "prize": "\u20b9 200",
+      "source": "Devpost"
+    },
+    {
+      "title": "SBUHacks 2026",
+      "url": "https://sbuhacks-2026.devpost.com/",
+      "deadline": "Oct 23 - 25, 2026",
+      "prize": "$1,000",
       "source": "Devpost"
     }
   ]

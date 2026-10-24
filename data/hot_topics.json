@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-23T04:40:42.041905+00:00",
+  "fetched_at": "2026-10-24T04:29:06.479231+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can open-source curricula scale personalized learning paths for millions of self-taught developers?",
-      "head_fake": "The open-source curriculum that powers the world's largest free coding bootcamp."
+      "big_question": "How can you contribute to the curriculum to help the next generation of developers?",
+      "head_fake": "\ud83d\udcda Code for good: Free education for millions."
     },
     {
       "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "What is the most efficient way to curate and maintain a global library of free technical literature?",
-      "head_fake": "A massive, community-maintained list of free programming books and resources."
+      "title": "vinta/awesome-python",
+      "description": "The definitive list that answers 'I want to do X in Python, which tool should I use?'",
+      "url": "https://github.com/vinta/awesome-python",
+      "big_question": "Which Python library is the most underutilized gem for your next project?",
+      "head_fake": "\ud83d\udc0d Python tools: Find the right library instantly."
     },
     {
       "type": "hn",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "description": "Research from Anthropic on how large language models are lowering the barrier to entry for formal verification in software engineering.",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "big_question": "Can AI bridge the gap between theoretical correctness proofs and practical software development workflows?",
-      "head_fake": "New research suggests LLMs are finally making formal verification practical for real-world codebases."
+      "title": "Twelve years of distributed SQLite",
+      "description": "A deep dive into the evolution and challenges of distributed SQLite systems.",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "big_question": "How does distributed SQLite handle consistency in a world of eventual consistency?",
+      "head_fake": "\ud83d\uddc4\ufe0f SQLite at scale: 12 years of lessons learned."
     },
     {
       "type": "hn",
-      "title": "Jailbreaking the Switch 2",
-      "description": "A detailed technical breakdown of the jailbreak process for the Nintendo Switch 2 console.",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "big_question": "What does the rapid jailbreak of new hardware reveal about the security architecture of modern gaming consoles?",
-      "head_fake": "The technical deep dive into how the latest Nintendo console was compromised."
+      "title": "Securing our frontier model training environment",
+      "description": "OpenAI shares insights on securing the infrastructure used for training large language models.",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "big_question": "What security practices are essential for protecting AI training data?",
+      "head_fake": "\ud83d\udd12 AI Security: Protecting the frontier."
     },
     {
       "type": "competition",
-      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-      "description": "A hackathon focused on building and shipping applications using Amazon developer tools and services.",
-      "url": "https://amazonappdev2026.devpost.com/",
-      "big_question": "How can students leverage major cloud platforms to accelerate the transition from prototype to production?",
-      "head_fake": "Compete to build and ship real applications using the Amazon developer ecosystem."
+      "title": "SBUHacks 2026",
+      "description": "A major hackathon event for students to build innovative projects.",
+      "url": "https://sbuhacks-2026.devpost.com/",
+      "big_question": "What kind of project could you build in 24 hours that solves a real problem?",
+      "head_fake": "\ud83c\udfc6 Hack the future: SBUHacks 2026."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio, a cloud communications platform.",
+      "description": "Twilio's bug bounty program for reporting security vulnerabilities.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common security vulnerabilities in cloud-based communication APIs?",
-      "head_fake": "Hunt for vulnerabilities in one of the world's leading cloud communication platforms."
+      "big_question": "What security vulnerabilities might exist in a major communication platform?",
+      "head_fake": "\ud83d\udc1e Bug Bounty: Twilio security challenges."
     },
     {
       "type": "floater",
-      "title": "The Cost of Context",
-      "description": "A reflection on how context window limits in LLMs are shaping new architectural patterns in software design.",
-      "url": "https://example.com/context-cost",
-      "big_question": "How are developers rethinking state management to accommodate the limitations of AI context windows?",
-      "head_fake": "Why the 'context window' is becoming the new bottleneck in software architecture."
+      "title": "The Power of Small Wins",
+      "description": "Breaking down large projects into small, manageable tasks can boost productivity and motivation.",
+      "url": "https://example.com/small-wins",
+      "big_question": "How can you apply the concept of small wins to your current projects?",
+      "head_fake": "\ud83d\ude80 Small wins: Big impact."
     },
     {
       "type": "floater",
-      "title": "The Rise of Agentic Skills",
-      "description": "An overview of the emerging trend of 'agentic skills' frameworks that allow AI agents to learn and execute complex tasks.",
-      "url": "https://example.com/agentic-skills",
-      "big_question": "Will 'skills' become the new standard interface for human-AI collaboration in development?",
-      "head_fake": "The new paradigm where AI agents don't just chat, but learn and execute specific development tasks."
+      "title": "The Importance of Code Reviews",
+      "description": "Code reviews are essential for maintaining code quality and sharing knowledge within a team.",
+      "url": "https://example.com/code-reviews",
+      "big_question": "How can you make code reviews more effective and less stressful?",
+      "head_fake": "\ud83d\udc40 Code reviews: Quality and collaboration."
     }
   ]
 }

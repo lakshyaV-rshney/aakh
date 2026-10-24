@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T04:40:15.270679+00:00",
+  "fetched_at": "2026-10-24T04:28:41.372442+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3218,6 +3218,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Coke One North America",
+      "url": "https://www.intigriti.com/programs/tccc/cokeonenorthamerica/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Cross Border Fines",
       "url": "https://www.intigriti.com/programs/bpost/crossborderfines/detail",
       "bounty": "Bounty offered",
@@ -3662,6 +3668,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "SBB - Swiss Federal Railways",
+      "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
+      "bounty": "\u20ac6,666",
+      "source": "Intigriti"
+    },
+    {
       "title": "Salto Vulnerability Disclosure ",
       "url": "https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail",
       "bounty": "Bounty offered",
@@ -3773,12 +3785,6 @@
       "title": "Trouw",
       "url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
       "bounty": "\u20ac2,200",
-      "source": "Intigriti"
-    },
-    {
-      "title": "TrueLayer",
-      "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {
