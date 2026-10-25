@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T04:28:41.372442+00:00",
+  "fetched_at": "2026-10-25T04:32:36.355682+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1054,12 +1054,6 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3821,12 +3815,6 @@
       "title": "Universit\u00e4tsspital Z\u00fcrich VDP",
       "url": "https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Uphold",
-      "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {

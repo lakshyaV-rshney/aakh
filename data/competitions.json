@@ -1,60 +1,18 @@
 {
-  "fetched_at": "2026-10-24T04:28:53.998287+00:00",
+  "fetched_at": "2026-10-25T04:32:53.542772+00:00",
   "competitions": [
     {
-      "title": "Neighborhood Hacks",
-      "url": "https://neighborhood-hacks-2026.devpost.com/",
-      "deadline": "Oct 16 - 24, 2026",
-      "prize": "$57,866",
-      "source": "Devpost"
-    },
-    {
-      "title": "Society of Software Engineers | 2nd Annual Halloween Hackathon",
-      "url": "https://sose-halloween-hackathon-2.devpost.com/",
-      "deadline": "Oct 15 - 24, 2026",
+      "title": "Hacktually Hacktoberfest @HackMerced",
+      "url": "https://hacktually-hack-day-hackmerced.devpost.com/",
+      "deadline": "Oct 24 - 25, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "IEEE Hack For Humanity",
-      "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-      "deadline": "Oct 11 - 24, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "uXperience Design Jam sponsored by Sunlife",
-      "url": "https://uxperience-f26.devpost.com/",
-      "deadline": "Oct 19 - 24, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "SpartHill Hacks 2026: IBM AI Challenge",
-      "url": "https://sparthill-ibm-2026.devpost.com/",
-      "deadline": "Oct 23 - 24, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Zero Human Company Hackathon at Whop HQ by Terac",
-      "url": "https://zhch-nyc.devpost.com/",
-      "deadline": "Oct 24, 2026",
-      "prize": "$2,500",
-      "source": "Devpost"
-    },
-    {
-      "title": "Taskforge",
-      "url": "https://taskforge.devpost.com/",
-      "deadline": "Oct 17 - 24, 2026",
-      "prize": "$200",
-      "source": "Devpost"
-    },
-    {
-      "title": "Sydney Mobile AI Hackathon",
-      "url": "https://sydney-mobile-ai-hackathon.devpost.com/",
-      "deadline": "Oct 23 - 24, 2026",
-      "prize": "$0",
+      "title": "AI in Healthcare Hackathon",
+      "url": "https://leeds-ai-hackathon.devpost.com/",
+      "deadline": "Oct 24 - 25, 2026",
+      "prize": "\u00a3800",
       "source": "Devpost"
     },
     {
@@ -69,6 +27,48 @@
       "url": "https://sbuhacks-2026.devpost.com/",
       "deadline": "Oct 23 - 25, 2026",
       "prize": "$1,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackOHI/O 2026",
+      "url": "https://hackohio2026.devpost.com/",
+      "deadline": "Oct 24 - 25, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "DS+X Hackathon 2026",
+      "url": "https://ds-x-hackathon-2026.devpost.com/",
+      "deadline": "Oct 24 - 25, 2026",
+      "prize": "$5,750",
+      "source": "Devpost"
+    },
+    {
+      "title": "OxHack 2026",
+      "url": "https://oxhack-2026.devpost.com/",
+      "deadline": "Oct 24 - 25, 2026",
+      "prize": "\u00a30",
+      "source": "Devpost"
+    },
+    {
+      "title": "SOON Hackathon Fall 2026",
+      "url": "https://soon-hackathon-f26.devpost.com/",
+      "deadline": "Oct 24 - 25, 2026",
+      "prize": "$CAD 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Cal Hacks 13.0",
+      "url": "https://cal-hacks-13-0.devpost.com/",
+      "deadline": "Oct 23 - 25, 2026",
+      "prize": "$159,822",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackTX 2026",
+      "url": "https://hacktx26.devpost.com/",
+      "deadline": "Oct 24 - 25, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]

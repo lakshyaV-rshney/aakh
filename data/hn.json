@@ -1,81 +1,67 @@
 {
-  "fetched_at": "2026-10-24T04:28:40.971794+00:00",
+  "fetched_at": "2026-10-25T04:32:36.279540+00:00",
   "stories": [
     {
-      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-      "summary": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/10/261018084421.htm\">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217683\">https://news.ycombinator.com/item?id=50217683</a></p>\n<p>Points: 43",
-      "published": "Sat, 24 Oct 2026 01:53:10 +0000",
+      "title": "Attention people who think UB is fine",
+      "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html\">https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50227814\">https://news.ycombinator.com/item?id=50227814",
+      "published": "Sun, 25 Oct 2026 02:50:32 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "summary": "<p>Article URL: <a href=\"https://philipotoole.com/twelve-years-of-distributed-sqlite/\">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217500\">https://news.ycombinator.com/item?id=50217500</a></p>\n<p>Points: 58</p>",
-      "published": "Sat, 24 Oct 2026 01:16:58 +0000",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras\">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50227356\">https://news.",
+      "published": "Sun, 25 Oct 2026 01:33:49 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "summary": "<p>Article URL: <a href=\"https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6",
-      "published": "Fri, 23 Oct 2026 23:30:17 +0000",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "summary": "<p>Article URL: <a href=\"https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\">https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50226419\">https://news.ycombinator.com/item?id=50226419</a></p>\n<p>Points",
+      "published": "Sat, 24 Oct 2026 23:11:54 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "summary": "<p>Article URL: <a href=\"https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/\">https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50214983\">https://news.ycombinator.com/item?id=5021",
-      "published": "Fri, 23 Oct 2026 20:37:12 +0000",
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "summary": "<p>Article URL: <a href=\"https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/\">https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50222525\">https://news.ycombinator.com/item?id=",
+      "published": "Sat, 24 Oct 2026 15:57:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/securing-our-frontier-model-training-environment/\">https://openai.com/index/securing-our-frontier-model-training-environment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50214416\">https://news.ycombinator.com/item?id=502144",
-      "published": "Fri, 23 Oct 2026 19:50:56 +0000",
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "summary": "<p>Article URL: <a href=\"https://freedns.afraid.org/\">https://freedns.afraid.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50222133\">https://news.ycombinator.com/item?id=50222133</a></p>\n<p>Points: 263</p>\n<p># Comments: 66</p>",
+      "published": "Sat, 24 Oct 2026 15:20:01 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "summary": "<p>Hey everyone,<p>Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.<p>I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had:<p>I show you what the agents are up to, along with a running feed of",
-      "published": "Fri, 23 Oct 2026 19:46:38 +0000",
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "summary": "<p>Article URL: <a href=\"https://www.southampton.ac.uk/~doug/quantum_physics/index.html\">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219666\">https://news.ycombinator.com/item?id=50219666</a></p>\n<p>Points: 29",
+      "published": "Sat, 24 Oct 2026 09:53:26 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "summary": "<p>Article URL: <a href=\"https://www.jefftk.com/p/air-purifiers-as-white-noise-machines\">https://www.jefftk.com/p/air-purifiers-as-white-noise-machines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212507\">https://news.ycombinator.com/item?id=50212507</a></p>\n<p>Points: 89",
-      "published": "Fri, 23 Oct 2026 17:28:36 +0000",
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "summary": "<p>Article URL: <a href=\"https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497\">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219177\">https://news.yc",
+      "published": "Sat, 24 Oct 2026 08:06:39 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Animations for System Builders",
-      "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-      "summary": "<p>Article URL: <a href=\"https://brooker.co.za/blog/2026/10/23/animations.html\">https://brooker.co.za/blog/2026/10/23/animations.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212124\">https://news.ycombinator.com/item?id=50212124</a></p>\n<p>Points: 48</p>\n<p># Comments",
-      "published": "Fri, 23 Oct 2026 17:02:24 +0000",
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "summary": "<p>Article URL: <a href=\"https://hitogata.neocities.org/Rainbows\">https://hitogata.neocities.org/Rainbows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50194935\">https://news.ycombinator.com/item?id=50194935</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+      "published": "Thu, 22 Oct 2026 13:20:04 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "summary": "<p><a href=\"https://www.kimi.com/code/docs/en/kimi-code/models.html\" rel=\"nofollow\">https://www.kimi.com/code/docs/en/kimi-code/models.html</a><p><a href=\"https://artificialanalysis.ai/models/kimi-k3-1-pro\" rel=\"nofollow\">https://artificialanalysis.ai/models/kimi-k3-1-pro</a><p><a href=\"https://www.",
-      "published": "Fri, 23 Oct 2026 16:59:08 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: Impossible Machines: declaratively program the physical world",
-      "url": "https://www.impossiblemachines.xyz",
-      "summary": "<p>Hey all \u2014<p>Sharing a thought experiment I put together. The premise: what might declarative programming feel like for the physical world?<p>We\u2019re already familiar with this paradigm in software land (eg SQL etc where we declare what we want and the execution engine figures out how).<p>I didn\u2019t h",
-      "published": "Thu, 22 Oct 2026 23:54:28 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-      "summary": "<p>Article URL: <a href=\"https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record\">https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record</a></p>\n<p>Comments URL: <a href=\"https://news.yco",
-      "published": "Tue, 20 Oct 2026 15:41:28 +0000",
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "summary": "<p>Article URL: <a href=\"https://xingjianbai.com/reactive-optimizers/\">https://xingjianbai.com/reactive-optimizers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50188440\">https://news.ycombinator.com/item?id=50188440</a></p>\n<p>Points: 22</p>\n<p># Comments: 1</p>",
+      "published": "Wed, 21 Oct 2026 22:17:12 +0000",
       "source": "Hacker News"
     }
   ]

@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-24T04:29:06.479231+00:00",
+  "fetched_at": "2026-10-25T04:33:00.194404+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can you contribute to the curriculum to help the next generation of developers?",
-      "head_fake": "\ud83d\udcda Code for good: Free education for millions."
+      "title": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+      "url": "https://github.com/openclaw/openclaw",
+      "big_question": "How does cross-platform agent execution handle state persistence across different OS kernels?",
+      "head_fake": "\ud83e\udd9e"
     },
     {
       "type": "repo",
-      "title": "vinta/awesome-python",
-      "description": "The definitive list that answers 'I want to do X in Python, which tool should I use?'",
-      "url": "https://github.com/vinta/awesome-python",
-      "big_question": "Which Python library is the most underutilized gem for your next project?",
-      "head_fake": "\ud83d\udc0d Python tools: Find the right library instantly."
+      "title": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "big_question": "Can a plugin-based architecture truly decouple model inference from tool execution for better modularity?",
+      "head_fake": "\ud83d\udd0c"
     },
     {
       "type": "hn",
-      "title": "Twelve years of distributed SQLite",
-      "description": "A deep dive into the evolution and challenges of distributed SQLite systems.",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "big_question": "How does distributed SQLite handle consistency in a world of eventual consistency?",
-      "head_fake": "\ud83d\uddc4\ufe0f SQLite at scale: 12 years of lessons learned."
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "description": "Aikido Security reveals how Node2Shell vulnerabilities have expanded to impact HTTP2 libraries and applications.",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "big_question": "What are the specific memory corruption vectors in HTTP2 implementations that allow for remote code execution?",
+      "head_fake": "\ud83d\udee1\ufe0f"
     },
     {
       "type": "hn",
-      "title": "Securing our frontier model training environment",
-      "description": "OpenAI shares insights on securing the infrastructure used for training large language models.",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "big_question": "What security practices are essential for protecting AI training data?",
-      "head_fake": "\ud83d\udd12 AI Security: Protecting the frontier."
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "description": "A novel approach where the optimizer's source code is rewritten dynamically during the training process.",
+      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "big_question": "How does dynamic code generation during training impact convergence stability and computational overhead?",
+      "head_fake": "\ud83d\udcc8"
     },
     {
       "type": "competition",
-      "title": "SBUHacks 2026",
-      "description": "A major hackathon event for students to build innovative projects.",
-      "url": "https://sbuhacks-2026.devpost.com/",
-      "big_question": "What kind of project could you build in 24 hours that solves a real problem?",
-      "head_fake": "\ud83c\udfc6 Hack the future: SBUHacks 2026."
+      "title": "Cal Hacks 13.0",
+      "description": "One of the largest student-run hackathons at California, offering prizes, mentorship, and networking opportunities.",
+      "url": "https://cal-hacks-13-0.devpost.com/",
+      "big_question": "What are the key technical constraints for building a viable prototype within a 24-hour hackathon window?",
+      "head_fake": "\ud83c\udfc6"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Twilio's bug bounty program for reporting security vulnerabilities.",
+      "description": "Twilio's public bug bounty program on HackerOne, focusing on security vulnerabilities in their communication APIs.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What security vulnerabilities might exist in a major communication platform?",
-      "head_fake": "\ud83d\udc1e Bug Bounty: Twilio security challenges."
+      "big_question": "How can authentication bypasses in API gateways be systematically identified in high-traffic communication platforms?",
+      "head_fake": "\ud83d\udc1b"
     },
     {
       "type": "floater",
-      "title": "The Power of Small Wins",
-      "description": "Breaking down large projects into small, manageable tasks can boost productivity and motivation.",
-      "url": "https://example.com/small-wins",
-      "big_question": "How can you apply the concept of small wins to your current projects?",
-      "head_fake": "\ud83d\ude80 Small wins: Big impact."
+      "title": "The Art of Debugging",
+      "description": "A reminder that the best debugging tool is a clear mind and a systematic approach to isolating variables.",
+      "url": "https://example.com/debugging-art",
+      "big_question": "When does brute-force logging become less efficient than static analysis?",
+      "head_fake": "\ud83d\udd0d"
     },
     {
       "type": "floater",
-      "title": "The Importance of Code Reviews",
-      "description": "Code reviews are essential for maintaining code quality and sharing knowledge within a team.",
-      "url": "https://example.com/code-reviews",
-      "big_question": "How can you make code reviews more effective and less stressful?",
-      "head_fake": "\ud83d\udc40 Code reviews: Quality and collaboration."
+      "title": "Coffee Break Coding",
+      "description": "Short, low-cognitive-load coding tasks to keep your hands warm without burning out your brain.",
+      "url": "https://example.com/coffee-coding",
+      "big_question": "How can micro-tasks maintain muscle memory for syntax without inducing fatigue?",
+      "head_fake": "\u2615"
     }
   ]
 }
