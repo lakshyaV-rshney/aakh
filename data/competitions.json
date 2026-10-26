@@ -1,74 +1,74 @@
 {
-  "fetched_at": "2026-10-25T04:32:53.542772+00:00",
+  "fetched_at": "2026-10-26T04:38:04.606327+00:00",
   "competitions": [
     {
-      "title": "Hacktually Hacktoberfest @HackMerced",
-      "url": "https://hacktually-hack-day-hackmerced.devpost.com/",
-      "deadline": "Oct 24 - 25, 2026",
+      "title": "Build With AI: Basics",
+      "url": "https://learn-ai-basics.devpost.com/",
+      "deadline": "Sep 22 - Oct 26, 2026",
+      "prize": "$2,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "NextSpark Hacks",
+      "url": "https://nextspark-hacks.devpost.com/",
+      "deadline": "Oct 21 - 26, 2026",
+      "prize": "$100",
+      "source": "Devpost"
+    },
+    {
+      "title": "OpenCV AI Competition 2026, powered by AWS",
+      "url": "https://opencv26.devpost.com/",
+      "deadline": "Aug 26 - Oct 27, 2026",
+      "prize": "$20,250",
+      "source": "Devpost"
+    },
+    {
+      "title": "Engage 6.0 \u2013 Code with AI Hackathon",
+      "url": "https://engage6.devpost.com/",
+      "deadline": "Oct 21 - 27, 2026",
+      "prize": "$45,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Life After Code",
+      "url": "https://gitlab-transcend.devpost.com/",
+      "deadline": "Oct 05 - 27, 2026",
+      "prize": "$45,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack to the Future",
+      "url": "https://hack-to-the-missing-future-ai.devpost.com/",
+      "deadline": "Oct 20 - 27, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "AI in Healthcare Hackathon",
-      "url": "https://leeds-ai-hackathon.devpost.com/",
-      "deadline": "Oct 24 - 25, 2026",
-      "prize": "\u00a3800",
-      "source": "Devpost"
-    },
-    {
-      "title": "GLITCHATHON",
-      "url": "https://glitchathon.devpost.com/",
-      "deadline": "Oct 18 - 25, 2026",
-      "prize": "\u20b9 200",
-      "source": "Devpost"
-    },
-    {
-      "title": "SBUHacks 2026",
-      "url": "https://sbuhacks-2026.devpost.com/",
-      "deadline": "Oct 23 - 25, 2026",
-      "prize": "$1,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "HackOHI/O 2026",
-      "url": "https://hackohio2026.devpost.com/",
-      "deadline": "Oct 24 - 25, 2026",
+      "title": "HTCJ \u00d7 PROOF Aviation Futures Challenge",
+      "url": "https://htcj-aviation-futures.devpost.com/",
+      "deadline": "Jun 25 - Oct 27, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "DS+X Hackathon 2026",
-      "url": "https://ds-x-hackathon-2026.devpost.com/",
-      "deadline": "Oct 24 - 25, 2026",
-      "prize": "$5,750",
+      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "url": "https://aws-cds-partner.devpost.com/",
+      "deadline": "Sep 14 - Oct 28, 2026",
+      "prize": "$40,000",
       "source": "Devpost"
     },
     {
-      "title": "OxHack 2026",
-      "url": "https://oxhack-2026.devpost.com/",
-      "deadline": "Oct 24 - 25, 2026",
-      "prize": "\u00a30",
-      "source": "Devpost"
-    },
-    {
-      "title": "SOON Hackathon Fall 2026",
-      "url": "https://soon-hackathon-f26.devpost.com/",
-      "deadline": "Oct 24 - 25, 2026",
-      "prize": "$CAD 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Cal Hacks 13.0",
-      "url": "https://cal-hacks-13-0.devpost.com/",
-      "deadline": "Oct 23 - 25, 2026",
-      "prize": "$159,822",
-      "source": "Devpost"
-    },
-    {
-      "title": "HackTX 2026",
-      "url": "https://hacktx26.devpost.com/",
-      "deadline": "Oct 24 - 25, 2026",
+      "title": "2026 International CodeTheCure Hackathon",
+      "url": "https://codethecure-hackathon-26.devpost.com/",
+      "deadline": "Oct 10 - 28, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Girls Who Code HHS Hackathon 2026",
+      "url": "https://gwchhs-hackathon-2026.devpost.com/",
+      "deadline": "Oct 15 - 29, 2026",
+      "prize": "$50",
       "source": "Devpost"
     }
   ]

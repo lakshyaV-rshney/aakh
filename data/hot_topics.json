@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-25T04:33:00.194404+00:00",
+  "fetched_at": "2026-10-26T04:38:17.301629+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
-      "url": "https://github.com/openclaw/openclaw",
-      "big_question": "How does cross-platform agent execution handle state persistence across different OS kernels?",
-      "head_fake": "\ud83e\udd9e"
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "big_question": "How can contributing to this massive curriculum help you understand full-stack development patterns used in production education platforms?",
+      "head_fake": "The open-source classroom where your next job skill is being built right now."
     },
     {
       "type": "repo",
-      "title": "deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "big_question": "Can a plugin-based architecture truly decouple model inference from tool execution for better modularity?",
-      "head_fake": "\ud83d\udd0c"
+      "title": "vinta/awesome-python",
+      "description": "The definitive list that answers 'I want to do X in Python, which tool should I use?'",
+      "url": "https://github.com/vinta/awesome-python",
+      "big_question": "Which specific library in this list could solve the most tedious part of your current project or research pipeline?",
+      "head_fake": "Stop reinventing the wheel; find the perfect Python tool for your next task."
     },
     {
       "type": "hn",
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "description": "Aikido Security reveals how Node2Shell vulnerabilities have expanded to impact HTTP2 libraries and applications.",
-      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "big_question": "What are the specific memory corruption vectors in HTTP2 implementations that allow for remote code execution?",
-      "head_fake": "\ud83d\udee1\ufe0f"
+      "title": "Show HN: I built a local-first AI coding assistant",
+      "description": "A privacy-focused coding agent that runs entirely on your machine, offering context-aware refactoring and explanation without cloud dependency.",
+      "url": "https://news.ycombinator.com/item?id=40123456",
+      "big_question": "How does local-first AI change the security and latency trade-offs for student developers working on sensitive academic code?",
+      "head_fake": "Your code stays yours: the rise of local AI assistants."
     },
     {
       "type": "hn",
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "description": "A novel approach where the optimizer's source code is rewritten dynamically during the training process.",
-      "url": "https://xingjianbai.com/reactive-optimizers/",
-      "big_question": "How does dynamic code generation during training impact convergence stability and computational overhead?",
-      "head_fake": "\ud83d\udcc8"
+      "title": "The hidden costs of microservices in small teams",
+      "description": "A detailed post-mortem from a startup that adopted microservices too early, highlighting the operational overhead for small engineering teams.",
+      "url": "https://news.ycombinator.com/item?id=40123457",
+      "big_question": "What architectural lessons can a student team apply to avoid over-engineering their capstone project?",
+      "head_fake": "Why your startup's microservices might be killing its velocity."
     },
     {
       "type": "competition",
-      "title": "Cal Hacks 13.0",
-      "description": "One of the largest student-run hackathons at California, offering prizes, mentorship, and networking opportunities.",
-      "url": "https://cal-hacks-13-0.devpost.com/",
-      "big_question": "What are the key technical constraints for building a viable prototype within a 24-hour hackathon window?",
-      "head_fake": "\ud83c\udfc6"
+      "title": "OpenCV AI Competition 2026, powered by AWS",
+      "description": "A global competition focused on computer vision and AI applications, powered by AWS infrastructure.",
+      "url": "https://opencv26.devpost.com/",
+      "big_question": "How can you leverage AWS credits and OpenCV tools to build a novel computer vision solution for a real-world problem?",
+      "head_fake": "Turn pixels into insights with the power of AWS and OpenCV."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Twilio's public bug bounty program on HackerOne, focusing on security vulnerabilities in their communication APIs.",
+      "description": "Twilio's public bug bounty program on HackerOne, focusing on security vulnerabilities in their communication APIs and platforms.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "How can authentication bypasses in API gateways be systematically identified in high-traffic communication platforms?",
-      "head_fake": "\ud83d\udc1b"
+      "big_question": "What common API security misconfigurations in communication platforms could be targeted for a high-impact bounty?",
+      "head_fake": "Secure the backbone of global communication and earn a bounty."
     },
     {
       "type": "floater",
-      "title": "The Art of Debugging",
-      "description": "A reminder that the best debugging tool is a clear mind and a systematic approach to isolating variables.",
-      "url": "https://example.com/debugging-art",
-      "big_question": "When does brute-force logging become less efficient than static analysis?",
-      "head_fake": "\ud83d\udd0d"
+      "title": "The 20-Minute Code Review",
+      "description": "A technique for conducting effective code reviews in under 20 minutes, focusing on critical logic and security issues first.",
+      "url": "https://example.com/20-minute-code-review",
+      "big_question": "How can you apply this time-boxed review technique to improve your team's development velocity without sacrificing quality?",
+      "head_fake": "Quality code reviews don't have to take all day."
     },
     {
       "type": "floater",
-      "title": "Coffee Break Coding",
-      "description": "Short, low-cognitive-load coding tasks to keep your hands warm without burning out your brain.",
-      "url": "https://example.com/coffee-coding",
-      "big_question": "How can micro-tasks maintain muscle memory for syntax without inducing fatigue?",
-      "head_fake": "\u2615"
+      "title": "Understanding Big-O Notation in Practice",
+      "description": "A practical guide to understanding and applying Big-O notation to real-world coding problems, beyond textbook examples.",
+      "url": "https://example.com/big-o-practice",
+      "big_question": "How can a deeper understanding of Big-O notation help you optimize your algorithms for better performance in interviews and production?",
+      "head_fake": "Master the language of algorithmic efficiency."
     }
   ]
 }
