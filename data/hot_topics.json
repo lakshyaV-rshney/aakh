@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-26T04:38:17.301629+00:00",
+  "fetched_at": "2026-10-28T05:31:27.280554+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "big_question": "How can contributing to this massive curriculum help you understand full-stack development patterns used in production education platforms?",
-      "head_fake": "The open-source classroom where your next job skill is being built right now."
+      "title": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "big_question": "How can LLM agents automate the reverse engineering of native binaries to lower the barrier for security research?",
+      "head_fake": "\ud83d\udd0d REA: Agents that crack binaries like pros"
     },
     {
       "type": "repo",
-      "title": "vinta/awesome-python",
-      "description": "The definitive list that answers 'I want to do X in Python, which tool should I use?'",
-      "url": "https://github.com/vinta/awesome-python",
-      "big_question": "Which specific library in this list could solve the most tedious part of your current project or research pipeline?",
-      "head_fake": "Stop reinventing the wheel; find the perfect Python tool for your next task."
+      "title": "EbookFoundation/free-programming-books",
+      "description": "Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "big_question": "What is the most efficient path to self-education in CS using only open-source resources?",
+      "head_fake": "\ud83d\udcda The ultimate free CS library"
     },
     {
       "type": "hn",
-      "title": "Show HN: I built a local-first AI coding assistant",
-      "description": "A privacy-focused coding agent that runs entirely on your machine, offering context-aware refactoring and explanation without cloud dependency.",
-      "url": "https://news.ycombinator.com/item?id=40123456",
-      "big_question": "How does local-first AI change the security and latency trade-offs for student developers working on sensitive academic code?",
-      "head_fake": "Your code stays yours: the rise of local AI assistants."
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "description": "A critical vulnerability in UEFI firmware poses a significant security risk to global server infrastructure.",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "big_question": "How does a firmware-level exploit chain impact the trust model of cloud infrastructure?",
+      "head_fake": "\ud83d\udea8 UEFI flaw: The server threat you can't patch easily"
     },
     {
       "type": "hn",
-      "title": "The hidden costs of microservices in small teams",
-      "description": "A detailed post-mortem from a startup that adopted microservices too early, highlighting the operational overhead for small engineering teams.",
-      "url": "https://news.ycombinator.com/item?id=40123457",
-      "big_question": "What architectural lessons can a student team apply to avoid over-engineering their capstone project?",
-      "head_fake": "Why your startup's microservices might be killing its velocity."
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "description": "A major mathematical theorem has been formally verified using the Lean proof assistant.",
+      "url": "https://cfsg.axiommath.ai/",
+      "big_question": "What does the formalization of complex mathematical proofs imply for the future of AI-assisted theorem proving?",
+      "head_fake": "\ud83e\uddee Math meets Code: Lean proves the CFSG"
     },
     {
       "type": "competition",
-      "title": "OpenCV AI Competition 2026, powered by AWS",
-      "description": "A global competition focused on computer vision and AI applications, powered by AWS infrastructure.",
-      "url": "https://opencv26.devpost.com/",
-      "big_question": "How can you leverage AWS credits and OpenCV tools to build a novel computer vision solution for a real-world problem?",
-      "head_fake": "Turn pixels into insights with the power of AWS and OpenCV."
+      "title": "Nebius x NVIDIA Global AI Hackathon",
+      "description": "A global hackathon focused on building AI applications using NVIDIA hardware and Nebius infrastructure.",
+      "url": "https://nebiusglobalaihackathon.devpost.com/",
+      "big_question": "How can students leverage high-performance GPU clusters to build scalable AI solutions in a short timeframe?",
+      "head_fake": "\ud83c\udfc6 Build AI at scale with NVIDIA"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Twilio's public bug bounty program on HackerOne, focusing on security vulnerabilities in their communication APIs and platforms.",
+      "description": "Bug bounty program for Twilio, a cloud communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What common API security misconfigurations in communication platforms could be targeted for a high-impact bounty?",
-      "head_fake": "Secure the backbone of global communication and earn a bounty."
+      "big_question": "What are the common attack vectors in cloud communication APIs that remain under-explored by researchers?",
+      "head_fake": "\ud83d\udcb8 Earn bounties on Twilio's comms stack"
     },
     {
       "type": "floater",
-      "title": "The 20-Minute Code Review",
-      "description": "A technique for conducting effective code reviews in under 20 minutes, focusing on critical logic and security issues first.",
-      "url": "https://example.com/20-minute-code-review",
-      "big_question": "How can you apply this time-boxed review technique to improve your team's development velocity without sacrificing quality?",
-      "head_fake": "Quality code reviews don't have to take all day."
+      "title": "Python's experimental JIT to be removed",
+      "description": "The Python core team has decided to remove the experimental Just-In-Time compiler from the main codebase.",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c",
+      "big_question": "What does the removal of Python's JIT say about the trade-offs between performance and maintainability in language design?",
+      "head_fake": "\ud83d\udc0d Python JIT: A bold move for stability"
     },
     {
       "type": "floater",
-      "title": "Understanding Big-O Notation in Practice",
-      "description": "A practical guide to understanding and applying Big-O notation to real-world coding problems, beyond textbook examples.",
-      "url": "https://example.com/big-o-practice",
-      "big_question": "How can a deeper understanding of Big-O notation help you optimize your algorithms for better performance in interviews and production?",
-      "head_fake": "Master the language of algorithmic efficiency."
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "description": "An open-source project providing an offline AI assistant and library for emergency situations.",
+      "url": "https://www.brangus.io/survival-llm",
+      "big_question": "How can local LLMs be optimized for low-resource environments to ensure critical information access during outages?",
+      "head_fake": "\ud83d\udee1\ufe0f Offline AI for when the internet fails"
     }
   ]
 }

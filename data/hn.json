@@ -1,4 +1,75 @@
 {
-  "fetched_at": "2026-10-26T04:37:52.300536+00:00",
-  "stories": []
+  "fetched_at": "2026-10-28T05:31:02.422486+00:00",
+  "stories": [
+    {
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "summary": "<p>Article URL: <a href=\"https://www.bettascore.ai/research/reliability-reviewers-vs-owners\">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50266780\">https://news.ycombinator.com/item?id=50266780</a></p>\n<p>Po",
+      "published": "Tue, 27 Oct 2026 22:31:15 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/early-progress-drug-development\">https://www.anthropic.com/research/early-progress-drug-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265609\">https://news.ycombinator.com/item?id=50265609</a></p>\n<p>Po",
+      "published": "Tue, 27 Oct 2026 20:50:42 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/\">https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/</a></p>\n<p>Comments URL: <a href=\"http",
+      "published": "Tue, 27 Oct 2026 20:35:09 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "summary": "<p>Article URL: <a href=\"https://tailscale.com/ssh-investigation-update\">https://tailscale.com/ssh-investigation-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264857\">https://news.ycombinator.com/item?id=50264857</a></p>\n<p>Points: 245</p>\n<p># Comments: 124</p>",
+      "published": "Tue, 27 Oct 2026 19:55:21 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "summary": "<p>Article URL: <a href=\"https://www.brangus.io/survival-llm\">https://www.brangus.io/survival-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264853\">https://news.ycombinator.com/item?id=50264853</a></p>\n<p>Points: 261</p>\n<p># Comments: 120</p>",
+      "published": "Tue, 27 Oct 2026 19:55:06 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Radio-tagged Monarch butterflies",
+      "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+      "summary": "<p><a href=\"https://celltracktech.com/pages/blumorpho\" rel=\"nofollow\">https://celltracktech.com/pages/blumorpho</a><p><a href=\"https://monarchresearch.org/news-and-events/monarch-research-launches-blumorpho-tagging-study\" rel=\"nofollow\">https://monarchresearch.org/news-and-events/monarch-research...",
+      "published": "Tue, 27 Oct 2026 17:48:15 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "summary": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm3\">https://www.liquid.ai/blog/lfm3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50262229\">https://news.ycombinator.com/item?id=50262229</a></p>\n<p>Points: 133</p>\n<p># Comments: 51</p>",
+      "published": "Tue, 27 Oct 2026 17:04:50 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "url": "https://cfsg.axiommath.ai/",
+      "summary": "<p>Article URL: <a href=\"https://cfsg.axiommath.ai/\">https://cfsg.axiommath.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261647\">https://news.ycombinator.com/item?id=50261647</a></p>\n<p>Points: 190</p>\n<p># Comments: 52</p>",
+      "published": "Tue, 27 Oct 2026 16:29:02 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/\">https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50257419\">https://news.ycombinator.com/item?id=50257419</a></p>\n<p>Points: 471</p>\n<p># C",
+      "published": "Tue, 27 Oct 2026 11:17:57 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What Happened to the Neanderthals?",
+      "url": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html\">https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50249883\">https://news.ycombinator.com/",
+      "published": "Mon, 26 Oct 2026 19:47:58 +0000",
+      "source": "Hacker News"
+    }
+  ]
 }
