@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T05:31:01.382691+00:00",
+  "fetched_at": "2026-10-29T05:39:30.627402+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -2198,12 +2198,6 @@
       "source": "Bugcrowd"
     },
     {
-      "title": "Luno Bug Bounty Program",
-      "url": "https://bugcrowd.com/engagements/luno-og",
-      "bounty": "$7,500",
-      "source": "Bugcrowd"
-    },
-    {
       "title": "Majid Al Futtaim Lifestyle",
       "url": "https://bugcrowd.com/engagements/maffashion",
       "bounty": "$3,500",
@@ -3164,6 +3158,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "BRP Challenge",
+      "url": "https://www.intigriti.com/programs/intigriti/challengebrp/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Bitvavo VDP",
       "url": "https://www.intigriti.com/programs/bitvavo/bitvavovdp/detail",
       "bounty": "Bounty offered",
@@ -3251,6 +3251,12 @@
       "title": "Dashlane Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/dashlane/dashlanevulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "DataCamp",
+      "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+      "bounty": "\u20ac1,500",
       "source": "Intigriti"
     },
     {
@@ -3365,12 +3371,6 @@
       "title": "HRS Group VDP",
       "url": "https://www.intigriti.com/programs/hrsgroup/hrsgroupvdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Here Technologies",
-      "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-      "bounty": "\u20ac2,000",
       "source": "Intigriti"
     },
     {
@@ -3509,12 +3509,6 @@
       "title": "Monzo Public Bug Bounty Program",
       "url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
       "bounty": "GBP12,500",
-      "source": "Intigriti"
-    },
-    {
-      "title": "NVIDIA Public Bug Bounty",
-      "url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
-      "bounty": "$15,000",
       "source": "Intigriti"
     },
     {
@@ -3848,12 +3842,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Visma",
-      "url": "https://www.intigriti.com/programs/visma/visma/detail",
-      "bounty": "\u20ac7,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "Visma Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
       "bounty": "Bounty offered",
@@ -3863,12 +3851,6 @@
       "title": "Vlerick Business School",
       "url": "https://www.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Voi Scooters",
-      "url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {

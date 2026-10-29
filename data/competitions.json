@@ -1,34 +1,6 @@
 {
-  "fetched_at": "2026-10-28T05:31:16.398483+00:00",
+  "fetched_at": "2026-10-29T05:39:41.942340+00:00",
   "competitions": [
-    {
-      "title": "SUSTAIN-A-THON 2.0",
-      "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
-      "deadline": "Oct 27 - 28, 2026",
-      "prize": "$150,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-      "url": "https://aws-cds-partner.devpost.com/",
-      "deadline": "Sep 14 - Oct 28, 2026",
-      "prize": "$40,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "2026 International CodeTheCure Hackathon",
-      "url": "https://codethecure-hackathon-26.devpost.com/",
-      "deadline": "Oct 10 - 28, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Solix AI Hackathon 2026",
-      "url": "https://solix-ai-hackathon-2026.devpost.com/",
-      "deadline": "Oct 26 - 28, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "Hybrid Micro Mouse Challenge ",
       "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
@@ -69,6 +41,34 @@
       "url": "https://code-con.devpost.com/",
       "deadline": "Oct 28 - 30, 2026",
       "prize": "\u20b9 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "LancerHacks",
+      "url": "https://lancerhacks2026.devpost.com/",
+      "deadline": "Oct 27 - 30, 2026",
+      "prize": "$800",
+      "source": "Devpost"
+    },
+    {
+      "title": "Qloo Agentic Hackathon",
+      "url": "https://qloo.devpost.com/",
+      "deadline": "Sep 30 - Oct 30, 2026",
+      "prize": "$25,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "FUSE Society Blueprint 2026",
+      "url": "https://fuse-society-blueprint-2026.devpost.com/",
+      "deadline": "Oct 24 - 31, 2026",
+      "prize": "$250",
+      "source": "Devpost"
+    },
+    {
+      "title": "Health Hackathon 3.0",
+      "url": "https://health-hackathon-3-0.devpost.com/",
+      "deadline": "Oct 24 - 31, 2026",
+      "prize": "\u20b9 200,000",
       "source": "Devpost"
     }
   ]

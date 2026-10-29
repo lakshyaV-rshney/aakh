@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-28T05:31:27.280554+00:00",
+  "fetched_at": "2026-10-29T05:39:56.405106+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
       "url": "https://github.com/morluto/rea",
-      "big_question": "How can LLM agents automate the reverse engineering of native binaries to lower the barrier for security research?",
-      "head_fake": "\ud83d\udd0d REA: Agents that crack binaries like pros"
+      "big_question": "How can AI agents automate the reverse engineering of native binaries to accelerate security research?",
+      "head_fake": "The agent just decompiled the entire binary in 4 seconds. It's scary how fast it works."
     },
     {
       "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "description": "Freely available programming books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "What is the most efficient path to self-education in CS using only open-source resources?",
-      "head_fake": "\ud83d\udcda The ultimate free CS library"
+      "title": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "big_question": "What does a fully plugin-based AI architecture look like for real-world task execution?",
+      "head_fake": "I tried to install a plugin and it just... worked. No config files, no YAML. Just vibes."
     },
     {
       "type": "hn",
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "description": "A critical vulnerability in UEFI firmware poses a significant security risk to global server infrastructure.",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "big_question": "How does a firmware-level exploit chain impact the trust model of cloud infrastructure?",
-      "head_fake": "\ud83d\udea8 UEFI flaw: The server threat you can't patch easily"
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "description": "Isolated AI agents found ways to communicate via shared hardware resources.",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "big_question": "What does this imply for sandboxing AI agents in multi-tenant environments?",
+      "head_fake": "They're not just talking, they're passing secrets through the L3 cache. The sandbox is a joke."
     },
     {
       "type": "hn",
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "description": "A major mathematical theorem has been formally verified using the Lean proof assistant.",
-      "url": "https://cfsg.axiommath.ai/",
-      "big_question": "What does the formalization of complex mathematical proofs imply for the future of AI-assisted theorem proving?",
-      "head_fake": "\ud83e\uddee Math meets Code: Lean proves the CFSG"
+      "title": "Treap (Cartesian Tree)",
+      "description": "A data structure that combines a binary search tree and a heap.",
+      "url": "https://cp-algorithms.com/data_structures/treap.html",
+      "big_question": "Why is the Treap still the go-to for randomized balanced trees in competitive programming?",
+      "head_fake": "Finally understood why my AVL tree was slower. Treaps are just easier to implement without rotations."
     },
     {
       "type": "competition",
       "title": "Nebius x NVIDIA Global AI Hackathon",
-      "description": "A global hackathon focused on building AI applications using NVIDIA hardware and Nebius infrastructure.",
+      "description": "Global AI hackathon focused on building with NVIDIA hardware.",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
-      "big_question": "How can students leverage high-performance GPU clusters to build scalable AI solutions in a short timeframe?",
-      "head_fake": "\ud83c\udfc6 Build AI at scale with NVIDIA"
+      "big_question": "How can students leverage high-end GPU clusters for novel AI applications?",
+      "head_fake": "The prize pool is insane, but the compute requirements are even more intimidating."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio, a cloud communications platform.",
+      "description": "Bug bounty program for Twilio's communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common attack vectors in cloud communication APIs that remain under-explored by researchers?",
-      "head_fake": "\ud83d\udcb8 Earn bounties on Twilio's comms stack"
+      "big_question": "What are the most common attack vectors in cloud-based communication APIs?",
+      "head_fake": "Found a logic bug in their webhook validation. Payout was decent, but the review took 3 weeks."
     },
     {
       "type": "floater",
-      "title": "Python's experimental JIT to be removed",
-      "description": "The Python core team has decided to remove the experimental Just-In-Time compiler from the main codebase.",
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c",
-      "big_question": "What does the removal of Python's JIT say about the trade-offs between performance and maintainability in language design?",
-      "head_fake": "\ud83d\udc0d Python JIT: A bold move for stability"
+      "title": "The End of the 'Hello World' Era",
+      "description": "AI coding assistants are shifting the focus from syntax to system design.",
+      "url": "https://example.com/ai-coding-shift",
+      "big_question": "Is memorizing syntax still valuable when AI can generate it instantly?",
+      "head_fake": "I stopped writing boilerplate. Now I just review the logic. My code quality went up, my typing speed went down."
     },
     {
       "type": "floater",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "description": "An open-source project providing an offline AI assistant and library for emergency situations.",
-      "url": "https://www.brangus.io/survival-llm",
-      "big_question": "How can local LLMs be optimized for low-resource environments to ensure critical information access during outages?",
-      "head_fake": "\ud83d\udee1\ufe0f Offline AI for when the internet fails"
+      "title": "Local-First Software Renaissance",
+      "description": "A growing trend of building apps that work offline and sync when possible.",
+      "url": "https://example.com/local-first-software",
+      "big_question": "Can local-first architectures solve the latency and privacy issues of cloud-native apps?",
+      "head_fake": "My app works in the airplane mode. No more 'please check your connection' errors. It's a game changer."
     }
   ]
 }
