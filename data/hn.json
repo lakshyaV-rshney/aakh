@@ -1,81 +1,88 @@
 {
-  "fetched_at": "2026-10-29T05:39:40.730946+00:00",
+  "fetched_at": "2026-10-30T05:38:43.036583+00:00",
   "stories": [
     {
-      "title": "Zillow to pay $212.5M to settle class action for real estate venture",
-      "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/\">https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</a></p>\n<p>Comme",
-      "published": "Thu, 29 Oct 2026 03:48:05 +0000",
+      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+      "summary": "<p>Article URL: <a href=\"https://www.penligent.ai/hackinglabs/cve-2026-98432/\">https://www.penligent.ai/hackinglabs/cve-2026-98432/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50299182\">https://news.ycombinator.com/item?id=50299182</a></p>\n<p>Points: 35</p>\n<p># Comments: ",
+      "published": "Fri, 30 Oct 2026 02:33:04 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "summary": "<p>Article URL: <a href=\"https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50284255\">https://news.ycombinator.com/item?id=50284255</a></p>\n<",
-      "published": "Thu, 29 Oct 2026 03:33:42 +0000",
+      "title": "Show HN: Lasm \u2013 Write formally verified webapps in Lean for Node/serverless/edge",
+      "url": "https://github.com/Millillion/lasm",
+      "summary": "<p>Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming lang",
+      "published": "Fri, 30 Oct 2026 02:05:41 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "summary": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282544\">https://news.ycombinator.com/item?id=502825",
-      "published": "Wed, 28 Oct 2026 23:45:46 +0000",
+      "title": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "summary": "<p>Article URL: <a href=\"https://github.com/picocss/pico/discussions/754\">https://github.com/picocss/pico/discussions/754</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298964\">https://news.ycombinator.com/item?id=50298964</a></p>\n<p>Points: 82</p>\n<p># Comments: 22</p>",
+      "published": "Fri, 30 Oct 2026 01:58:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "summary": "<p>Article URL: <a href=\"https://formlabs.com/products/form-studio-1-basic-founders-edition/\">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50281044\">https://news.ycombinator.com/item?id=50281044</a></p>\n<p>",
-      "published": "Wed, 28 Oct 2026 21:19:30 +0000",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "summary": "<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual ",
+      "published": "Thu, 29 Oct 2026 23:25:46 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Scaling Hierarchical Networks",
-      "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
-      "summary": "<p>Article URL: <a href=\"https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1\">https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50278253\">https://news.ycombinator.com/item?id=50278253</a></p>\n<p>Points: 52</p>\n<p># Co",
-      "published": "Wed, 28 Oct 2026 18:07:41 +0000",
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "summary": "<p>Article URL: <a href=\"https://journal.animationstudies.org/article/id/66/\">https://journal.animationstudies.org/article/id/66/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297089\">https://news.ycombinator.com/item?id=50297089</a></p>\n<p>Points: 84</p>\n<p># Comments: 17",
+      "published": "Thu, 29 Oct 2026 22:26:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5",
-      "published": "Wed, 28 Oct 2026 17:01:23 +0000",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 233</p>\n<p># Comme",
+      "published": "Thu, 29 Oct 2026 21:40:28 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "summary": "<p>Article URL: <a href=\"https://surgehq.ai/blog/dayjob-tax\">https://surgehq.ai/blog/dayjob-tax</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275626\">https://news.ycombinator.com/item?id=50275626</a></p>\n<p>Points: 219</p>\n<p># Comments: 142</p>",
-      "published": "Wed, 28 Oct 2026 15:46:30 +0000",
+      "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50291116",
+      "summary": "<p>Hi HN, we're Ahnaf and Seungmin from Simantic (<a href=\"https://simantic.com\">https://simantic.com</a>). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.<p>Before Simantic, we were ex-firmware engineers at companies like Neuralink",
+      "published": "Thu, 29 Oct 2026 15:56:32 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "summary": "<p>Article URL: <a href=\"https://emudhra.we-have-a-problem.com/apple.html\">https://emudhra.we-have-a-problem.com/apple.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50271640\">https://news.ycombinator.com/item?id=50271640</a></p>\n<p>Points: 1086</p>\n<p># Comments: 385</p",
-      "published": "Wed, 28 Oct 2026 11:03:40 +0000",
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/bliki/LLM-Voice.html\">https://martinfowler.com/bliki/LLM-Voice.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290177\">https://news.ycombinator.com/item?id=50290177</a></p>\n<p>Points: 399</p>\n<p># Comments: 210</p>",
+      "published": "Thu, 29 Oct 2026 14:57:55 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "summary": "<p>Article URL: <a href=\"https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/\">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
-      "published": "Mon, 26 Oct 2026 21:24:18 +0000",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">https://mistral.ai/news/mistral-large-4-oss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289418\">https://news.ycombinator.com/item?id=50289418</a></p>\n<p>Points: 1294</p>\n<p># Comments: 359</p>",
+      "published": "Thu, 29 Oct 2026 14:13:21 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nixpkgs for the Front End Impaired",
-      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-      "summary": "<p>Article URL: <a href=\"https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired\">https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50244929\">https://news.ycombinator.com/item?id=50244929</a></p>\n<p>Poin",
-      "published": "Mon, 26 Oct 2026 15:00:05 +0000",
+      "title": "If IPv4 were land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "summary": "<p>Article URL: <a href=\"https://iptrust.co/blog/if-ipv4-were-land\">https://iptrust.co/blog/if-ipv4-were-land</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287775\">https://news.ycombinator.com/item?id=50287775</a></p>\n<p>Points: 255</p>\n<p># Comments: 357</p>",
+      "published": "Thu, 29 Oct 2026 12:19:00 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Treap (Cartesian Tree)",
-      "url": "https://cp-algorithms.com/data_structures/treap.html",
-      "summary": "<p>Article URL: <a href=\"https://cp-algorithms.com/data_structures/treap.html\">https://cp-algorithms.com/data_structures/treap.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241949\">https://news.ycombinator.com/item?id=50241949</a></p>\n<p>Points: 8</p>\n<p># Comments: 0",
-      "published": "Mon, 26 Oct 2026 11:19:31 +0000",
+      "title": "Python on My Wrist",
+      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+      "summary": "<p>Article URL: <a href=\"https://tildeweb.nl/~michiel/python-on-my-wrist.html\">https://tildeweb.nl/~michiel/python-on-my-wrist.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255573\">https://news.ycombinator.com/item?id=50255573</a></p>\n<p>Points: 11</p>\n<p># Comments: ",
+      "published": "Tue, 27 Oct 2026 07:10:45 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Iterating Backwards in C",
+      "url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
+      "summary": "<p>Article URL: <a href=\"https://www.davidpriver.com/Iterating-backwards-in-C.html\">https://www.davidpriver.com/Iterating-backwards-in-C.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50249598\">https://news.ycombinator.com/item?id=50249598</a></p>\n<p>Points: 73</p>\n<p># ",
+      "published": "Mon, 26 Oct 2026 19:28:19 +0000",
       "source": "Hacker News"
     }
   ]

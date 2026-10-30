@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T05:39:41.942340+00:00",
+  "fetched_at": "2026-10-30T05:39:08.039827+00:00",
   "competitions": [
     {
-      "title": "Hybrid Micro Mouse Challenge ",
-      "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
-      "deadline": "Oct 22 - 29, 2026",
-      "prize": "\u20b9 55,000",
+      "title": "Learn to Hack: MATLAB Edition 2026",
+      "url": "https://ntu-matlab-2026.devpost.com/",
+      "deadline": "Oct 30, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
@@ -23,13 +23,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Buksi SITE (STEM Innovation & Talent Expo) 2026 - ONLY FOR BUKIT SION STUDENTS",
-      "url": "https://buksi-site-2026.devpost.com/",
-      "deadline": "Oct 24 - 30, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
       "title": "Nebius x NVIDIA Global AI Hackathon",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
       "deadline": "Aug 26 - Oct 30, 2026",
@@ -41,13 +34,6 @@
       "url": "https://code-con.devpost.com/",
       "deadline": "Oct 28 - 30, 2026",
       "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "LancerHacks",
-      "url": "https://lancerhacks2026.devpost.com/",
-      "deadline": "Oct 27 - 30, 2026",
-      "prize": "$800",
       "source": "Devpost"
     },
     {
@@ -69,6 +55,20 @@
       "url": "https://health-hackathon-3-0.devpost.com/",
       "deadline": "Oct 24 - 31, 2026",
       "prize": "\u20b9 200,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "AI Build India",
+      "url": "https://sphinx-26.devpost.com/",
+      "deadline": "Oct 14 - 31, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Buksi SITE (STEM Innovation & Talent Expo) 2026 - ONLY FOR BUKIT SION STUDENTS",
+      "url": "https://buksi-site-2026.devpost.com/",
+      "deadline": "Oct 24 - 31, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]

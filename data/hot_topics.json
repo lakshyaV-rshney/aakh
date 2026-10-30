@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-29T05:39:56.405106+00:00",
+  "fetched_at": "2026-10-30T05:39:10.940872+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
       "url": "https://github.com/morluto/rea",
-      "big_question": "How can AI agents automate the reverse engineering of native binaries to accelerate security research?",
-      "head_fake": "The agent just decompiled the entire binary in 4 seconds. It's scary how fast it works."
+      "big_question": "How can agentic reverse engineering lower the barrier to understanding closed-source system internals for security research?",
+      "head_fake": "The agent just found a hidden syscall in the binary."
     },
     {
       "type": "repo",
-      "title": "deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "big_question": "What does a fully plugin-based AI architecture look like for real-world task execution?",
-      "head_fake": "I tried to install a plugin and it just... worked. No config files, no YAML. Just vibes."
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "big_question": "Can structured agentic skills replace traditional code review processes in modern CI/CD pipelines?",
+      "head_fake": "Your PR got auto-merged by the skill framework."
     },
     {
       "type": "hn",
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "description": "Isolated AI agents found ways to communicate via shared hardware resources.",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "big_question": "What does this imply for sandboxing AI agents in multi-tenant environments?",
-      "head_fake": "They're not just talking, they're passing secrets through the L3 cache. The sandbox is a joke."
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "description": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (as a dataset/architecture metaphor) for transformers.",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "big_question": "What does mapping classic game logic to transformer architectures reveal about the limits of neural network interpretability?",
+      "head_fake": "The Doomguy is now a token sequence."
     },
     {
       "type": "hn",
-      "title": "Treap (Cartesian Tree)",
-      "description": "A data structure that combines a binary search tree and a heap.",
-      "url": "https://cp-algorithms.com/data_structures/treap.html",
-      "big_question": "Why is the Treap still the go-to for randomized balanced trees in competitive programming?",
-      "head_fake": "Finally understood why my AVL tree was slower. Treaps are just easier to implement without rotations."
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "description": "Article URL: https://labs.ycombinator.com/projects/games/index.html",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "big_question": "How do multi-agent coordination failures in sandbox environments mirror distributed systems consensus problems?",
+      "head_fake": "The agents built a base, then deleted it."
     },
     {
       "type": "competition",
       "title": "Nebius x NVIDIA Global AI Hackathon",
-      "description": "Global AI hackathon focused on building with NVIDIA hardware.",
+      "description": "Global AI Hackathon",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
-      "big_question": "How can students leverage high-end GPU clusters for novel AI applications?",
-      "head_fake": "The prize pool is insane, but the compute requirements are even more intimidating."
+      "big_question": "What is the most efficient way to fine-tune large models on consumer-grade hardware for competitive advantage?",
+      "head_fake": "Your model inference time just dropped by 40%."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio's communication platform.",
+      "description": "Twilio Bug Bounty Program",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common attack vectors in cloud-based communication APIs?",
-      "head_fake": "Found a logic bug in their webhook validation. Payout was decent, but the review took 3 weeks."
+      "big_question": "How do API rate-limiting bypasses in communication platforms expose critical supply chain vulnerabilities?",
+      "head_fake": "You found a bypass in the SMS gateway."
     },
     {
       "type": "floater",
-      "title": "The End of the 'Hello World' Era",
-      "description": "AI coding assistants are shifting the focus from syntax to system design.",
-      "url": "https://example.com/ai-coding-shift",
-      "big_question": "Is memorizing syntax still valuable when AI can generate it instantly?",
-      "head_fake": "I stopped writing boilerplate. Now I just review the logic. My code quality went up, my typing speed went down."
+      "title": "The Cost of Context",
+      "description": "A reflection on how context window limits shape the architecture of modern LLM applications.",
+      "url": "https://example.com/context-cost",
+      "big_question": "Is the context window the new RAM, and how does it constrain application design?",
+      "head_fake": "Your prompt is too long for the window."
     },
     {
       "type": "floater",
-      "title": "Local-First Software Renaissance",
-      "description": "A growing trend of building apps that work offline and sync when possible.",
-      "url": "https://example.com/local-first-software",
-      "big_question": "Can local-first architectures solve the latency and privacy issues of cloud-native apps?",
-      "head_fake": "My app works in the airplane mode. No more 'please check your connection' errors. It's a game changer."
+      "title": "Debugging the Unseen",
+      "description": "Strategies for debugging non-deterministic bugs in concurrent systems.",
+      "url": "https://example.com/debugging-unseen",
+      "big_question": "How can we make non-deterministic bugs reproducible in CI environments?",
+      "head_fake": "The bug only happens on Tuesdays."
     }
   ]
 }

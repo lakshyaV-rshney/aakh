@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T05:39:30.627402+00:00",
+  "fetched_at": "2026-10-30T05:38:43.085938+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3310,7 +3310,7 @@
     {
       "title": "Dstny",
       "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-      "bounty": "\u20ac1,100",
+      "bounty": "\u20ac1,500",
       "source": "Intigriti"
     },
     {
@@ -3371,6 +3371,12 @@
       "title": "HRS Group VDP",
       "url": "https://www.intigriti.com/programs/hrsgroup/hrsgroupvdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Here Technologies",
+      "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+      "bounty": "\u20ac2,000",
       "source": "Intigriti"
     },
     {
@@ -3509,6 +3515,12 @@
       "title": "Monzo Public Bug Bounty Program",
       "url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
       "bounty": "GBP12,500",
+      "source": "Intigriti"
+    },
+    {
+      "title": "NVIDIA Public Bug Bounty",
+      "url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
+      "bounty": "$15,000",
       "source": "Intigriti"
     },
     {
@@ -3860,21 +3872,9 @@
       "source": "Intigriti"
     },
     {
-      "title": "WP Engine Bug Bounty",
-      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-      "bounty": "\u20ac2,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "WP Engine VDP",
       "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Water-Link",
-      "url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
