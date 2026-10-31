@@ -1,62 +1,6 @@
 {
-  "fetched_at": "2026-10-30T05:39:08.039827+00:00",
+  "fetched_at": "2026-10-31T05:29:16.051691+00:00",
   "competitions": [
-    {
-      "title": "Learn to Hack: MATLAB Edition 2026",
-      "url": "https://ntu-matlab-2026.devpost.com/",
-      "deadline": "Oct 30, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "CodeSprint by Elite Coders",
-      "url": "https://codesprint-by-elitecoders.devpost.com/",
-      "deadline": "Sep 25 - Oct 30, 2026",
-      "prize": "\u20b9 30,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "HackFW: MADE Challenge",
-      "url": "https://hackfw.devpost.com/",
-      "deadline": "Oct 01 - 30, 2026",
-      "prize": "$1,900",
-      "source": "Devpost"
-    },
-    {
-      "title": "Nebius x NVIDIA Global AI Hackathon",
-      "url": "https://nebiusglobalaihackathon.devpost.com/",
-      "deadline": "Aug 26 - Oct 30, 2026",
-      "prize": "$50,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Code-con",
-      "url": "https://code-con.devpost.com/",
-      "deadline": "Oct 28 - 30, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Qloo Agentic Hackathon",
-      "url": "https://qloo.devpost.com/",
-      "deadline": "Sep 30 - Oct 30, 2026",
-      "prize": "$25,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "FUSE Society Blueprint 2026",
-      "url": "https://fuse-society-blueprint-2026.devpost.com/",
-      "deadline": "Oct 24 - 31, 2026",
-      "prize": "$250",
-      "source": "Devpost"
-    },
-    {
-      "title": "Health Hackathon 3.0",
-      "url": "https://health-hackathon-3-0.devpost.com/",
-      "deadline": "Oct 24 - 31, 2026",
-      "prize": "\u20b9 200,000",
-      "source": "Devpost"
-    },
     {
       "title": "AI Build India",
       "url": "https://sphinx-26.devpost.com/",
@@ -68,6 +12,62 @@
       "title": "Buksi SITE (STEM Innovation & Talent Expo) 2026 - ONLY FOR BUKIT SION STUDENTS",
       "url": "https://buksi-site-2026.devpost.com/",
       "deadline": "Oct 24 - 31, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Vaani Agent Buildathon",
+      "url": "https://vaani-agent-buildathon.devpost.com/",
+      "deadline": "Oct 31, 2026",
+      "prize": "\u20b9 60,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Zoftware Hackathon",
+      "url": "https://zoftware-agenthack.devpost.com/",
+      "deadline": "Oct 31, 2026",
+      "prize": "$500",
+      "source": "Devpost"
+    },
+    {
+      "title": "MineArena 1.0",
+      "url": "https://minearena-1-0.devpost.com/",
+      "deadline": "Oct 15 - 31, 2026",
+      "prize": "\u20b9 75,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "CreateAThon",
+      "url": "https://graph-hacks.devpost.com/",
+      "deadline": "Oct 14 - 31, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Next Byte Hacks V5",
+      "url": "https://next-byte-hacks-v5.devpost.com/",
+      "deadline": "Oct 06 - 31, 2026",
+      "prize": "$100",
+      "source": "Devpost"
+    },
+    {
+      "title": "RenderJuice Blender Animation & Programmatic Rendering Contest",
+      "url": "https://programmatic-rendering-contest.devpost.com/",
+      "deadline": "Oct 14 - 31, 2026",
+      "prize": "$1,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "305 EmpowHER Edition October 2026 \u2014 305Hackathons.vercel.app",
+      "url": "https://305empowheroct2026.devpost.com/",
+      "deadline": "Oct 14 - 31, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "INCEPTION 2026",
+      "url": "https://inception2026.devpost.com/",
+      "deadline": "Oct 31 - Nov 01, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

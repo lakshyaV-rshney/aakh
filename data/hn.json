@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-30T05:38:43.036583+00:00",
+  "fetched_at": "2026-10-31T05:29:10.500163+00:00",
   "stories": [
     {
-      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
-      "summary": "<p>Article URL: <a href=\"https://www.penligent.ai/hackinglabs/cve-2026-98432/\">https://www.penligent.ai/hackinglabs/cve-2026-98432/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50299182\">https://news.ycombinator.com/item?id=50299182</a></p>\n<p>Points: 35</p>\n<p># Comments: ",
-      "published": "Fri, 30 Oct 2026 02:33:04 +0000",
+      "title": "OpenAI raises less than half of $30B target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5\">https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
+      "published": "Sat, 31 Oct 2026 03:22:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Lasm \u2013 Write formally verified webapps in Lean for Node/serverless/edge",
-      "url": "https://github.com/Millillion/lasm",
-      "summary": "<p>Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming lang",
-      "published": "Fri, 30 Oct 2026 02:05:41 +0000",
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "summary": "<p>Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:<p>Subject: Notice of Security Incident<p>This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.\u2019s notification partner.<p>Hello,<p",
+      "published": "Sat, 31 Oct 2026 02:46:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Pico CSS is no longer maintained",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "summary": "<p>Article URL: <a href=\"https://github.com/picocss/pico/discussions/754\">https://github.com/picocss/pico/discussions/754</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298964\">https://news.ycombinator.com/item?id=50298964</a></p>\n<p>Points: 82</p>\n<p># Comments: 22</p>",
-      "published": "Fri, 30 Oct 2026 01:58:44 +0000",
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "url": "https://www.firezone.dev/blog/introducing-sanstun",
+      "summary": "<p>Article URL: <a href=\"https://www.firezone.dev/blog/introducing-sanstun\">https://www.firezone.dev/blog/introducing-sanstun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50310398\">https://news.ycombinator.com/item?id=50310398</a></p>\n<p>Points: 97</p>\n<p># Comments: 17</p>",
+      "published": "Fri, 30 Oct 2026 21:30:00 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "summary": "<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual ",
-      "published": "Thu, 29 Oct 2026 23:25:46 +0000",
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "summary": "<p>Article URL: <a href=\"https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\">https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309",
+      "published": "Fri, 30 Oct 2026 20:23:30 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "url": "https://journal.animationstudies.org/article/id/66/",
-      "summary": "<p>Article URL: <a href=\"https://journal.animationstudies.org/article/id/66/\">https://journal.animationstudies.org/article/id/66/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297089\">https://news.ycombinator.com/item?id=50297089</a></p>\n<p>Points: 84</p>\n<p># Comments: 17",
-      "published": "Thu, 29 Oct 2026 22:26:38 +0000",
+      "title": "Infinite Mac: BeOS",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.persistent.info/2026/10/infinite-mac-beos.html\">https://blog.persistent.info/2026/10/infinite-mac-beos.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309029\">https://news.ycombinator.com/item?id=50309029</a></p>\n<p>Points: 133</p>\n",
+      "published": "Fri, 30 Oct 2026 19:30:09 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "summary": "<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 233</p>\n<p># Comme",
-      "published": "Thu, 29 Oct 2026 21:40:28 +0000",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/\">https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/</a><",
+      "published": "Fri, 30 Oct 2026 14:08:20 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50291116",
-      "summary": "<p>Hi HN, we're Ahnaf and Seungmin from Simantic (<a href=\"https://simantic.com\">https://simantic.com</a>). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.<p>Before Simantic, we were ex-firmware engineers at companies like Neuralink",
-      "published": "Thu, 29 Oct 2026 15:56:32 +0000",
+      "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "summary": "<p>Article URL: <a href=\"https://www.binarysecurity.no/posts/2026/10/one-root-case\">https://www.binarysecurity.no/posts/2026/10/one-root-case</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301854\">https://news.ycombinator.com/item?id=50301854</a></p>\n<p>Points: 285</p>\n<p>#",
+      "published": "Fri, 30 Oct 2026 10:06:15 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/bliki/LLM-Voice.html\">https://martinfowler.com/bliki/LLM-Voice.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290177\">https://news.ycombinator.com/item?id=50290177</a></p>\n<p>Points: 399</p>\n<p># Comments: 210</p>",
-      "published": "Thu, 29 Oct 2026 14:57:55 +0000",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "summary": "<p><a href=\"https://cursor.com/blog/claude-code-extension-security-notice\" rel=\"nofollow\">https://cursor.com/blog/claude-code-extension-security-notic...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50300683\">https://news.ycombinator.com/item?id=50300683</a></p>\n<p>P",
+      "published": "Fri, 30 Oct 2026 07:09:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">https://mistral.ai/news/mistral-large-4-oss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289418\">https://news.ycombinator.com/item?id=50289418</a></p>\n<p>Points: 1294</p>\n<p># Comments: 359</p>",
-      "published": "Thu, 29 Oct 2026 14:13:21 +0000",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/sgondala2/status/2115832070274723875\">https://twitter.com/sgondala2/status/2115832070274723875</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296730\">https://news.ycombinator.com/item?id=50296730</a></p>\n<p>Points: 129</p>\n<p># C",
+      "published": "Thu, 29 Oct 2026 21:58:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "If IPv4 were land",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "summary": "<p>Article URL: <a href=\"https://iptrust.co/blog/if-ipv4-were-land\">https://iptrust.co/blog/if-ipv4-were-land</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287775\">https://news.ycombinator.com/item?id=50287775</a></p>\n<p>Points: 255</p>\n<p># Comments: 357</p>",
-      "published": "Thu, 29 Oct 2026 12:19:00 +0000",
+      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+      "url": "https://publicdomainreview.org/essay/wonderful-weather/",
+      "summary": "<p>Article URL: <a href=\"https://publicdomainreview.org/essay/wonderful-weather/\">https://publicdomainreview.org/essay/wonderful-weather/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50277518\">https://news.ycombinator.com/item?id=50277518</a></p>\n<p>Points: 15</p>\n<p># Comm",
+      "published": "Wed, 28 Oct 2026 17:34:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Python on My Wrist",
-      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
-      "summary": "<p>Article URL: <a href=\"https://tildeweb.nl/~michiel/python-on-my-wrist.html\">https://tildeweb.nl/~michiel/python-on-my-wrist.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255573\">https://news.ycombinator.com/item?id=50255573</a></p>\n<p>Points: 11</p>\n<p># Comments: ",
-      "published": "Tue, 27 Oct 2026 07:10:45 +0000",
+      "title": "Trapped in the Technologist Factory",
+      "url": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+      "summary": "<p>Article URL: <a href=\"https://ideolalia.com/essays/trapped-in-the-technologist-factory.html\">https://ideolalia.com/essays/trapped-in-the-technologist-factory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276355\">https://news.ycombinator.com/item?id=50276355</a></p>",
+      "published": "Wed, 28 Oct 2026 16:30:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Iterating Backwards in C",
-      "url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
-      "summary": "<p>Article URL: <a href=\"https://www.davidpriver.com/Iterating-backwards-in-C.html\">https://www.davidpriver.com/Iterating-backwards-in-C.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50249598\">https://news.ycombinator.com/item?id=50249598</a></p>\n<p>Points: 73</p>\n<p># ",
-      "published": "Mon, 26 Oct 2026 19:28:19 +0000",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "summary": "<p><a href=\"https://arxiv.org/pdf/2606.03979\" rel=\"nofollow\">https://arxiv.org/pdf/2606.03979</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50272479\">https://news.ycombinator.com/item?id=50272479</a></p>\n<p>Points: 193</p>\n<p># Comments: 20</p>",
+      "published": "Wed, 28 Oct 2026 12:24:25 +0000",
       "source": "Hacker News"
     }
   ]

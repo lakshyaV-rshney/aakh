@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-10-30T05:39:10.940872+00:00",
+  "fetched_at": "2026-10-31T05:29:29.654933+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
       "url": "https://github.com/morluto/rea",
-      "big_question": "How can agentic reverse engineering lower the barrier to understanding closed-source system internals for security research?",
-      "head_fake": "The agent just found a hidden syscall in the binary."
+      "big_question": "How can agentic reverse engineering lower the barrier for students to understand low-level system interactions?",
+      "head_fake": "I spent 4 hours tracing a binary with this and it felt like cheating. The agent handled the tedious disassembly while I focused on logic. If you're studying OS or security, this is a game changer for labs."
     },
     {
       "type": "repo",
-      "title": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "big_question": "Can structured agentic skills replace traditional code review processes in modern CI/CD pipelines?",
-      "head_fake": "Your PR got auto-merged by the skill framework."
+      "title": "nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "big_question": "What is the most efficient path from CS fundamentals to a specialized engineering role in the current AI-heavy market?",
+      "head_fake": "Finally a roadmap that doesn't just list technologies but explains the 'why' behind each choice. I used the backend section to structure my next 3 months of study. It's less about memorizing frameworks and more about understanding architectural patterns."
     },
     {
       "type": "hn",
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "description": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (as a dataset/architecture metaphor) for transformers.",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "big_question": "What does mapping classic game logic to transformer architectures reveal about the limits of neural network interpretability?",
-      "head_fake": "The Doomguy is now a token sequence."
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "description": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "big_question": "Does removing the cost barrier for AI coding tools fundamentally change how junior engineers learn legacy codebases?",
+      "head_fake": "This is the most practical application of AI I've seen in enterprise. Instead of paying for tokens, they're paying for speed. It suggests that the future of junior dev roles isn't writing boilerplate, but auditing AI-generated refactors. I'm going to try this on my old university project."
     },
     {
       "type": "hn",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "description": "Article URL: https://labs.ycombinator.com/projects/games/index.html",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "big_question": "How do multi-agent coordination failures in sandbox environments mirror distributed systems consensus problems?",
-      "head_fake": "The agents built a base, then deleted it."
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "description": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "big_question": "Can biological metaphors like 'sleep' lead to more efficient memory management in large language models?",
+      "head_fake": "The idea of a 'sleep' phase for LLMs to consolidate memory is fascinating. It mirrors how we study: active recall followed by rest. If this works, it could solve the catastrophic forgetting problem that plagues current fine-tuning methods. Worth reading the arxiv paper for the math."
     },
     {
       "type": "competition",
-      "title": "Nebius x NVIDIA Global AI Hackathon",
-      "description": "Global AI Hackathon",
-      "url": "https://nebiusglobalaihackathon.devpost.com/",
-      "big_question": "What is the most efficient way to fine-tune large models on consumer-grade hardware for competitive advantage?",
-      "head_fake": "Your model inference time just dropped by 40%."
+      "title": "AI Build India",
+      "description": "https://sphinx-26.devpost.com/",
+      "url": "https://sphinx-26.devpost.com/",
+      "big_question": "How can student teams leverage local AI infrastructure to solve region-specific problems at scale?",
+      "head_fake": "The theme is broad enough to allow for creative AI applications. I'm thinking of building a tool that uses local LLMs to translate technical documentation into regional languages. It's a good chance to test out new agent frameworks under time pressure."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Twilio Bug Bounty Program",
+      "description": "https://hackerone.com/twilio",
       "url": "https://hackerone.com/twilio",
-      "big_question": "How do API rate-limiting bypasses in communication platforms expose critical supply chain vulnerabilities?",
-      "head_fake": "You found a bypass in the SMS gateway."
+      "big_question": "What are the common security pitfalls in cloud-based communication APIs that students can learn from?",
+      "head_fake": "Twilio has a solid bounty program and their API documentation is excellent for learning. I found a few interesting edge cases in their webhook validation. It's a great way to practice API security without needing to build your own infrastructure."
     },
     {
       "type": "floater",
-      "title": "The Cost of Context",
-      "description": "A reflection on how context window limits shape the architecture of modern LLM applications.",
-      "url": "https://example.com/context-cost",
-      "big_question": "Is the context window the new RAM, and how does it constrain application design?",
-      "head_fake": "Your prompt is too long for the window."
+      "title": "The Psychology of Code Review",
+      "description": "Why developers hate code reviews and how to make them a learning tool instead of a gatekeeping mechanism.",
+      "url": "https://example.com/psychology-code-review",
+      "big_question": "How can we shift the culture of code review from judgment to mentorship in student teams?",
+      "head_fake": "I've noticed that in my study group, code reviews often become personal attacks. Reading about the psychological barriers to giving feedback helped me reframe my approach. Now I focus on 'what can we learn here?' instead of 'what did you do wrong?' It's made our team dynamics much better."
     },
     {
       "type": "floater",
-      "title": "Debugging the Unseen",
-      "description": "Strategies for debugging non-deterministic bugs in concurrent systems.",
-      "url": "https://example.com/debugging-unseen",
-      "big_question": "How can we make non-deterministic bugs reproducible in CI environments?",
-      "head_fake": "The bug only happens on Tuesdays."
+      "title": "The Hidden Cost of Context Switching",
+      "description": "Research on how frequent task switching impacts developer productivity and cognitive load.",
+      "url": "https://example.com/hidden-cost-context-switching",
+      "big_question": "How can students optimize their study and coding sessions to minimize the cognitive cost of switching between tasks?",
+      "head_fake": "I used to think I was being productive by checking Slack, email, and my IDE constantly. This article showed me that each switch costs me 20 minutes of focus. I've started using time-blocking for deep work and it's dramatically improved my output. Try it for a week and see the difference."
     }
   ]
 }
