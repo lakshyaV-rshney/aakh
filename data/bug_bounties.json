@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T05:29:03.536098+00:00",
+  "fetched_at": "2026-11-01T05:54:17.871111+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1054,12 +1054,6 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3575,12 +3569,6 @@
       "title": "Orbia Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "PDQ bug bounty program",
-      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {

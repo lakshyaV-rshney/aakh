@@ -1,73 +1,73 @@
 {
-  "fetched_at": "2026-10-31T05:29:16.051691+00:00",
+  "fetched_at": "2026-11-01T05:54:35.922054+00:00",
   "competitions": [
     {
-      "title": "AI Build India",
-      "url": "https://sphinx-26.devpost.com/",
-      "deadline": "Oct 14 - 31, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Buksi SITE (STEM Innovation & Talent Expo) 2026 - ONLY FOR BUKIT SION STUDENTS",
-      "url": "https://buksi-site-2026.devpost.com/",
-      "deadline": "Oct 24 - 31, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Vaani Agent Buildathon",
-      "url": "https://vaani-agent-buildathon.devpost.com/",
-      "deadline": "Oct 31, 2026",
-      "prize": "\u20b9 60,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Zoftware Hackathon",
-      "url": "https://zoftware-agenthack.devpost.com/",
-      "deadline": "Oct 31, 2026",
-      "prize": "$500",
-      "source": "Devpost"
-    },
-    {
-      "title": "MineArena 1.0",
-      "url": "https://minearena-1-0.devpost.com/",
-      "deadline": "Oct 15 - 31, 2026",
-      "prize": "\u20b9 75,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "CreateAThon",
-      "url": "https://graph-hacks.devpost.com/",
-      "deadline": "Oct 14 - 31, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Next Byte Hacks V5",
-      "url": "https://next-byte-hacks-v5.devpost.com/",
-      "deadline": "Oct 06 - 31, 2026",
-      "prize": "$100",
-      "source": "Devpost"
-    },
-    {
-      "title": "RenderJuice Blender Animation & Programmatic Rendering Contest",
-      "url": "https://programmatic-rendering-contest.devpost.com/",
-      "deadline": "Oct 14 - 31, 2026",
-      "prize": "$1,500",
-      "source": "Devpost"
-    },
-    {
-      "title": "305 EmpowHER Edition October 2026 \u2014 305Hackathons.vercel.app",
-      "url": "https://305empowheroct2026.devpost.com/",
-      "deadline": "Oct 14 - 31, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "INCEPTION 2026",
-      "url": "https://inception2026.devpost.com/",
+      "title": "Mergetober",
+      "url": "https://mergetober.devpost.com/",
       "deadline": "Oct 31 - Nov 01, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "AQX Sports Analytics Data Bowl 4.0",
+      "url": "https://aqxanalyticsfour.devpost.com/",
+      "deadline": "Oct 18 - Nov 01, 2026",
+      "prize": "$50",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack With Karthik",
+      "url": "https://hack-with-karthik.devpost.com/",
+      "deadline": "Oct 30 - Nov 01, 2026",
+      "prize": "\u20b9 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "TRMI X Lovhack : Multiplayer Everything Hackathon",
+      "url": "https://lovhack-trmi-2026.devpost.com/",
+      "deadline": "Oct 31 - Nov 01, 2026",
+      "prize": "$300",
+      "source": "Devpost"
+    },
+    {
+      "title": "Global AI Hackathon - Devcon 2026 By Mel",
+      "url": "https://trick-or-build.devpost.com/",
+      "deadline": "Oct 31 - Nov 01, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
+      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+      "deadline": "Sep 29 - Nov 02, 2026",
+      "prize": "$6,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Codex x TwitchCon Hackathon",
+      "url": "https://twitchcon-codex.devpost.com/",
+      "deadline": "Oct 23 - Nov 02, 2026",
+      "prize": "$25,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "ICC - Proyecto Destacado 2026",
+      "url": "https://icc-proyecto-destacado-2026.devpost.com/",
+      "deadline": "Oct 13 - Nov 03, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Girls Who Code HHS Hackathon 2026",
+      "url": "https://gwchhs-hackathon-2026.devpost.com/",
+      "deadline": "Oct 15 - Nov 05, 2026",
+      "prize": "$50",
+      "source": "Devpost"
+    },
+    {
+      "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
+      "url": "https://yunet-aignite26.devpost.com/",
+      "deadline": "Nov 01 - 05, 2026",
       "prize": "$0",
       "source": "Devpost"
     }
