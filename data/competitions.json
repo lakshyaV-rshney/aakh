@@ -1,41 +1,6 @@
 {
-  "fetched_at": "2026-11-01T05:54:35.922054+00:00",
+  "fetched_at": "2026-11-02T05:54:16.447633+00:00",
   "competitions": [
-    {
-      "title": "Mergetober",
-      "url": "https://mergetober.devpost.com/",
-      "deadline": "Oct 31 - Nov 01, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "AQX Sports Analytics Data Bowl 4.0",
-      "url": "https://aqxanalyticsfour.devpost.com/",
-      "deadline": "Oct 18 - Nov 01, 2026",
-      "prize": "$50",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack With Karthik",
-      "url": "https://hack-with-karthik.devpost.com/",
-      "deadline": "Oct 30 - Nov 01, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "TRMI X Lovhack : Multiplayer Everything Hackathon",
-      "url": "https://lovhack-trmi-2026.devpost.com/",
-      "deadline": "Oct 31 - Nov 01, 2026",
-      "prize": "$300",
-      "source": "Devpost"
-    },
-    {
-      "title": "Global AI Hackathon - Devcon 2026 By Mel",
-      "url": "https://trick-or-build.devpost.com/",
-      "deadline": "Oct 31 - Nov 01, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
       "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
@@ -51,10 +16,24 @@
       "source": "Devpost"
     },
     {
+      "title": "BDBI x SpaceXSI Grokathon",
+      "url": "https://bdbi-x-spacexsi.devpost.com/",
+      "deadline": "Nov 02, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "ICC - Proyecto Destacado 2026",
       "url": "https://icc-proyecto-destacado-2026.devpost.com/",
       "deadline": "Oct 13 - Nov 03, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "FSB AI Build-a-thon Event 02",
+      "url": "https://fsb-ai-buildathon-02.devpost.com/",
+      "deadline": "Nov 01 - 03, 2026",
+      "prize": "$500",
       "source": "Devpost"
     },
     {
@@ -69,6 +48,27 @@
       "url": "https://yunet-aignite26.devpost.com/",
       "deadline": "Nov 01 - 05, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Remote Control AI",
+      "url": "https://remote-control-ai.devpost.com/",
+      "deadline": "Oct 31 - Nov 05, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Pumpkin Playground",
+      "url": "https://pumpkin-playground.devpost.com/",
+      "deadline": "Oct 12 - Nov 06, 2026",
+      "prize": "$50",
+      "source": "Devpost"
+    },
+    {
+      "title": "Next Byte Hacks V5",
+      "url": "https://next-byte-hacks-v5.devpost.com/",
+      "deadline": "Oct 06 - Nov 07, 2026",
+      "prize": "$100",
       "source": "Devpost"
     }
   ]

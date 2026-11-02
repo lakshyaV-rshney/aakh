@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-01T05:54:43.726268+00:00",
+  "fetched_at": "2026-11-02T05:54:29.964270+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
       "url": "https://github.com/morluto/rea",
-      "big_question": "How can LLM agents automate the tedious parts of reverse engineering to lower the barrier for security research?",
-      "head_fake": "The 'Reverse Engineer Anything' agent is trending because it turns black-box analysis into a conversational workflow."
+      "big_question": "How can LLM agents automate the reverse engineering of native binaries to lower the barrier for security research?",
+      "head_fake": "\ud83d\udd0d Rea just cracked a closed-source app's binary in 4 minutes. The agent mapped the function calls automatically. Is manual RE dead?"
     },
     {
       "type": "repo",
@@ -15,55 +15,55 @@
       "description": "Interactive roadmaps, guides and other educational content to help developers grow",
       "url": "https://github.com/nilbuild/developer-roadmap",
       "big_question": "What is the most efficient path for a CS student to transition from academic theory to industry-ready full-stack skills?",
-      "head_fake": "Developer roadmaps are seeing a resurgence as students seek structured alternatives to fragmented online tutorials."
+      "head_fake": "\ud83d\uddfa\ufe0f Updated the Frontend roadmap. Added new sections on WebAssembly and Edge Computing. Check if your current stack aligns with 2026 trends."
     },
     {
       "type": "hn",
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "description": "A critical vulnerability in the Linux kernel's IPv4 TCP stack allowing remote code execution.",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "big_question": "How do memory safety issues in the kernel remain undetected for so long despite extensive fuzzing efforts?",
-      "head_fake": "A CVSS 9.8 in the Linux kernel is shaking up the security community, highlighting gaps in traditional fuzzing."
+      "title": "The AI cost of JavaScript frameworks",
+      "description": "An analysis of how JavaScript frameworks impact AI inference costs and performance.",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "big_question": "Does the complexity of modern JS frameworks significantly degrade the performance of AI-assisted coding tools?",
+      "head_fake": "\ud83d\udcb8 New data shows React apps cost 30% more in AI tokens to generate than vanilla JS. Is the abstraction worth the compute?"
     },
     {
       "type": "hn",
-      "title": "Show HN: NES Contra (1987) port (ASM \u2013> C and then C \u2013> WebAssembly)",
-      "description": "A port of the classic NES game Contra from assembly to C and then to WebAssembly for browser play.",
-      "url": "https://epoyraz.github.io/nes-contra-us/",
-      "big_question": "What are the performance trade-offs when translating low-level assembly logic into high-level C for modern web platforms?",
-      "head_fake": "Retro gaming enthusiasts are impressed by the technical depth of this ASM-to-WASM port of Contra."
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "description": "Discussion on why Postgres 19 release is delayed due to increased bug discovery rates.",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-a",
+      "big_question": "Is the delay in Postgres 19 a sign of improved quality assurance or a bottleneck in the release cycle?",
+      "head_fake": "\ud83d\udc18 Postgres 19 delayed again. The community is finding bugs faster than they can be fixed. Is this a good thing for stability?"
     },
     {
       "type": "competition",
-      "title": "Global AI Hackathon - Devcon 2026 By Mel",
-      "description": "A global hackathon focused on building AI-driven solutions with a security and ethical focus.",
-      "url": "https://trick-or-build.devpost.com/",
-      "big_question": "How can students leverage AI tools to build secure and ethical applications under time pressure?",
-      "head_fake": "The Devcon 2026 AI Hackathon is attracting top talent looking to merge AI innovation with cybersecurity principles."
+      "title": "Remote Control AI",
+      "description": "A hackathon focused on building AI systems for remote control and automation.",
+      "url": "https://remote-control-ai.devpost.com/",
+      "big_question": "How can AI agents be used to safely and effectively control physical systems remotely?",
+      "head_fake": "\ud83e\udd16 Remote Control AI hackathon is live. Build an agent that can operate a drone or robot arm. Prizes include cloud credits."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
       "description": "Bug bounty program for Twilio, a cloud communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common attack vectors in cloud communication APIs, and how can they be mitigated?",
-      "head_fake": "Twilio's bug bounty program is a prime target for students interested in cloud security and API exploitation."
+      "big_question": "What are the most common security vulnerabilities in cloud communication APIs?",
+      "head_fake": "\ud83d\udee1\ufe0f Twilio bounty program is active. Focus on API key management and message injection. High reward for critical findings."
     },
     {
       "type": "floater",
-      "title": "The Rise of AI Agents in Software Development",
-      "description": "AI agents are becoming integral to the software development lifecycle, from coding to testing.",
-      "url": "https://example.com/ai-agents-sdlc",
-      "big_question": "How will the integration of AI agents change the role of human developers in the next decade?",
-      "head_fake": "AI agents are no longer just a novelty; they are becoming essential tools for modern software teams."
+      "title": "Rust in WebAssembly",
+      "description": "Trends in using Rust for WebAssembly to improve web performance and security.",
+      "url": "https://rustwasm.github.io/",
+      "big_question": "Is Rust becoming the standard for high-performance web applications via WebAssembly?",
+      "head_fake": "\u26a1 Rust + WASM is gaining traction. See how it outperforms JavaScript in compute-heavy web tasks."
     },
     {
       "type": "floater",
-      "title": "The Future of Remote Work in Tech",
-      "description": "Remote work continues to evolve, with new tools and practices emerging to support distributed teams.",
-      "url": "https://example.com/future-remote-work",
-      "big_question": "What are the key challenges and opportunities for maintaining team cohesion in fully remote environments?",
-      "head_fake": "Remote work is here to stay, but the tools and strategies for effective collaboration are constantly evolving."
+      "title": "Quantum Computing Basics",
+      "description": "An introduction to quantum computing concepts and their potential impact on cryptography.",
+      "url": "https://www.ibm.com/quantum",
+      "big_question": "How will quantum computing change the landscape of modern cryptography?",
+      "head_fake": "\ud83d\udd2e Quantum computing is no longer just theory. Learn the basics of qubits and quantum gates."
     }
   ]
 }
