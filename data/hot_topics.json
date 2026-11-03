@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-02T05:54:29.964270+00:00",
+  "fetched_at": "2026-11-03T06:39:49.072437+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
       "url": "https://github.com/morluto/rea",
-      "big_question": "How can LLM agents automate the reverse engineering of native binaries to lower the barrier for security research?",
-      "head_fake": "\ud83d\udd0d Rea just cracked a closed-source app's binary in 4 minutes. The agent mapped the function calls automatically. Is manual RE dead?"
+      "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
+      "head_fake": "The agent just decompiled the entire binary in 4 seconds. It's going to change how we audit code."
     },
     {
       "type": "repo",
-      "title": "nilbuild/developer-roadmap",
-      "description": "Interactive roadmaps, guides and other educational content to help developers grow",
-      "url": "https://github.com/nilbuild/developer-roadmap",
-      "big_question": "What is the most efficient path for a CS student to transition from academic theory to industry-ready full-stack skills?",
-      "head_fake": "\ud83d\uddfa\ufe0f Updated the Frontend roadmap. Added new sections on WebAssembly and Edge Computing. Check if your current stack aligns with 2026 trends."
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "big_question": "Can a structured methodology for agentic coding improve reliability and reduce hallucinations in AI-assisted development?",
+      "head_fake": "I stopped fighting the AI and started giving it 'skills'. The code quality actually went up."
     },
     {
       "type": "hn",
-      "title": "The AI cost of JavaScript frameworks",
-      "description": "An analysis of how JavaScript frameworks impact AI inference costs and performance.",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "big_question": "Does the complexity of modern JS frameworks significantly degrade the performance of AI-assisted coding tools?",
-      "head_fake": "\ud83d\udcb8 New data shows React apps cost 30% more in AI tokens to generate than vanilla JS. Is the abstraction worth the compute?"
+      "title": "Scaling Git at OpenAI",
+      "description": "Insights into how OpenAI manages and scales Git workflows for massive codebases.",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "big_question": "What architectural changes are necessary to maintain Git performance in repositories with millions of commits and AI-generated code?",
+      "head_fake": "Git is broken at scale. Here is how they fixed it before the AI took over the repo."
     },
     {
       "type": "hn",
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "description": "Discussion on why Postgres 19 release is delayed due to increased bug discovery rates.",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-a",
-      "big_question": "Is the delay in Postgres 19 a sign of improved quality assurance or a bottleneck in the release cycle?",
-      "head_fake": "\ud83d\udc18 Postgres 19 delayed again. The community is finding bugs faster than they can be fixed. Is this a good thing for stability?"
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "description": "Ubuntu LTS kernels remain unfixed for critical CVE-2026-98432.",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "big_question": "Why is there such a significant delay in patching critical 0-day vulnerabilities in major Linux distributions?",
+      "head_fake": "Your server is probably already compromised. The patch is 3 weeks late and the exploit is public."
     },
     {
       "type": "competition",
-      "title": "Remote Control AI",
-      "description": "A hackathon focused on building AI systems for remote control and automation.",
-      "url": "https://remote-control-ai.devpost.com/",
-      "big_question": "How can AI agents be used to safely and effectively control physical systems remotely?",
-      "head_fake": "\ud83e\udd16 Remote Control AI hackathon is live. Build an agent that can operate a drone or robot arm. Prizes include cloud credits."
+      "title": "Neural Storm",
+      "description": "A hackathon focused on neural networks and AI applications.",
+      "url": "https://neuralstorm.devpost.com/",
+      "big_question": "What are the most practical applications of neural networks that can be built within a 48-hour hackathon window?",
+      "head_fake": "Everyone is building chatbots. The winners will be the ones who solve a boring problem with a neural net."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
       "description": "Bug bounty program for Twilio, a cloud communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common security vulnerabilities in cloud communication APIs?",
-      "head_fake": "\ud83d\udee1\ufe0f Twilio bounty program is active. Focus on API key management and message injection. High reward for critical findings."
+      "big_question": "What are the common security misconfigurations in cloud communication APIs that lead to high-severity bugs?",
+      "head_fake": "Twilio pays well, but the scope is tight. Look for SSRF in the webhook endpoints."
     },
     {
       "type": "floater",
-      "title": "Rust in WebAssembly",
-      "description": "Trends in using Rust for WebAssembly to improve web performance and security.",
-      "url": "https://rustwasm.github.io/",
-      "big_question": "Is Rust becoming the standard for high-performance web applications via WebAssembly?",
-      "head_fake": "\u26a1 Rust + WASM is gaining traction. See how it outperforms JavaScript in compute-heavy web tasks."
+      "title": "The Rise of Agentic Coding",
+      "description": "A trend analysis of how AI agents are shifting from code completion to autonomous task execution.",
+      "url": "https://example.com/agentic-coding-trend",
+      "big_question": "Will agentic coding tools replace junior developers or simply change the definition of entry-level work?",
+      "head_fake": "Stop writing code. Start managing agents. The job market is shifting faster than you think."
     },
     {
       "type": "floater",
-      "title": "Quantum Computing Basics",
-      "description": "An introduction to quantum computing concepts and their potential impact on cryptography.",
-      "url": "https://www.ibm.com/quantum",
-      "big_question": "How will quantum computing change the landscape of modern cryptography?",
-      "head_fake": "\ud83d\udd2e Quantum computing is no longer just theory. Learn the basics of qubits and quantum gates."
+      "title": "Rust in the Enterprise",
+      "description": "An overview of Rust's adoption in enterprise systems and its impact on performance and safety.",
+      "url": "https://example.com/rust-enterprise",
+      "big_question": "Is the learning curve for Rust justified by the performance and safety benefits in large-scale systems?",
+      "head_fake": "Rust is finally winning. The compiler is your best friend and your worst enemy."
     }
   ]
 }

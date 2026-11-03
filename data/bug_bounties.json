@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T05:54:04.491422+00:00",
+  "fetched_at": "2026-11-03T06:39:24.716433+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -88,12 +88,6 @@
     {
       "title": "Braze, Inc.",
       "url": "https://hackerone.com/braze_inc",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Kong",
-      "url": "https://hackerone.com/kong",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -788,12 +782,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "Expedia Group Bug Bounty",
-      "url": "https://hackerone.com/expediagroup_bbp",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "Front",
       "url": "https://hackerone.com/fronthq",
       "bounty": "Bounty offered",
@@ -1054,6 +1042,12 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -2398,7 +2392,7 @@
     {
       "title": "OpenAI",
       "url": "https://bugcrowd.com/engagements/openai",
-      "bounty": "$6,500",
+      "bounty": "$30,000",
       "source": "Bugcrowd"
     },
     {
@@ -3116,12 +3110,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Attentia VDP",
-      "url": "https://www.intigriti.com/programs/attentia/attentiavdp/detail",
-      "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
       "title": "Axel Springer National Media & Tech",
       "url": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
       "bounty": "\u20ac2,500",
@@ -3572,6 +3560,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "PDQ bug bounty program",
+      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "bounty": "\u20ac3,500",
+      "source": "Intigriti"
+    },
+    {
       "title": "PeopleCert VDP",
       "url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
       "bounty": "Bounty offered",
@@ -3809,12 +3803,6 @@
       "title": "Universit\u00e4tsspital Z\u00fcrich VDP",
       "url": "https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Uphold",
-      "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {

@@ -1,27 +1,6 @@
 {
-  "fetched_at": "2026-11-02T05:54:16.447633+00:00",
+  "fetched_at": "2026-11-03T06:39:36.395723+00:00",
   "competitions": [
-    {
-      "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
-      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-      "deadline": "Sep 29 - Nov 02, 2026",
-      "prize": "$6,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Codex x TwitchCon Hackathon",
-      "url": "https://twitchcon-codex.devpost.com/",
-      "deadline": "Oct 23 - Nov 02, 2026",
-      "prize": "$25,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "BDBI x SpaceXSI Grokathon",
-      "url": "https://bdbi-x-spacexsi.devpost.com/",
-      "deadline": "Nov 02, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "ICC - Proyecto Destacado 2026",
       "url": "https://icc-proyecto-destacado-2026.devpost.com/",
@@ -30,10 +9,31 @@
       "source": "Devpost"
     },
     {
+      "title": "United Arab Emirates vs United States Of America",
+      "url": "https://uaevsusa.devpost.com/",
+      "deadline": "Nov 02 - 03, 2026",
+      "prize": "$10,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Mock PlutoHacks",
+      "url": "https://mock-plutohacks.devpost.com/",
+      "deadline": "Nov 02 - 03, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "FSB AI Build-a-thon Event 02",
       "url": "https://fsb-ai-buildathon-02.devpost.com/",
       "deadline": "Nov 01 - 03, 2026",
       "prize": "$500",
+      "source": "Devpost"
+    },
+    {
+      "title": "Neural Storm",
+      "url": "https://neuralstorm.devpost.com/",
+      "deadline": "Nov 02 - 04, 2026",
+      "prize": "\u20b9 20,000",
       "source": "Devpost"
     },
     {
@@ -65,10 +65,10 @@
       "source": "Devpost"
     },
     {
-      "title": "Next Byte Hacks V5",
-      "url": "https://next-byte-hacks-v5.devpost.com/",
-      "deadline": "Oct 06 - Nov 07, 2026",
-      "prize": "$100",
+      "title": "2026 UXC NYU Fall Design-a-thon ",
+      "url": "https://uxc-fall-2026-design-a-thon.devpost.com/",
+      "deadline": "Nov 02 - 07, 2026",
+      "prize": "$1,000",
       "source": "Devpost"
     }
   ]
