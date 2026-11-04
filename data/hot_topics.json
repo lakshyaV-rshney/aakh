@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-03T06:39:49.072437+00:00",
+  "fetched_at": "2026-11-04T06:06:47.536686+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
-      "url": "https://github.com/morluto/rea",
-      "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
-      "head_fake": "The agent just decompiled the entire binary in 4 seconds. It's going to change how we audit code."
-    },
     {
       "type": "repo",
       "title": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "big_question": "Can a structured methodology for agentic coding improve reliability and reduce hallucinations in AI-assisted development?",
-      "head_fake": "I stopped fighting the AI and started giving it 'skills'. The code quality actually went up."
+      "big_question": "How can structured agentic methodologies reduce the cognitive load of complex software development tasks for students?",
+      "head_fake": "\ud83e\udde0 Agentic skills framework for dev methodology"
+    },
+    {
+      "type": "repo",
+      "title": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "big_question": "What is the most effective way to visualize and implement core CS algorithms in Python for interview preparation?",
+      "head_fake": "\ud83d\udc0d All algorithms in Python"
     },
     {
       "type": "hn",
-      "title": "Scaling Git at OpenAI",
-      "description": "Insights into how OpenAI manages and scales Git workflows for massive codebases.",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
-      "big_question": "What architectural changes are necessary to maintain Git performance in repositories with millions of commits and AI-generated code?",
-      "head_fake": "Git is broken at scale. Here is how they fixed it before the AI took over the repo."
+      "title": "The Internals of PostgreSQL",
+      "description": "A deep dive into the internal workings of the PostgreSQL database system.",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "big_question": "How does understanding low-level database internals like PostgreSQL's storage engine improve backend architecture decisions?",
+      "head_fake": "\ud83d\uddc4\ufe0f Deep dive into PostgreSQL internals"
     },
     {
       "type": "hn",
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "description": "Ubuntu LTS kernels remain unfixed for critical CVE-2026-98432.",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "big_question": "Why is there such a significant delay in patching critical 0-day vulnerabilities in major Linux distributions?",
-      "head_fake": "Your server is probably already compromised. The patch is 3 weeks late and the exploit is public."
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "description": "A blog post detailing the process of reverse engineering a car's navigation system to modify its clock.",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "big_question": "What are the security implications of embedded systems in consumer vehicles, and how accessible are they to hobbyist hackers?",
+      "head_fake": "\ud83d\ude97 Hacking a car's nav system for time"
     },
     {
       "type": "competition",
       "title": "Neural Storm",
       "description": "A hackathon focused on neural networks and AI applications.",
       "url": "https://neuralstorm.devpost.com/",
-      "big_question": "What are the most practical applications of neural networks that can be built within a 48-hour hackathon window?",
-      "head_fake": "Everyone is building chatbots. The winners will be the ones who solve a boring problem with a neural net."
+      "big_question": "How can students leverage current neural network frameworks to solve real-world problems within a short hackathon timeframe?",
+      "head_fake": "\u26a1 Neural Storm AI Hackathon"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
       "description": "Bug bounty program for Twilio, a cloud communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common security misconfigurations in cloud communication APIs that lead to high-severity bugs?",
-      "head_fake": "Twilio pays well, but the scope is tight. Look for SSRF in the webhook endpoints."
+      "big_question": "What are the common vulnerability patterns in cloud communication APIs that can be exploited for bug bounty rewards?",
+      "head_fake": "\ud83d\udc1b Twilio Bug Bounty Program"
     },
     {
       "type": "floater",
-      "title": "The Rise of Agentic Coding",
-      "description": "A trend analysis of how AI agents are shifting from code completion to autonomous task execution.",
-      "url": "https://example.com/agentic-coding-trend",
-      "big_question": "Will agentic coding tools replace junior developers or simply change the definition of entry-level work?",
-      "head_fake": "Stop writing code. Start managing agents. The job market is shifting faster than you think."
+      "title": "The Little Book of Generative AI Foundations",
+      "description": "An intuitive mathematical primer on generative AI.",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "big_question": "How can a solid mathematical foundation in linear algebra and probability enhance one's understanding of generative AI models?",
+      "head_fake": "\ud83d\udcda Math primer for GenAI"
     },
     {
       "type": "floater",
-      "title": "Rust in the Enterprise",
-      "description": "An overview of Rust's adoption in enterprise systems and its impact on performance and safety.",
-      "url": "https://example.com/rust-enterprise",
-      "big_question": "Is the learning curve for Rust justified by the performance and safety benefits in large-scale systems?",
-      "head_fake": "Rust is finally winning. The compiler is your best friend and your worst enemy."
+      "title": "Postman silently auto-installs AI plugins",
+      "description": "Discussion on Postman's controversial decision to auto-install AI plugins and share API data.",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "big_question": "What are the privacy and security risks associated with third-party tools automatically integrating AI features without explicit user consent?",
+      "head_fake": "\ud83d\udd12 Postman AI plugin controversy"
     }
   ]
 }

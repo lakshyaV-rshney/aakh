@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T06:39:24.716433+00:00",
+  "fetched_at": "2026-11-04T06:06:20.376281+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -2528,12 +2528,6 @@
       "source": "Bugcrowd"
     },
     {
-      "title": "Programmer Hat Marketplace Bug Bounty Program",
-      "url": "https://bugcrowd.com/engagements/programmer-hat-market",
-      "bounty": "$1,500",
-      "source": "Bugcrowd"
-    },
-    {
       "title": "ProjectBalm",
       "url": "https://bugcrowd.com/engagements/projectbalm",
       "bounty": "$1,500",
@@ -3140,12 +3134,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "BRP Challenge",
-      "url": "https://www.intigriti.com/programs/intigriti/challengebrp/detail",
-      "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
       "title": "Bitvavo VDP",
       "url": "https://www.intigriti.com/programs/bitvavo/bitvavovdp/detail",
       "bounty": "Bounty offered",
@@ -3233,12 +3221,6 @@
       "title": "Dashlane Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/dashlane/dashlanevulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "DataCamp",
-      "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-      "bounty": "\u20ac1,500",
       "source": "Intigriti"
     },
     {
@@ -3431,12 +3413,6 @@
       "title": "Kinepolis Group",
       "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
       "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Kiwa Vulnerability Disclosure Program",
-      "url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
-      "bounty": "Bounty offered",
       "source": "Intigriti"
     },
     {

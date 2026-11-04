@@ -1,95 +1,95 @@
 {
-  "fetched_at": "2026-11-03T06:39:24.321993+00:00",
+  "fetched_at": "2026-11-04T06:06:21.326018+00:00",
   "stories": [
     {
-      "title": "Show HN: Rustable is an open source database client built in Rust",
-      "url": "https://rustable.app",
-      "summary": "<p>Article URL: <a href=\"https://rustable.app\">https://rustable.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50347524\">https://news.ycombinator.com/item?id=50347524</a></p>\n<p>Points: 18</p>\n<p># Comments: 9</p>",
-      "published": "Tue, 03 Nov 2026 03:06:53 +0000",
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "summary": "<p>Article URL: <a href=\"https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/\">https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50360164\">https://news.ycombinator.com/item?id=",
+      "published": "Wed, 04 Nov 2026 00:33:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html\">https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212",
-      "published": "Tue, 03 Nov 2026 00:08:53 +0000",
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "summary": "<p>Article URL: <a href=\"https://www.interdb.jp/pg/index.html\">https://www.interdb.jp/pg/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358702\">https://news.ycombinator.com/item?id=50358702</a></p>\n<p>Points: 201</p>\n<p># Comments: 13</p>",
+      "published": "Tue, 03 Nov 2026 21:51:06 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/scaling-git-at-openai/\">https://openai.com/index/scaling-git-at-openai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50345924\">https://news.ycombinator.com/item?id=50345924</a></p>\n<p>Points: 157</p>\n<p># Comments: 71</p>",
-      "published": "Mon, 02 Nov 2026 23:47:56 +0000",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.29713\">https://arxiv.org/abs/2605.29713</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358582\">https://news.ycombinator.com/item?id=50358582</a></p>\n<p>Points: 291</p>\n<p># Comments: 48</p>",
+      "published": "Tue, 03 Nov 2026 21:40:53 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-      "summary": "<p>Article URL: <a href=\"https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase\">https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat",
-      "published": "Mon, 02 Nov 2026 21:42:25 +0000",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "summary": "<p>To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The ",
+      "published": "Tue, 03 Nov 2026 21:20:03 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/\">https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50341736\">https://news.ycombinator.com/item?id=50",
-      "published": "Mon, 02 Nov 2026 18:54:44 +0000",
+      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "summary": "<p>Hey HN, Ayan here from Finic. We\u2019re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters tha",
+      "published": "Tue, 03 Nov 2026 21:16:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "summary": "<p>Article URL: <a href=\"https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432\">https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50341462\">https://news.",
-      "published": "Mon, 02 Nov 2026 18:39:38 +0000",
+      "title": "Introduction to Programming in ATS",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "summary": "<p>Article URL: <a href=\"https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html\">https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50356913\">https://news.ycombinator.com/item?id=50356913</a>",
+      "published": "Tue, 03 Nov 2026 19:25:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Skill to Create Product Videos",
-      "url": "https://github.com/aaitor/skill-video-studio",
-      "summary": "<p>Article URL: <a href=\"https://github.com/aaitor/skill-video-studio\">https://github.com/aaitor/skill-video-studio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50340992\">https://news.ycombinator.com/item?id=50340992</a></p>\n<p>Points: 91</p>\n<p># Comments: 26</p>",
-      "published": "Mon, 02 Nov 2026 18:10:39 +0000",
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "summary": "<p>Article URL: <a href=\"https://ben.stolovitz.com/posts/how-use-ai-oct-2026/\">https://ben.stolovitz.com/posts/how-use-ai-oct-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50355767\">https://news.ycombinator.com/item?id=50355767</a></p>\n<p>Points: 123</p>\n<p># Comments:",
+      "published": "Tue, 03 Nov 2026 18:11:11 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "summary": "<p>Article URL: <a href=\"https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you\">https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin",
-      "published": "Mon, 02 Nov 2026 17:47:40 +0000",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "summary": "<p>Article URL: <a href=\"https://github.com/postmanlabs/postman-app-support/issues/14370\">https://github.com/postmanlabs/postman-app-support/issues/14370</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50354960\">https://news.ycombinator.com/item?id=50354960</a></p>\n<p>Points: ",
+      "published": "Tue, 03 Nov 2026 17:22:37 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "summary": "<p>Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) (<a href=\"https://subvocal.company/\">https://subvocal.company/</a>). We\u2019re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them t",
-      "published": "Mon, 02 Nov 2026 17:16:17 +0000",
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "summary": "<p>Article URL: <a href=\"https://openathena.ai/blog/there-is-no-posttraining-data-commons/\">https://openathena.ai/blog/there-is-no-posttraining-data-commons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50352641\">https://news.ycombinator.com/item?id=50352641</a></p>\n<p>Poin",
+      "published": "Tue, 03 Nov 2026 14:45:47 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "summary": "<p>Hey HN, we\u2019re Wei-Wei and Jeff. We\u2019re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs.<p>Here\u2019s a demo: <a href=\"https://youtu.be/BFsM-Se1Fh8\" rel=\"nofollow\">https://youtu.be/BFsM-S",
-      "published": "Mon, 02 Nov 2026 17:05:25 +0000",
+      "title": "Union Types and Option Types (2025)",
+      "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+      "summary": "<p>Article URL: <a href=\"https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html\">https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50342931\">https://news.ycombinator.com/item?id=50342931</a></p>",
+      "published": "Mon, 02 Nov 2026 20:08:33 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "summary": "<p>Article URL: <a href=\"https://namedaisy.com/blog/boy-names-that-became-girl-names\">https://namedaisy.com/blog/boy-names-that-became-girl-names</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50339397\">https://news.ycombinator.com/item?id=50339397</a></p>\n<p>Points: 344</p>\n",
-      "published": "Mon, 02 Nov 2026 16:34:36 +0000",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "summary": "<p>Article URL: <a href=\"https://blog.nns.ee/2026/11/02/renault-hack/\">https://blog.nns.ee/2026/11/02/renault-hack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50339288\">https://news.ycombinator.com/item?id=50339288</a></p>\n<p>Points: 704</p>\n<p># Comments: 292</p>",
+      "published": "Mon, 02 Nov 2026 16:29:19 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "summary": "<p>Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. \nYou can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper).<p>Works best on desktop, but I tried to make it usable",
-      "published": "Mon, 02 Nov 2026 16:25:26 +0000",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/\">https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c",
+      "published": "Mon, 02 Nov 2026 14:02:42 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: Who is hiring? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50338728",
-      "summary": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company\u2014no\nrecruiting firms or job boards. One post per company. If i",
-      "published": "Mon, 02 Nov 2026 16:01:37 +0000",
+      "title": "We're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "summary": "<p>Article URL: <a href=\"https://www.figma.com/blog/training-a-figma-fluent-editing-model/\">https://www.figma.com/blog/training-a-figma-fluent-editing-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322603\">https://news.ycombinator.com/item?id=50322603</a></p>\n<p>Poin",
+      "published": "Sun, 01 Nov 2026 04:05:23 +0000",
       "source": "Hacker News"
     }
   ]
