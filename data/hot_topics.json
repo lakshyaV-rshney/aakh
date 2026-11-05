@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-04T06:06:47.536686+00:00",
+  "fetched_at": "2026-11-05T06:36:21.499796+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "big_question": "How can structured agentic methodologies reduce the cognitive load of complex software development tasks for students?",
-      "head_fake": "\ud83e\udde0 Agentic skills framework for dev methodology"
+      "big_question": "Can structured agentic workflows actually replace traditional code review processes for student teams?",
+      "head_fake": "\ud83e\udde0 Framework"
     },
     {
       "type": "repo",
-      "title": "TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "big_question": "What is the most effective way to visualize and implement core CS algorithms in Python for interview preparation?",
-      "head_fake": "\ud83d\udc0d All algorithms in Python"
+      "title": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "big_question": "How does a plugin-first architecture change the way we integrate LLMs into existing dev tools?",
+      "head_fake": "\ud83d\udd0c Plugin"
     },
     {
       "type": "hn",
-      "title": "The Internals of PostgreSQL",
-      "description": "A deep dive into the internal workings of the PostgreSQL database system.",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "big_question": "How does understanding low-level database internals like PostgreSQL's storage engine improve backend architecture decisions?",
-      "head_fake": "\ud83d\uddc4\ufe0f Deep dive into PostgreSQL internals"
+      "title": "Progress on provable inference for large language models",
+      "description": "Anthropic research on making LLM inference provable.",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "big_question": "What does 'provable inference' mean for the reliability of AI-generated code in production?",
+      "head_fake": "\ud83d\udcdc Proof"
     },
     {
       "type": "hn",
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "description": "A blog post detailing the process of reverse engineering a car's navigation system to modify its clock.",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "big_question": "What are the security implications of embedded systems in consumer vehicles, and how accessible are they to hobbyist hackers?",
-      "head_fake": "\ud83d\ude97 Hacking a car's nav system for time"
+      "title": "Kimi K3.1 Pro model weights are out",
+      "description": "Moonshot AI releases Kimi K3.1 Pro weights on Hugging Face.",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "big_question": "How do open-weights models like Kimi K3.1 Pro compare to closed APIs for local student projects?",
+      "head_fake": "\u2696\ufe0f Weights"
     },
     {
       "type": "competition",
       "title": "Neural Storm",
       "description": "A hackathon focused on neural networks and AI applications.",
       "url": "https://neuralstorm.devpost.com/",
-      "big_question": "How can students leverage current neural network frameworks to solve real-world problems within a short hackathon timeframe?",
-      "head_fake": "\u26a1 Neural Storm AI Hackathon"
+      "big_question": "What is the most impactful AI project a student team can build in 48 hours?",
+      "head_fake": "\u26a1 Storm"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio, a cloud communications platform.",
+      "description": "Bug bounty program for Twilio's communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common vulnerability patterns in cloud communication APIs that can be exploited for bug bounty rewards?",
-      "head_fake": "\ud83d\udc1b Twilio Bug Bounty Program"
+      "big_question": "Which API endpoints in communication platforms are most prone to logic errors?",
+      "head_fake": "\ud83d\udce1 Signal"
     },
     {
       "type": "floater",
-      "title": "The Little Book of Generative AI Foundations",
-      "description": "An intuitive mathematical primer on generative AI.",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "big_question": "How can a solid mathematical foundation in linear algebra and probability enhance one's understanding of generative AI models?",
-      "head_fake": "\ud83d\udcda Math primer for GenAI"
+      "title": "Technical Debt & AI",
+      "description": "AI is forcing us to pay off 40 years of technical debt.",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "big_question": "Is AI accelerating the cleanup of legacy code or just creating new layers of complexity?",
+      "head_fake": "\ud83e\uddf9 Debt"
     },
     {
       "type": "floater",
-      "title": "Postman silently auto-installs AI plugins",
-      "description": "Discussion on Postman's controversial decision to auto-install AI plugins and share API data.",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "big_question": "What are the privacy and security risks associated with third-party tools automatically integrating AI features without explicit user consent?",
-      "head_fake": "\ud83d\udd12 Postman AI plugin controversy"
+      "title": "Qualcomm Cloud AI 100 Ultra",
+      "description": "150W AI Accelerator Card with 128GB at 548GB/s.",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "big_question": "How will edge AI accelerators change the cost structure for student research clusters?",
+      "head_fake": "\ud83d\ude80 Edge"
     }
   ]
 }

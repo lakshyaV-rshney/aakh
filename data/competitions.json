@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-11-04T06:06:33.637105+00:00",
+  "fetched_at": "2026-11-05T06:36:15.052798+00:00",
   "competitions": [
     {
-      "title": "Neural Storm",
-      "url": "https://neuralstorm.devpost.com/",
-      "deadline": "Nov 02 - 04, 2026",
-      "prize": "\u20b9 20,000",
+      "title": "Company Brain Hackathon at TechEquity",
+      "url": "https://company-brain-techequity.devpost.com/",
+      "deadline": "Nov 04 - 05, 2026",
+      "prize": "$500",
       "source": "Devpost"
     },
     {
-      "title": "Girls Who Code HHS Hackathon 2026",
-      "url": "https://gwchhs-hackathon-2026.devpost.com/",
-      "deadline": "Oct 15 - Nov 05, 2026",
-      "prize": "$50",
+      "title": "Neural Storm",
+      "url": "https://neuralstorm.devpost.com/",
+      "deadline": "Nov 02 - 05, 2026",
+      "prize": "\u20b9 20,000",
       "source": "Devpost"
     },
     {
@@ -44,6 +44,13 @@
       "source": "Devpost"
     },
     {
+      "title": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop",
+      "url": "https://arr-hackathon-co-creation.devpost.com/",
+      "deadline": "Nov 04 - 06, 2026",
+      "prize": "\u00a30",
+      "source": "Devpost"
+    },
+    {
       "title": "2026 UXC NYU Fall Design-a-thon ",
       "url": "https://uxc-fall-2026-design-a-thon.devpost.com/",
       "deadline": "Nov 02 - 07, 2026",
@@ -62,13 +69,6 @@
       "url": "https://ethnohack2026.devpost.com/",
       "deadline": "Nov 02 - 08, 2026",
       "prize": "\u20ac8,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Redhawk Builds 2026",
-      "url": "https://redhawk-builds-2026.devpost.com/",
-      "deadline": "Nov 01 - 08, 2026",
-      "prize": "$3,500",
       "source": "Devpost"
     }
   ]

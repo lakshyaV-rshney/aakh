@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T06:06:20.376281+00:00",
+  "fetched_at": "2026-11-05T06:35:57.075519+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -592,6 +592,12 @@
     {
       "title": "Stripe",
       "url": "https://hackerone.com/stripe",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Freshworks ",
+      "url": "https://hackerone.com/freshworks",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1589,6 +1595,12 @@
       "title": "Bullish Exchange",
       "url": "https://bugcrowd.com/engagements/bullish-exchange",
       "bounty": "$25,000",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Bytera Marketplace Managed Bug Bounty Engagement",
+      "url": "https://bugcrowd.com/engagements/bytera-market",
+      "bounty": "$1,500",
       "source": "Bugcrowd"
     },
     {
@@ -2726,12 +2738,6 @@
       "source": "Bugcrowd"
     },
     {
-      "title": "Snapbytes Marketplace Managed Bug Bounty Engagement",
-      "url": "https://bugcrowd.com/engagements/snapbytes-market",
-      "bounty": "$1,500",
-      "source": "Bugcrowd"
-    },
-    {
       "title": "SnapNames Bug Bounty",
       "url": "https://bugcrowd.com/engagements/snapnames",
       "bounty": "$2,000",
@@ -3335,6 +3341,12 @@
       "title": "HRS Group VDP",
       "url": "https://www.intigriti.com/programs/hrsgroup/hrsgroupvdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Here Technologies",
+      "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+      "bounty": "\u20ac2,000",
       "source": "Intigriti"
     },
     {
