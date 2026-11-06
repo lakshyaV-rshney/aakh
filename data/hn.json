@@ -1,102 +1,123 @@
 {
-  "fetched_at": "2026-11-05T06:36:00.690085+00:00",
+  "fetched_at": "2026-11-06T06:30:24.744276+00:00",
   "stories": [
     {
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-images-2-6/\">https://openai.com/index/introducing-images-2-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372945\">https://news.ycombinator.com/item?id=50372945</a></p>\n<p>Points: 223</p>\n<p># Comments: 143</p>",
-      "published": "Wed, 04 Nov 2026 23:35:44 +0000",
+      "title": "How accurately did science fiction stories predict AI?",
+      "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+      "summary": "<p>Article URL: <a href=\"https://jamesyu.org/science-fiction-predictions-of-ai/\">https://jamesyu.org/science-fiction-predictions-of-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388263\">https://news.ycombinator.com/item?id=50388263</a></p>\n<p>Points: 22</p>\n<p># Commen",
+      "published": "Fri, 06 Nov 2026 04:36:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/a-thousand-fewer-paths-to-root/\">https://openai.com/index/a-thousand-fewer-paths-to-root/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372929\">https://news.ycombinator.com/item?id=50372929</a></p>\n<p>Points: 261</p>\n<p># C",
-      "published": "Wed, 04 Nov 2026 23:33:14 +0000",
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "summary": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/\">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388122\">https",
+      "published": "Fri, 06 Nov 2026 04:17:49 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "summary": "<p>Article URL: <a href=\"https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra\">https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50370654\">https://news.ycombinator.com/item?id=50370654</a></p>\n<p>Points",
-      "published": "Wed, 04 Nov 2026 19:55:14 +0000",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "summary": "<p>Article URL: <a href=\"https://github.com/dsx-ai-factory/nvke\">https://github.com/dsx-ai-factory/nvke</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387738\">https://news.ycombinator.com/item?id=50387738</a></p>\n<p>Points: 46</p>\n<p># Comments: 15</p>",
+      "published": "Fri, 06 Nov 2026 03:16:26 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "summary": "<p>Hi HN! I'm Luke from Kino (<a href=\"https://kino.ai\">https://kino.ai</a>). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can ",
-      "published": "Wed, 04 Nov 2026 17:31:53 +0000",
+      "title": "Closed AI models dominate the price-performance frontier",
+      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "summary": "<p>Article URL: <a href=\"https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/\">https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387546\">https://news.ycombi",
+      "published": "Fri, 06 Nov 2026 02:49:56 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/provable-inference\">https://www.anthropic.com/research/provable-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50368626\">https://news.ycombinator.com/item?id=50368626</a></p>\n<p>Points: 204</p>\n<p># Comment",
-      "published": "Wed, 04 Nov 2026 17:17:46 +0000",
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-small/\">https://thinkingmachines.ai/news/inkling-2-small/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386338\">https://news.ycombinator.com/item?id=50386338</a></p>\n<p>Points: 150</p>\n<p># Comments: 54</p",
+      "published": "Fri, 06 Nov 2026 00:00:24 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
-      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham\">https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50367653\"",
-      "published": "Wed, 04 Nov 2026 16:11:33 +0000",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\">https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50385",
+      "published": "Thu, 05 Nov 2026 23:09:57 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "summary": "<p>Article URL: <a href=\"https://huggingface.co/moonshotai/Kimi-K3.1-Pro\">https://huggingface.co/moonshotai/Kimi-K3.1-Pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366999\">https://news.ycombinator.com/item?id=50366999</a></p>\n<p>Points: 464</p>\n<p># Comments: 133</p>",
-      "published": "Wed, 04 Nov 2026 15:30:30 +0000",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/107757\">https://github.com/anthropics/claude-code/issues/107757</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50385272\">https://news.ycombinator.com/item?id=50385272</a></p>\n<p>Points: 854</p>\n<p># Com",
+      "published": "Thu, 05 Nov 2026 22:17:15 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "summary": "<p><a href=\"https://twitter.com/pierrecomputer/status/2117999036175188183\" rel=\"nofollow\">https://twitter.com/pierrecomputer/status/211799903617518818...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366863\">https://news.ycombinator.com/item?id=50366863</a></p>\n<p>P",
-      "published": "Wed, 04 Nov 2026 15:21:21 +0000",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "summary": "<p>Article URL: <a href=\"https://www.cve.org/CVERecord?id=CVE-2026-83844\">https://www.cve.org/CVERecord?id=CVE-2026-83844</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50384233\">https://news.ycombinator.com/item?id=50384233</a></p>\n<p>Points: 441</p>\n<p># Comments: 170</p>",
+      "published": "Thu, 05 Nov 2026 20:43:42 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "summary": "<p>I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.<p>1) What AI subscriptions are you personally paying for? (Claude, ",
-      "published": "Wed, 04 Nov 2026 14:37:22 +0000",
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/\">https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383057\">https://news.ycombinator.com/item?id=50383057</a></p>\n<p>Po",
+      "published": "Thu, 05 Nov 2026 19:08:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Tencent Hy4",
-      "url": "https://hy.tencent.ai/research/hy4",
-      "summary": "<p>Article URL: <a href=\"https://hy.tencent.ai/research/hy4\">https://hy.tencent.ai/research/hy4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50365780\">https://news.ycombinator.com/item?id=50365780</a></p>\n<p>Points: 222</p>\n<p># Comments: 72</p>",
-      "published": "Wed, 04 Nov 2026 14:11:26 +0000",
+      "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "summary": "<p>Hey HN, this is Nathan and Nicholas from Rivet (<a href=\"https://rivet.dev\">https://rivet.dev</a>) \u2013 a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.<",
+      "published": "Thu, 05 Nov 2026 17:17:42 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability\">https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50364336\">https://news.ycombinator.com/item?id=50364336</a></p>",
-      "published": "Wed, 04 Nov 2026 11:52:17 +0000",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/bild-ai/jobs\">https://www.ycombinator.com/companies/bild-ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381512\">https://news.ycombinator.com/item?id=50381512</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "published": "Thu, 05 Nov 2026 17:01:23 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Future Maintenance of Mbed TLS",
-      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
-      "summary": "<p>Article URL: <a href=\"https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/\">https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/</a></p>\n<p>Comments URL: <",
-      "published": "Tue, 03 Nov 2026 07:39:05 +0000",
+      "title": "The Stacks Project, Formalized in Lean",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "summary": "<p>Article URL: <a href=\"https://axiommath.ai/research/the-stacks-project-formalized/\">https://axiommath.ai/research/the-stacks-project-formalized/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380979\">https://news.ycombinator.com/item?id=50380979</a></p>\n<p>Points: 83</p>",
+      "published": "Thu, 05 Nov 2026 16:16:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: The DNA of DOOM \u2013 How code structure survives across 44 ports",
-      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
-      "summary": "<p>I used my custom built structural extraction engine to analyze 44 DOOM ports across history to see what functions remain, if the keyword structure of those functions remained, if comparable call networks could be seen, etc. - <a href=\"https://github.com/squid-protocol/gitgalaxy\" rel=\"nofollow\">ht",
-      "published": "Mon, 02 Nov 2026 16:23:37 +0000",
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "summary": "<p>Article URL: <a href=\"https://mcp-explained.com/\">https://mcp-explained.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379249\">https://news.ycombinator.com/item?id=50379249</a></p>\n<p>Points: 281</p>\n<p># Comments: 118</p>",
+      "published": "Thu, 05 Nov 2026 14:08:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/\">https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb",
-      "published": "Mon, 02 Nov 2026 15:48:45 +0000",
+      "title": "Show HN: Firenook \u2013 Firebase emulators in Rust: 40\u00d7 faster writes, 10\u00d7 less RAM",
+      "url": "https://firenook.dev/",
+      "summary": "<p>Hi HN, we have been developing with Firebase for a long time, and the only way Firebase developers can build apps without directly costing them is using the official Firebase Emulator Suite.<p>However, the issue with this suite is, it's dependent and running on Java with a old Console UI (not upd",
+      "published": "Thu, 05 Nov 2026 13:07:29 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "summary": "<p>Related:<p><a href=\"https://hachyderm.io/@damienmiller/117563026759098135\" rel=\"nofollow\">https://hachyderm.io/@damienmiller/117563026759098135</a> / <a href=\"https://news.ycombinator.com/item?id=50377221\">https://news.ycombinator.com/item?id=50377221</a><p><a href=\"https://www.openssh.org/releas",
+      "published": "Thu, 05 Nov 2026 12:19:02 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "summary": "<p>Article URL: <a href=\"https://ernie.baidu.com/release/ernie-5-5-flash-base/\">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50377078\">https://news.ycombinator.com/item?id=50377078</a></p>\n<p>Points: 172</p>\n<p># Comment",
+      "published": "Thu, 05 Nov 2026 09:29:12 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "summary": "<p>My brother and I run a 2-person lab that trains our own generative video models from scratch. The ultimate goal is a set of creative tools that make it easier for anyone to make animation.<p>Video models today are too slow/expensive and lack sufficient controls. Creativity is an iterative process",
+      "published": "Wed, 04 Nov 2026 16:45:11 +0000",
       "source": "Hacker News"
     }
   ]

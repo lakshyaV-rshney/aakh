@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T06:35:57.075519+00:00",
+  "fetched_at": "2026-11-06T06:30:21.776339+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3110,12 +3110,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Axel Springer National Media & Tech",
-      "url": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
-      "bounty": "\u20ac2,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "Axel Springer SE Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/axelspringerse/axelspringersevulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
@@ -3341,12 +3335,6 @@
       "title": "HRS Group VDP",
       "url": "https://www.intigriti.com/programs/hrsgroup/hrsgroupvdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Here Technologies",
-      "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-      "bounty": "\u20ac2,000",
       "source": "Intigriti"
     },
     {
@@ -3638,6 +3626,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Rivian Vulnerability Disclosure Program",
+      "url": "https://www.intigriti.com/programs/rivian/rivianvdp/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "SBB - Swiss Federal Railways",
       "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
       "bounty": "\u20ac6,666",
@@ -3689,12 +3683,6 @@
       "title": "Speakap Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Sqills",
-      "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {
@@ -3839,6 +3827,12 @@
       "title": "Voi Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "WP Engine Bug Bounty",
+      "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+      "bounty": "\u20ac2,500",
       "source": "Intigriti"
     },
     {

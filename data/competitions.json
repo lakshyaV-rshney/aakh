@@ -1,41 +1,6 @@
 {
-  "fetched_at": "2026-11-05T06:36:15.052798+00:00",
+  "fetched_at": "2026-11-06T06:30:33.477539+00:00",
   "competitions": [
-    {
-      "title": "Company Brain Hackathon at TechEquity",
-      "url": "https://company-brain-techequity.devpost.com/",
-      "deadline": "Nov 04 - 05, 2026",
-      "prize": "$500",
-      "source": "Devpost"
-    },
-    {
-      "title": "Neural Storm",
-      "url": "https://neuralstorm.devpost.com/",
-      "deadline": "Nov 02 - 05, 2026",
-      "prize": "\u20b9 20,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Mini VikingHacks",
-      "url": "https://mini-vikinghacks.devpost.com/",
-      "deadline": "Nov 03 - 05, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
-      "url": "https://yunet-aignite26.devpost.com/",
-      "deadline": "Nov 01 - 05, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Remote Control AI",
-      "url": "https://remote-control-ai.devpost.com/",
-      "deadline": "Oct 31 - Nov 05, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "Pumpkin Playground",
       "url": "https://pumpkin-playground.devpost.com/",
@@ -69,6 +34,41 @@
       "url": "https://ethnohack2026.devpost.com/",
       "deadline": "Nov 02 - 08, 2026",
       "prize": "\u20ac8,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Redhawk Builds 2026",
+      "url": "https://redhawk-builds-2026.devpost.com/",
+      "deadline": "Nov 01 - 08, 2026",
+      "prize": "$3,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "WWC Hackathon",
+      "url": "https://wwc-hackathon.devpost.com/",
+      "deadline": "Nov 03 - 09, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Learn AR with SPECS",
+      "url": "https://learn-specs.devpost.com/",
+      "deadline": "Oct 15 - Nov 09, 2026",
+      "prize": "$2,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "IBM Db2Hack 2026",
+      "url": "https://ibm-db2hack-2026.devpost.com/",
+      "deadline": "Nov 05 - 10, 2026",
+      "prize": "\u20b9 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agentic Hackathon",
+      "url": "https://agentic-hackathon.devpost.com/",
+      "deadline": "Nov 01 - 10, 2026",
+      "prize": "$480",
       "source": "Devpost"
     }
   ]
