@@ -1,6 +1,11 @@
-# Aakh
+# Aakh: Automated Morning Briefing & Tech Feed Pipeline
 
-**v1.3.3** — [Live](https://lakshyav-rshney.github.io/aakh/)
+[![Nightly Refresh](https://github.com/lakshyaV-rshney/aakh/actions/workflows/nightly-refresh.yml/badge.svg)](https://github.com/lakshyaV-rshney/aakh/actions/workflows/nightly-refresh.yml)
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-GitHub_Pages-2ea44f?logo=githubpages&logoColor=white)](https://lakshyav-rshney.github.io/aakh/)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+**v1.3.3** — [Live Dashboard](https://lakshyav-rshney.github.io/aakh/) • [Developer Portfolio](https://lakshyavarshney.vercel.app)
 
 A self-updating morning dashboard. Pulls trending repos, open hackathons, bug bounties, and developer news every night. Ready before you wake up.
 
@@ -167,17 +172,17 @@ python -m http.server 8000
 
 ---
 
-## Hardcoded assumptions to review
+## Configuration & Maintenance Boundaries
 
-| Item | Location | Action needed |
-|---|---|---|
-| MLH season year | `config/sources.yaml` -> `mlh_year` | Update every January |
-| Groq model | `config/sources.yaml` -> `groq.model` | Update if Groq deprecates the model |
-| edge-tts voices | `config/sources.yaml` -> `audio.voices` | Update if Microsoft retires a voice |
+| Boundary Item | Source Location | Handling / Action | Status |
+|---|---|---|---|
+| MLH Season Year | `config/sources.yaml` -> `mlh_year` | Manual bump every January | Scheduled config update |
+| Groq LLM Endpoint | `scripts/rank_hot_topics.py` | Runtime query of active model list; automatic fallback | **Fully automated (v1.3.3)** |
+| Edge-TTS Neural Voices | `config/sources.yaml` -> `audio.voices` | Configurable fallback if Microsoft deprecates a voice token | Config-driven |
 
 ---
 
 [Create your own dashboard here.](https://github.com/lakshyaV-rshney/aakh)
 
-Developed by **Lakshya Varshney**  
-🔗 [GitHub](https://github.com/lakshyaV-rshney) | 🔗 [LinkedIn](https://www.linkedin.com/in/-lakshya-varshney/)
+Developed & Maintained by **Lakshya Varshney**  
+🌐 [Portfolio](https://lakshyavarshney.vercel.app) | 🐙 [GitHub](https://github.com/lakshyaV-rshney) | 💼 [LinkedIn](https://www.linkedin.com/in/-lakshya-varshney/)
