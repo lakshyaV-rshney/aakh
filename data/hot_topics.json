@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T06:30:52.065168+00:00",
+  "fetched_at": "2026-11-07T05:51:25.579506+00:00",
   "hot_topics": [
     {
       "type": "repo",
@@ -7,63 +7,63 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
       "url": "https://github.com/morluto/rea",
       "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
-      "head_fake": "I'm staring at this repo and wondering if I could actually use this to crack a closed-source app for my capstone project."
+      "head_fake": "Agent-driven RE is the new debugger"
     },
     {
       "type": "repo",
-      "title": "deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "big_question": "What does a fully plugin-based AI architecture mean for the future of extensible software systems?",
-      "head_fake": "If everything is a plugin, does that mean I can just hot-swap my entire backend logic without restarting the server?"
+      "title": "torvalds/linux",
+      "description": "Linux kernel source tree",
+      "url": "https://github.com/torvalds/linux",
+      "big_question": "What are the latest kernel changes impacting container isolation and performance for student projects?",
+      "head_fake": "Kernel updates: the silent performance killer"
     },
     {
       "type": "hn",
-      "title": "Closed AI models dominate the price-performance frontier",
-      "description": "Analysis showing that closed-source AI models are currently outperforming open-source alternatives in cost-efficiency.",
-      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-      "big_question": "Is the open-source AI movement losing its economic advantage, and what does that mean for student developers relying on free tiers?",
-      "head_fake": "Wait, so the free open-source models are actually more expensive to run at scale? That changes my thesis argument completely."
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "description": "Analysis of a VM escape vulnerability in Firecracker",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "big_question": "How do VM escapes in lightweight hypervisors like Firecracker threaten cloud-native security architectures?",
+      "head_fake": "Your cloud container might not be a container"
     },
     {
       "type": "hn",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "description": "A critical CVE allowing remote code execution through Microsoft Paint.",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "big_question": "How does a legacy application like MS Paint still pose a significant security risk in modern enterprise environments?",
-      "head_fake": "I can't believe MS Paint is still getting RCEs. I need to check if my lab machines are patched or if I'm one click away from a shell."
+      "title": "First steps in bare-metal programming using UEFI",
+      "description": "A guide to starting bare-metal programming with UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "big_question": "Why is understanding UEFI essential for modern low-level systems development and embedded systems?",
+      "head_fake": "Stop writing for the OS, write for the hardware"
     },
     {
       "type": "competition",
-      "title": "Agentic Hackathon",
-      "description": "A hackathon focused on building and deploying autonomous AI agents.",
-      "url": "https://agentic-hackathon.devpost.com/",
-      "big_question": "What are the current limitations of autonomous agents in real-world task execution, and how can they be mitigated?",
-      "head_fake": "I should probably form a team for this before the deadline, but I'm still trying to figure out which agent framework is actually stable enough to use."
+      "title": "Triangle AI Hackathon 2026",
+      "description": "A hackathon focused on AI applications and development",
+      "url": "https://triangle-ai-hackathon-2026.devpost.com/",
+      "big_question": "What are the most viable AI application patterns for student teams to build in a 48-hour window?",
+      "head_fake": "AI hackathons: where theory meets deadline"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio's communication platform.",
+      "description": "Bug bounty program for Twilio",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common attack vectors in communication APIs, and how can they be systematically identified?",
-      "head_fake": "Twilio has a high payout, but the scope is huge. I need to focus on the SMS gateway endpoints first to avoid getting overwhelmed."
+      "big_question": "What are the common API security misconfigurations in communication platforms like Twilio?",
+      "head_fake": "API security: the new perimeter"
     },
     {
       "type": "floater",
-      "title": "The Stacks Project, Formalized in Lean",
-      "description": "A research project formalizing the Stacks blockchain in the Lean proof assistant.",
-      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
-      "big_question": "How can formal verification methods be applied to blockchain protocols to ensure mathematical correctness?",
-      "head_fake": "I've never touched Lean, but this looks like the kind of deep CS research that would make my resume stand out for grad school."
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "description": "Analysis of the AI stock market sell-off compared to historical crashes",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "big_question": "How does the AI market correction impact funding for student developer tools and startups?",
+      "head_fake": "AI bubble: pop or pause?"
     },
     {
       "type": "floater",
-      "title": "Claude Code sends your email address to websites",
-      "description": "A reported issue where Claude Code leaks user email addresses to external websites.",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "big_question": "What are the privacy implications of using AI coding assistants that interact with external web services?",
-      "head_fake": "I just used Claude Code to scrape a site and now I'm worried my email is in some random database. I need to check my spam folder immediately."
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "description": "The US FAA plans to phase out floppy disks from air traffic control systems by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "big_question": "What does the persistence of legacy hardware in critical infrastructure tell us about software migration challenges?",
+      "head_fake": "Floppy disks: the last holdouts"
     }
   ]
 }
