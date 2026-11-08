@@ -1,60 +1,18 @@
 {
-  "fetched_at": "2026-11-07T05:51:11.755034+00:00",
+  "fetched_at": "2026-11-08T05:53:47.208588+00:00",
   "competitions": [
     {
-      "title": "MTC x Replit x Manara West Buildathon",
-      "url": "https://mtc-buildathon.devpost.com/",
-      "deadline": "Nov 06 - 07, 2026",
-      "prize": "$1,000",
+      "title": "WHACK 2026",
+      "url": "https://whack-2026.devpost.com/",
+      "deadline": "Nov 07 - 08, 2026",
+      "prize": "\u00a30",
       "source": "Devpost"
     },
     {
-      "title": "NUSH Hack 2026",
-      "url": "https://nh26.devpost.com/",
-      "deadline": "Nov 06 - 07, 2026",
+      "title": "HackTheBurgh-XIII",
+      "url": "https://hacktheburghxiii.devpost.com/",
+      "deadline": "Nov 07 - 08, 2026",
       "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Novembre Num\u00e9rique 2026 - IFRDC",
-      "url": "https://nn2026-ifrdc.devpost.com/",
-      "deadline": "Nov 06 - 07, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Intermountain Quantum Competition",
-      "url": "https://iqc.devpost.com/",
-      "deadline": "Nov 06 - 07, 2026",
-      "prize": "$2,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Next Byte Hacks V5",
-      "url": "https://next-byte-hacks-v5.devpost.com/",
-      "deadline": "Oct 06 - Nov 07, 2026",
-      "prize": "$100",
-      "source": "Devpost"
-    },
-    {
-      "title": "PlutoHacks 2026",
-      "url": "https://plutohacks-2026.devpost.com/",
-      "deadline": "Nov 06 - 07, 2026",
-      "prize": "$4,300",
-      "source": "Devpost"
-    },
-    {
-      "title": "Wolfjam 2026",
-      "url": "https://wolfjam-2026.devpost.com/",
-      "deadline": "Nov 06 - 07, 2026",
-      "prize": "$1,200",
-      "source": "Devpost"
-    },
-    {
-      "title": "EthnoHack",
-      "url": "https://ethnohack2026.devpost.com/",
-      "deadline": "Nov 02 - 08, 2026",
-      "prize": "\u20ac8,000",
       "source": "Devpost"
     },
     {
@@ -65,10 +23,52 @@
       "source": "Devpost"
     },
     {
+      "title": "Qiskit Fall Fest at Virginia Tech",
+      "url": "https://qiskitatvt.devpost.com/",
+      "deadline": "Nov 07 - 08, 2026",
+      "prize": "$260",
+      "source": "Devpost"
+    },
+    {
+      "title": "EthnoHack",
+      "url": "https://ethnohack2026.devpost.com/",
+      "deadline": "Nov 02 - 08, 2026",
+      "prize": "\u20ac8,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "HACKCESSABILITY",
+      "url": "https://hackcessability.devpost.com/",
+      "deadline": "Nov 07 - 08, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "YCP Hacks 2026",
+      "url": "https://ycp-hacks-2026.devpost.com/",
+      "deadline": "Nov 07 - 08, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "Triangle AI Hackathon 2026",
       "url": "https://triangle-ai-hackathon-2026.devpost.com/",
       "deadline": "Nov 06 - 08, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Redhawk Builds 2026",
+      "url": "https://redhawk-builds-2026.devpost.com/",
+      "deadline": "Nov 01 - 08, 2026",
+      "prize": "$3,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackRPI 2026",
+      "url": "https://hackrpi-2026.devpost.com/",
+      "deadline": "Nov 07 - 08, 2026",
+      "prize": "$3,850",
       "source": "Devpost"
     }
   ]

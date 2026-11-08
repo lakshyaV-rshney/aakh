@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T05:50:59.140671+00:00",
+  "fetched_at": "2026-11-08T05:53:34.319060+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3158,12 +3158,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "CM.com",
-      "url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
-      "bounty": "\u20ac2,625",
-      "source": "Intigriti"
-    },
-    {
       "title": "Canada Post - Responsible Disclosure Program",
       "url": "https://www.intigriti.com/programs/innovapost/innovapost/detail",
       "bounty": "Bounty offered",
@@ -3434,12 +3428,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Lansweeper Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-      "bounty": "\u20ac2,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Libelle",
       "url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
       "bounty": "\u20ac2,200",
@@ -3545,6 +3533,12 @@
       "title": "Orbia Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "PDQ bug bounty program",
+      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {

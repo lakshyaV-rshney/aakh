@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-07T05:51:25.579506+00:00",
+  "fetched_at": "2026-11-08T05:54:00.472436+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
       "url": "https://github.com/morluto/rea",
-      "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
-      "head_fake": "Agent-driven RE is the new debugger"
+      "big_question": "How can LLM agents automate the reverse engineering of complex native binaries?",
+      "head_fake": "I just used an agent to decompile a closed-source app in 10 minutes. The future of RE is here."
     },
     {
       "type": "repo",
-      "title": "torvalds/linux",
-      "description": "Linux kernel source tree",
-      "url": "https://github.com/torvalds/linux",
-      "big_question": "What are the latest kernel changes impacting container isolation and performance for student projects?",
-      "head_fake": "Kernel updates: the silent performance killer"
+      "title": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode",
+      "big_question": "Can open-source coding agents match the performance of proprietary closed-source tools?",
+      "head_fake": "Switched to opencode today. It's surprisingly good at refactoring legacy code without hallucinating."
     },
     {
       "type": "hn",
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "description": "Analysis of a VM escape vulnerability in Firecracker",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "big_question": "How do VM escapes in lightweight hypervisors like Firecracker threaten cloud-native security architectures?",
-      "head_fake": "Your cloud container might not be a container"
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "description": "Analysis of how a common coding agent feature is leading to accidental secret leaks in public repositories.",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "big_question": "What are the security implications of AI coding agents managing credential prompts?",
+      "head_fake": "Check your GitHub history. If you use Claude Code, you might have leaked your AWS keys."
     },
     {
       "type": "hn",
-      "title": "First steps in bare-metal programming using UEFI",
-      "description": "A guide to starting bare-metal programming with UEFI",
-      "url": "https://kevinboone.me/efitest_index.html",
-      "big_question": "Why is understanding UEFI essential for modern low-level systems development and embedded systems?",
-      "head_fake": "Stop writing for the OS, write for the hardware"
+      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "description": "A high-performance, native WhatsApp client built with Rust and the egui framework.",
+      "url": "https://github.com/crmne/zapfast",
+      "big_question": "How does Rust's performance advantage manifest in real-time messaging applications?",
+      "head_fake": "Finally, a WhatsApp client that doesn't eat my battery. Rust + egui is a powerful combo."
     },
     {
       "type": "competition",
       "title": "Triangle AI Hackathon 2026",
-      "description": "A hackathon focused on AI applications and development",
+      "description": "A hackathon focused on AI development and innovation.",
       "url": "https://triangle-ai-hackathon-2026.devpost.com/",
-      "big_question": "What are the most viable AI application patterns for student teams to build in a 48-hour window?",
-      "head_fake": "AI hackathons: where theory meets deadline"
+      "big_question": "What are the emerging trends in AI application development for 2026?",
+      "head_fake": "Looking for a team for the Triangle AI Hackathon. We have a solid idea for an LLM-based study buddy."
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio",
+      "description": "Bug bounty program for Twilio, a cloud communications platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common API security misconfigurations in communication platforms like Twilio?",
-      "head_fake": "API security: the new perimeter"
+      "big_question": "What are the common attack vectors in cloud communication APIs?",
+      "head_fake": "Twilio's bounty is generous. Good target for testing API rate limiting and auth bypasses."
     },
     {
       "type": "floater",
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "description": "Analysis of the AI stock market sell-off compared to historical crashes",
-      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "big_question": "How does the AI market correction impact funding for student developer tools and startups?",
-      "head_fake": "AI bubble: pop or pause?"
+      "title": "The $8 Linux Computer (2022)",
+      "description": "A project demonstrating how to build a functional Linux computer for under $8.",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "big_question": "How low can the barrier to entry for computing be pushed?",
+      "head_fake": "Who needs a $2000 gaming PC when you can build a Linux box for the price of a coffee?"
     },
     {
       "type": "floater",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "description": "The US FAA plans to phase out floppy disks from air traffic control systems by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "big_question": "What does the persistence of legacy hardware in critical infrastructure tell us about software migration challenges?",
-      "head_fake": "Floppy disks: the last holdouts"
+      "title": "Five memorable books about programming (2008)",
+      "description": "A curated list of five influential programming books from 2008.",
+      "url": "https://prog21.dadgum.com/19.html",
+      "big_question": "Which classic programming books still hold relevance in the modern AI era?",
+      "head_fake": "Re-reading 'The Pragmatic Programmer' today. The advice is timeless, even with AI."
     }
   ]
 }
