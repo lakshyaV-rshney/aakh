@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-08T05:54:00.472436+00:00",
+  "fetched_at": "2026-11-09T06:12:36.770355+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
       "url": "https://github.com/morluto/rea",
-      "big_question": "How can LLM agents automate the reverse engineering of complex native binaries?",
-      "head_fake": "I just used an agent to decompile a closed-source app in 10 minutes. The future of RE is here."
+      "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
+      "head_fake": "\ud83d\udd0d Reverse Engineering Agents"
     },
     {
       "type": "repo",
-      "title": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode",
-      "big_question": "Can open-source coding agents match the performance of proprietary closed-source tools?",
-      "head_fake": "Switched to opencode today. It's surprisingly good at refactoring legacy code without hallucinating."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "Which free API categories are most useful for building full-stack student projects this semester?",
+      "head_fake": "\ud83c\udf10 Free API Goldmine"
     },
     {
       "type": "hn",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "description": "Analysis of how a common coding agent feature is leading to accidental secret leaks in public repositories.",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "big_question": "What are the security implications of AI coding agents managing credential prompts?",
-      "head_fake": "Check your GitHub history. If you use Claude Code, you might have leaked your AWS keys."
+      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "description": "An open-source 3D modeling tool leveraging modern web technologies.",
+      "url": "https://ketchup3d.github.io/app/",
+      "big_question": "How is WebGPU changing the landscape for high-performance 3D applications in the browser?",
+      "head_fake": "\ud83e\udd80 Rust + WebGPU 3D"
     },
     {
       "type": "hn",
-      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-      "description": "A high-performance, native WhatsApp client built with Rust and the egui framework.",
-      "url": "https://github.com/crmne/zapfast",
-      "big_question": "How does Rust's performance advantage manifest in real-time messaging applications?",
-      "head_fake": "Finally, a WhatsApp client that doesn't eat my battery. Rust + egui is a powerful combo."
+      "title": "I'm not convinced the AI bubble exists",
+      "description": "A counter-argument to the prevailing narrative that AI investment is a speculative bubble.",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "big_question": "What are the fundamental economic drivers that distinguish sustainable AI growth from a speculative bubble?",
+      "head_fake": "\ud83d\udcc9 AI Bubble Debate"
     },
     {
       "type": "competition",
-      "title": "Triangle AI Hackathon 2026",
-      "description": "A hackathon focused on AI development and innovation.",
-      "url": "https://triangle-ai-hackathon-2026.devpost.com/",
-      "big_question": "What are the emerging trends in AI application development for 2026?",
-      "head_fake": "Looking for a team for the Triangle AI Hackathon. We have a solid idea for an LLM-based study buddy."
+      "title": "Agentic Hackathon",
+      "description": "A hackathon focused on building and deploying autonomous AI agents.",
+      "url": "https://agentic-hackathon.devpost.com/",
+      "big_question": "What are the current best practices for orchestrating multi-agent systems in real-time applications?",
+      "head_fake": "\ud83e\udd16 Agentic Hackathon"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Bug bounty program for Twilio, a cloud communications platform.",
+      "description": "Bug bounty program for Twilio's communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common attack vectors in cloud communication APIs?",
-      "head_fake": "Twilio's bounty is generous. Good target for testing API rate limiting and auth bypasses."
+      "big_question": "What are the most common security vulnerabilities in cloud-based communication APIs?",
+      "head_fake": "\ud83d\udee1\ufe0f Twilio Security"
     },
     {
       "type": "floater",
-      "title": "The $8 Linux Computer (2022)",
-      "description": "A project demonstrating how to build a functional Linux computer for under $8.",
-      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "big_question": "How low can the barrier to entry for computing be pushed?",
-      "head_fake": "Who needs a $2000 gaming PC when you can build a Linux box for the price of a coffee?"
+      "title": "Rust for WebAssembly",
+      "description": "Explore how Rust is becoming the dominant language for high-performance WebAssembly modules.",
+      "url": "https://rustwasm.github.io/docs/wasm-by-example.html",
+      "big_question": "How does Rust's memory safety model benefit WebAssembly performance and security?",
+      "head_fake": "\u26a1 Rust Wasm"
     },
     {
       "type": "floater",
-      "title": "Five memorable books about programming (2008)",
-      "description": "A curated list of five influential programming books from 2008.",
-      "url": "https://prog21.dadgum.com/19.html",
-      "big_question": "Which classic programming books still hold relevance in the modern AI era?",
-      "head_fake": "Re-reading 'The Pragmatic Programmer' today. The advice is timeless, even with AI."
+      "title": "The Ethics of AI in Education",
+      "description": "A discussion on the impact of AI tools on academic integrity and learning outcomes.",
+      "url": "https://www.edweek.org/technology/the-ethics-of-ai-in-education/",
+      "big_question": "How can educators balance the use of AI tools with the development of critical thinking skills?",
+      "head_fake": "\ud83c\udf93 AI Ethics in Ed"
     }
   ]
 }

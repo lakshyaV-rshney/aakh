@@ -1,102 +1,130 @@
 {
-  "fetched_at": "2026-11-08T05:53:38.716233+00:00",
+  "fetched_at": "2026-11-09T06:12:11.058670+00:00",
   "stories": [
     {
-      "title": "Kirlian Photography: Building Your Own Equipment",
-      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
-      "summary": "<p>Article URL: <a href=\"https://imagesco.com/articles/kirlian/kirlian-photography.html\">https://imagesco.com/articles/kirlian/kirlian-photography.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410359\">https://news.ycombinator.com/item?id=50410359</a></p>\n<p>Points: 9<",
-      "published": "Sun, 08 Nov 2026 04:14:12 +0000",
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "summary": "<p>Article URL: <a href=\"http://mamememo.blogspot.com/2010/09/qlobe.html\">http://mamememo.blogspot.com/2010/09/qlobe.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420599\">https://news.ycombinator.com/item?id=50420599</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+      "published": "Mon, 09 Nov 2026 03:15:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Goodbye Claude, Hello Pi",
+      "title": "A Bit about Email",
+      "url": "https://maurycyz.com/misc/email/",
+      "summary": "<p>Article URL: <a href=\"https://maurycyz.com/misc/email/\">https://maurycyz.com/misc/email/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420383\">https://news.ycombinator.com/item?id=50420383</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+      "published": "Mon, 09 Nov 2026 02:46:21 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "<p>Article URL: <a href=\"https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists\">https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin",
+      "published": "Sun, 08 Nov 2026 23:44:36 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "summary": "<p>Article URL: <a href=\"https://ketchup3d.github.io/app/\">https://ketchup3d.github.io/app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418176\">https://news.ycombinator.com/item?id=50418176</a></p>\n<p>Points: 355</p>\n<p># Comments: 94</p>",
+      "published": "Sun, 08 Nov 2026 22:35:35 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "summary": "<p><a href=\"https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company\" rel=\"nofollow\">https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff...</a>, <a href=\"https://archive.ph/Hxn5h\" rel=\"nofollow\">https://archive.ph/Hxn5h</a><p><a href=\"https://www.nytimes.com/2026/11/",
+      "published": "Sun, 08 Nov 2026 22:20:09 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "summary": "<p>Article URL: <a href=\"https://ftrain.com/aboard-the-web-is-more-than-enough\">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416456\">https://news.ycombinator.com/item?id=50416456</a></p>\n<p>Points: 111</p>\n<p># Comment",
+      "published": "Sun, 08 Nov 2026 19:48:32 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "summary": "<p>Article URL: <a href=\"https://sergeykuhne.com/blog/fighting-ai-brain-fry\">https://sergeykuhne.com/blog/fighting-ai-brain-fry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416363\">https://news.ycombinator.com/item?id=50416363</a></p>\n<p>Points: 203</p>\n<p># Comments: 158",
+      "published": "Sun, 08 Nov 2026 19:37:42 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "summary": "<p>Article URL: <a href=\"https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\">https://mailroute.net/blog/outlook-rejecting-email-without-dmarc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416158\">https://news.ycombinator.com/item?id=50416158</a></p>\n<p>Points",
+      "published": "Sun, 08 Nov 2026 19:20:32 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Playing with the STM32MP2",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "summary": "<p>Article URL: <a href=\"https://serd.es/2026/11/08/playing-with-stm32mp2.html\">https://serd.es/2026/11/08/playing-with-stm32mp2.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416014\">https://news.ycombinator.com/item?id=50416014</a></p>\n<p>Points: 52</p>\n<p># Comments",
+      "published": "Sun, 08 Nov 2026 19:04:07 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "summary": "<p>Article URL: <a href=\"https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415628\">https://news.ycombinator.com/item?id=5041",
+      "published": "Sun, 08 Nov 2026 18:16:07 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "summary": "<p>Article URL: <a href=\"https://goldstein.lol/posts/deno-security/\">https://goldstein.lol/posts/deno-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413769\">https://news.ycombinator.com/item?id=50413769</a></p>\n<p>Points: 96</p>\n<p># Comments: 49</p>",
+      "published": "Sun, 08 Nov 2026 14:42:38 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "summary": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html\">http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412067\">https://news.ycombinator.com/item?id=50412067</a></",
+      "published": "Sun, 08 Nov 2026 10:41:52 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Goodbye Claude, hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
-      "summary": "<p>Article URL: <a href=\"https://caleb.software/posts/claude-to-pi.html\">https://caleb.software/posts/claude-to-pi.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410107\">https://news.ycombinator.com/item?id=50410107</a></p>\n<p>Points: 59</p>\n<p># Comments: 31</p>",
+      "summary": "<p>Article URL: <a href=\"https://caleb.software/posts/claude-to-pi.html\">https://caleb.software/posts/claude-to-pi.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410107\">https://news.ycombinator.com/item?id=50410107</a></p>\n<p>Points: 728</p>\n<p># Comments: 448</p>",
       "published": "Sun, 08 Nov 2026 03:11:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Consumer brain wave headsets threaten privacy",
-      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-      "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F\">https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling",
-      "published": "Sun, 08 Nov 2026 02:02:38 +0000",
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html\">https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405043\">https://news.ycombinator.com/item?id=50405043</a></p>\n<p>Points",
+      "published": "Sat, 07 Nov 2026 14:51:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-      "url": "https://github.com/crmne/zapfast",
-      "summary": "<p>Article URL: <a href=\"https://github.com/crmne/zapfast\">https://github.com/crmne/zapfast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50409855\">https://news.ycombinator.com/item?id=50409855</a></p>\n<p>Points: 29</p>\n<p># Comments: 15</p>",
-      "published": "Sun, 08 Nov 2026 02:02:27 +0000",
+      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+      "url": "https://www.worldhistory.org/Ur-Nammu/",
+      "summary": "<p>Article URL: <a href=\"https://www.worldhistory.org/Ur-Nammu/\">https://www.worldhistory.org/Ur-Nammu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50404428\">https://news.ycombinator.com/item?id=50404428</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "Sat, 07 Nov 2026 13:35:16 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "summary": "<p>Article URL: <a href=\"https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\">https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50407882\">https://news.ycombinator.com/item?id=5040",
-      "published": "Sat, 07 Nov 2026 20:45:32 +0000",
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "url": "https://news.ycombinator.com/item?id=50403153",
+      "summary": "<p>Hi Guys,\nlike many of you I work with AI agents every day and across several clients.\nThe major time cost for me is to re-explaining context and past decisions, client rules, that we already do. To finish every tools as its own memory.<p>So I\u2019m curious how you actually handle this:<p>1. When you ",
+      "published": "Sat, 07 Nov 2026 10:01:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "summary": "<p><a href=\"https://archive.is/AaY5O\" rel=\"nofollow\">https://archive.is/AaY5O</a><p><a href=\"https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/\" rel=\"nofollow\">https://businessexaminer.ca/victoria-articles/item/microsoft...<",
-      "published": "Sat, 07 Nov 2026 18:02:17 +0000",
+      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+      "url": "https://github.com/rkaehn/uniform",
+      "summary": "<p>Over the past year, I have been working to find a better way to write cross-platform apps.<p>The problems I am trying to solve:<p>- Native frameworks only work on a subset of platforms, so a different implementation of the UI needs to be written per target.\n- They are updated at the same pace as ",
+      "published": "Sat, 07 Nov 2026 05:16:31 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Five memorable books about programming (2008)",
-      "url": "https://prog21.dadgum.com/19.html",
-      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406319\">https://news.ycombinator.com/item?id=50406319</a></p>\n<p>Points: 101</p>\n<p># Comments: 64</p>",
-      "published": "Sat, 07 Nov 2026 17:30:49 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "summary": "<p>I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.<p>To learn more about this I built a honeypot that resembled perf",
-      "published": "Sat, 07 Nov 2026 17:27:30 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "summary": "<p>Article URL: <a href=\"https://maxxbench.unlap.ai/research/why-maxxbench/\">https://maxxbench.unlap.ai/research/why-maxxbench/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406222\">https://news.ycombinator.com/item?id=50406222</a></p>\n<p>Points: 254</p>\n<p># Comments: 72<",
-      "published": "Sat, 07 Nov 2026 17:19:00 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "The $8 Linux Computer (2022)",
-      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "summary": "<p>Article URL: <a href=\"http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html\">http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50404599\">https://news.ycombinator.com/it",
-      "published": "Sat, 07 Nov 2026 14:00:20 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "summary": "<p>Article URL: <a href=\"https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403097\">https://news.ycombinator.com/item?id=50403097</a></p>\n<p>Poin",
-      "published": "Sat, 07 Nov 2026 09:46:03 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Asahi Linux Progress Linux 7.3",
-      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "summary": "<p>Article URL: <a href=\"https://asahilinux.org/2026/11/progress-report-7-3/\">https://asahilinux.org/2026/11/progress-report-7-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401867\">https://news.ycombinator.com/item?id=50401867</a></p>\n<p>Points: 348</p>\n<p># Comments: 3",
-      "published": "Sat, 07 Nov 2026 05:20:18 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/\">https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=503",
-      "published": "Thu, 05 Nov 2026 10:52:04 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Amsterdam School",
-      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
-      "summary": "<p>Article URL: <a href=\"https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html\">https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50351954\">https://news.ycombinator.com/item?id=50351954</a></p>\n<p>Points",
-      "published": "Tue, 03 Nov 2026 13:50:19 +0000",
+      "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+      "url": "https://github.com/RenderBear/haci",
+      "summary": "<p>Hi HN,<p>I've been working on a bio / visual cortex inspired edge detection algorithm. I released a preliminary version a couple of months ago, and I've been improving it since. Benchmark scores currently sit midway between old-school (Canny, Sobel), and modern deep nets, while having the former'",
+      "published": "Wed, 04 Nov 2026 21:34:49 +0000",
       "source": "Hacker News"
     }
   ]

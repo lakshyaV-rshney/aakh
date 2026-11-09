@@ -1,74 +1,74 @@
 {
-  "fetched_at": "2026-11-08T05:53:47.208588+00:00",
+  "fetched_at": "2026-11-09T06:12:22.806885+00:00",
   "competitions": [
     {
-      "title": "WHACK 2026",
-      "url": "https://whack-2026.devpost.com/",
-      "deadline": "Nov 07 - 08, 2026",
-      "prize": "\u00a30",
+      "title": "Learn AR with SPECS",
+      "url": "https://learn-specs.devpost.com/",
+      "deadline": "Oct 15 - Nov 09, 2026",
+      "prize": "$2,500",
       "source": "Devpost"
     },
     {
-      "title": "HackTheBurgh-XIII",
-      "url": "https://hacktheburghxiii.devpost.com/",
-      "deadline": "Nov 07 - 08, 2026",
-      "prize": "$0",
+      "title": "IBM Db2Hack 2026",
+      "url": "https://ibm-db2hack-2026.devpost.com/",
+      "deadline": "Nov 05 - 10, 2026",
+      "prize": "\u20b9 0",
       "source": "Devpost"
     },
     {
-      "title": "Neo Hackathon 2026",
-      "url": "https://neo-hackathon-2026.devpost.com/",
-      "deadline": "Nov 06 - 08, 2026",
-      "prize": "$0",
+      "title": "Agentic Hackathon",
+      "url": "https://agentic-hackathon.devpost.com/",
+      "deadline": "Nov 01 - 10, 2026",
+      "prize": "$480",
       "source": "Devpost"
     },
     {
-      "title": "Qiskit Fall Fest at Virginia Tech",
-      "url": "https://qiskitatvt.devpost.com/",
-      "deadline": "Nov 07 - 08, 2026",
-      "prize": "$260",
+      "title": "DATANOVA 2026 GLOBAL DATA-THON",
+      "url": "https://datanova-2026-global-data-thon.devpost.com/",
+      "deadline": "Oct 26 - Nov 10, 2026",
+      "prize": "$1,750",
       "source": "Devpost"
     },
     {
-      "title": "EthnoHack",
-      "url": "https://ethnohack2026.devpost.com/",
-      "deadline": "Nov 02 - 08, 2026",
-      "prize": "\u20ac8,000",
+      "title": "Ctrl+V Hackathon",
+      "url": "https://ctrl-v-hackathon-31831.devpost.com/",
+      "deadline": "Nov 06 - 10, 2026",
+      "prize": "$28,000",
       "source": "Devpost"
     },
     {
-      "title": "HACKCESSABILITY",
-      "url": "https://hackcessability.devpost.com/",
-      "deadline": "Nov 07 - 08, 2026",
-      "prize": "$0",
+      "title": "Herhack",
+      "url": "https://herhack.devpost.com/",
+      "deadline": "Oct 17 - Nov 10, 2026",
+      "prize": "\u20b9 200,000",
       "source": "Devpost"
     },
     {
-      "title": "YCP Hacks 2026",
-      "url": "https://ycp-hacks-2026.devpost.com/",
-      "deadline": "Nov 07 - 08, 2026",
-      "prize": "$0",
+      "title": "Health Hackathon 3.0",
+      "url": "https://health-hack-3.devpost.com/",
+      "deadline": "Nov 04 - 11, 2026",
+      "prize": "$200,000",
       "source": "Devpost"
     },
     {
-      "title": "Triangle AI Hackathon 2026",
-      "url": "https://triangle-ai-hackathon-2026.devpost.com/",
-      "deadline": "Nov 06 - 08, 2026",
-      "prize": "$0",
+      "title": "PayPal AI Hackathon",
+      "url": "https://paypalaihackathon.devpost.com/",
+      "deadline": "Oct 01 - Nov 12, 2026",
+      "prize": "$67,500",
       "source": "Devpost"
     },
     {
-      "title": "Redhawk Builds 2026",
-      "url": "https://redhawk-builds-2026.devpost.com/",
-      "deadline": "Nov 01 - 08, 2026",
-      "prize": "$3,500",
+      "title": "Build, Demo, and Take Home a Working AI Support Bot",
+      "url": "https://build-a-working-ai-support-bot.devpost.com/",
+      "deadline": "Nov 06 - 12, 2026",
+      "prize": "$750",
       "source": "Devpost"
     },
     {
-      "title": "HackRPI 2026",
-      "url": "https://hackrpi-2026.devpost.com/",
-      "deadline": "Nov 07 - 08, 2026",
-      "prize": "$3,850",
+      "title": "Blockchain Innovation Challenge powered by Stellar",
+      "url": "https://blockchain-stellar-ic.devpost.com/",
+      "deadline": "Nov 06 - 13, 2026",
+      "prize": "$CAD 15,000",
       "source": "Devpost"
     }
   ]

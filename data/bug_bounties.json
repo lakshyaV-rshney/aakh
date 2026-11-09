@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T05:53:34.319060+00:00",
+  "fetched_at": "2026-11-09T06:12:11.960806+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3632,12 +3632,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "SBB - Swiss Federal Railways",
-      "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
-      "bounty": "\u20ac6,666",
-      "source": "Intigriti"
-    },
-    {
       "title": "Salto Vulnerability Disclosure ",
       "url": "https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail",
       "bounty": "Bounty offered",
@@ -3653,12 +3647,6 @@
       "title": "SimScale",
       "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
       "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Skoda Auto Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3815,12 +3803,6 @@
       "title": "Vlerick Business School",
       "url": "https://www.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Voi Scooters",
-      "url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {
