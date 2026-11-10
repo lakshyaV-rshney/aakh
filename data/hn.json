@@ -1,130 +1,95 @@
 {
-  "fetched_at": "2026-11-09T06:12:11.058670+00:00",
+  "fetched_at": "2026-11-10T07:08:59.987062+00:00",
   "stories": [
     {
-      "title": "The Qlobe: Rotating Quine (2010)",
-      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
-      "summary": "<p>Article URL: <a href=\"http://mamememo.blogspot.com/2010/09/qlobe.html\">http://mamememo.blogspot.com/2010/09/qlobe.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420599\">https://news.ycombinator.com/item?id=50420599</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
-      "published": "Mon, 09 Nov 2026 03:15:17 +0000",
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "url": "https://www.ultorg.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.ultorg.com/\">https://www.ultorg.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50435898\">https://news.ycombinator.com/item?id=50435898</a></p>\n<p>Points: 27</p>\n<p># Comments: 5</p>",
+      "published": "Tue, 10 Nov 2026 03:59:39 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A Bit about Email",
-      "url": "https://maurycyz.com/misc/email/",
-      "summary": "<p>Article URL: <a href=\"https://maurycyz.com/misc/email/\">https://maurycyz.com/misc/email/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420383\">https://news.ycombinator.com/item?id=50420383</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
-      "published": "Mon, 09 Nov 2026 02:46:21 +0000",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html\">https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50435",
+      "published": "Tue, 10 Nov 2026 03:20:06 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "summary": "<p>Article URL: <a href=\"https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists\">https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin",
-      "published": "Sun, 08 Nov 2026 23:44:36 +0000",
+      "title": "Formalizing CPython",
+      "url": "https://broyojo.com/python-formalization/",
+      "summary": "<p>Article URL: <a href=\"https://broyojo.com/python-formalization/\">https://broyojo.com/python-formalization/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50435105\">https://news.ycombinator.com/item?id=50435105</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
+      "published": "Tue, 10 Nov 2026 01:56:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
-      "summary": "<p>Article URL: <a href=\"https://ketchup3d.github.io/app/\">https://ketchup3d.github.io/app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418176\">https://news.ycombinator.com/item?id=50418176</a></p>\n<p>Points: 355</p>\n<p># Comments: 94</p>",
-      "published": "Sun, 08 Nov 2026 22:35:35 +0000",
+      "title": "TPU 8tx and TPU 8i Max",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5043283",
+      "published": "Mon, 09 Nov 2026 21:56:57 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "summary": "<p><a href=\"https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company\" rel=\"nofollow\">https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff...</a>, <a href=\"https://archive.ph/Hxn5h\" rel=\"nofollow\">https://archive.ph/Hxn5h</a><p><a href=\"https://www.nytimes.com/2026/11/",
-      "published": "Sun, 08 Nov 2026 22:20:09 +0000",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/claude-fable-5-2\">https://artificialanalysis.ai/models/claude-fable-5-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50431144\">https://news.ycombinator.com/item?id=50431144</a></p>\n<p>Points: 336</p>\n<p># Comment",
+      "published": "Mon, 09 Nov 2026 20:04:55 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-      "summary": "<p>Article URL: <a href=\"https://ftrain.com/aboard-the-web-is-more-than-enough\">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416456\">https://news.ycombinator.com/item?id=50416456</a></p>\n<p>Points: 111</p>\n<p># Comment",
-      "published": "Sun, 08 Nov 2026 19:48:32 +0000",
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "url": "https://meowdisplay.app/",
+      "summary": "<p>Hey HN and Cats, thank you for checking this out!<p>Github:\n<a href=\"https://github.com/raiseCatError/meowdisplay\" rel=\"nofollow\">https://github.com/raiseCatError/meowdisplay</a><p>EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: <a href=\"https://github.com/peetzwe",
+      "published": "Mon, 09 Nov 2026 18:39:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "summary": "<p>Article URL: <a href=\"https://sergeykuhne.com/blog/fighting-ai-brain-fry\">https://sergeykuhne.com/blog/fighting-ai-brain-fry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416363\">https://news.ycombinator.com/item?id=50416363</a></p>\n<p>Points: 203</p>\n<p># Comments: 158",
-      "published": "Sun, 08 Nov 2026 19:37:42 +0000",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/thisisme6598/gemini_files/\">https://github.com/thisisme6598/gemini_files/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429426\">https://news.ycombinator.com/item?id=50429426</a></p>\n<p>Points: 536</p>\n<p># Comments: 120</p>",
+      "published": "Mon, 09 Nov 2026 18:24:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Outlook.com is rejecting email from domains without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "summary": "<p>Article URL: <a href=\"https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\">https://mailroute.net/blog/outlook-rejecting-email-without-dmarc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416158\">https://news.ycombinator.com/item?id=50416158</a></p>\n<p>Points",
-      "published": "Sun, 08 Nov 2026 19:20:32 +0000",
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/muse-ember\">https://research.meta.ai/blog/muse-ember</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429024\">https://news.ycombinator.com/item?id=50429024</a></p>\n<p>Points: 287</p>\n<p># Comments: 118</p>",
+      "published": "Mon, 09 Nov 2026 17:58:46 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Playing with the STM32MP2",
-      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-      "summary": "<p>Article URL: <a href=\"https://serd.es/2026/11/08/playing-with-stm32mp2.html\">https://serd.es/2026/11/08/playing-with-stm32mp2.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416014\">https://news.ycombinator.com/item?id=50416014</a></p>\n<p>Points: 52</p>\n<p># Comments",
-      "published": "Sun, 08 Nov 2026 19:04:07 +0000",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "summary": "<p>Article URL: <a href=\"https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy\">https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator",
+      "published": "Mon, 09 Nov 2026 16:00:45 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "summary": "<p>Article URL: <a href=\"https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415628\">https://news.ycombinator.com/item?id=5041",
-      "published": "Sun, 08 Nov 2026 18:16:07 +0000",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "summary": "<p><a href=\"https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00461-3\" rel=\"nofollow\">https://www.cell.com/cell-reports-physical-science/fulltext/...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50426175\">https://news.ycombinator.com/item?id=5",
+      "published": "Mon, 09 Nov 2026 14:31:39 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "url": "https://goldstein.lol/posts/deno-security/",
-      "summary": "<p>Article URL: <a href=\"https://goldstein.lol/posts/deno-security/\">https://goldstein.lol/posts/deno-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413769\">https://news.ycombinator.com/item?id=50413769</a></p>\n<p>Points: 96</p>\n<p># Comments: 49</p>",
-      "published": "Sun, 08 Nov 2026 14:42:38 +0000",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "summary": "<p>Article URL: <a href=\"https://www.foldableflight.com\">https://www.foldableflight.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50424581\">https://news.ycombinator.com/item?id=50424581</a></p>\n<p>Points: 954</p>\n<p># Comments: 146</p>",
+      "published": "Mon, 09 Nov 2026 12:19:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Writing as a thinking tool",
-      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "summary": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html\">http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412067\">https://news.ycombinator.com/item?id=50412067</a></",
-      "published": "Sun, 08 Nov 2026 10:41:52 +0000",
+      "title": "Time for AVIF everywhere?",
+      "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+      "summary": "<p>Article URL: <a href=\"https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html\">https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406348\">https://news.ycombinator.com/item?id=50",
+      "published": "Sat, 07 Nov 2026 17:34:07 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "summary": "<p>Article URL: <a href=\"https://caleb.software/posts/claude-to-pi.html\">https://caleb.software/posts/claude-to-pi.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410107\">https://news.ycombinator.com/item?id=50410107</a></p>\n<p>Points: 728</p>\n<p># Comments: 448</p>",
-      "published": "Sun, 08 Nov 2026 03:11:48 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html\">https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405043\">https://news.ycombinator.com/item?id=50405043</a></p>\n<p>Points",
-      "published": "Sat, 07 Nov 2026 14:51:40 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
-      "url": "https://www.worldhistory.org/Ur-Nammu/",
-      "summary": "<p>Article URL: <a href=\"https://www.worldhistory.org/Ur-Nammu/\">https://www.worldhistory.org/Ur-Nammu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50404428\">https://news.ycombinator.com/item?id=50404428</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-      "published": "Sat, 07 Nov 2026 13:35:16 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-      "url": "https://news.ycombinator.com/item?id=50403153",
-      "summary": "<p>Hi Guys,\nlike many of you I work with AI agents every day and across several clients.\nThe major time cost for me is to re-explaining context and past decisions, client rules, that we already do. To finish every tools as its own memory.<p>So I\u2019m curious how you actually handle this:<p>1. When you ",
-      "published": "Sat, 07 Nov 2026 10:01:48 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
-      "url": "https://github.com/rkaehn/uniform",
-      "summary": "<p>Over the past year, I have been working to find a better way to write cross-platform apps.<p>The problems I am trying to solve:<p>- Native frameworks only work on a subset of platforms, so a different implementation of the UI needs to be written per target.\n- They are updated at the same pace as ",
-      "published": "Sat, 07 Nov 2026 05:16:31 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
-      "url": "https://github.com/RenderBear/haci",
-      "summary": "<p>Hi HN,<p>I've been working on a bio / visual cortex inspired edge detection algorithm. I released a preliminary version a couple of months ago, and I've been improving it since. Benchmark scores currently sit midway between old-school (Canny, Sobel), and modern deep nets, while having the former'",
-      "published": "Wed, 04 Nov 2026 21:34:49 +0000",
+      "title": "A failed experiment in laptop cooling",
+      "url": "https://kevinboone.me/failed_cooling.html",
+      "summary": "<p>Article URL: <a href=\"https://kevinboone.me/failed_cooling.html\">https://kevinboone.me/failed_cooling.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405611\">https://news.ycombinator.com/item?id=50405611</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+      "published": "Sat, 07 Nov 2026 15:57:29 +0000",
       "source": "Hacker News"
     }
   ]

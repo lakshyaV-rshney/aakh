@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-09T06:12:36.770355+00:00",
+  "fetched_at": "2026-11-10T07:09:21.096463+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
       "url": "https://github.com/morluto/rea",
-      "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
-      "head_fake": "\ud83d\udd0d Reverse Engineering Agents"
+      "big_question": "How can agentic reverse engineering lower the barrier to understanding closed-source systems for security research?",
+      "head_fake": "The Lobster is cracking the shell."
     },
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "url": "https://github.com/public-apis/public-apis",
-      "big_question": "Which free API categories are most useful for building full-stack student projects this semester?",
-      "head_fake": "\ud83c\udf10 Free API Goldmine"
+      "title": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "big_question": "Is project-based learning the most effective way to bridge the gap between academic CS theory and industry-ready skills?",
+      "head_fake": "Stop reading, start building."
     },
     {
       "type": "hn",
-      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
-      "description": "An open-source 3D modeling tool leveraging modern web technologies.",
-      "url": "https://ketchup3d.github.io/app/",
-      "big_question": "How is WebGPU changing the landscape for high-performance 3D applications in the browser?",
-      "head_fake": "\ud83e\udd80 Rust + WebGPU 3D"
+      "title": "Formalizing CPython",
+      "description": "An article discussing the formalization of the CPython interpreter.",
+      "url": "https://broyojo.com/python-formalization/",
+      "big_question": "What are the implications of formally verifying the most widely used Python implementation for critical infrastructure?",
+      "head_fake": "Math is coming for your interpreter."
     },
     {
       "type": "hn",
-      "title": "I'm not convinced the AI bubble exists",
-      "description": "A counter-argument to the prevailing narrative that AI investment is a speculative bubble.",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "big_question": "What are the fundamental economic drivers that distinguish sustainable AI growth from a speculative bubble?",
-      "head_fake": "\ud83d\udcc9 AI Bubble Debate"
+      "title": "Time for AVIF everywhere?",
+      "description": "A discussion on the adoption of AVIF image format across the web.",
+      "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+      "big_question": "Will AVIF finally replace JPEG and WebP as the standard for web images, or will browser support remain the bottleneck?",
+      "head_fake": "JPEG is officially old news."
     },
     {
       "type": "competition",
       "title": "Agentic Hackathon",
-      "description": "A hackathon focused on building and deploying autonomous AI agents.",
+      "description": "A hackathon focused on building agentic AI systems.",
       "url": "https://agentic-hackathon.devpost.com/",
-      "big_question": "What are the current best practices for orchestrating multi-agent systems in real-time applications?",
-      "head_fake": "\ud83e\udd16 Agentic Hackathon"
+      "big_question": "Can autonomous agents be reliably deployed in real-world scenarios within a 48-hour hackathon timeframe?",
+      "head_fake": "Your code writes itself, but does it think?"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
       "description": "Bug bounty program for Twilio's communication platform.",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common security vulnerabilities in cloud-based communication APIs?",
-      "head_fake": "\ud83d\udee1\ufe0f Twilio Security"
+      "big_question": "What are the most common security vulnerabilities in cloud-based communication APIs, and how can they be mitigated?",
+      "head_fake": "Your SMS is not as secure as you think."
     },
     {
       "type": "floater",
-      "title": "Rust for WebAssembly",
-      "description": "Explore how Rust is becoming the dominant language for high-performance WebAssembly modules.",
-      "url": "https://rustwasm.github.io/docs/wasm-by-example.html",
-      "big_question": "How does Rust's memory safety model benefit WebAssembly performance and security?",
-      "head_fake": "\u26a1 Rust Wasm"
+      "title": "The Rise of Agentic AI",
+      "description": "A trend analysis of how AI agents are moving from chatbots to autonomous task executors.",
+      "url": "https://example.com/agentic-ai-trend",
+      "big_question": "How will the shift from conversational AI to agentic AI change the role of software developers in the next 5 years?",
+      "head_fake": "The future is not a chatbot, it's a coworker."
     },
     {
       "type": "floater",
-      "title": "The Ethics of AI in Education",
-      "description": "A discussion on the impact of AI tools on academic integrity and learning outcomes.",
-      "url": "https://www.edweek.org/technology/the-ethics-of-ai-in-education/",
-      "big_question": "How can educators balance the use of AI tools with the development of critical thinking skills?",
-      "head_fake": "\ud83c\udf93 AI Ethics in Ed"
+      "title": "Local-First Software",
+      "description": "An exploration of the local-first software movement and its impact on data sovereignty.",
+      "url": "https://example.com/local-first-software",
+      "big_question": "Can local-first architectures provide a viable alternative to cloud-centric models for privacy-conscious users?",
+      "head_fake": "Your data belongs to you, not the cloud."
     }
   ]
 }

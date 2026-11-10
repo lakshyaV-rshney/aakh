@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T06:12:11.960806+00:00",
+  "fetched_at": "2026-11-10T07:08:53.715961+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -710,6 +710,12 @@
       "source": "HackerOne"
     },
     {
+      "title": "Oasis Protocol Foundation",
+      "url": "https://hackerone.com/oasisprotocol",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
       "title": "Exodus",
       "url": "https://hackerone.com/exodus",
       "bounty": "Bounty offered",
@@ -1048,6 +1054,12 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3146,6 +3158,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "BorgWarner Vulnerability Disclosure Program",
+      "url": "https://www.intigriti.com/programs/borgwarner/borgwarnervdp/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Bpost",
       "url": "https://www.intigriti.com/programs/bpost/dummy/detail",
       "bounty": "\u20ac1,500",
@@ -3155,6 +3173,12 @@
       "title": "B\u00fchler Group VDP",
       "url": "https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "CM.com",
+      "url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
+      "bounty": "\u20ac2,625",
       "source": "Intigriti"
     },
     {
@@ -3272,12 +3296,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Dstny",
-      "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-      "bounty": "\u20ac1,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "Dutch Lottery VDP",
       "url": "https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail",
       "bounty": "Bounty offered",
@@ -3317,6 +3335,12 @@
       "title": "Fluvius",
       "url": "https://www.intigriti.com/programs/fluvius/fluvius/detail",
       "bounty": "\u20ac5,500",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Flywire Vulnerability Disclose Program",
+      "url": "https://www.intigriti.com/programs/flywire/flywirevulnerabilitydiscloseprogram/detail",
+      "bounty": "Bounty offered",
       "source": "Intigriti"
     },
     {
@@ -3536,12 +3560,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "PDQ bug bounty program",
-      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-      "bounty": "\u20ac3,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "PeopleCert VDP",
       "url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
       "bounty": "Bounty offered",
@@ -3632,6 +3650,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "SBB - Swiss Federal Railways",
+      "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
+      "bounty": "\u20ac6,666",
+      "source": "Intigriti"
+    },
+    {
       "title": "Salto Vulnerability Disclosure ",
       "url": "https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail",
       "bounty": "Bounty offered",
@@ -3647,6 +3671,12 @@
       "title": "SimScale",
       "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
       "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Skoda Auto Bug Bounty Program",
+      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3770,6 +3800,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Uphold",
+      "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+      "bounty": "\u20ac6,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "VDP",
       "url": "https://www.intigriti.com/programs/showpad/vdp/detail",
       "bounty": "Bounty offered",
@@ -3803,6 +3839,12 @@
       "title": "Vlerick Business School",
       "url": "https://www.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Voi Scooters",
+      "url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
+      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {
