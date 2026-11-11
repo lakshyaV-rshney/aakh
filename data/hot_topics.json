@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-10T07:09:21.096463+00:00",
+  "fetched_at": "2026-11-11T06:02:12.935923+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
-      "url": "https://github.com/morluto/rea",
-      "big_question": "How can agentic reverse engineering lower the barrier to understanding closed-source systems for security research?",
-      "head_fake": "The Lobster is cracking the shell."
+      "title": "nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "big_question": "How can you use this roadmap to identify the specific skills you are missing for your next internship or job?",
+      "head_fake": "Stop guessing what to learn next. This repo maps out the exact path from beginner to senior, saving you months of trial and error."
     },
     {
       "type": "repo",
       "title": "practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
+      "description": "Curated list of project-based tutorials for learning programming by building real-world applications.",
       "url": "https://github.com/practical-tutorials/project-based-learning",
-      "big_question": "Is project-based learning the most effective way to bridge the gap between academic CS theory and industry-ready skills?",
-      "head_fake": "Stop reading, start building."
+      "big_question": "Which project in this list would best demonstrate your ability to handle complex state management to a hiring manager?",
+      "head_fake": "Tutorials are great, but portfolios win jobs. Use this list to build 3 killer projects that prove you can ship code, not just read docs."
     },
     {
       "type": "hn",
-      "title": "Formalizing CPython",
-      "description": "An article discussing the formalization of the CPython interpreter.",
-      "url": "https://broyojo.com/python-formalization/",
-      "big_question": "What are the implications of formally verifying the most widely used Python implementation for critical infrastructure?",
-      "head_fake": "Math is coming for your interpreter."
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "description": "An interactive demonstration of Large Language Models attempting to solve the logic puzzles in the game TIS-100.",
+      "url": "https://tis-100.wincon.dev/",
+      "big_question": "What does the failure mode of LLMs on this specific logic puzzle reveal about their current limitations in sequential reasoning?",
+      "head_fake": "It\u2019s fascinating to watch AI struggle with basic logic gates. This demo is a perfect case study for understanding where current models break down."
     },
     {
       "type": "hn",
-      "title": "Time for AVIF everywhere?",
-      "description": "A discussion on the adoption of AVIF image format across the web.",
-      "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
-      "big_question": "Will AVIF finally replace JPEG and WebP as the standard for web images, or will browser support remain the bottleneck?",
-      "head_fake": "JPEG is officially old news."
+      "title": "AI usage generates a fragile codebase",
+      "description": "An analysis of how over-reliance on AI-generated code can lead to technical debt and fragile software architectures.",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "big_question": "How can you maintain code quality and understandability when using AI assistants for 50% of your daily coding tasks?",
+      "head_fake": "AI writes code fast, but does it write code that lasts? This article warns that without human oversight, your codebase becomes a house of cards."
     },
     {
       "type": "competition",
       "title": "Agentic Hackathon",
-      "description": "A hackathon focused on building agentic AI systems.",
+      "description": "A hackathon focused on building autonomous AI agents that can perform complex tasks with minimal human intervention.",
       "url": "https://agentic-hackathon.devpost.com/",
-      "big_question": "Can autonomous agents be reliably deployed in real-world scenarios within a 48-hour hackathon timeframe?",
-      "head_fake": "Your code writes itself, but does it think?"
+      "big_question": "Can you design an agent that autonomously navigates a multi-step workflow, and what are the safety constraints you must implement?",
+      "head_fake": "Agents are the next big thing. This hackathon is your chance to build something that actually *does* things, not just chats."
     },
     {
       "type": "bugbounty",
-      "title": "Twilio",
-      "description": "Bug bounty program for Twilio's communication platform.",
-      "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common security vulnerabilities in cloud-based communication APIs, and how can they be mitigated?",
-      "head_fake": "Your SMS is not as secure as you think."
+      "title": "DoorDash",
+      "description": "Public bug bounty program for DoorDash, offering rewards for security vulnerabilities in their platform.",
+      "url": "https://hackerone.com/doordash",
+      "big_question": "What are the most common API authentication flaws in food delivery platforms, and how can you test for them safely?",
+      "head_fake": "A massive platform with high traffic means high value bugs. Start here to learn how to test real-world, high-scale applications."
     },
     {
       "type": "floater",
-      "title": "The Rise of Agentic AI",
-      "description": "A trend analysis of how AI agents are moving from chatbots to autonomous task executors.",
-      "url": "https://example.com/agentic-ai-trend",
-      "big_question": "How will the shift from conversational AI to agentic AI change the role of software developers in the next 5 years?",
-      "head_fake": "The future is not a chatbot, it's a coworker."
+      "title": "The 20-Minute Code Review",
+      "description": "A technique for conducting effective code reviews in under 20 minutes by focusing on logic and security rather than style.",
+      "url": "https://example.com/20-minute-code-review",
+      "big_question": "How can you shift your code review focus from nitpicking syntax to identifying critical logic errors and security risks?",
+      "head_fake": "Stop wasting time on semicolons. Learn to spot the bugs that actually break production in just 20 minutes."
     },
     {
       "type": "floater",
-      "title": "Local-First Software",
-      "description": "An exploration of the local-first software movement and its impact on data sovereignty.",
-      "url": "https://example.com/local-first-software",
-      "big_question": "Can local-first architectures provide a viable alternative to cloud-centric models for privacy-conscious users?",
-      "head_fake": "Your data belongs to you, not the cloud."
+      "title": "Understanding Big O Notation in Practice",
+      "description": "A practical guide to applying Big O notation to real-world coding problems and database queries.",
+      "url": "https://example.com/big-o-practice",
+      "big_question": "How does understanding Big O notation help you optimize a slow database query or a nested loop in your application?",
+      "head_fake": "Big O isn't just for interviews. It's the tool you need to make your code fast enough to handle real user traffic."
     }
   ]
 }

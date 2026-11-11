@@ -1,39 +1,25 @@
 {
-  "fetched_at": "2026-11-10T07:09:07.125606+00:00",
+  "fetched_at": "2026-11-11T06:01:57.854294+00:00",
   "competitions": [
     {
       "title": "IBM Db2Hack 2026",
       "url": "https://ibm-db2hack-2026.devpost.com/",
-      "deadline": "Nov 05 - 10, 2026",
+      "deadline": "Nov 05 - 11, 2026",
       "prize": "\u20b9 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
+      "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
+      "deadline": "Nov 10 - 11, 2026",
+      "prize": "\u20b9 10,000",
       "source": "Devpost"
     },
     {
       "title": "Agentic Hackathon",
       "url": "https://agentic-hackathon.devpost.com/",
-      "deadline": "Nov 01 - 10, 2026",
+      "deadline": "Nov 01 - 11, 2026",
       "prize": "$480",
-      "source": "Devpost"
-    },
-    {
-      "title": "DATANOVA 2026 GLOBAL DATA-THON",
-      "url": "https://datanova-2026-global-data-thon.devpost.com/",
-      "deadline": "Oct 26 - Nov 10, 2026",
-      "prize": "$1,750",
-      "source": "Devpost"
-    },
-    {
-      "title": "Ctrl+V Hackathon",
-      "url": "https://ctrl-v-hackathon-31831.devpost.com/",
-      "deadline": "Nov 06 - 10, 2026",
-      "prize": "$28,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Herhack",
-      "url": "https://herhack.devpost.com/",
-      "deadline": "Oct 17 - Nov 10, 2026",
-      "prize": "\u20b9 200,000",
       "source": "Devpost"
     },
     {
@@ -69,6 +55,20 @@
       "url": "https://scope-ai-thon-2026.devpost.com/",
       "deadline": "Nov 01 - 14, 2026",
       "prize": "$CAD 1,400",
+      "source": "Devpost"
+    },
+    {
+      "title": "DataJam 2026",
+      "url": "https://datajam-2026.devpost.com/",
+      "deadline": "Nov 09 - 15, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "url": "https://dsh-hacks-v2.devpost.com/",
+      "deadline": "Jun 24 - Nov 15, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]

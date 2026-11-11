@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T07:08:53.715961+00:00",
+  "fetched_at": "2026-11-11T06:01:44.501383+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -704,6 +704,12 @@
       "source": "HackerOne"
     },
     {
+      "title": "FileZilla",
+      "url": "https://hackerone.com/filezilla",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
       "title": "Box BB",
       "url": "https://hackerone.com/box_private",
       "bounty": "Bounty offered",
@@ -754,12 +760,6 @@
     {
       "title": "Lark Technologies",
       "url": "https://hackerone.com/lark_technologies",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Dynatrace",
-      "url": "https://hackerone.com/dynatrace",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3452,6 +3452,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Lansweeper Bug Bounty Program",
+      "url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+      "bounty": "\u20ac2,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Libelle",
       "url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
       "bounty": "\u20ac2,200",
@@ -3461,6 +3467,12 @@
       "title": "Liferay VDP",
       "url": "https://www.intigriti.com/programs/liferay/liferay-vdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Lightspark Public Bug Bounty",
+      "url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
+      "bounty": "$5,000",
       "source": "Intigriti"
     },
     {
@@ -3557,6 +3569,12 @@
       "title": "Orbia Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "PDQ bug bounty program",
+      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {
@@ -3800,12 +3818,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Uphold",
-      "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-      "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "VDP",
       "url": "https://www.intigriti.com/programs/showpad/vdp/detail",
       "bounty": "Bounty offered",
@@ -3830,6 +3842,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Veriff Bug Bounty",
+      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+      "bounty": "\u20ac4,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Visma Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
       "bounty": "Bounty offered",
@@ -3839,12 +3857,6 @@
       "title": "Vlerick Business School",
       "url": "https://www.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Voi Scooters",
-      "url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {
