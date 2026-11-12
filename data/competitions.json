@@ -1,34 +1,6 @@
 {
-  "fetched_at": "2026-11-11T06:01:57.854294+00:00",
+  "fetched_at": "2026-11-12T07:02:20.762140+00:00",
   "competitions": [
-    {
-      "title": "IBM Db2Hack 2026",
-      "url": "https://ibm-db2hack-2026.devpost.com/",
-      "deadline": "Nov 05 - 11, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
-      "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
-      "deadline": "Nov 10 - 11, 2026",
-      "prize": "\u20b9 10,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Agentic Hackathon",
-      "url": "https://agentic-hackathon.devpost.com/",
-      "deadline": "Nov 01 - 11, 2026",
-      "prize": "$480",
-      "source": "Devpost"
-    },
-    {
-      "title": "Health Hackathon 3.0",
-      "url": "https://health-hack-3.devpost.com/",
-      "deadline": "Nov 04 - 11, 2026",
-      "prize": "$200,000",
-      "source": "Devpost"
-    },
     {
       "title": "PayPal AI Hackathon",
       "url": "https://paypalaihackathon.devpost.com/",
@@ -51,6 +23,13 @@
       "source": "Devpost"
     },
     {
+      "title": "CodeCoogs x CenterPoint Hackathon",
+      "url": "https://codecoogsxcenterpointhackathon.devpost.com/",
+      "deadline": "Nov 12 - 13, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
       "url": "https://scope-ai-thon-2026.devpost.com/",
       "deadline": "Nov 01 - 14, 2026",
@@ -68,6 +47,27 @@
       "title": "DSH Hacks V2 ($100k+ in prizes!)",
       "url": "https://dsh-hacks-v2.devpost.com/",
       "deadline": "Jun 24 - Nov 15, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Mathematics for systems security",
+      "url": "https://mathematics-systems-security.devpost.com/",
+      "deadline": "Oct 16 - Nov 15, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "IceHacks",
+      "url": "https://icehacks.devpost.com/",
+      "deadline": "Nov 08 - 15, 2026",
+      "prize": "$17,150",
+      "source": "Devpost"
+    },
+    {
+      "title": "STEMergent Hacks 2026",
+      "url": "https://stemergent-hacks.devpost.com/",
+      "deadline": "Oct 31 - Nov 15, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

@@ -1,74 +1,88 @@
 {
-  "fetched_at": "2026-11-11T06:01:43.935810+00:00",
+  "fetched_at": "2026-11-12T07:02:09.162877+00:00",
   "stories": [
     {
-      "title": "A great old-timey game-programming hack (2013)",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "summary": "<p>Article URL: <a href=\"https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html\">https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50448921\">https://news.ycombinato",
-      "published": "Wed, 11 Nov 2026 01:56:31 +0000",
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "url": "https://www.getlazarus.org/forums/topic/17/",
+      "summary": "<p>Article URL: <a href=\"https://www.getlazarus.org/forums/topic/17/\">https://www.getlazarus.org/forums/topic/17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50463540\">https://news.ycombinator.com/item?id=50463540</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+      "published": "Thu, 12 Nov 2026 05:49:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "url": "https://tis-100.wincon.dev/",
-      "summary": "<p>Article URL: <a href=\"https://tis-100.wincon.dev/\">https://tis-100.wincon.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50448340\">https://news.ycombinator.com/item?id=50448340</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
-      "published": "Wed, 11 Nov 2026 00:37:05 +0000",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "<p>Article URL: <a href=\"https://www.mcmillen.dev/sigbovik/\">https://www.mcmillen.dev/sigbovik/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459745\">https://news.ycombinator.com/item?id=50459745</a></p>\n<p>Points: 348</p>\n<p># Comments: 48</p>",
+      "published": "Wed, 11 Nov 2026 22:34:23 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI is becoming an information gateway. Audiences still don\u2019t want it making news",
-      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/\">https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/</a></p>\n<p>Comments URL: <a href=\"",
-      "published": "Wed, 11 Nov 2026 00:15:33 +0000",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "summary": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/\">https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50458900\">https://news.ycombinator.com/item?id=50",
+      "published": "Wed, 11 Nov 2026 21:24:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "$30M Raised to Redo the CPU",
-      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "summary": "<p>Article URL: <a href=\"https://tendrils.co/blog/2026-11-10/30m-raised\">https://tendrils.co/blog/2026-11-10/30m-raised</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50447036\">https://news.ycombinator.com/item?id=50447036</a></p>\n<p>Points: 64</p>\n<p># Comments: 51</p>",
-      "published": "Tue, 10 Nov 2026 22:14:03 +0000",
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "summary": "<p>Article URL: <a href=\"https://termsheetplease.com/\">https://termsheetplease.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50457230\">https://news.ycombinator.com/item?id=50457230</a></p>\n<p>Points: 209</p>\n<p># Comments: 82</p>",
+      "published": "Wed, 11 Nov 2026 19:12:16 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Six Math Essentials",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "summary": "<p>Article URL: <a href=\"https://teorth.github.io/tao-web/six-math-essentials.html\">https://teorth.github.io/tao-web/six-math-essentials.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446246\">https://news.ycombinator.com/item?id=50446246</a></p>\n<p>Points: 196</p>\n<p>#",
-      "published": "Tue, 10 Nov 2026 20:58:44 +0000",
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50456791\">https://news.ycom",
+      "published": "Wed, 11 Nov 2026 18:32:42 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Research taste in history: the importance of learning Babylonian math",
-      "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
-      "summary": "<p>Article URL: <a href=\"https://resobscura.substack.com/p/research-taste-in-history-the-importance\">https://resobscura.substack.com/p/research-taste-in-history-the-importance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50445279\">https://news.ycombinator.com/item?id=504452",
-      "published": "Tue, 10 Nov 2026 19:42:44 +0000",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "summary": "<p><a href=\"https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator\" rel=\"nofollow\">https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent...</a><p><a href=\"https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html\"",
+      "published": "Wed, 11 Nov 2026 18:21:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "What objective is reasoning solving?",
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-      "summary": "<p>Article URL: <a href=\"https://alexwang.ai/posts/reasoning-as-pathfinding/\">https://alexwang.ai/posts/reasoning-as-pathfinding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50445013\">https://news.ycombinator.com/item?id=50445013</a></p>\n<p>Points: 136</p>\n<p># Comments: 6",
-      "published": "Tue, 10 Nov 2026 19:25:14 +0000",
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/faster-retrieval\">https://machinelearning.apple.com/research/faster-retrieval</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50455633\">https://news.ycombinator.com/item?id=50455633</a></p>\n<p>Points: 190</p>\n",
+      "published": "Wed, 11 Nov 2026 16:57:45 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/\">https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50443824\">https://news.ycombinator.com/item?id=50443824</a></p>\n<p>Points: 346</p>\n<p># C",
-      "published": "Tue, 10 Nov 2026 18:02:02 +0000",
+      "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "summary": "<p>Hey HN, I\u2019m Eric and I want to share an OSS project that I\u2019ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings.<p>Here's a quick demo video: <a href=\"https://www.youtube.com/watch?v=BFfbXA",
+      "published": "Wed, 11 Nov 2026 15:33:06 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
-      "summary": "<p>Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without <span>s everywhere, `<dialog>` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Somet",
-      "published": "Tue, 10 Nov 2026 18:01:15 +0000",
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "summary": "<p>Article URL: <a href=\"https://pietromiotti.com/latest/maya-site\">https://pietromiotti.com/latest/maya-site</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50452455\">https://news.ycombinator.com/item?id=50452455</a></p>\n<p>Points: 968</p>\n<p># Comments: 354</p>",
+      "published": "Wed, 11 Nov 2026 12:05:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "summary": "<p>Article URL: <a href=\"https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/\">https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50438318\">https://news.ycombinator.com/item?id=50438318</a></p>\n<p>Poin",
-      "published": "Tue, 10 Nov 2026 10:25:58 +0000",
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "summary": "<p><a href=\"https://www.reddit.com/r/Python/s/2Cm5dBcvQw\" rel=\"nofollow\">https://www.reddit.com/r/Python/s/2Cm5dBcvQw</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50450488\">https://news.ycombinator.com/item?id=50450488</a></p>\n<p>Points: 1073</p>\n<p># Comments: 120</",
+      "published": "Wed, 11 Nov 2026 07:03:17 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
+      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+      "summary": "<p>Article URL: <a href=\"https://publicdomainreview.org/collection/marian-wawrzeniecki/\">https://publicdomainreview.org/collection/marian-wawrzeniecki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420905\">https://news.ycombinator.com/item?id=50420905</a></p>\n<p>Points: 12",
+      "published": "Mon, 09 Nov 2026 03:57:57 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How to make a CNC plasma cutter with high-frequency start",
+      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+      "summary": "<p>Article URL: <a href=\"https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html\">https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412715\">https://news.ycombinator.com/item?id=50412715</a></p>\n<p>Points: 32</",
+      "published": "Sun, 08 Nov 2026 12:34:04 +0000",
       "source": "Hacker News"
     }
   ]

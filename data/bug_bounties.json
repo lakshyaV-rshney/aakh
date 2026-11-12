@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T06:01:44.501383+00:00",
+  "fetched_at": "2026-11-12T07:02:09.482833+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -704,12 +704,6 @@
       "source": "HackerOne"
     },
     {
-      "title": "FileZilla",
-      "url": "https://hackerone.com/filezilla",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
       "title": "Box BB",
       "url": "https://hackerone.com/box_private",
       "bounty": "Bounty offered",
@@ -934,6 +928,12 @@
     {
       "title": "Flutter UK&I",
       "url": "https://hackerone.com/flutteruki",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "BitMEX",
+      "url": "https://hackerone.com/bitmex",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3296,6 +3296,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Dstny",
+      "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
+      "bounty": "\u20ac1,500",
+      "source": "Intigriti"
+    },
+    {
       "title": "Dutch Lottery VDP",
       "url": "https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail",
       "bounty": "Bounty offered",
@@ -3839,12 +3845,6 @@
       "title": "Venly",
       "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
       "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Veriff Bug Bounty",
-      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-      "bounty": "\u20ac4,000",
       "source": "Intigriti"
     },
     {
