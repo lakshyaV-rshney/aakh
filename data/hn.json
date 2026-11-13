@@ -1,88 +1,95 @@
 {
-  "fetched_at": "2026-11-12T07:02:09.162877+00:00",
+  "fetched_at": "2026-11-13T06:32:06.818814+00:00",
   "stories": [
     {
-      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-      "url": "https://www.getlazarus.org/forums/topic/17/",
-      "summary": "<p>Article URL: <a href=\"https://www.getlazarus.org/forums/topic/17/\">https://www.getlazarus.org/forums/topic/17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50463540\">https://news.ycombinator.com/item?id=50463540</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-      "published": "Thu, 12 Nov 2026 05:49:34 +0000",
+      "title": "Scientists claim the universe is twice as old as believed",
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "summary": "<p>Article URL: <a href=\"https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/\">https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478635\">https://news.ycombinator.com/item?i",
+      "published": "Fri, 13 Nov 2026 05:13:30 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "<p>Article URL: <a href=\"https://www.mcmillen.dev/sigbovik/\">https://www.mcmillen.dev/sigbovik/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459745\">https://news.ycombinator.com/item?id=50459745</a></p>\n<p>Points: 348</p>\n<p># Comments: 48</p>",
-      "published": "Wed, 11 Nov 2026 22:34:23 +0000",
+      "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+      "url": "https://github.com/pharma2a/pharma2a",
+      "summary": "<p>I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. \nThe idea is to automatise orders of selling and buying between pharmacies and thei",
+      "published": "Fri, 13 Nov 2026 04:58:53 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "summary": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/\">https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50458900\">https://news.ycombinator.com/item?id=50",
-      "published": "Wed, 11 Nov 2026 21:24:35 +0000",
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "summary": "<p>Article URL: <a href=\"https://folklore.org/Switcher.html\">https://folklore.org/Switcher.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50477714\">https://news.ycombinator.com/item?id=50477714</a></p>\n<p>Points: 71</p>\n<p># Comments: 15</p>",
+      "published": "Fri, 13 Nov 2026 03:14:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "url": "https://termsheetplease.com/",
-      "summary": "<p>Article URL: <a href=\"https://termsheetplease.com/\">https://termsheetplease.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50457230\">https://news.ycombinator.com/item?id=50457230</a></p>\n<p>Points: 209</p>\n<p># Comments: 82</p>",
-      "published": "Wed, 11 Nov 2026 19:12:16 +0000",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "summary": "<p>Article URL: <a href=\"https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50475713\">https://new",
+      "published": "Thu, 12 Nov 2026 23:06:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50456791\">https://news.ycom",
-      "published": "Wed, 11 Nov 2026 18:32:42 +0000",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "summary": "<p>Article URL: <a href=\"https://unemploymentlabs.com/checkpoint-forensics\">https://unemploymentlabs.com/checkpoint-forensics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474883\">https://news.ycombinator.com/item?id=50474883</a></p>\n<p>Points: 246</p>\n<p># Comments: 66</p",
+      "published": "Thu, 12 Nov 2026 21:56:11 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "summary": "<p><a href=\"https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator\" rel=\"nofollow\">https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent...</a><p><a href=\"https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html\"",
-      "published": "Wed, 11 Nov 2026 18:21:38 +0000",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "summary": "<p>Article URL: <a href=\"https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html\">https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin",
+      "published": "Thu, 12 Nov 2026 21:09:49 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/faster-retrieval\">https://machinelearning.apple.com/research/faster-retrieval</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50455633\">https://news.ycombinator.com/item?id=50455633</a></p>\n<p>Points: 190</p>\n",
-      "published": "Wed, 11 Nov 2026 16:57:45 +0000",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "summary": "<p><a href=\"https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-huang-had-a-third-affair-with-another-nvidia-employee-report-says/\" rel=\"nofollow\">https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=504",
+      "published": "Thu, 12 Nov 2026 19:51:33 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "summary": "<p>Hey HN, I\u2019m Eric and I want to share an OSS project that I\u2019ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings.<p>Here's a quick demo video: <a href=\"https://www.youtube.com/watch?v=BFfbXA",
-      "published": "Wed, 11 Nov 2026 15:33:06 +0000",
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "summary": "<p>Article URL: <a href=\"https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/\">https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50472038\">https://news.ycombinator.com/item?id=50472038</a></p>\n<p>Points: 576</p>\n<p># Comments: 2",
+      "published": "Thu, 12 Nov 2026 18:39:05 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "summary": "<p>Article URL: <a href=\"https://pietromiotti.com/latest/maya-site\">https://pietromiotti.com/latest/maya-site</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50452455\">https://news.ycombinator.com/item?id=50452455</a></p>\n<p>Points: 968</p>\n<p># Comments: 354</p>",
-      "published": "Wed, 11 Nov 2026 12:05:22 +0000",
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
+      "published": "Thu, 12 Nov 2026 18:01:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "summary": "<p><a href=\"https://www.reddit.com/r/Python/s/2Cm5dBcvQw\" rel=\"nofollow\">https://www.reddit.com/r/Python/s/2Cm5dBcvQw</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50450488\">https://news.ycombinator.com/item?id=50450488</a></p>\n<p>Points: 1073</p>\n<p># Comments: 120</",
-      "published": "Wed, 11 Nov 2026 07:03:17 +0000",
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hyperionaidev/smolmaxxing/\">https://github.com/hyperionaidev/smolmaxxing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50468888\">https://news.ycombinator.com/item?id=50468888</a></p>\n<p>Points: 327</p>\n<p># Comments: 120</p>",
+      "published": "Thu, 12 Nov 2026 15:23:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
-      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
-      "summary": "<p>Article URL: <a href=\"https://publicdomainreview.org/collection/marian-wawrzeniecki/\">https://publicdomainreview.org/collection/marian-wawrzeniecki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420905\">https://news.ycombinator.com/item?id=50420905</a></p>\n<p>Points: 12",
-      "published": "Mon, 09 Nov 2026 03:57:57 +0000",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "summary": "<p><a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" rel=\"nofollow\">https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran...</a><p><a href=\"https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/\" rel=\"nofollow",
+      "published": "Thu, 12 Nov 2026 13:52:29 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How to make a CNC plasma cutter with high-frequency start",
-      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
-      "summary": "<p>Article URL: <a href=\"https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html\">https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412715\">https://news.ycombinator.com/item?id=50412715</a></p>\n<p>Points: 32</",
-      "published": "Sun, 08 Nov 2026 12:34:04 +0000",
+      "title": "Adapting CPython for Yk",
+      "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "summary": "<p>Article URL: <a href=\"https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html\">https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50466410\">https://news.ycombinator.com/item?id=50466410</a></p>\n<p>Points: ",
+      "published": "Thu, 12 Nov 2026 12:51:38 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "url": "https://makepad.github.io/relax/",
+      "summary": "<p>Article URL: <a href=\"https://makepad.github.io/relax/\">https://makepad.github.io/relax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50458849\">https://news.ycombinator.com/item?id=50458849</a></p>\n<p>Points: 143</p>\n<p># Comments: 63</p>",
+      "published": "Wed, 11 Nov 2026 21:20:01 +0000",
       "source": "Hacker News"
     }
   ]

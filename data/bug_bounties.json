@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T07:02:09.482833+00:00",
+  "fetched_at": "2026-11-13T06:32:07.457875+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -290,8 +290,8 @@
       "source": "HackerOne"
     },
     {
-      "title": "eufy Security",
-      "url": "https://hackerone.com/eufy_security",
+      "title": "Anker",
+      "url": "https://hackerone.com/anker",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3458,12 +3458,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Lansweeper Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-      "bounty": "\u20ac2,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Libelle",
       "url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
       "bounty": "\u20ac2,200",
@@ -3848,6 +3842,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Veriff Bug Bounty",
+      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+      "bounty": "\u20ac4,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Visma Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
       "bounty": "Bounty offered",
@@ -3869,6 +3869,12 @@
       "title": "WP Engine VDP",
       "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Water-Link",
+      "url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {

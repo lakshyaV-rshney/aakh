@@ -1,18 +1,11 @@
 {
-  "fetched_at": "2026-11-12T07:02:20.762140+00:00",
+  "fetched_at": "2026-11-13T06:32:25.772782+00:00",
   "competitions": [
     {
-      "title": "PayPal AI Hackathon",
-      "url": "https://paypalaihackathon.devpost.com/",
-      "deadline": "Oct 01 - Nov 12, 2026",
-      "prize": "$67,500",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build, Demo, and Take Home a Working AI Support Bot",
-      "url": "https://build-a-working-ai-support-bot.devpost.com/",
-      "deadline": "Nov 06 - 12, 2026",
-      "prize": "$750",
+      "title": "IBM Qiskit Hackathon - Bangladesh",
+      "url": "https://ibm-qiskit-hackathon.devpost.com/",
+      "deadline": "Nov 12 - 13, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
@@ -30,6 +23,34 @@
       "source": "Devpost"
     },
     {
+      "title": "CIVIC Hack 2026",
+      "url": "https://civic-hack-2026.devpost.com/",
+      "deadline": "Nov 12 - 14, 2026",
+      "prize": "$CAD 1,500",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackED Beta 2026",
+      "url": "https://hacked-beta-2026.devpost.com/",
+      "deadline": "Nov 13 - 14, 2026",
+      "prize": "$CAD 1,100",
+      "source": "Devpost"
+    },
+    {
+      "title": "Unfair Weekend 2026",
+      "url": "https://unfair-weekend.devpost.com/",
+      "deadline": "Nov 12 - 14, 2026",
+      "prize": "\u20ac7,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "System Public Challenge",
+      "url": "https://system-public-challenge.devpost.com/",
+      "deadline": "Nov 12 - 14, 2026",
+      "prize": "$7,500",
+      "source": "Devpost"
+    },
+    {
       "title": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
       "url": "https://scope-ai-thon-2026.devpost.com/",
       "deadline": "Nov 01 - 14, 2026",
@@ -37,37 +58,16 @@
       "source": "Devpost"
     },
     {
+      "title": "BUHACK 2.0",
+      "url": "https://buhack-2.devpost.com/",
+      "deadline": "Nov 12 - 14, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "DataJam 2026",
       "url": "https://datajam-2026.devpost.com/",
       "deadline": "Nov 09 - 15, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "DSH Hacks V2 ($100k+ in prizes!)",
-      "url": "https://dsh-hacks-v2.devpost.com/",
-      "deadline": "Jun 24 - Nov 15, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Mathematics for systems security",
-      "url": "https://mathematics-systems-security.devpost.com/",
-      "deadline": "Oct 16 - Nov 15, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "IceHacks",
-      "url": "https://icehacks.devpost.com/",
-      "deadline": "Nov 08 - 15, 2026",
-      "prize": "$17,150",
-      "source": "Devpost"
-    },
-    {
-      "title": "STEMergent Hacks 2026",
-      "url": "https://stemergent-hacks.devpost.com/",
-      "deadline": "Oct 31 - Nov 15, 2026",
       "prize": "$0",
       "source": "Devpost"
     }
