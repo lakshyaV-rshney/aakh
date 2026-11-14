@@ -1,69 +1,47 @@
 {
-  "fetched_at": "2026-11-13T06:32:35.448876+00:00",
+  "fetched_at": "2026-11-14T06:10:21.235951+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
-      "url": "https://github.com/morluto/rea",
-      "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
-      "head_fake": "The future of RE is agentic"
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs"
     },
     {
       "type": "repo",
-      "title": "deepseek-ai/deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "big_question": "What does a fully plugin-based AI architecture mean for modular software development?",
-      "head_fake": "Everything is a plugin"
+      "title": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
       "type": "hn",
-      "title": "Rust 1.100",
-      "description": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "big_question": "What major stability improvements does Rust 1.100 bring to systems programming?",
-      "head_fake": "Rust hits a milestone"
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
       "type": "hn",
-      "title": "I'm making LLMs work on small and old devices",
-      "description": "Article URL: https://github.com/hyperionaidev/smolmaxxing/",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "big_question": "How are developers optimizing LLM inference for resource-constrained legacy hardware?",
-      "head_fake": "LLMs on old hardware"
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
     },
     {
       "type": "competition",
-      "title": "IBM Qiskit Hackathon - Bangladesh",
-      "description": "https://ibm-qiskit-hackathon.devpost.com/",
-      "url": "https://ibm-qiskit-hackathon.devpost.com/",
-      "big_question": "What are the current frontiers in quantum computing applications for student developers?",
-      "head_fake": "Quantum computing hackathon"
+      "title": "WiseStart 2026 Hackathon: Tallinn",
+      "url": "https://wisestart-2026-tll.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "CIVIC Hack 2026",
+      "url": "https://civic-hack-2026.devpost.com/"
     },
     {
       "type": "bugbounty",
-      "title": "Twilio",
-      "description": "https://hackerone.com/twilio",
-      "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common vulnerability classes in communication API platforms like Twilio?",
-      "head_fake": "Twilio bug bounty"
+      "title": "Omarchy",
+      "url": "https://hackerone.com/omarchy"
     },
     {
-      "type": "floater",
-      "title": "The Universe is Twice as Old",
-      "description": "Scientists claim the universe is twice as old as believed",
-      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-      "big_question": "How does a revised age of the universe impact our understanding of cosmic evolution?",
-      "head_fake": "Cosmology update"
-    },
-    {
-      "type": "floater",
-      "title": "Jensen Huang Resigns",
-      "description": "Nvidia announces CEO transition",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "big_question": "What leadership changes are occurring in the AI hardware industry?",
-      "head_fake": "Nvidia leadership change"
+      "type": "bugbounty",
+      "title": "d-you App & German EUDI Wallet Ecosystem",
+      "url": "https://hackerone.com/common_codes"
     }
   ]
 }

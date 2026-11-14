@@ -1,25 +1,11 @@
 {
-  "fetched_at": "2026-11-13T06:32:25.772782+00:00",
+  "fetched_at": "2026-11-14T06:10:10.337814+00:00",
   "competitions": [
     {
-      "title": "IBM Qiskit Hackathon - Bangladesh",
-      "url": "https://ibm-qiskit-hackathon.devpost.com/",
-      "deadline": "Nov 12 - 13, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Blockchain Innovation Challenge powered by Stellar",
-      "url": "https://blockchain-stellar-ic.devpost.com/",
-      "deadline": "Nov 06 - 13, 2026",
-      "prize": "$CAD 15,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "CodeCoogs x CenterPoint Hackathon",
-      "url": "https://codecoogsxcenterpointhackathon.devpost.com/",
-      "deadline": "Nov 12 - 13, 2026",
-      "prize": "$0",
+      "title": "WiseStart 2026 Hackathon: Tallinn",
+      "url": "https://wisestart-2026-tll.devpost.com/",
+      "deadline": "Nov 13 - 14, 2026",
+      "prize": "\u20ac0",
       "source": "Devpost"
     },
     {
@@ -51,6 +37,13 @@
       "source": "Devpost"
     },
     {
+      "title": "Black CS Summit 2026 Hackathon",
+      "url": "https://black-cs-summit-2026-hackathon.devpost.com/",
+      "deadline": "Nov 13 - 14, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
       "url": "https://scope-ai-thon-2026.devpost.com/",
       "deadline": "Nov 01 - 14, 2026",
@@ -58,16 +51,23 @@
       "source": "Devpost"
     },
     {
-      "title": "BUHACK 2.0",
-      "url": "https://buhack-2.devpost.com/",
-      "deadline": "Nov 12 - 14, 2026",
+      "title": "BYU-Idaho: i-Hack 2026: Reinventing the Past",
+      "url": "https://ihack-2026.devpost.com/",
+      "deadline": "Nov 13 - 14, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "DataJam 2026",
-      "url": "https://datajam-2026.devpost.com/",
-      "deadline": "Nov 09 - 15, 2026",
+      "title": "EVOLVE: 8090 AI Hackathon",
+      "url": "https://evolve-8090.devpost.com/",
+      "deadline": "Nov 13 - 14, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Haven Philly",
+      "url": "https://haven-philly.devpost.com/",
+      "deadline": "Nov 14, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

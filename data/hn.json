@@ -1,95 +1,88 @@
 {
-  "fetched_at": "2026-11-13T06:32:06.818814+00:00",
+  "fetched_at": "2026-11-14T06:09:57.039643+00:00",
   "stories": [
     {
-      "title": "Scientists claim the universe is twice as old as believed",
-      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-      "summary": "<p>Article URL: <a href=\"https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/\">https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478635\">https://news.ycombinator.com/item?i",
-      "published": "Fri, 13 Nov 2026 05:13:30 +0000",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "summary": "<p>Article URL: <a href=\"https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb",
+      "published": "Sat, 14 Nov 2026 02:52:59 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
-      "url": "https://github.com/pharma2a/pharma2a",
-      "summary": "<p>I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. \nThe idea is to automatise orders of selling and buying between pharmacies and thei",
-      "published": "Fri, 13 Nov 2026 04:58:53 +0000",
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ggml-org/ggml/releases/tag/v1.0.0\">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493062\">https://news.ycombinator.com/item?id=50493062</a></p>\n<p>Points: 135</p>\n<p># Comments:",
+      "published": "Sat, 14 Nov 2026 02:28:29 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Switcher (2004)",
-      "url": "https://folklore.org/Switcher.html",
-      "summary": "<p>Article URL: <a href=\"https://folklore.org/Switcher.html\">https://folklore.org/Switcher.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50477714\">https://news.ycombinator.com/item?id=50477714</a></p>\n<p>Points: 71</p>\n<p># Comments: 15</p>",
-      "published": "Fri, 13 Nov 2026 03:14:59 +0000",
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html\">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492993\">h",
+      "published": "Sat, 14 Nov 2026 02:21:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "summary": "<p>Article URL: <a href=\"https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50475713\">https://new",
-      "published": "Thu, 12 Nov 2026 23:06:17 +0000",
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "summary": "<p>Article URL: <a href=\"https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/\">https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492950\">https:/",
+      "published": "Sat, 14 Nov 2026 02:15:41 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "summary": "<p>Article URL: <a href=\"https://unemploymentlabs.com/checkpoint-forensics\">https://unemploymentlabs.com/checkpoint-forensics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474883\">https://news.ycombinator.com/item?id=50474883</a></p>\n<p>Points: 246</p>\n<p># Comments: 66</p",
-      "published": "Thu, 12 Nov 2026 21:56:11 +0000",
+      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "summary": "<p>Article URL: <a href=\"https://unsloth.ai/docs/models/qwen3.8\">https://unsloth.ai/docs/models/qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491980\">https://news.ycombinator.com/item?id=50491980</a></p>\n<p>Points: 76</p>\n<p># Comments: 11</p>",
+      "published": "Sat, 14 Nov 2026 00:06:04 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "summary": "<p>Article URL: <a href=\"https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html\">https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin",
-      "published": "Thu, 12 Nov 2026 21:09:49 +0000",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "summary": "<p>Article URL: <a href=\"https://orcasairband.com/\">https://orcasairband.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50490593\">https://news.ycombinator.com/item?id=50490593</a></p>\n<p>Points: 244</p>\n<p># Comments: 56</p>",
+      "published": "Fri, 13 Nov 2026 22:04:24 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-      "summary": "<p><a href=\"https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-huang-had-a-third-affair-with-another-nvidia-employee-report-says/\" rel=\"nofollow\">https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=504",
-      "published": "Thu, 12 Nov 2026 19:51:33 +0000",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "summary": "<p>Article URL: <a href=\"https://atg.science/careers\">https://atg.science/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489589\">https://news.ycombinator.com/item?id=50489589</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "published": "Fri, 13 Nov 2026 21:01:11 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Rust 1.100",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "summary": "<p>Article URL: <a href=\"https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/\">https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50472038\">https://news.ycombinator.com/item?id=50472038</a></p>\n<p>Points: 576</p>\n<p># Comments: 2",
-      "published": "Thu, 12 Nov 2026 18:39:05 +0000",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "summary": "<p>Article URL: <a href=\"https://www.perplexity.ai/hub/blog/perplexity-decider\">https://www.perplexity.ai/hub/blog/perplexity-decider</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488464\">https://news.ycombinator.com/item?id=50488464</a></p>\n<p>Points: 115</p>\n<p># Comment",
+      "published": "Fri, 13 Nov 2026 19:24:47 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
-      "published": "Thu, 12 Nov 2026 18:01:48 +0000",
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "summary": "<p>Article URL: <a href=\"https://toninoble.com/post/ctrlc-ctrlv-ctrlcve\">https://toninoble.com/post/ctrlc-ctrlv-ctrlcve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487605\">https://news.ycombinator.com/item?id=50487605</a></p>\n<p>Points: 76</p>\n<p># Comments: 33</p>",
+      "published": "Fri, 13 Nov 2026 18:23:49 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/hyperionaidev/smolmaxxing/\">https://github.com/hyperionaidev/smolmaxxing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50468888\">https://news.ycombinator.com/item?id=50468888</a></p>\n<p>Points: 327</p>\n<p># Comments: 120</p>",
-      "published": "Thu, 12 Nov 2026 15:23:10 +0000",
+      "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "summary": "<p>Technical Write-up: <a href=\"https://www.justinchavez.com/blog/isometric-sf-how/\" rel=\"nofollow\">https://www.justinchavez.com/blog/isometric-sf-how/</a><p>Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into ",
+      "published": "Fri, 13 Nov 2026 17:58:37 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "summary": "<p><a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" rel=\"nofollow\">https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran...</a><p><a href=\"https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/\" rel=\"nofollow",
-      "published": "Thu, 12 Nov 2026 13:52:29 +0000",
+      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=IRK8h67ol7Q\">https://www.youtube.com/watch?v=IRK8h67ol7Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484658\">https://news.ycombinator.com/item?id=50484658</a></p>\n<p>Points: 205</p>\n<p># Comments: 204</p>",
+      "published": "Fri, 13 Nov 2026 15:08:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Adapting CPython for Yk",
-      "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
-      "summary": "<p>Article URL: <a href=\"https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html\">https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50466410\">https://news.ycombinator.com/item?id=50466410</a></p>\n<p>Points: ",
-      "published": "Thu, 12 Nov 2026 12:51:38 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Relax: JIT compiler for Rust to reduce build times",
-      "url": "https://makepad.github.io/relax/",
-      "summary": "<p>Article URL: <a href=\"https://makepad.github.io/relax/\">https://makepad.github.io/relax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50458849\">https://news.ycombinator.com/item?id=50458849</a></p>\n<p>Points: 143</p>\n<p># Comments: 63</p>",
-      "published": "Wed, 11 Nov 2026 21:20:01 +0000",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "summary": "<p>Article URL: <a href=\"https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/\">https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474",
+      "published": "Thu, 12 Nov 2026 22:03:09 +0000",
       "source": "Hacker News"
     }
   ]
