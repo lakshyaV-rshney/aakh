@@ -1,47 +1,69 @@
 {
-  "fetched_at": "2026-11-14T06:10:21.235951+00:00",
+  "fetched_at": "2026-11-15T06:18:17.982683+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
+      "title": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
+      "head_fake": "I just used this to crack a closed-source app in 10 minutes. The agent mapped the entire call graph without me touching a debugger. This changes the game for CTFs."
     },
     {
       "type": "repo",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+      "title": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode",
+      "big_question": "What are the architectural trade-offs of building a fully open-source coding agent compared to proprietary solutions?",
+      "head_fake": "Finally, an open-source alternative that doesn't lock you into a specific cloud provider. I switched my entire dev workflow to this and the latency is surprisingly low."
     },
     {
       "type": "hn",
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "description": "A minimal implementation of the DeepSeek V3 model using pure Jax.",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "big_question": "How does implementing a state-of-the-art LLM in under 200 lines of Jax simplify understanding of transformer internals?",
+      "head_fake": "I read this code line by line. It's the best way to understand how attention mechanisms actually work without getting lost in PyTorch boilerplate. Essential for CS students."
     },
     {
       "type": "hn",
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "description": "Google Project Zero updates its disclosure policy to a 90-day window.",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "big_question": "How does a standardized 90-day disclosure window impact the balance between vendor patching time and public safety?",
+      "head_fake": "This is a huge win for the security community. Consistent timelines mean we can better plan for patch deployment in enterprise environments. No more guessing games."
     },
     {
       "type": "competition",
-      "title": "WiseStart 2026 Hackathon: Tallinn",
-      "url": "https://wisestart-2026-tll.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "CIVIC Hack 2026",
-      "url": "https://civic-hack-2026.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Omarchy",
-      "url": "https://hackerone.com/omarchy"
+      "title": "Imperial AI Hackathon",
+      "description": "A hackathon focused on artificial intelligence projects.",
+      "url": "https://imperial-ai-hackathon.devpost.com/",
+      "big_question": "What are the most viable real-world applications for AI agents in academic settings?",
+      "head_fake": "I'm teaming up with two friends to build an AI tutor for this. The prize pool is decent, but the networking with Imperial students is the real draw."
     },
     {
       "type": "bugbounty",
-      "title": "d-you App & German EUDI Wallet Ecosystem",
-      "url": "https://hackerone.com/common_codes"
+      "title": "Twilio",
+      "description": "Bug bounty program for Twilio's communication platform.",
+      "url": "https://hackerone.com/twilio",
+      "big_question": "What are the common security misconfigurations in cloud-based communication APIs?",
+      "head_fake": "Twilio pays well and has a clear scope. I found a low-hanging fruit in their webhook validation last month. Great target for intermediate researchers."
+    },
+    {
+      "type": "floater",
+      "title": "The Psychology of Code Review",
+      "description": "Understanding the social dynamics and cognitive biases in code review processes.",
+      "url": "https://example.com/psychology-code-review",
+      "big_question": "How do social hierarchies in engineering teams affect the quality and speed of code reviews?",
+      "head_fake": "I noticed that my PRs get reviewed faster when I ask for feedback on specific lines rather than the whole file. It's all about reducing cognitive load for the reviewer."
+    },
+    {
+      "type": "floater",
+      "title": "Rust vs. Go for Systems Programming",
+      "description": "A comparative analysis of Rust and Go for building high-performance backend systems.",
+      "url": "https://example.com/rust-vs-go",
+      "big_question": "Which language offers a better balance between development speed and runtime performance for modern microservices?",
+      "head_fake": "I benchmarked both for a recent project. Rust wins on performance, but Go wins on developer velocity. For a student project, Go is probably the safer bet."
     }
   ]
 }

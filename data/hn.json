@@ -1,88 +1,123 @@
 {
-  "fetched_at": "2026-11-14T06:09:57.039643+00:00",
+  "fetched_at": "2026-11-15T06:17:54.986502+00:00",
   "stories": [
     {
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "summary": "<p>Article URL: <a href=\"https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb",
-      "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "summary": "<p>Yes, i really hate \"dict[str, ANY]\"</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504072\">https://news.ycombinator.com/item?id=50504072</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
+      "published": "Sun, 15 Nov 2026 04:39:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ggml-org/ggml/releases/tag/v1.0.0\">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493062\">https://news.ycombinator.com/item?id=50493062</a></p>\n<p>Points: 135</p>\n<p># Comments:",
-      "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c\">https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c</a></p>\n<p>Comments URL: <a href=\"ht",
+      "published": "Sun, 15 Nov 2026 03:05:54 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html\">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492993\">h",
-      "published": "Sat, 14 Nov 2026 02:21:36 +0000",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "summary": "<p>Article URL: <a href=\"https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\">https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i",
+      "published": "Sun, 15 Nov 2026 01:18:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
-      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
-      "summary": "<p>Article URL: <a href=\"https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/\">https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492950\">https:/",
-      "published": "Sat, 14 Nov 2026 02:15:41 +0000",
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "url": "https://bobbiec.github.io/jamaican-font.html",
+      "summary": "<p>Article URL: <a href=\"https://bobbiec.github.io/jamaican-font.html\">https://bobbiec.github.io/jamaican-font.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50502839\">https://news.ycombinator.com/item?id=50502839</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
+      "published": "Sun, 15 Nov 2026 00:56:45 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "summary": "<p>Article URL: <a href=\"https://unsloth.ai/docs/models/qwen3.8\">https://unsloth.ai/docs/models/qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491980\">https://news.ycombinator.com/item?id=50491980</a></p>\n<p>Points: 76</p>\n<p># Comments: 11</p>",
-      "published": "Sat, 14 Nov 2026 00:06:04 +0000",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html\">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=505",
+      "published": "Sat, 14 Nov 2026 22:26:30 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "summary": "<p>Article URL: <a href=\"https://orcasairband.com/\">https://orcasairband.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50490593\">https://news.ycombinator.com/item?id=50490593</a></p>\n<p>Points: 244</p>\n<p># Comments: 56</p>",
-      "published": "Fri, 13 Nov 2026 22:04:24 +0000",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "summary": "<p>Article URL: <a href=\"https://www.crissyfield.de/research/lovable-en/\">https://www.crissyfield.de/research/lovable-en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499017\">https://news.ycombinator.com/item?id=50499017</a></p>\n<p>Points: 743</p>\n<p># Comments: 296</p>",
+      "published": "Sat, 14 Nov 2026 17:43:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "url": "https://atg.science/careers",
-      "summary": "<p>Article URL: <a href=\"https://atg.science/careers\">https://atg.science/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489589\">https://news.ycombinator.com/item?id=50489589</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "published": "Fri, 13 Nov 2026 21:01:11 +0000",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "summary": "<p>Article URL: <a href=\"https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/\">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497892\">https://news.ycombinator.com/item?id=50497892</a></p>\n<p>Points: 225</p>\n",
+      "published": "Sat, 14 Nov 2026 15:40:52 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "summary": "<p>Article URL: <a href=\"https://www.perplexity.ai/hub/blog/perplexity-decider\">https://www.perplexity.ai/hub/blog/perplexity-decider</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50488464\">https://news.ycombinator.com/item?id=50488464</a></p>\n<p>Points: 115</p>\n<p># Comment",
-      "published": "Fri, 13 Nov 2026 19:24:47 +0000",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax\">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497589\">https://news.ycombinator.com/item?id=50497589</a></p>\n<p>Points: 213</p>\n<p># Comments: 12<",
+      "published": "Sat, 14 Nov 2026 15:04:15 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-      "summary": "<p>Article URL: <a href=\"https://toninoble.com/post/ctrlc-ctrlv-ctrlcve\">https://toninoble.com/post/ctrlc-ctrlv-ctrlcve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487605\">https://news.ycombinator.com/item?id=50487605</a></p>\n<p>Points: 76</p>\n<p># Comments: 33</p>",
-      "published": "Fri, 13 Nov 2026 18:23:49 +0000",
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "summary": "<p>Article URL: <a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496811\">htt",
+      "published": "Sat, 14 Nov 2026 13:20:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
-      "url": "https://isometricsf.com/",
-      "summary": "<p>Technical Write-up: <a href=\"https://www.justinchavez.com/blog/isometric-sf-how/\" rel=\"nofollow\">https://www.justinchavez.com/blog/isometric-sf-how/</a><p>Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into ",
-      "published": "Fri, 13 Nov 2026 17:58:37 +0000",
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "summary": "<p>Article URL: <a href=\"https://projectzero.google/2026/11/disclosure-policy.html\">https://projectzero.google/2026/11/disclosure-policy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496051\">https://news.ycombinator.com/item?id=50496051</a></p>\n<p>Points: 220</p>\n<p>#",
+      "published": "Sat, 14 Nov 2026 11:13:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=IRK8h67ol7Q\">https://www.youtube.com/watch?v=IRK8h67ol7Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484658\">https://news.ycombinator.com/item?id=50484658</a></p>\n<p>Points: 205</p>\n<p># Comments: 204</p>",
-      "published": "Fri, 13 Nov 2026 15:08:44 +0000",
+      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html\">https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486880\">https://news.ycombinato",
+      "published": "Fri, 13 Nov 2026 17:37:32 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "summary": "<p>Article URL: <a href=\"https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/\">https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474",
-      "published": "Thu, 12 Nov 2026 22:03:09 +0000",
+      "title": "500 Lines or Less A 3D Modeller",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "summary": "<p>Article URL: <a href=\"https://aosabook.org/en/500L/a-3d-modeller.html\">https://aosabook.org/en/500L/a-3d-modeller.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50483431\">https://news.ycombinator.com/item?id=50483431</a></p>\n<p>Points: 35</p>\n<p># Comments: 4</p>",
+      "published": "Fri, 13 Nov 2026 13:47:42 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "summary": "<p>Article URL: <a href=\"https://forge-blog.github.io/posts/rust-std-memory-safety/\">https://forge-blog.github.io/posts/rust-std-memory-safety/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478701\">https://news.ycombinator.com/item?id=50478701</a></p>\n<p>Points: 20</p>\n<p>",
+      "published": "Fri, 13 Nov 2026 05:22:08 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Oxford Molecular Motors",
+      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+      "summary": "<p>Article URL: <a href=\"https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor\">https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
+      "published": "Wed, 11 Nov 2026 17:06:08 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/\">https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453901\">https://news.ycombinato",
+      "published": "Wed, 11 Nov 2026 14:32:09 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Sicilian Citrus Family Tree",
+      "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
+      "summary": "<p>Article URL: <a href=\"https://www.notesfromtheroad.com/europa/citrus-family-tree.html\">https://www.notesfromtheroad.com/europa/citrus-family-tree.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50448895\">https://news.ycombinator.com/item?id=50448895</a></p>\n<p>Points: ",
+      "published": "Wed, 11 Nov 2026 01:52:00 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "summary": "<p>Article URL: <a href=\"https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/\">https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50441444\">https://news.ycombinator.com/item?id=504414",
+      "published": "Tue, 10 Nov 2026 15:07:28 +0000",
       "source": "Hacker News"
     }
   ]
