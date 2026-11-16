@@ -1,123 +1,88 @@
 {
-  "fetched_at": "2026-11-15T06:17:54.986502+00:00",
+  "fetched_at": "2026-11-16T06:16:45.526291+00:00",
   "stories": [
     {
-      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "summary": "<p>Yes, i really hate \"dict[str, ANY]\"</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504072\">https://news.ycombinator.com/item?id=50504072</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
-      "published": "Sun, 15 Nov 2026 04:39:25 +0000",
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "summary": "<p>I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots/agents) as well. I use unique emails for every site, so I immediately knew that the late A",
+      "published": "Mon, 16 Nov 2026 02:53:30 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c\">https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c</a></p>\n<p>Comments URL: <a href=\"ht",
-      "published": "Sun, 15 Nov 2026 03:05:54 +0000",
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen4-max\">https://qwen.ai/blog?id=qwen4-max</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513215\">https://news.ycombinator.com/item?id=50513215</a></p>\n<p>Points: 315</p>\n<p># Comments: 106</p>",
+      "published": "Mon, 16 Nov 2026 02:14:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "summary": "<p>Article URL: <a href=\"https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\">https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i",
-      "published": "Sun, 15 Nov 2026 01:18:36 +0000",
+      "title": "Coles hit by a cybersecurity incident",
+      "url": "https://www.colesgroup.com.au/updates/",
+      "summary": "<p>Article URL: <a href=\"https://www.colesgroup.com.au/updates/\">https://www.colesgroup.com.au/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512824\">https://news.ycombinator.com/item?id=50512824</a></p>\n<p>Points: 83</p>\n<p># Comments: 59</p>",
+      "published": "Mon, 16 Nov 2026 01:14:35 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "url": "https://bobbiec.github.io/jamaican-font.html",
-      "summary": "<p>Article URL: <a href=\"https://bobbiec.github.io/jamaican-font.html\">https://bobbiec.github.io/jamaican-font.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50502839\">https://news.ycombinator.com/item?id=50502839</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
-      "published": "Sun, 15 Nov 2026 00:56:45 +0000",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "summary": "<p>Article URL: <a href=\"https://forum.torproject.org/t/security-release-0-4-9-17/22454\">https://forum.torproject.org/t/security-release-0-4-9-17/22454</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512441\">https://news.ycombinator.com/item?id=50512441</a></p>\n<p>Points: 10",
+      "published": "Mon, 16 Nov 2026 00:21:54 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html\">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=505",
-      "published": "Sat, 14 Nov 2026 22:26:30 +0000",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "summary": "<p>Article URL: <a href=\"https://baron.by.dai.studio/\">https://baron.by.dai.studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510296\">https://news.ycombinator.com/item?id=50510296</a></p>\n<p>Points: 113</p>\n<p># Comments: 21</p>",
+      "published": "Sun, 15 Nov 2026 20:20:05 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "summary": "<p>Article URL: <a href=\"https://www.crissyfield.de/research/lovable-en/\">https://www.crissyfield.de/research/lovable-en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499017\">https://news.ycombinator.com/item?id=50499017</a></p>\n<p>Points: 743</p>\n<p># Comments: 296</p>",
-      "published": "Sat, 14 Nov 2026 17:43:10 +0000",
+      "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "summary": "<p>Article URL: <a href=\"https://github.com/eclipse-mosquitto/mosquitto\">https://github.com/eclipse-mosquitto/mosquitto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509416\">https://news.ycombinator.com/item?id=50509416</a></p>\n<p>Points: 83</p>\n<p># Comments: 30</p>",
+      "published": "Sun, 15 Nov 2026 18:36:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "summary": "<p>Article URL: <a href=\"https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/\">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497892\">https://news.ycombinator.com/item?id=50497892</a></p>\n<p>Points: 225</p>\n",
-      "published": "Sat, 14 Nov 2026 15:40:52 +0000",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "summary": "<p>Article URL: <a href=\"https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html\">https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509",
+      "published": "Sun, 15 Nov 2026 18:36:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax\">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497589\">https://news.ycombinator.com/item?id=50497589</a></p>\n<p>Points: 213</p>\n<p># Comments: 12<",
-      "published": "Sat, 14 Nov 2026 15:04:15 +0000",
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=7_JF3etiAv8\">https://www.youtube.com/watch?v=7_JF3etiAv8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509308\">https://news.ycombinator.com/item?id=50509308</a></p>\n<p>Points: 212</p>\n<p># Comments: 92</p>",
+      "published": "Sun, 15 Nov 2026 18:23:21 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "summary": "<p>Article URL: <a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496811\">htt",
-      "published": "Sat, 14 Nov 2026 13:20:43 +0000",
+      "title": "Crows make decisions faster than we can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html\">https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509023\">https://news.ycom",
+      "published": "Sun, 15 Nov 2026 17:53:31 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "summary": "<p>Article URL: <a href=\"https://projectzero.google/2026/11/disclosure-policy.html\">https://projectzero.google/2026/11/disclosure-policy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496051\">https://news.ycombinator.com/item?id=50496051</a></p>\n<p>Points: 220</p>\n<p>#",
-      "published": "Sat, 14 Nov 2026 11:13:17 +0000",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/116.html\">https://prog21.dadgum.com/116.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506894\">https://news.ycombinator.com/item?id=50506894</a></p>\n<p>Points: 219</p>\n<p># Comments: 116</p>",
+      "published": "Sun, 15 Nov 2026 13:44:16 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+      "title": "A quest to create the perfect whiskey glass",
       "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
       "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html\">https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486880\">https://news.ycombinato",
       "published": "Fri, 13 Nov 2026 17:37:32 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "500 Lines or Less A 3D Modeller",
-      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-      "summary": "<p>Article URL: <a href=\"https://aosabook.org/en/500L/a-3d-modeller.html\">https://aosabook.org/en/500L/a-3d-modeller.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50483431\">https://news.ycombinator.com/item?id=50483431</a></p>\n<p>Points: 35</p>\n<p># Comments: 4</p>",
-      "published": "Fri, 13 Nov 2026 13:47:42 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Memory Safety Bugs in Rust Standard Library",
-      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-      "summary": "<p>Article URL: <a href=\"https://forge-blog.github.io/posts/rust-std-memory-safety/\">https://forge-blog.github.io/posts/rust-std-memory-safety/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478701\">https://news.ycombinator.com/item?id=50478701</a></p>\n<p>Points: 20</p>\n<p>",
-      "published": "Fri, 13 Nov 2026 05:22:08 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Oxford Molecular Motors",
-      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
-      "summary": "<p>Article URL: <a href=\"https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor\">https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?",
-      "published": "Wed, 11 Nov 2026 17:06:08 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/\">https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453901\">https://news.ycombinato",
-      "published": "Wed, 11 Nov 2026 14:32:09 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "The Sicilian Citrus Family Tree",
-      "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
-      "summary": "<p>Article URL: <a href=\"https://www.notesfromtheroad.com/europa/citrus-family-tree.html\">https://www.notesfromtheroad.com/europa/citrus-family-tree.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50448895\">https://news.ycombinator.com/item?id=50448895</a></p>\n<p>Points: ",
-      "published": "Wed, 11 Nov 2026 01:52:00 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "summary": "<p>Article URL: <a href=\"https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/\">https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50441444\">https://news.ycombinator.com/item?id=504414",
-      "published": "Tue, 10 Nov 2026 15:07:28 +0000",
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "summary": "<p>Article URL: <a href=\"https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html\">https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50479405\">https://news.ycombinator.co",
+      "published": "Fri, 13 Nov 2026 06:58:41 +0000",
       "source": "Hacker News"
     }
   ]

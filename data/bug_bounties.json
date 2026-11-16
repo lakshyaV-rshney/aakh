@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T06:17:53.080912+00:00",
+  "fetched_at": "2026-11-16T06:16:45.649701+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3440,12 +3440,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Kinepolis Group",
-      "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
-      "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Kiwa Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
       "bounty": "Bounty offered",
@@ -3824,12 +3818,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Veriff Bug Bounty",
-      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-      "bounty": "\u20ac4,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Visma Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
       "bounty": "Bounty offered",
@@ -3851,12 +3839,6 @@
       "title": "WP Engine VDP",
       "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Water-Link",
-      "url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
