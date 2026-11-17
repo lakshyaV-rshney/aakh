@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-16T06:17:13.020260+00:00",
+  "fetched_at": "2026-11-17T07:48:27.812667+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
-      "url": "https://github.com/morluto/rea",
-      "big_question": "How can AI agents automate the reverse engineering of native binaries to accelerate security research?",
-      "head_fake": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Reverse Engineering with AI"
+      "title": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "url": "https://github.com/anomalyco/opencode",
+      "big_question": "How does an open-source agent compare to proprietary tools in terms of latency and cost for daily dev tasks?",
+      "head_fake": "\ud83e\udd80 Open-source coding agent just dropped. Is it the Claude Code killer?"
     },
     {
       "type": "repo",
-      "title": "n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual workflows with code",
-      "url": "https://github.com/n8n-io/n8n",
-      "big_question": "Can visual workflow automation with AI capabilities replace traditional scripting for complex backend tasks?",
-      "head_fake": "\u2699\ufe0f AI-Powered Automation"
+      "title": "nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "big_question": "Which specific path in the roadmap aligns best with your current internship or job search goals?",
+      "head_fake": "\ud83d\uddfa\ufe0f Stop guessing your career path. This interactive roadmap maps it out."
     },
     {
       "type": "hn",
-      "title": "Qwen4-Max",
-      "description": "Article URL: https://qwen.ai/blog?id=qwen4-max",
-      "url": "https://qwen.ai/blog?id=qwen4-max",
-      "big_question": "What new capabilities does Qwen4-Max bring to the table for large language model applications?",
-      "head_fake": "\ud83e\udd16 New LLM Release"
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "description": "Analysis of Windows 11 telemetry revealing tracking of developer tools and AI coding agents.",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "big_question": "Are you comfortable with your OS tracking your AI assistant usage? What are the privacy implications for enterprise dev?",
+      "head_fake": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Windows 11 is spying on your coding agents. Here's the proof."
     },
     {
       "type": "hn",
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "description": "Article URL: https://baron.by.dai.studio/",
-      "url": "https://baron.by.dai.studio/",
-      "big_question": "How can procedural generation and WebGL be combined to create realistic flight simulations in the browser?",
-      "head_fake": "\u2708\ufe0f Browser Flight Sim"
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "description": "A new, robust, and ergonomic datetime library for Rust, released by the creator of ripgrep.",
+      "url": "https://burntsushi.net/jiff/",
+      "big_question": "Why is a new datetime library needed in Rust, and how does it handle edge cases better than chrono?",
+      "head_fake": "\u23f0 Rust devs, meet Jiff. The new standard for datetime handling?"
     },
     {
       "type": "competition",
       "title": "WQCC Qiskit Fall Fest 2026",
-      "description": "Quantum computing challenge using Qiskit",
+      "description": "A competition focused on quantum computing using Qiskit, hosted by the World Quantum Computing Challenge.",
       "url": "https://wqcc-qiskit-fall-fest-2026.devpost.com/",
-      "big_question": "What are the current challenges in quantum algorithm development using Qiskit?",
-      "head_fake": "\u269b\ufe0f Quantum Computing Fest"
+      "big_question": "Is now the time to pivot into quantum computing, or is it still too early for practical applications?",
+      "head_fake": "\u269b\ufe0f Quantum computing hackathon. Are you ready to code the future?"
     },
     {
       "type": "bugbounty",
-      "title": "Twilio",
-      "description": "Bug bounty program for Twilio",
-      "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common security vulnerabilities in communication APIs like Twilio?",
-      "head_fake": "\ud83d\udd12 Twilio Security"
+      "title": "DoorDash",
+      "description": "Public bug bounty program for DoorDash, offering rewards for security vulnerabilities.",
+      "url": "https://hackerone.com/doordash",
+      "big_question": "What are the most common vulnerability classes in food delivery platforms, and how can you find them efficiently?",
+      "head_fake": "\ud83c\udf54 Bug bounty alert: DoorDash is paying for security flaws. Get your tools ready."
     },
     {
       "type": "floater",
-      "title": "The Importance of Code Reviews",
-      "description": "Code reviews are essential for maintaining code quality and sharing knowledge within a team.",
-      "url": "https://example.com/code-reviews",
-      "big_question": "How can effective code reviews improve team productivity and code quality?",
-      "head_fake": "\ud83d\udcdd Code Review Tips"
+      "title": "The 20-Minute Code Review",
+      "description": "A technique to make code reviews faster and more effective by focusing on high-impact issues first.",
+      "url": "https://example.com/20-minute-code-review",
+      "big_question": "How can you reduce the cognitive load of code reviews without sacrificing quality?",
+      "head_fake": "\u23f1\ufe0f Code reviews taking too long? Try this 20-minute method."
     },
     {
       "type": "floater",
-      "title": "Understanding Asynchronous Programming",
-      "description": "Asynchronous programming is crucial for building responsive and scalable applications.",
-      "url": "https://example.com/async-programming",
-      "big_question": "What are the best practices for handling asynchronous operations in modern web applications?",
-      "head_fake": "\u23f3 Async Programming"
+      "title": "Understanding Big O Notation in Practice",
+      "description": "A practical guide to understanding and applying Big O notation in real-world programming scenarios.",
+      "url": "https://example.com/big-o-practice",
+      "big_question": "How does Big O notation actually impact the performance of your applications at scale?",
+      "head_fake": "\ud83d\udcc8 Big O notation: The key to writing efficient code."
     }
   ]
 }

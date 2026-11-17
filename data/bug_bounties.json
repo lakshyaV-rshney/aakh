@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16T06:16:45.649701+00:00",
+  "fetched_at": "2026-11-17T07:48:01.950927+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -106,12 +106,6 @@
     {
       "title": "OPPO",
       "url": "https://hackerone.com/oppo_bbp",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "1Password - Enterprise Password Manager",
-      "url": "https://hackerone.com/1password",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -352,12 +346,6 @@
     {
       "title": "Boozt Fashion AB",
       "url": "https://hackerone.com/boozt",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Sheer",
-      "url": "https://hackerone.com/sheer_bbp",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1054,6 +1042,12 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3194,6 +3188,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Challenge 1126",
+      "url": "https://www.intigriti.com/programs/intigriti/challenge1126/detail",
+      "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
       "title": "Citymesh Responsible Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
@@ -3440,6 +3440,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Kinepolis Group",
+      "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+      "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Kiwa Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
       "bounty": "Bounty offered",
@@ -3572,6 +3578,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Personio",
+      "url": "https://www.intigriti.com/programs/personio/personio/detail",
+      "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Port of Antwerp-Bruges",
       "url": "https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail",
       "bounty": "\u20ac4,500",
@@ -3647,12 +3659,6 @@
       "title": "Rivian Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/rivian/rivianvdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "SBB - Swiss Federal Railways",
-      "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
-      "bounty": "\u20ac6,666",
       "source": "Intigriti"
     },
     {

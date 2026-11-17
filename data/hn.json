@@ -1,88 +1,81 @@
 {
-  "fetched_at": "2026-11-16T06:16:45.526291+00:00",
+  "fetched_at": "2026-11-17T07:48:02.367153+00:00",
   "stories": [
     {
-      "title": "Tell HN: HN is being scraped for emails to scam",
-      "url": "https://news.ycombinator.com/item?id=50513451",
-      "summary": "<p>I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots/agents) as well. I use unique emails for every site, so I immediately knew that the late A",
-      "published": "Mon, 16 Nov 2026 02:53:30 +0000",
+      "title": "Tokendoctor \u2013 the same Claude Code for up to 38% less",
+      "url": "https://github.com/localixai/tokendoctor",
+      "summary": "<p>Article URL: <a href=\"https://github.com/localixai/tokendoctor\">https://github.com/localixai/tokendoctor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526584\">https://news.ycombinator.com/item?id=50526584</a></p>\n<p>Points: 20</p>\n<p># Comments: 8</p>",
+      "published": "Tue, 17 Nov 2026 02:19:50 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Qwen4-Max",
-      "url": "https://qwen.ai/blog?id=qwen4-max",
-      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen4-max\">https://qwen.ai/blog?id=qwen4-max</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513215\">https://news.ycombinator.com/item?id=50513215</a></p>\n<p>Points: 315</p>\n<p># Comments: 106</p>",
-      "published": "Mon, 16 Nov 2026 02:14:44 +0000",
+      "title": "Mem Is Shutting Down",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "summary": "<p>Article URL: <a href=\"https://get.mem.ai/blog/mem-is-shutting-down\">https://get.mem.ai/blog/mem-is-shutting-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526537\">https://news.ycombinator.com/item?id=50526537</a></p>\n<p>Points: 48</p>\n<p># Comments: 62</p>",
+      "published": "Tue, 17 Nov 2026 02:13:41 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Coles hit by a cybersecurity incident",
-      "url": "https://www.colesgroup.com.au/updates/",
-      "summary": "<p>Article URL: <a href=\"https://www.colesgroup.com.au/updates/\">https://www.colesgroup.com.au/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512824\">https://news.ycombinator.com/item?id=50512824</a></p>\n<p>Points: 83</p>\n<p># Comments: 59</p>",
-      "published": "Mon, 16 Nov 2026 01:14:35 +0000",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "summary": "<p>Article URL: <a href=\"https://xusheng.dev/posts/windows-coding-agent-telemetry/\">https://xusheng.dev/posts/windows-coding-agent-telemetry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50524736\">https://news.ycombinator.com/item?id=50524736</a></p>\n<p>Points: 509</p>\n<p>#",
+      "published": "Mon, 16 Nov 2026 22:58:20 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "summary": "<p>Article URL: <a href=\"https://forum.torproject.org/t/security-release-0-4-9-17/22454\">https://forum.torproject.org/t/security-release-0-4-9-17/22454</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512441\">https://news.ycombinator.com/item?id=50512441</a></p>\n<p>Points: 10",
-      "published": "Mon, 16 Nov 2026 00:21:54 +0000",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/\">https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50524225\">https://news.ycombinator.com/item?i",
+      "published": "Mon, 16 Nov 2026 22:19:23 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "url": "https://baron.by.dai.studio/",
-      "summary": "<p>Article URL: <a href=\"https://baron.by.dai.studio/\">https://baron.by.dai.studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510296\">https://news.ycombinator.com/item?id=50510296</a></p>\n<p>Points: 113</p>\n<p># Comments: 21</p>",
-      "published": "Sun, 15 Nov 2026 20:20:05 +0000",
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "summary": "<p>Article URL: <a href=\"https://www.spamhaus.org/sender-guidelines/\">https://www.spamhaus.org/sender-guidelines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523784\">https://news.ycombinator.com/item?id=50523784</a></p>\n<p>Points: 96</p>\n<p># Comments: 86</p>",
+      "published": "Mon, 16 Nov 2026 21:47:19 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
-      "summary": "<p>Article URL: <a href=\"https://github.com/eclipse-mosquitto/mosquitto\">https://github.com/eclipse-mosquitto/mosquitto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509416\">https://news.ycombinator.com/item?id=50509416</a></p>\n<p>Points: 83</p>\n<p># Comments: 30</p>",
-      "published": "Sun, 15 Nov 2026 18:36:40 +0000",
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "summary": "<p>Article URL: <a href=\"https://opencode.ai/product/browse\">https://opencode.ai/product/browse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523459\">https://news.ycombinator.com/item?id=50523459</a></p>\n<p>Points: 218</p>\n<p># Comments: 115</p>",
+      "published": "Mon, 16 Nov 2026 21:20:37 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "summary": "<p>Article URL: <a href=\"https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html\">https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509",
-      "published": "Sun, 15 Nov 2026 18:36:10 +0000",
+      "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "summary": "<p>Hi HN! We\u2019re Arsh and Max, founders of Axonnic (<a href=\"https://axonnic.com\">https://axonnic.com</a>). We\u2019ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It\u2019s used to record human movement and generat",
+      "published": "Mon, 16 Nov 2026 20:29:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A short explainer on how El Ni\u00f1o works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=7_JF3etiAv8\">https://www.youtube.com/watch?v=7_JF3etiAv8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509308\">https://news.ycombinator.com/item?id=50509308</a></p>\n<p>Points: 212</p>\n<p># Comments: 92</p>",
-      "published": "Sun, 15 Nov 2026 18:23:21 +0000",
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "summary": "<p>Article URL: <a href=\"https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains\">https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat",
+      "published": "Mon, 16 Nov 2026 17:27:46 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Crows make decisions faster than we can",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html\">https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509023\">https://news.ycom",
-      "published": "Sun, 15 Nov 2026 17:53:31 +0000",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "summary": "<p>Article URL: <a href=\"https://burntsushi.net/jiff/\">https://burntsushi.net/jiff/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519744\">https://news.ycombinator.com/item?id=50519744</a></p>\n<p>Points: 364</p>\n<p># Comments: 81</p>",
+      "published": "Mon, 16 Nov 2026 16:53:39 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "url": "https://prog21.dadgum.com/116.html",
-      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/116.html\">https://prog21.dadgum.com/116.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506894\">https://news.ycombinator.com/item?id=50506894</a></p>\n<p>Points: 219</p>\n<p># Comments: 116</p>",
-      "published": "Sun, 15 Nov 2026 13:44:16 +0000",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026\">https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</a></p>\n<p",
+      "published": "Mon, 16 Nov 2026 13:18:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A quest to create the perfect whiskey glass",
-      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html\">https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486880\">https://news.ycombinato",
-      "published": "Fri, 13 Nov 2026 17:37:32 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
-      "summary": "<p>Article URL: <a href=\"https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html\">https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50479405\">https://news.ycombinator.co",
-      "published": "Fri, 13 Nov 2026 06:58:41 +0000",
+      "title": "Nimony: A New Compiler for Nim",
+      "url": "https://nimony.org/",
+      "summary": "<p>Article URL: <a href=\"https://nimony.org/\">https://nimony.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512779\">https://news.ycombinator.com/item?id=50512779</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+      "published": "Mon, 16 Nov 2026 01:05:22 +0000",
       "source": "Hacker News"
     }
   ]

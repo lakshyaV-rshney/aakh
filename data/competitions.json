@@ -1,27 +1,6 @@
 {
-  "fetched_at": "2026-11-16T06:17:02.911667+00:00",
+  "fetched_at": "2026-11-17T07:48:14.908675+00:00",
   "competitions": [
-    {
-      "title": "UGREEN Hackathon 2026 on AI NAS",
-      "url": "https://ugreenhackathon.devpost.com/",
-      "deadline": "Oct 22 - Nov 16, 2026",
-      "prize": "$46,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Technology x Health: Amador Valley Girls Who Code Hackathon",
-      "url": "https://ai-x-health-hackathon-avgwc.devpost.com/",
-      "deadline": "Nov 06 - 16, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Fall 2026 Projects",
-      "url": "https://fall-2026-projects.devpost.com/",
-      "deadline": "Nov 15 - 16, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "Bharat Builds Tour",
       "url": "https://bharat-builds-tour.devpost.com/",
@@ -69,6 +48,27 @@
       "url": "https://wqcc-qiskit-fall-fest-2026.devpost.com/",
       "deadline": "Nov 07 - 19, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "University Blockchain Conference Hackathon 2026",
+      "url": "https://ubc-hackathon-2026.devpost.com/",
+      "deadline": "Nov 13 - 20, 2026",
+      "prize": "$22,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Dakar Bitcoin Hack by BTrust",
+      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+      "deadline": "Oct 26 - Nov 20, 2026",
+      "prize": "$900",
+      "source": "Devpost"
+    },
+    {
+      "title": "Build with Gemma - Innovate in Windsor",
+      "url": "https://innovate-in-windsor-hackathon.devpost.com/",
+      "deadline": "Nov 13 - 20, 2026",
+      "prize": "$CAD 0",
       "source": "Devpost"
     }
   ]
