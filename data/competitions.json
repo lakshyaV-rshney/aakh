@@ -1,17 +1,10 @@
 {
-  "fetched_at": "2026-11-17T07:48:14.908675+00:00",
+  "fetched_at": "2026-11-18T07:16:12.005654+00:00",
   "competitions": [
     {
-      "title": "Bharat Builds Tour",
-      "url": "https://bharat-builds-tour.devpost.com/",
-      "deadline": "Nov 16 - 17, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "CRC Hacks ",
-      "url": "https://crc-student-hackathon.devpost.com/",
-      "deadline": "Nov 09 - 17, 2026",
+      "title": "A-Team with SpaceXSI at AITR Indore!  - CursorFlow",
+      "url": "https://cursorflowaitr.devpost.com/",
+      "deadline": "Nov 18, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
@@ -62,6 +55,13 @@
       "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
       "deadline": "Oct 26 - Nov 20, 2026",
       "prize": "$900",
+      "source": "Devpost"
+    },
+    {
+      "title": "AI@UCF Semester Sprint",
+      "url": "https://semester-sprint.devpost.com/",
+      "deadline": "Nov 17 - 20, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {

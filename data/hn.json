@@ -1,81 +1,102 @@
 {
-  "fetched_at": "2026-11-17T07:48:02.367153+00:00",
+  "fetched_at": "2026-11-18T07:16:01.315641+00:00",
   "stories": [
     {
-      "title": "Tokendoctor \u2013 the same Claude Code for up to 38% less",
-      "url": "https://github.com/localixai/tokendoctor",
-      "summary": "<p>Article URL: <a href=\"https://github.com/localixai/tokendoctor\">https://github.com/localixai/tokendoctor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526584\">https://news.ycombinator.com/item?id=50526584</a></p>\n<p>Points: 20</p>\n<p># Comments: 8</p>",
-      "published": "Tue, 17 Nov 2026 02:19:50 +0000",
+      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+      "summary": "<p>Article URL: <a href=\"https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/\">https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50542135\"",
+      "published": "Wed, 18 Nov 2026 05:11:30 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Mem Is Shutting Down",
-      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
-      "summary": "<p>Article URL: <a href=\"https://get.mem.ai/blog/mem-is-shutting-down\">https://get.mem.ai/blog/mem-is-shutting-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526537\">https://news.ycombinator.com/item?id=50526537</a></p>\n<p>Points: 48</p>\n<p># Comments: 62</p>",
-      "published": "Tue, 17 Nov 2026 02:13:41 +0000",
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "summary": "<p>Article URL: <a href=\"http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/\">http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541619\">https://news.ycombinator.com/item?id=50541619</a></p>\n<p>Points",
+      "published": "Wed, 18 Nov 2026 03:47:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "summary": "<p>Article URL: <a href=\"https://xusheng.dev/posts/windows-coding-agent-telemetry/\">https://xusheng.dev/posts/windows-coding-agent-telemetry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50524736\">https://news.ycombinator.com/item?id=50524736</a></p>\n<p>Points: 509</p>\n<p>#",
-      "published": "Mon, 16 Nov 2026 22:58:20 +0000",
+      "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator",
+      "published": "Wed, 18 Nov 2026 03:35:47 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "How to Break into Security, Ptacek Edition (2012)",
-      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-      "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/\">https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50524225\">https://news.ycombinator.com/item?i",
-      "published": "Mon, 16 Nov 2026 22:19:23 +0000",
+      "title": "Cerebras Disaggregated Inference",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference\">https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540472\">https://news.ycombinator.com/item?id=50540472</a></",
+      "published": "Wed, 18 Nov 2026 00:56:23 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Spamhaus new email sender requirements in November",
-      "url": "https://www.spamhaus.org/sender-guidelines/",
-      "summary": "<p>Article URL: <a href=\"https://www.spamhaus.org/sender-guidelines/\">https://www.spamhaus.org/sender-guidelines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523784\">https://news.ycombinator.com/item?id=50523784</a></p>\n<p>Points: 96</p>\n<p># Comments: 86</p>",
-      "published": "Mon, 16 Nov 2026 21:47:19 +0000",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "summary": "<p>Article URL: <a href=\"https://revscope.co/blog/search-seo-geo-2026/\">https://revscope.co/blog/search-seo-geo-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540178\">https://news.ycombinator.com/item?id=50540178</a></p>\n<p>Points: 299</p>\n<p># Comments: 229</p>",
+      "published": "Wed, 18 Nov 2026 00:17:58 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "OpenCode Browse",
-      "url": "https://opencode.ai/product/browse",
-      "summary": "<p>Article URL: <a href=\"https://opencode.ai/product/browse\">https://opencode.ai/product/browse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523459\">https://news.ycombinator.com/item?id=50523459</a></p>\n<p>Points: 218</p>\n<p># Comments: 115</p>",
-      "published": "Mon, 16 Nov 2026 21:20:37 +0000",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "summary": "<p>Article URL: <a href=\"https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/\">https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin",
+      "published": "Tue, 17 Nov 2026 21:16:12 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
-      "url": "https://news.ycombinator.com/item?id=50522776",
-      "summary": "<p>Hi HN! We\u2019re Arsh and Max, founders of Axonnic (<a href=\"https://axonnic.com\">https://axonnic.com</a>). We\u2019ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It\u2019s used to record human movement and generat",
-      "published": "Mon, 16 Nov 2026 20:29:48 +0000",
+      "title": "Tencent Hy4 Flash",
+      "url": "https://hy.tencent.ai/research/hy4-flash",
+      "summary": "<p>Article URL: <a href=\"https://hy.tencent.ai/research/hy4-flash\">https://hy.tencent.ai/research/hy4-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538184\">https://news.ycombinator.com/item?id=50538184</a></p>\n<p>Points: 106</p>\n<p># Comments: 14</p>",
+      "published": "Tue, 17 Nov 2026 21:06:08 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Grazing sheep in fields with solar arrays",
-      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-      "summary": "<p>Article URL: <a href=\"https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains\">https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat",
-      "published": "Mon, 16 Nov 2026 17:27:46 +0000",
+      "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "summary": "<p>We\u2019re Yonas and Daniel and we\u2019re building StarSling (<a href=\"https://starsling.dev\">https://starsling.dev</a>), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.<p>Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines a",
+      "published": "Tue, 17 Nov 2026 19:01:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "url": "https://burntsushi.net/jiff/",
-      "summary": "<p>Article URL: <a href=\"https://burntsushi.net/jiff/\">https://burntsushi.net/jiff/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519744\">https://news.ycombinator.com/item?id=50519744</a></p>\n<p>Points: 364</p>\n<p># Comments: 81</p>",
-      "published": "Mon, 16 Nov 2026 16:53:39 +0000",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "summary": "<p>Article URL: <a href=\"https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\">https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535885\">https://news.ycombinator.com/item?id=50535885</a></",
+      "published": "Tue, 17 Nov 2026 18:25:13 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026\">https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</a></p>\n<p",
-      "published": "Mon, 16 Nov 2026 13:18:22 +0000",
+      "title": "Not Everything Needs an LLM",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.posthog.com/p/decision-models\">https://newsletter.posthog.com/p/decision-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535740\">https://news.ycombinator.com/item?id=50535740</a></p>\n<p>Points: 144</p>\n<p># Comments: 57</p>",
+      "published": "Tue, 17 Nov 2026 18:16:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nimony: A New Compiler for Nim",
-      "url": "https://nimony.org/",
-      "summary": "<p>Article URL: <a href=\"https://nimony.org/\">https://nimony.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512779\">https://news.ycombinator.com/item?id=50512779</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-      "published": "Mon, 16 Nov 2026 01:05:22 +0000",
+      "title": "GPT\u20116.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">https://openai.com/index/introducing-gpt-6-2-astra-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535230\">https://news.ycombinator.com/item?id=50535230</a></p>\n<p>Points: 1222</p>\n<p># Co",
+      "published": "Tue, 17 Nov 2026 17:46:43 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "summary": "<p><a href=\"https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/\" rel=\"nofollow\">https://www.reuters.com/technology/highly-classified-us-nati...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532849\"",
+      "published": "Tue, 17 Nov 2026 15:38:28 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Unref \u2013 A Python dead code finder built on Ruff's parser",
+      "url": "https://github.com/Apakottur/unref",
+      "summary": "<p>I wanted a good Python dead code finder that just works, with minimal config, until Ruff adds support for that (<a href=\"https://github.com/astral-sh/ruff/issues/872\" rel=\"nofollow\">https://github.com/astral-sh/ruff/issues/872</a>).<p>None of the newer alternatives to Vulture worked out of the bo",
+      "published": "Mon, 16 Nov 2026 13:30:30 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fun with Constrained Programming",
+      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html\">https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503492\">https://news.ycombinator.com/item?id=50503492</",
+      "published": "Sun, 15 Nov 2026 02:45:57 +0000",
       "source": "Hacker News"
     }
   ]

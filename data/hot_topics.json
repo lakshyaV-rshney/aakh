@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-17T07:48:27.812667+00:00",
+  "fetched_at": "2026-11-18T07:16:27.050939+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode",
-      "big_question": "How does an open-source agent compare to proprietary tools in terms of latency and cost for daily dev tasks?",
-      "head_fake": "\ud83e\udd80 Open-source coding agent just dropped. Is it the Claude Code killer?"
+      "title": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "big_question": "How can agent-driven reverse engineering lower the barrier for students to understand low-level system interactions?",
+      "head_fake": "\ud83d\udd0d Agent-powered RE is the new debugger"
     },
     {
       "type": "repo",
-      "title": "nilbuild/developer-roadmap",
-      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "url": "https://github.com/nilbuild/developer-roadmap",
-      "big_question": "Which specific path in the roadmap aligns best with your current internship or job search goals?",
-      "head_fake": "\ud83d\uddfa\ufe0f Stop guessing your career path. This interactive roadmap maps it out."
+      "title": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "big_question": "Which specific project in this list best bridges the gap between theoretical CS concepts and employable engineering skills?",
+      "head_fake": "\ud83d\udee0\ufe0f Stop watching, start building"
     },
     {
       "type": "hn",
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "description": "Analysis of Windows 11 telemetry revealing tracking of developer tools and AI coding agents.",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "big_question": "Are you comfortable with your OS tracking your AI assistant usage? What are the privacy implications for enterprise dev?",
-      "head_fake": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Windows 11 is spying on your coding agents. Here's the proof."
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "description": "Study reveals that as AI generates more code, the human bottleneck moves from writing to reviewing and verifying correctness.",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "big_question": "Should CS curricula now prioritize code review and verification skills over raw syntax generation?",
+      "head_fake": "\ud83d\udcdd The new bottleneck is your attention span"
     },
     {
       "type": "hn",
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "description": "A new, robust, and ergonomic datetime library for Rust, released by the creator of ripgrep.",
-      "url": "https://burntsushi.net/jiff/",
-      "big_question": "Why is a new datetime library needed in Rust, and how does it handle edge cases better than chrono?",
-      "head_fake": "\u23f0 Rust devs, meet Jiff. The new standard for datetime handling?"
+      "title": "Not Everything Needs an LLM",
+      "description": "A discussion on decision models and when traditional logic or simpler algorithms are more efficient than large language models.",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "big_question": "How do we teach students to recognize when a simple deterministic algorithm is superior to an LLM solution?",
+      "head_fake": "\ud83e\udde0 Sometimes a regex is all you need"
     },
     {
       "type": "competition",
       "title": "WQCC Qiskit Fall Fest 2026",
-      "description": "A competition focused on quantum computing using Qiskit, hosted by the World Quantum Computing Challenge.",
+      "description": "A competition focused on quantum computing using Qiskit, ideal for students interested in cutting-edge CS research.",
       "url": "https://wqcc-qiskit-fall-fest-2026.devpost.com/",
-      "big_question": "Is now the time to pivot into quantum computing, or is it still too early for practical applications?",
-      "head_fake": "\u269b\ufe0f Quantum computing hackathon. Are you ready to code the future?"
+      "big_question": "Is quantum computing ready for undergraduate projects, or is it still too abstract for practical application?",
+      "head_fake": "\u269b\ufe0f Qubits: The next frontier for CS students"
     },
     {
       "type": "bugbounty",
-      "title": "DoorDash",
-      "description": "Public bug bounty program for DoorDash, offering rewards for security vulnerabilities.",
-      "url": "https://hackerone.com/doordash",
-      "big_question": "What are the most common vulnerability classes in food delivery platforms, and how can you find them efficiently?",
-      "head_fake": "\ud83c\udf54 Bug bounty alert: DoorDash is paying for security flaws. Get your tools ready."
+      "title": "Twilio",
+      "description": "Public bug bounty program for Twilio, a major communications platform, offering opportunities to find security vulnerabilities in API and web services.",
+      "url": "https://hackerone.com/twilio",
+      "big_question": "What are the most common security misconfigurations in cloud communication APIs that students can learn to detect?",
+      "head_fake": "\ud83d\udcb8 Get paid to break the phone system"
     },
     {
       "type": "floater",
-      "title": "The 20-Minute Code Review",
-      "description": "A technique to make code reviews faster and more effective by focusing on high-impact issues first.",
-      "url": "https://example.com/20-minute-code-review",
-      "big_question": "How can you reduce the cognitive load of code reviews without sacrificing quality?",
-      "head_fake": "\u23f1\ufe0f Code reviews taking too long? Try this 20-minute method."
+      "title": "The Rise of Agent Harnesses",
+      "description": "Trending repositories like 'deepseek-harness' and 'ECC' suggest a shift towards modular, plugin-based AI agent architectures.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "big_question": "Will the 'agent harness' become the new standard interface for AI development, similar to how Docker changed deployment?",
+      "head_fake": "\ud83e\udd9e The lobster way is the new standard"
     },
     {
       "type": "floater",
-      "title": "Understanding Big O Notation in Practice",
-      "description": "A practical guide to understanding and applying Big O notation in real-world programming scenarios.",
-      "url": "https://example.com/big-o-practice",
-      "big_question": "How does Big O notation actually impact the performance of your applications at scale?",
-      "head_fake": "\ud83d\udcc8 Big O notation: The key to writing efficient code."
+      "title": "AI in Scientific Discovery",
+      "description": "Recent news about Claude being trained on protein sequences highlights the expanding role of LLMs in scientific research beyond code.",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "big_question": "How will the integration of LLMs into scientific data analysis change the skill set required for CS researchers?",
+      "head_fake": "\ud83e\uddec Code meets Biology: The new interdisciplinary frontier"
     }
   ]
 }

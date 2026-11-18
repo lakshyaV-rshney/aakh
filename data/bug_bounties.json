@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T07:48:01.950927+00:00",
+  "fetched_at": "2026-11-18T07:16:00.230835+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -88,6 +88,12 @@
     {
       "title": "Braze, Inc.",
       "url": "https://hackerone.com/braze_inc",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Coupang",
+      "url": "https://hackerone.com/coupang",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -2986,7 +2992,7 @@
     {
       "title": "New Blue Website (NBW) - VWFS Bug Bounty Program",
       "url": "https://bugcrowd.com/engagements/volkswagen-vwfs-mbb-og",
-      "bounty": "$4,500",
+      "bounty": "$2,500",
       "source": "Bugcrowd"
     },
     {
@@ -3054,6 +3060,12 @@
       "url": "https://bugcrowd.com/engagements/zola-mbb-og",
       "bounty": "$2,000",
       "source": "Bugcrowd"
+    },
+    {
+      "title": "1Password Bug Bounty Program",
+      "url": "https://www.intigriti.com/programs/onepassword/1passwordbugbountyprogram/detail",
+      "bounty": "$30,000",
+      "source": "Intigriti"
     },
     {
       "title": "ADAC Vulnerability Disclosure Program",
@@ -3332,12 +3344,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Fing Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/lansweeper/fing/detail",
-      "bounty": "\u20ac3,500",
-      "source": "Intigriti"
-    },
-    {
       "title": "Fluvius",
       "url": "https://www.intigriti.com/programs/fluvius/fluvius/detail",
       "bounty": "\u20ac5,500",
@@ -3548,6 +3554,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Ninja Kiwi Games Bug Bounty program",
+      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+      "bounty": "\u20ac4,125",
+      "source": "Intigriti"
+    },
+    {
       "title": "NxtPort VDP",
       "url": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
       "bounty": "Bounty offered",
@@ -3569,6 +3581,12 @@
       "title": "Orbia Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "PDQ bug bounty program",
+      "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {
@@ -3659,6 +3677,12 @@
       "title": "Rivian Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/rivian/rivianvdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "SBB - Swiss Federal Railways",
+      "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
+      "bounty": "\u20ac6,666",
       "source": "Intigriti"
     },
     {
@@ -3824,6 +3848,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Veriff Bug Bounty",
+      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+      "bounty": "\u20ac4,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Visma Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
       "bounty": "Bounty offered",
@@ -3845,6 +3875,12 @@
       "title": "WP Engine VDP",
       "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Water-Link",
+      "url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
