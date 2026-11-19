@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T07:16:00.230835+00:00",
+  "fetched_at": "2026-11-19T07:15:11.911555+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -394,12 +394,6 @@
     {
       "title": "ALSCO",
       "url": "https://hackerone.com/alsco",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Abercrombie & Fitch Bug Bounty",
-      "url": "https://hackerone.com/abercrombie_fitch_bbp",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1154,6 +1148,12 @@
       "source": "HackerOne"
     },
     {
+      "title": "Algolia",
+      "url": "https://hackerone.com/algolia",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
       "title": "Grab",
       "url": "https://hackerone.com/grab",
       "bounty": "Bounty offered",
@@ -1168,12 +1168,6 @@
     {
       "title": "CLEAR",
       "url": "https://hackerone.com/clear",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Moneybird",
-      "url": "https://hackerone.com/moneybird",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -2354,6 +2348,12 @@
       "source": "Bugcrowd"
     },
     {
+      "title": "Nord Security Managed Bug Bounty Engagement",
+      "url": "https://bugcrowd.com/engagements/nord-security-mbb",
+      "bounty": "$50,000",
+      "source": "Bugcrowd"
+    },
+    {
       "title": "Northwestern Mutual - Public Bug Bounty",
       "url": "https://bugcrowd.com/engagements/northwestern-mutual-mbb-og",
       "bounty": "$6,000",
@@ -3310,7 +3310,7 @@
     {
       "title": "Dstny",
       "url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-      "bounty": "\u20ac1,500",
+      "bounty": "\u20ac1,100",
       "source": "Intigriti"
     },
     {
@@ -3341,6 +3341,12 @@
       "title": "Exoscale Bug Bounty",
       "url": "https://www.intigriti.com/programs/exoscale/excoscalebugbounty/detail",
       "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Fing Bug Bounty Program",
+      "url": "https://www.intigriti.com/programs/lansweeper/fing/detail",
+      "bounty": "\u20ac3,500",
       "source": "Intigriti"
     },
     {
@@ -3614,12 +3620,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Posti Bug Bounty ",
-      "url": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
-      "bounty": "\u20ac2,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Proof.com VDP",
       "url": "https://www.intigriti.com/programs/proof/proofvdp/detail",
       "bounty": "Bounty offered",
@@ -3806,6 +3806,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "UZ Leuven",
+      "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+      "bounty": "\u20ac5,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Ubisoft Responsible Disclosure Program",
       "url": "https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail",
       "bounty": "Bounty offered",
@@ -3845,12 +3851,6 @@
       "title": "Venly",
       "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
       "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Veriff Bug Bounty",
-      "url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-      "bounty": "\u20ac4,000",
       "source": "Intigriti"
     },
     {

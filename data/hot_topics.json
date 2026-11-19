@@ -1,69 +1,47 @@
 {
-  "fetched_at": "2026-11-18T07:16:27.050939+00:00",
+  "fetched_at": "2026-11-19T07:15:35.533107+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
-      "url": "https://github.com/morluto/rea",
-      "big_question": "How can agent-driven reverse engineering lower the barrier for students to understand low-level system interactions?",
-      "head_fake": "\ud83d\udd0d Agent-powered RE is the new debugger"
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs"
     },
     {
       "type": "repo",
-      "title": "practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "big_question": "Which specific project in this list best bridges the gap between theoretical CS concepts and employable engineering skills?",
-      "head_fake": "\ud83d\udee0\ufe0f Stop watching, start building"
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
       "type": "hn",
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "description": "Study reveals that as AI generates more code, the human bottleneck moves from writing to reviewing and verifying correctness.",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "big_question": "Should CS curricula now prioritize code review and verification skills over raw syntax generation?",
-      "head_fake": "\ud83d\udcdd The new bottleneck is your attention span"
+      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "url": "https://arxiv.org/abs/2607.29378"
     },
     {
       "type": "hn",
-      "title": "Not Everything Needs an LLM",
-      "description": "A discussion on decision models and when traditional logic or simpler algorithms are more efficient than large language models.",
-      "url": "https://newsletter.posthog.com/p/decision-models",
-      "big_question": "How do we teach students to recognize when a simple deterministic algorithm is superior to an LLM solution?",
-      "head_fake": "\ud83e\udde0 Sometimes a regex is all you need"
+      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"
     },
     {
       "type": "competition",
-      "title": "WQCC Qiskit Fall Fest 2026",
-      "description": "A competition focused on quantum computing using Qiskit, ideal for students interested in cutting-edge CS research.",
-      "url": "https://wqcc-qiskit-fall-fest-2026.devpost.com/",
-      "big_question": "Is quantum computing ready for undergraduate projects, or is it still too abstract for practical application?",
-      "head_fake": "\u269b\ufe0f Qubits: The next frontier for CS students"
+      "title": "ESE1110 Fall 2026",
+      "url": "https://ese1110f26.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "Sandbox test 2",
+      "url": "https://sandbox-test-2.devpost.com/"
     },
     {
       "type": "bugbounty",
-      "title": "Twilio",
-      "description": "Public bug bounty program for Twilio, a major communications platform, offering opportunities to find security vulnerabilities in API and web services.",
-      "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common security misconfigurations in cloud communication APIs that students can learn to detect?",
-      "head_fake": "\ud83d\udcb8 Get paid to break the phone system"
+      "title": "Omarchy",
+      "url": "https://hackerone.com/omarchy"
     },
     {
-      "type": "floater",
-      "title": "The Rise of Agent Harnesses",
-      "description": "Trending repositories like 'deepseek-harness' and 'ECC' suggest a shift towards modular, plugin-based AI agent architectures.",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "big_question": "Will the 'agent harness' become the new standard interface for AI development, similar to how Docker changed deployment?",
-      "head_fake": "\ud83e\udd9e The lobster way is the new standard"
-    },
-    {
-      "type": "floater",
-      "title": "AI in Scientific Discovery",
-      "description": "Recent news about Claude being trained on protein sequences highlights the expanding role of LLMs in scientific research beyond code.",
-      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
-      "big_question": "How will the integration of LLMs into scientific data analysis change the skill set required for CS researchers?",
-      "head_fake": "\ud83e\uddec Code meets Biology: The new interdisciplinary frontier"
+      "type": "bugbounty",
+      "title": "d-you App & German EUDI Wallet Ecosystem",
+      "url": "https://hackerone.com/common_codes"
     }
   ]
 }

@@ -1,27 +1,6 @@
 {
-  "fetched_at": "2026-11-18T07:16:12.005654+00:00",
+  "fetched_at": "2026-11-19T07:15:24.224051+00:00",
   "competitions": [
-    {
-      "title": "A-Team with SpaceXSI at AITR Indore!  - CursorFlow",
-      "url": "https://cursorflowaitr.devpost.com/",
-      "deadline": "Nov 18, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Meta VR Start Developer Competition 2026",
-      "url": "https://start-developer-competition-26.devpost.com/",
-      "deadline": "Sep 24 - Nov 18, 2026",
-      "prize": "$1,000,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "GWC Projects Program Fall 2026",
-      "url": "https://projects-program-fall-2026.devpost.com/",
-      "deadline": "Nov 09 - 18, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "ESE1110 Fall 2026",
       "url": "https://ese1110f26.devpost.com/",
@@ -65,10 +44,31 @@
       "source": "Devpost"
     },
     {
+      "title": "SMBP FinHack",
+      "url": "https://smbp-finhack.devpost.com/",
+      "deadline": "Nov 18 - 20, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "Build with Gemma - Innovate in Windsor",
       "url": "https://innovate-in-windsor-hackathon.devpost.com/",
       "deadline": "Nov 13 - 20, 2026",
       "prize": "$CAD 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Bridge The Gap Hacks",
+      "url": "https://sq-hacks.devpost.com/",
+      "deadline": "Nov 15 - 21, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Teens Hack Houston Hackathon",
+      "url": "https://tripleh.devpost.com/",
+      "deadline": "Nov 14 - 21, 2026",
+      "prize": "$300",
       "source": "Devpost"
     }
   ]
