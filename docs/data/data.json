@@ -1,55 +1,77 @@
 {
-  "generated_at": "2026-11-19T07:15:35.632068+00:00",
-  "date_label": "Thursday, 19 November 2026",
+  "generated_at": "2026-11-20T07:04:00.937558+00:00",
+  "date_label": "Friday, 20 November 2026",
   "word_of_day": {
-    "word": "perspicuous",
+    "word": "ephemeral",
     "part_of_speech": "adjective",
-    "definition": "Clearly expressed and easily understood.",
-    "example": "Her perspicuous explanation made the complex topic accessible to everyone.",
-    "date": "November 19, 2026"
+    "definition": "Lasting for a very short time.",
+    "example": "The ephemeral beauty of cherry blossoms makes them all the more precious.",
+    "date": "November 20, 2026"
   },
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
+      "title": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
+      "head_fake": "The agent just decompiled the main loop in 4 seconds."
     },
     {
       "type": "repo",
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "Which free API endpoints are most reliable for building a full-stack project without incurring costs?",
+      "head_fake": "Found a free weather API that doesn't require a key."
     },
     {
       "type": "hn",
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "url": "https://arxiv.org/abs/2607.29378"
+      "title": "Claude solves two open problems in the physics of black holes",
+      "description": "Anthropic research shows Claude solving complex physics problems.",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "big_question": "What does it mean for CS research when LLMs start solving open problems in theoretical physics?",
+      "head_fake": "Wait, an LLM proved a theorem in general relativity?"
     },
     {
       "type": "hn",
-      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
-      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "description": "Postgres 19 release details and availability on major cloud platforms.",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "big_question": "How do the new features in Postgres 19 impact database performance for student projects?",
+      "head_fake": "Postgres 19 is out, time to update my local dev environment."
     },
     {
       "type": "competition",
-      "title": "ESE1110 Fall 2026",
-      "url": "https://ese1110f26.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "Sandbox test 2",
-      "url": "https://sandbox-test-2.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Omarchy",
-      "url": "https://hackerone.com/omarchy"
+      "title": "AI@UCF Semester Sprint",
+      "description": "A semester-long AI hackathon at UCF.",
+      "url": "https://semester-sprint.devpost.com/",
+      "big_question": "How can a semester-long sprint structure help students build more robust AI applications than a 48-hour hackathon?",
+      "head_fake": "The deadline is in 3 weeks, better start the data pipeline."
     },
     {
       "type": "bugbounty",
-      "title": "d-you App & German EUDI Wallet Ecosystem",
-      "url": "https://hackerone.com/common_codes"
+      "title": "Twilio",
+      "description": "Bug bounty program for Twilio's communication platform.",
+      "url": "https://hackerone.com/twilio",
+      "big_question": "What are the most common security vulnerabilities in communication APIs like Twilio?",
+      "head_fake": "Checking the Twilio API docs for potential injection points."
+    },
+    {
+      "type": "floater",
+      "title": "Morning Coffee Break",
+      "description": "Take a 5-minute break to stretch and hydrate before coding.",
+      "url": "https://www.google.com/search?q=5+minute+stretch+for+programmers",
+      "big_question": "How does a short physical break impact coding productivity and focus?",
+      "head_fake": "Stretching my neck, it's been glued to the screen."
+    },
+    {
+      "type": "floater",
+      "title": "Daily Coding Challenge",
+      "description": "Solve one LeetCode problem to keep your algorithmic skills sharp.",
+      "url": "https://leetcode.com/problemset/",
+      "big_question": "What is the most effective way to practice algorithmic problem solving for technical interviews?",
+      "head_fake": "Let's do a medium difficulty problem to warm up."
     }
   ],
   "repos": [
@@ -57,7 +79,7 @@
       "name": "public-apis/public-apis",
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
-      "stars": 500145,
+      "stars": 500376,
       "language": "Python",
       "created_at": "2016-03-20T23:49:42Z",
       "pushed_at": "2026-11-18T19:27:01Z",
@@ -82,10 +104,10 @@
       "name": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
-      "stars": 468749,
+      "stars": 470439,
       "language": "TypeScript",
       "created_at": "2026-04-14T00:51:32Z",
-      "pushed_at": "2026-11-19T07:13:35Z",
+      "pushed_at": "2026-11-20T05:37:26Z",
       "topics": [
         "agent-skills",
         "ai",
@@ -114,10 +136,10 @@
       "name": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "stars": 459313,
+      "stars": 459369,
       "language": "TypeScript",
       "created_at": "2014-12-24T17:49:19Z",
-      "pushed_at": "2026-11-18T23:16:09Z",
+      "pushed_at": "2026-11-20T07:01:52Z",
       "topics": [
         "careers",
         "certification",
@@ -141,10 +163,10 @@
       "name": "openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
       "url": "https://github.com/openclaw/openclaw",
-      "stars": 394784,
+      "stars": 394864,
       "language": "TypeScript",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-11-19T07:15:02Z",
+      "pushed_at": "2026-11-20T07:03:30Z",
       "topics": [
         "ai",
         "assistant",
@@ -160,10 +182,10 @@
       "name": "nilbuild/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "url": "https://github.com/nilbuild/developer-roadmap",
-      "stars": 372326,
+      "stars": 372405,
       "language": "TypeScript",
       "created_at": "2017-03-15T13:45:52Z",
-      "pushed_at": "2026-11-18T13:44:50Z",
+      "pushed_at": "2026-11-19T10:52:06Z",
       "topics": [
         "angular-roadmap",
         "backend-roadmap",
@@ -187,31 +209,13 @@
       "trending_multiday": true
     },
     {
-      "name": "vinta/awesome-python",
-      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-      "url": "https://github.com/vinta/awesome-python",
-      "stars": 335756,
-      "language": "Python",
-      "created_at": "2014-06-27T21:00:06Z",
-      "pushed_at": "2026-11-17T10:02:01Z",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "python",
-        "python-frameworks",
-        "python-libraries",
-        "python-tools"
-      ],
-      "trending_multiday": true
-    },
-    {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
-      "stars": 327642,
+      "stars": 328333,
       "language": "Shell",
       "created_at": "2026-02-03T11:15:53Z",
-      "pushed_at": "2026-11-18T09:51:01Z",
+      "pushed_at": "2026-11-19T13:35:13Z",
       "topics": [],
       "trending_multiday": true
     },
@@ -219,10 +223,10 @@
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 306763,
+      "stars": 307412,
       "language": "JavaScript",
       "created_at": "2026-01-18T00:51:51Z",
-      "pushed_at": "2026-11-17T06:41:46Z",
+      "pushed_at": "2026-11-20T01:13:45Z",
       "topics": [
         "ai-agents",
         "anthropic",
@@ -239,7 +243,7 @@
       "name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "stars": 283846,
+      "stars": 284385,
       "language": "TypeScript",
       "created_at": "2026-08-13T11:56:32Z",
       "pushed_at": "2026-11-18T12:48:10Z",
@@ -255,10 +259,10 @@
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 264574,
+      "stars": 264826,
       "language": "Python",
       "created_at": "2025-07-22T22:22:28Z",
-      "pushed_at": "2026-11-19T07:02:45Z",
+      "pushed_at": "2026-11-20T06:46:32Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -280,10 +284,10 @@
       "name": "torvalds/linux",
       "description": "Linux kernel source tree",
       "url": "https://github.com/torvalds/linux",
-      "stars": 255994,
+      "stars": 256154,
       "language": "C",
       "created_at": "2011-09-04T22:48:12Z",
-      "pushed_at": "2026-11-18T17:55:14Z",
+      "pushed_at": "2026-11-19T22:24:51Z",
       "topics": [],
       "trending_multiday": true
     },
@@ -291,10 +295,10 @@
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
       "url": "https://github.com/react/react",
-      "stars": 252741,
+      "stars": 252820,
       "language": "JavaScript",
       "created_at": "2013-05-24T16:15:54Z",
-      "pushed_at": "2026-11-19T06:42:42Z",
+      "pushed_at": "2026-11-20T00:22:35Z",
       "topics": [
         "declarative",
         "frontend",
@@ -309,10 +313,10 @@
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "url": "https://github.com/anomalyco/opencode",
-      "stars": 227885,
+      "stars": 228103,
       "language": "TypeScript",
       "created_at": "2025-04-30T20:08:00Z",
-      "pushed_at": "2026-11-19T07:01:21Z",
+      "pushed_at": "2026-11-20T07:01:49Z",
       "topics": [],
       "trending_multiday": true
     },
@@ -320,10 +324,10 @@
       "name": "n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "url": "https://github.com/n8n-io/n8n",
-      "stars": 211251,
+      "stars": 211468,
       "language": "TypeScript",
       "created_at": "2019-06-22T09:24:21Z",
-      "pushed_at": "2026-11-19T07:14:12Z",
+      "pushed_at": "2026-11-20T06:46:15Z",
       "topics": [
         "ai",
         "apis",
@@ -352,10 +356,10 @@
       "name": "yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "url": "https://github.com/yt-dlp/yt-dlp",
-      "stars": 209027,
+      "stars": 209258,
       "language": "Python",
       "created_at": "2020-10-26T04:22:55Z",
-      "pushed_at": "2026-11-17T16:08:48Z",
+      "pushed_at": "2026-11-19T23:59:05Z",
       "topics": [
         "cli",
         "downloader",
@@ -371,10 +375,10 @@
       "name": "firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
       "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 203389,
+      "stars": 204527,
       "language": "TypeScript",
       "created_at": "2024-04-15T21:02:29Z",
-      "pushed_at": "2026-11-19T06:17:01Z",
+      "pushed_at": "2026-11-20T03:28:33Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -402,10 +406,10 @@
       "name": "tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "url": "https://github.com/tensorflow/tensorflow",
-      "stars": 201600,
+      "stars": 201658,
       "language": "C++",
       "created_at": "2015-11-07T01:19:20Z",
-      "pushed_at": "2026-11-19T07:13:21Z",
+      "pushed_at": "2026-11-20T06:54:15Z",
       "topics": [
         "deep-learning",
         "deep-neural-networks",
@@ -422,10 +426,10 @@
       "name": "microsoft/vscode",
       "description": "Visual Studio Code",
       "url": "https://github.com/microsoft/vscode",
-      "stars": 195580,
+      "stars": 195684,
       "language": "TypeScript",
       "created_at": "2015-09-03T20:23:38Z",
-      "pushed_at": "2026-11-19T06:35:59Z",
+      "pushed_at": "2026-11-20T07:02:21Z",
       "topics": [
         "editor",
         "electron",
@@ -439,10 +443,10 @@
       "name": "avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "url": "https://github.com/avelino/awesome-go",
-      "stars": 194719,
+      "stars": 194883,
       "language": "Go",
       "created_at": "2014-07-06T13:42:15Z",
-      "pushed_at": "2026-11-18T00:58:07Z",
+      "pushed_at": "2026-11-19T23:49:29Z",
       "topics": [
         "awesome",
         "awesome-list",
@@ -457,10 +461,10 @@
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 188096,
+      "stars": 188115,
       "language": "Python",
       "created_at": "2023-03-16T09:21:07Z",
-      "pushed_at": "2026-11-19T07:14:37Z",
+      "pushed_at": "2026-11-20T06:47:39Z",
       "topics": [
         "agentic-ai",
         "agents",
@@ -475,36 +479,35 @@
         "python"
       ],
       "trending_multiday": true
+    },
+    {
+      "name": "ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "url": "https://github.com/ollama/ollama",
+      "stars": 187697,
+      "language": "Go",
+      "created_at": "2023-06-26T19:39:32Z",
+      "pushed_at": "2026-11-19T23:44:00Z",
+      "topics": [
+        "deepseek",
+        "gemma",
+        "glm",
+        "go",
+        "golang",
+        "gpt-oss",
+        "llama",
+        "llm",
+        "llms",
+        "minimax",
+        "mistral",
+        "muse",
+        "ollama",
+        "qwen"
+      ],
+      "trending_multiday": true
     }
   ],
   "competitions": [
-    {
-      "title": "ESE1110 Fall 2026",
-      "url": "https://ese1110f26.devpost.com/",
-      "deadline": "Nov 12 - 19, 2026",
-      "prize": "$0",
-      "source": "Devpost",
-      "closing_soon": false,
-      "days_left": -2564
-    },
-    {
-      "title": "Sandbox test 2",
-      "url": "https://sandbox-test-2.devpost.com/",
-      "deadline": "Nov 12 - 19, 2026",
-      "prize": "$CAD 28",
-      "source": "Devpost",
-      "closing_soon": false,
-      "days_left": -2564
-    },
-    {
-      "title": "WQCC Qiskit Fall Fest 2026",
-      "url": "https://wqcc-qiskit-fall-fest-2026.devpost.com/",
-      "deadline": "Nov 07 - 19, 2026",
-      "prize": "$0",
-      "source": "Devpost",
-      "closing_soon": false,
-      "days_left": -2569
-    },
     {
       "title": "University Blockchain Conference Hackathon 2026",
       "url": "https://ubc-hackathon-2026.devpost.com/",
@@ -512,7 +515,7 @@
       "prize": "$22,000",
       "source": "Devpost",
       "closing_soon": false,
-      "days_left": -2197
+      "days_left": -2198
     },
     {
       "title": "Dakar Bitcoin Hack by BTrust",
@@ -523,19 +526,37 @@
       "closing_soon": false
     },
     {
+      "title": "HER:200 Hackathon",
+      "url": "https://her-200-hackathon.devpost.com/",
+      "deadline": "Nov 20, 2026",
+      "prize": "$0",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -1
+    },
+    {
+      "title": "rookie hacks",
+      "url": "https://rookie-hacks.devpost.com/",
+      "deadline": "Nov 20, 2026",
+      "prize": "$50,000",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -1
+    },
+    {
       "title": "AI@UCF Semester Sprint",
       "url": "https://semester-sprint.devpost.com/",
       "deadline": "Nov 17 - 20, 2026",
       "prize": "$0",
       "source": "Devpost",
       "closing_soon": false,
-      "days_left": -2193
+      "days_left": -2194
     },
     {
-      "title": "SMBP FinHack",
-      "url": "https://smbp-finhack.devpost.com/",
-      "deadline": "Nov 18 - 20, 2026",
-      "prize": "$0",
+      "title": "Pixelforge",
+      "url": "https://pixel-forge-gamethon.devpost.com/",
+      "deadline": "Nov 19 - 20, 2026",
+      "prize": "\u20b9 0",
       "source": "Devpost",
       "closing_soon": false,
       "days_left": -2192
@@ -547,7 +568,16 @@
       "prize": "$CAD 0",
       "source": "Devpost",
       "closing_soon": false,
-      "days_left": -2197
+      "days_left": -2198
+    },
+    {
+      "title": "Bridge The Gap Hacks",
+      "url": "https://sq-hacks.devpost.com/",
+      "deadline": "Nov 15 - 21, 2026",
+      "prize": "$0",
+      "source": "Devpost",
+      "closing_soon": false,
+      "days_left": -1831
     }
   ],
   "bug_bounties": [
@@ -614,59 +644,59 @@
   ],
   "hn_stories": [
     {
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "url": "https://arxiv.org/abs/2607.29378",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29378\">https://arxiv.org/abs/2607.29378</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554908\">https://news.ycombinator.com/item?id=50554908</a></p>\n<p>Points: 42</p>\n<p># Comments: 7</p>",
-      "published": "Thu, 19 Nov 2026 01:27:02 +0000",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "summary": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117645038299496084\">https://grapheneos.social/@GrapheneOS/117645038299496084</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570479\">https://news.ycombinator.com/item?id=50570479</a></p>\n<p>Points: 178</p>\n<p># C",
+      "published": "Fri, 20 Nov 2026 05:21:02 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
-      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
-      "summary": "<p>Article URL: <a href=\"https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open\">https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-ope",
-      "published": "Wed, 18 Nov 2026 23:49:13 +0000",
+      "title": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "summary": "<p>Article URL: <a href=\"https://ffmpeg.org/download.html#release_9.1\">https://ffmpeg.org/download.html#release_9.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569998\">https://news.ycombinator.com/item?id=50569998</a></p>\n<p>Points: 44</p>\n<p># Comments: 9</p>",
+      "published": "Fri, 20 Nov 2026 04:02:39 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "summary": "<p>Article URL: <a href=\"https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering\">https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50553225\">https://news.ycombinator.com/item?id=50553225</a></p>\n<",
-      "published": "Wed, 18 Nov 2026 22:29:13 +0000",
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "summary": "<p>Article URL: <a href=\"https://www.databricks.com/blog/postgresql-19-available-lakebase\">https://www.databricks.com/blog/postgresql-19-available-lakebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50568643\">https://news.ycombinator.com/item?id=50568643</a></p>\n<p>Points",
+      "published": "Fri, 20 Nov 2026 00:37:31 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50552",
-      "published": "Wed, 18 Nov 2026 21:34:07 +0000",
+      "title": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "summary": "<p>Article URL: <a href=\"https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21\">https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50567209\">https://news.ycombinator.com/item?id=50567209</a></p>\n<p>Po",
+      "published": "Thu, 19 Nov 2026 22:13:40 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "DaisyRose-27B",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "summary": "<p>Article URL: <a href=\"https://www.radixark.com/blog/daisyrose-27b\">https://www.radixark.com/blog/daisyrose-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50551046\">https://news.ycombinator.com/item?id=50551046</a></p>\n<p>Points: 185</p>\n<p># Comments: 59</p>",
-      "published": "Wed, 18 Nov 2026 19:39:16 +0000",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lwfewYL7X0o\">https://www.youtube.com/watch?v=lwfewYL7X0o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564366\">https://news.ycombinator.com/item?id=50564366</a></p>\n<p>Points: 97</p>\n<p># Comments: 191</p>",
+      "published": "Thu, 19 Nov 2026 18:47:16 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Genie 4 is now available",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb",
-      "published": "Wed, 18 Nov 2026 18:49:51 +0000",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "summary": "<p>Article URL: <a href=\"https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\">https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564159\">https://news.ycombinator.com/item?id=",
+      "published": "Thu, 19 Nov 2026 18:35:17 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/advancing-chip-design-with-our-models/\">https://openai.com/index/advancing-chip-design-with-our-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50549493\">https://news.ycombinator.com/item?id=50549493</a></p>\n<p>Points: ",
-      "published": "Wed, 18 Nov 2026 17:45:47 +0000",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/claude-black-hole-physics\">https://www.anthropic.com/research/claude-black-hole-physics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563148\">https://news.ycombinator.com/item?id=50563148</a></p>\n<p>Points: 458</p",
+      "published": "Thu, 19 Nov 2026 17:30:44 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Launch HN: Maritime (YC F26) \u2013 A managed cloud for production AI agents",
-      "url": "https://news.ycombinator.com/item?id=50549188",
-      "summary": "<p>Hi HN, we're Ary and Maria, co-founders of Maritime (<a href=\"https://maritime.sh\">https://maritime.sh</a>). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.<p>Demo: <a href=\"https://www.youtube.com/watch?v=lCWMdBQ96rY\" r",
-      "published": "Wed, 18 Nov 2026 17:26:28 +0000",
+      "title": "Anthropic\u2019s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\">https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</a></p>\n<p>Comments URL: <a href=\"https://news",
+      "published": "Thu, 19 Nov 2026 17:02:40 +0000",
       "source": "Hacker News"
     }
   ]

@@ -1,27 +1,6 @@
 {
-  "fetched_at": "2026-11-19T07:15:24.224051+00:00",
+  "fetched_at": "2026-11-20T07:03:44.698279+00:00",
   "competitions": [
-    {
-      "title": "ESE1110 Fall 2026",
-      "url": "https://ese1110f26.devpost.com/",
-      "deadline": "Nov 12 - 19, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Sandbox test 2",
-      "url": "https://sandbox-test-2.devpost.com/",
-      "deadline": "Nov 12 - 19, 2026",
-      "prize": "$CAD 28",
-      "source": "Devpost"
-    },
-    {
-      "title": "WQCC Qiskit Fall Fest 2026",
-      "url": "https://wqcc-qiskit-fall-fest-2026.devpost.com/",
-      "deadline": "Nov 07 - 19, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "University Blockchain Conference Hackathon 2026",
       "url": "https://ubc-hackathon-2026.devpost.com/",
@@ -37,6 +16,20 @@
       "source": "Devpost"
     },
     {
+      "title": "HER:200 Hackathon",
+      "url": "https://her-200-hackathon.devpost.com/",
+      "deadline": "Nov 20, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "rookie hacks",
+      "url": "https://rookie-hacks.devpost.com/",
+      "deadline": "Nov 20, 2026",
+      "prize": "$50,000",
+      "source": "Devpost"
+    },
+    {
       "title": "AI@UCF Semester Sprint",
       "url": "https://semester-sprint.devpost.com/",
       "deadline": "Nov 17 - 20, 2026",
@@ -44,10 +37,10 @@
       "source": "Devpost"
     },
     {
-      "title": "SMBP FinHack",
-      "url": "https://smbp-finhack.devpost.com/",
-      "deadline": "Nov 18 - 20, 2026",
-      "prize": "$0",
+      "title": "Pixelforge",
+      "url": "https://pixel-forge-gamethon.devpost.com/",
+      "deadline": "Nov 19 - 20, 2026",
+      "prize": "\u20b9 0",
       "source": "Devpost"
     },
     {
@@ -65,10 +58,17 @@
       "source": "Devpost"
     },
     {
-      "title": "Teens Hack Houston Hackathon",
-      "url": "https://tripleh.devpost.com/",
-      "deadline": "Nov 14 - 21, 2026",
-      "prize": "$300",
+      "title": "TUM XR Value Creation Hackathon 2026",
+      "url": "https://tum-xr-hackathon-2026.devpost.com/",
+      "deadline": "Nov 19 - 21, 2026",
+      "prize": "\u20ac0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Creators AI Winter Challenge ",
+      "url": "https://creators-ai-winter-challenge.devpost.com/",
+      "deadline": "Nov 19 - 21, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]

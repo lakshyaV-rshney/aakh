@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T07:15:11.911555+00:00",
+  "fetched_at": "2026-11-20T07:03:31.478640+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1168,6 +1168,12 @@
     {
       "title": "CLEAR",
       "url": "https://hackerone.com/clear",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Moneybird",
+      "url": "https://hackerone.com/moneybird",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3557,12 +3563,6 @@
       "title": "Nexuzhealth Web PACS",
       "url": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
       "bounty": "\u20ac1,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Ninja Kiwi Games Bug Bounty program",
-      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "bounty": "\u20ac4,125",
       "source": "Intigriti"
     },
     {

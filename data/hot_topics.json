@@ -1,47 +1,69 @@
 {
-  "fetched_at": "2026-11-19T07:15:35.533107+00:00",
+  "fetched_at": "2026-11-20T07:04:00.841471+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
+      "title": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "big_question": "How can LLM agents automate the reverse engineering of native binaries to accelerate security research?",
+      "head_fake": "The agent just decompiled the main loop in 4 seconds."
     },
     {
       "type": "repo",
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "Which free API endpoints are most reliable for building a full-stack project without incurring costs?",
+      "head_fake": "Found a free weather API that doesn't require a key."
     },
     {
       "type": "hn",
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "url": "https://arxiv.org/abs/2607.29378"
+      "title": "Claude solves two open problems in the physics of black holes",
+      "description": "Anthropic research shows Claude solving complex physics problems.",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "big_question": "What does it mean for CS research when LLMs start solving open problems in theoretical physics?",
+      "head_fake": "Wait, an LLM proved a theorem in general relativity?"
     },
     {
       "type": "hn",
-      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
-      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "description": "Postgres 19 release details and availability on major cloud platforms.",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "big_question": "How do the new features in Postgres 19 impact database performance for student projects?",
+      "head_fake": "Postgres 19 is out, time to update my local dev environment."
     },
     {
       "type": "competition",
-      "title": "ESE1110 Fall 2026",
-      "url": "https://ese1110f26.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "Sandbox test 2",
-      "url": "https://sandbox-test-2.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Omarchy",
-      "url": "https://hackerone.com/omarchy"
+      "title": "AI@UCF Semester Sprint",
+      "description": "A semester-long AI hackathon at UCF.",
+      "url": "https://semester-sprint.devpost.com/",
+      "big_question": "How can a semester-long sprint structure help students build more robust AI applications than a 48-hour hackathon?",
+      "head_fake": "The deadline is in 3 weeks, better start the data pipeline."
     },
     {
       "type": "bugbounty",
-      "title": "d-you App & German EUDI Wallet Ecosystem",
-      "url": "https://hackerone.com/common_codes"
+      "title": "Twilio",
+      "description": "Bug bounty program for Twilio's communication platform.",
+      "url": "https://hackerone.com/twilio",
+      "big_question": "What are the most common security vulnerabilities in communication APIs like Twilio?",
+      "head_fake": "Checking the Twilio API docs for potential injection points."
+    },
+    {
+      "type": "floater",
+      "title": "Morning Coffee Break",
+      "description": "Take a 5-minute break to stretch and hydrate before coding.",
+      "url": "https://www.google.com/search?q=5+minute+stretch+for+programmers",
+      "big_question": "How does a short physical break impact coding productivity and focus?",
+      "head_fake": "Stretching my neck, it's been glued to the screen."
+    },
+    {
+      "type": "floater",
+      "title": "Daily Coding Challenge",
+      "description": "Solve one LeetCode problem to keep your algorithmic skills sharp.",
+      "url": "https://leetcode.com/problemset/",
+      "big_question": "What is the most effective way to practice algorithmic problem solving for technical interviews?",
+      "head_fake": "Let's do a medium difficulty problem to warm up."
     }
   ]
 }
