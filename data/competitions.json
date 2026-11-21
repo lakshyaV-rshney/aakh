@@ -1,59 +1,17 @@
 {
-  "fetched_at": "2026-11-20T07:03:44.698279+00:00",
+  "fetched_at": "2026-11-21T06:57:36.224175+00:00",
   "competitions": [
-    {
-      "title": "University Blockchain Conference Hackathon 2026",
-      "url": "https://ubc-hackathon-2026.devpost.com/",
-      "deadline": "Nov 13 - 20, 2026",
-      "prize": "$22,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "Dakar Bitcoin Hack by BTrust",
-      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-      "deadline": "Oct 26 - Nov 20, 2026",
-      "prize": "$900",
-      "source": "Devpost"
-    },
-    {
-      "title": "HER:200 Hackathon",
-      "url": "https://her-200-hackathon.devpost.com/",
-      "deadline": "Nov 20, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "rookie hacks",
-      "url": "https://rookie-hacks.devpost.com/",
-      "deadline": "Nov 20, 2026",
-      "prize": "$50,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "AI@UCF Semester Sprint",
-      "url": "https://semester-sprint.devpost.com/",
-      "deadline": "Nov 17 - 20, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Pixelforge",
-      "url": "https://pixel-forge-gamethon.devpost.com/",
-      "deadline": "Nov 19 - 20, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build with Gemma - Innovate in Windsor",
-      "url": "https://innovate-in-windsor-hackathon.devpost.com/",
-      "deadline": "Nov 13 - 20, 2026",
-      "prize": "$CAD 0",
-      "source": "Devpost"
-    },
     {
       "title": "Bridge The Gap Hacks",
       "url": "https://sq-hacks.devpost.com/",
       "deadline": "Nov 15 - 21, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "CyberDerby",
+      "url": "https://cyberderby.devpost.com/",
+      "deadline": "Nov 20 - 21, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
@@ -69,6 +27,48 @@
       "url": "https://creators-ai-winter-challenge.devpost.com/",
       "deadline": "Nov 19 - 21, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Teens Hack Houston Hackathon",
+      "url": "https://tripleh.devpost.com/",
+      "deadline": "Nov 14 - 21, 2026",
+      "prize": "$300",
+      "source": "Devpost"
+    },
+    {
+      "title": "STEM2Connect AI Hackathon",
+      "url": "https://stem2connect-online-hackathon.devpost.com/",
+      "deadline": "Oct 17 - Nov 21, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "CrossPointX 2026",
+      "url": "https://cpx2026.devpost.com/",
+      "deadline": "Nov 20 - 22, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "TUJ Fall 2026 Hackathon",
+      "url": "https://tuj-fall-2026-hackathon.devpost.com/",
+      "deadline": "Nov 20 - 22, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "The Upside Hack 2.0",
+      "url": "https://the-upside-hack-2-0.devpost.com/",
+      "deadline": "Nov 19 - 22, 2026",
+      "prize": "$582",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack Western 13",
+      "url": "https://hack-western-13.devpost.com/",
+      "deadline": "Nov 20 - 22, 2026",
+      "prize": "$CAD 0",
       "source": "Devpost"
     }
   ]

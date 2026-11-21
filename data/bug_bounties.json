@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T07:03:31.478640+00:00",
+  "fetched_at": "2026-11-21T06:57:23.128139+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -1042,12 +1042,6 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -2384,12 +2378,6 @@
       "source": "Bugcrowd"
     },
     {
-      "title": "Okapya",
-      "url": "https://bugcrowd.com/engagements/okapya",
-      "bounty": "$1,500",
-      "source": "Bugcrowd"
-    },
-    {
       "title": "Okta",
       "url": "https://bugcrowd.com/engagements/okta",
       "bounty": "$75,000",
@@ -3566,6 +3554,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Ninja Kiwi Games Bug Bounty program",
+      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+      "bounty": "\u20ac4,125",
+      "source": "Intigriti"
+    },
+    {
       "title": "NxtPort VDP",
       "url": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
       "bounty": "Bounty offered",
@@ -3617,6 +3611,12 @@
       "title": "Posten Bring Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/postenbringas/vdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Posti Bug Bounty ",
+      "url": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
+      "bounty": "\u20ac2,000",
       "source": "Intigriti"
     },
     {
@@ -3701,12 +3701,6 @@
       "title": "SimScale",
       "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
       "bounty": "\u20ac6,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Skoda Auto Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
@@ -3875,12 +3869,6 @@
       "title": "WP Engine VDP",
       "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Water-Link",
-      "url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
-      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {
