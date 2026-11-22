@@ -1,58 +1,16 @@
 {
-  "fetched_at": "2026-11-21T06:57:36.224175+00:00",
+  "fetched_at": "2026-11-22T06:37:03.242074+00:00",
   "competitions": [
     {
-      "title": "Bridge The Gap Hacks",
-      "url": "https://sq-hacks.devpost.com/",
-      "deadline": "Nov 15 - 21, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "CyberDerby",
-      "url": "https://cyberderby.devpost.com/",
-      "deadline": "Nov 20 - 21, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "TUM XR Value Creation Hackathon 2026",
-      "url": "https://tum-xr-hackathon-2026.devpost.com/",
-      "deadline": "Nov 19 - 21, 2026",
-      "prize": "\u20ac0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Creators AI Winter Challenge ",
-      "url": "https://creators-ai-winter-challenge.devpost.com/",
-      "deadline": "Nov 19 - 21, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Teens Hack Houston Hackathon",
-      "url": "https://tripleh.devpost.com/",
-      "deadline": "Nov 14 - 21, 2026",
-      "prize": "$300",
-      "source": "Devpost"
-    },
-    {
-      "title": "STEM2Connect AI Hackathon",
-      "url": "https://stem2connect-online-hackathon.devpost.com/",
-      "deadline": "Oct 17 - Nov 21, 2026",
+      "title": "TUJ Fall 2026 Hackathon",
+      "url": "https://tuj-fall-2026-hackathon.devpost.com/",
+      "deadline": "Nov 20 - 22, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
       "title": "CrossPointX 2026",
       "url": "https://cpx2026.devpost.com/",
-      "deadline": "Nov 20 - 22, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "TUJ Fall 2026 Hackathon",
-      "url": "https://tuj-fall-2026-hackathon.devpost.com/",
       "deadline": "Nov 20 - 22, 2026",
       "prize": "$0",
       "source": "Devpost"
@@ -65,10 +23,52 @@
       "source": "Devpost"
     },
     {
+      "title": "START Hack League Munich 2026",
+      "url": "https://start-hack-league-munich-2026.devpost.com/",
+      "deadline": "Nov 21 - 22, 2026",
+      "prize": "\u20ac4,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "BostonHacks 2026",
+      "url": "https://bostonhacks-2026.devpost.com/",
+      "deadline": "Nov 21 - 22, 2026",
+      "prize": "$3,500",
+      "source": "Devpost"
+    },
+    {
       "title": "Hack Western 13",
       "url": "https://hack-western-13.devpost.com/",
       "deadline": "Nov 20 - 22, 2026",
       "prize": "$CAD 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "KUK VIRTUAL HACKATHON",
+      "url": "https://kuk-virtual-hackathon.devpost.com/",
+      "deadline": "Nov 15 - 22, 2026",
+      "prize": "$800",
+      "source": "Devpost"
+    },
+    {
+      "title": "WHACK",
+      "url": "https://wellesleyhack-2026.devpost.com/",
+      "deadline": "Nov 21 - 22, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "EvoHacks 2",
+      "url": "https://evohacks2.devpost.com/",
+      "deadline": "Nov 21 - 22, 2026",
+      "prize": "$27,629",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack312",
+      "url": "https://hack312.devpost.com/",
+      "deadline": "Nov 21 - 22, 2026",
+      "prize": "$0",
       "source": "Devpost"
     }
   ]

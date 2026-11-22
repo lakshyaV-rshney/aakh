@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T06:57:23.128139+00:00",
+  "fetched_at": "2026-11-22T06:36:59.735729+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -2822,12 +2822,6 @@
       "source": "Bugcrowd"
     },
     {
-      "title": "Tesla",
-      "url": "https://bugcrowd.com/engagements/tesla",
-      "bounty": "$100,000",
-      "source": "Bugcrowd"
-    },
-    {
       "title": "TheFork Managed Bug Bounty Engagement",
       "url": "https://bugcrowd.com/engagements/thefork-mbb-og",
       "bounty": "$3,500",
@@ -3446,12 +3440,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Kinepolis Group",
-      "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
-      "bounty": "\u20ac5,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Kiwa Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
       "bounty": "Bounty offered",
@@ -3611,12 +3599,6 @@
       "title": "Posten Bring Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/postenbringas/vdp/detail",
       "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Posti Bug Bounty ",
-      "url": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
-      "bounty": "\u20ac2,000",
       "source": "Intigriti"
     },
     {

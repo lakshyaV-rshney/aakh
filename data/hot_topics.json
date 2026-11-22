@@ -1,69 +1,47 @@
 {
-  "fetched_at": "2026-11-21T06:57:51.032861+00:00",
+  "fetched_at": "2026-11-22T06:37:22.689789+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
-      "url": "https://github.com/morluto/rea",
-      "big_question": "How can agent-driven reverse engineering lower the barrier for security research in closed-source applications?",
-      "head_fake": "The Lobster's Claw: Digging into the code"
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs"
     },
     {
       "type": "repo",
-      "title": "n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual workflows with code",
-      "url": "https://github.com/n8n-io/n8n",
-      "big_question": "Can low-code automation platforms effectively integrate LLMs to replace complex backend scripting for students?",
-      "head_fake": "Automating the Grind: n8n in focus"
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
       "type": "hn",
-      "title": "Show HN: OpenComputer \u2013 an open source alternative to Devin",
-      "description": "Utpal here, I'm one of the founders of OpenComputer. OpenComputer is an open-source alternative to Devin.",
-      "url": "https://github.com/diggerhq/opencomputer",
-      "big_question": "Does an open-source Devin alternative offer enough transparency and control to be a viable study tool for autonomous coding?",
-      "head_fake": "Open Source vs. Closed AI: The Devin Debate"
+      "title": "Together.ai: Prompt Leakage for Requests",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
     },
     {
       "type": "hn",
-      "title": "We promoted developers into architects without informing them",
-      "description": "An article discussing the silent transition of developers into architectural roles and the lack of formal preparation.",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "big_question": "How can CS curricula better prepare students for the architectural responsibilities that often follow their first engineering role?",
-      "head_fake": "The Silent Promotion: Dev to Architect"
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
     },
     {
       "type": "competition",
-      "title": "CyberDerby",
-      "description": "A cybersecurity competition focused on offensive and defensive security challenges.",
-      "url": "https://cyberderby.devpost.com/",
-      "big_question": "How do competitive CTF environments accelerate the practical application of theoretical security concepts for students?",
-      "head_fake": "Race to the Flag: CyberDerby"
+      "title": "TUJ Fall 2026 Hackathon",
+      "url": "https://tuj-fall-2026-hackathon.devpost.com/"
+    },
+    {
+      "type": "competition",
+      "title": "CrossPointX 2026",
+      "url": "https://cpx2026.devpost.com/"
     },
     {
       "type": "bugbounty",
-      "title": "Twilio",
-      "description": "Bug bounty program for Twilio, a cloud communications platform.",
-      "url": "https://hackerone.com/twilio",
-      "big_question": "What are the most common API security vulnerabilities in communication platforms that students can learn to detect?",
-      "head_fake": "Hunting Bugs in the Cloud: Twilio"
+      "title": "Omarchy",
+      "url": "https://hackerone.com/omarchy"
     },
     {
-      "type": "floater",
-      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis",
-      "description": "A mathematical claim regarding the proof of the Generalized Riemann Hypothesis, sparking discussion in the CS and math communities.",
-      "url": "https://alpo.ge/remark.pdf",
-      "big_question": "How do major mathematical breakthroughs influence algorithm design and complexity theory in computer science?",
-      "head_fake": "Math Breakthrough: GRH Proof Claim"
-    },
-    {
-      "type": "floater",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
-      "description": "Financial news regarding the impact of AI market fluctuations on tech stocks and company valuations.",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "big_question": "How do market volatility and AI hype cycles affect funding and career stability for junior developers?",
-      "head_fake": "Market Watch: AI Sell-off Impact"
+      "type": "bugbounty",
+      "title": "d-you App & German EUDI Wallet Ecosystem",
+      "url": "https://hackerone.com/common_codes"
     }
   ]
 }
