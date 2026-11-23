@@ -1,73 +1,73 @@
 {
-  "fetched_at": "2026-11-22T06:37:03.242074+00:00",
+  "fetched_at": "2026-11-23T07:25:26.784628+00:00",
   "competitions": [
     {
-      "title": "TUJ Fall 2026 Hackathon",
-      "url": "https://tuj-fall-2026-hackathon.devpost.com/",
-      "deadline": "Nov 20 - 22, 2026",
+      "title": "Glushkov 2026 GameDev Contest",
+      "url": "https://glushkov-2026-gamedev-contest.devpost.com/",
+      "deadline": "Nov 21 - 23, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "CrossPointX 2026",
-      "url": "https://cpx2026.devpost.com/",
-      "deadline": "Nov 20 - 22, 2026",
+      "title": "RT Audit Hack 777",
+      "url": "https://rt-audit-hack-777.devpost.com/",
+      "deadline": "Nov 21 - 23, 2026",
+      "prize": "$100",
+      "source": "Devpost"
+    },
+    {
+      "title": "OBSCURA: Satellite AI Research Challenge",
+      "url": "https://obscura.devpost.com/",
+      "deadline": "Nov 18 - 24, 2026",
+      "prize": "$50",
+      "source": "Devpost"
+    },
+    {
+      "title": "Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition)",
+      "url": "https://theagent-to-agent-hackathon.devpost.com/",
+      "deadline": "Nov 17 - 24, 2026",
+      "prize": "$700",
+      "source": "Devpost"
+    },
+    {
+      "title": "Taskforge",
+      "url": "https://taskforge.devpost.com/",
+      "deadline": "Oct 17 - Nov 24, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "The Upside Hack 2.0",
-      "url": "https://the-upside-hack-2-0.devpost.com/",
-      "deadline": "Nov 19 - 22, 2026",
-      "prize": "$582",
-      "source": "Devpost"
-    },
-    {
-      "title": "START Hack League Munich 2026",
-      "url": "https://start-hack-league-munich-2026.devpost.com/",
-      "deadline": "Nov 21 - 22, 2026",
-      "prize": "\u20ac4,000",
-      "source": "Devpost"
-    },
-    {
-      "title": "BostonHacks 2026",
-      "url": "https://bostonhacks-2026.devpost.com/",
-      "deadline": "Nov 21 - 22, 2026",
-      "prize": "$3,500",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack Western 13",
-      "url": "https://hack-western-13.devpost.com/",
-      "deadline": "Nov 20 - 22, 2026",
-      "prize": "$CAD 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "KUK VIRTUAL HACKATHON",
-      "url": "https://kuk-virtual-hackathon.devpost.com/",
-      "deadline": "Nov 15 - 22, 2026",
-      "prize": "$800",
-      "source": "Devpost"
-    },
-    {
-      "title": "WHACK",
-      "url": "https://wellesleyhack-2026.devpost.com/",
-      "deadline": "Nov 21 - 22, 2026",
+      "title": "Creators AI Winter Challenge ",
+      "url": "https://creators-ai-winter-challenge.devpost.com/",
+      "deadline": "Nov 19 - 24, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "EvoHacks 2",
-      "url": "https://evohacks2.devpost.com/",
-      "deadline": "Nov 21 - 22, 2026",
-      "prize": "$27,629",
+      "title": "Hackathon Ag\u00e9ntico SoftwareChido 2026B",
+      "url": "https://hackathon-agentico-2026b.devpost.com/",
+      "deadline": "Oct 05 - Nov 25, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
-      "title": "Hack312",
-      "url": "https://hack312.devpost.com/",
-      "deadline": "Nov 21 - 22, 2026",
+      "title": "BuildyourOwnWebsite",
+      "url": "https://buildyourownwebsite.devpost.com/",
+      "deadline": "Nov 16 - 25, 2026",
+      "prize": "\u20b9 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "HackWithAditya",
+      "url": "https://hackwithaditya.devpost.com/",
+      "deadline": "Oct 16 - Nov 25, 2026",
+      "prize": "\u20b9 500,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "Free AWS Courses & Certifications for Students \u2013 NASSCOM Initiative",
+      "url": "https://free-aws-courses.devpost.com/",
+      "deadline": "Nov 19 - 26, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

@@ -1,47 +1,69 @@
 {
-  "fetched_at": "2026-11-22T06:37:22.689789+00:00",
+  "fetched_at": "2026-11-23T07:25:48.478264+00:00",
   "hot_topics": [
     {
       "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
+      "title": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "big_question": "How can LLM agents automate the reverse engineering of complex native binaries to accelerate security research?",
+      "head_fake": "The agent just decompiled the entire binary in 4 minutes. My coffee is still hot."
     },
     {
       "type": "repo",
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+      "title": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "big_question": "What is the most efficient path to building a portfolio that demonstrates real-world engineering skills?",
+      "head_fake": "Finally found a tutorial that doesn't just build a to-do list. Building a compiler next."
     },
     {
       "type": "hn",
-      "title": "Together.ai: Prompt Leakage for Requests",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "description": "Article URL: https://github.com/AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "big_question": "What are the architectural challenges of running a full macOS userspace on a Linux kernel?",
+      "head_fake": "Wait, you can run Xcode on Linux now? The kernel engineers are going to have a field day."
     },
     {
       "type": "hn",
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "description": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "big_question": "How can students run high-performance LLMs locally without expensive cloud infrastructure?",
+      "head_fake": "My 4090 is finally doing something useful. Quantization is magic."
     },
     {
       "type": "competition",
-      "title": "TUJ Fall 2026 Hackathon",
-      "url": "https://tuj-fall-2026-hackathon.devpost.com/"
-    },
-    {
-      "type": "competition",
-      "title": "CrossPointX 2026",
-      "url": "https://cpx2026.devpost.com/"
-    },
-    {
-      "type": "bugbounty",
-      "title": "Omarchy",
-      "url": "https://hackerone.com/omarchy"
+      "title": "OBSCURA: Satellite AI Research Challenge",
+      "description": "",
+      "url": "https://obscura.devpost.com/",
+      "big_question": "How can AI models be optimized for processing and analyzing satellite imagery in real-time?",
+      "head_fake": "Combining remote sensing with computer vision. This is the kind of research that looks great on a resume."
     },
     {
       "type": "bugbounty",
-      "title": "d-you App & German EUDI Wallet Ecosystem",
-      "url": "https://hackerone.com/common_codes"
+      "title": "Twilio",
+      "description": "",
+      "url": "https://hackerone.com/twilio",
+      "big_question": "What are the common security vulnerabilities in cloud-based communication APIs?",
+      "head_fake": "Twilio pays well and has a clear scope. Perfect for practicing API security testing."
+    },
+    {
+      "type": "floater",
+      "title": "The Rise of Agentic Coding",
+      "description": "Localcode and other tools are bringing agentic coding to the local machine, changing how developers interact with code generation.",
+      "url": "https://github.com/mjwsolo/localcode",
+      "big_question": "Will local agentic coding tools replace cloud-based IDEs for privacy-conscious developers?",
+      "head_fake": "One command to start coding with an agent. No cloud, no tracking. This is the future."
+    },
+    {
+      "type": "floater",
+      "title": "Formal Verification in Practice",
+      "description": "The Lean formalization of mathematical manuscripts is showing how AI can assist in rigorous mathematical proof.",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "big_question": "Can AI-assisted formal verification become a standard part of software development pipelines?",
+      "head_fake": "Using Lean to prove mathematical theorems is a fascinating intersection of CS and math."
     }
   ]
 }

@@ -1,102 +1,60 @@
 {
-  "fetched_at": "2026-11-22T06:37:00.849376+00:00",
+  "fetched_at": "2026-11-23T07:25:23.248594+00:00",
   "stories": [
     {
-      "title": "Together.ai: Prompt Leakage for Requests",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026\">https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595816\"",
-      "published": "Sun, 22 Nov 2026 03:07:27 +0000",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "summary": "<p>Article URL: <a href=\"https://github.com/AFK-surf/xnulinux\">https://github.com/AFK-surf/xnulinux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50607261\">https://news.ycombinator.com/item?id=50607261</a></p>\n<p>Points: 163</p>\n<p># Comments: 72</p>",
+      "published": "Mon, 23 Nov 2026 03:49:24 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "summary": "<p>Article URL: <a href=\"https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595554\">https://new",
-      "published": "Sun, 22 Nov 2026 02:14:14 +0000",
+      "title": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com/",
+      "summary": "<p>Article URL: <a href=\"https://0rwx.com/\">https://0rwx.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605445\">https://news.ycombinator.com/item?id=50605445</a></p>\n<p>Points: 41</p>\n<p># Comments: 10</p>",
+      "published": "Sun, 22 Nov 2026 23:53:00 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Mythology of Conscious AI",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "summary": "<p>Article URL: <a href=\"https://www.noemamag.com/the-mythology-of-conscious-ai/\">https://www.noemamag.com/the-mythology-of-conscious-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595537\">https://news.ycombinator.com/item?id=50595537</a></p>\n<p>Points: 27</p>\n<p># Comm",
-      "published": "Sun, 22 Nov 2026 02:10:02 +0000",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "summary": "<p>Article URL: <a href=\"https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605045\">https://news.ycombinator.com/item?id=50605045</a></p>\n<p>Points: 213</p>\n<p># Comments: 159</",
+      "published": "Sun, 22 Nov 2026 23:12:10 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Advice for the next 100 Rust GUIs",
-      "url": "https://linebender.org/blog/next-100-guis/",
-      "summary": "<p>Article URL: <a href=\"https://linebender.org/blog/next-100-guis/\">https://linebender.org/blog/next-100-guis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593737\">https://news.ycombinator.com/item?id=50593737</a></p>\n<p>Points: 130</p>\n<p># Comments: 34</p>",
-      "published": "Sat, 21 Nov 2026 21:17:53 +0000",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "summary": "<p>Article URL: <a href=\"https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20\">https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604988\">https://news.ycombinator.com/item?id=506049",
+      "published": "Sun, 22 Nov 2026 23:06:37 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "url": "https://tasklet.ai/careers",
-      "summary": "<p>Article URL: <a href=\"https://tasklet.ai/careers\">https://tasklet.ai/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593679\">https://news.ycombinator.com/item?id=50593679</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "published": "Sat, 21 Nov 2026 21:11:08 +0000",
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mjwsolo/localcode\">https://github.com/mjwsolo/localcode</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604540\">https://news.ycombinator.com/item?id=50604540</a></p>\n<p>Points: 51</p>\n<p># Comments: 13</p>",
+      "published": "Sun, 22 Nov 2026 22:18:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "summary": "<p>Article URL: <a href=\"https://www.pandex.io\">https://www.pandex.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593481\">https://news.ycombinator.com/item?id=50593481</a></p>\n<p>Points: 60</p>\n<p># Comments: 11</p>",
-      "published": "Sat, 21 Nov 2026 20:47:41 +0000",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "<p>Article URL: <a href=\"https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603845\">https://news.ycombinator.com/item?id=",
+      "published": "Sun, 22 Nov 2026 21:01:16 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "url": "https://pwn.ai/upload2shell",
-      "summary": "<p>Article URL: <a href=\"https://pwn.ai/upload2shell\">https://pwn.ai/upload2shell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50592097\">https://news.ycombinator.com/item?id=50592097</a></p>\n<p>Points: 104</p>\n<p># Comments: 47</p>",
-      "published": "Sat, 21 Nov 2026 18:29:29 +0000",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/perplexity-and-intelligence/\">https://openai.com/index/perplexity-and-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50601525\">https://news.ycombinator.com/item?id=50601525</a></p>\n<p>Points: 557</p>\n<p># Comment",
+      "published": "Sun, 22 Nov 2026 17:06:27 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "summary": "<p>Article URL: <a href=\"https://onurgumus.github.io/zero-csharp/index.html\">https://onurgumus.github.io/zero-csharp/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50590279\">https://news.ycombinator.com/item?id=50590279</a></p>\n<p>Points: 149</p>\n<p># Comments: 104",
-      "published": "Sat, 21 Nov 2026 15:39:09 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "GnuPG Security Advisory for GPGME",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "summary": "<p>Article URL: <a href=\"https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html\">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587208\">https://news.ycombinator.com/item?id=50587208</a></p>\n<p>",
-      "published": "Sat, 21 Nov 2026 08:32:58 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "url": "https://news.ycombinator.com/item?id=50583761",
-      "summary": "<p>I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to",
-      "published": "Fri, 20 Nov 2026 23:18:32 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib\">https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50582069\"",
-      "published": "Fri, 20 Nov 2026 21:03:12 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Split Radiance Cascades",
-      "url": "https://www.jacktollenaar.top/articles/split-rc.html",
-      "summary": "<p>Article URL: <a href=\"https://www.jacktollenaar.top/articles/split-rc.html\">https://www.jacktollenaar.top/articles/split-rc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50560314\">https://news.ycombinator.com/item?id=50560314</a></p>\n<p>Points: 11</p>\n<p># Comments: ",
-      "published": "Thu, 19 Nov 2026 14:08:33 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "LLMs can read and write executables byte by byte from a hex dump",
-      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-      "summary": "<p>Article URL: <a href=\"https://sgiannopoulos.github.io/blog/machine-code-programming/\">https://sgiannopoulos.github.io/blog/machine-code-programming/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50546587\">https://news.ycombinator.com/item?id=50546587</a></p>\n<p>Points: 22",
-      "published": "Wed, 18 Nov 2026 14:15:58 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Reaktiv Workbook \u2013 A spreadsheet where every cell is Python",
-      "url": "https://workbook.bui.app/",
-      "summary": "<p>Article URL: <a href=\"https://workbook.bui.app/\">https://workbook.bui.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50544428\">https://news.ycombinator.com/item?id=50544428</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-      "published": "Wed, 18 Nov 2026 10:24:42 +0000",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "summary": "<p>Article URL: <a href=\"https://github.com/gulivan/worker755\">https://github.com/gulivan/worker755</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50599762\">https://news.ycombinator.com/item?id=50599762</a></p>\n<p>Points: 309</p>\n<p># Comments: 74</p>",
+      "published": "Sun, 22 Nov 2026 13:56:58 +0000",
       "source": "Hacker News"
     }
   ]

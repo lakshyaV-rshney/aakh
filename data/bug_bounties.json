@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T06:36:59.735729+00:00",
+  "fetched_at": "2026-11-23T07:25:23.451658+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -2819,6 +2819,12 @@
       "title": "Infinite Athlete",
       "url": "https://bugcrowd.com/engagements/tempusex-public-mbb-og",
       "bounty": "$4,500",
+      "source": "Bugcrowd"
+    },
+    {
+      "title": "Tesla",
+      "url": "https://bugcrowd.com/engagements/tesla",
+      "bounty": "$100,000",
       "source": "Bugcrowd"
     },
     {
