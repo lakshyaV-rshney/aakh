@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T07:25:23.451658+00:00",
+  "fetched_at": "2026-11-24T09:45:20.346191+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -172,12 +172,6 @@
     {
       "title": "Varonis",
       "url": "https://hackerone.com/varonis",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Klarna",
-      "url": "https://hackerone.com/klarna",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1042,6 +1036,12 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Brave Software",
+      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3194,12 +3194,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Challenge 1126",
-      "url": "https://www.intigriti.com/programs/intigriti/challenge1126/detail",
-      "bounty": "Bounty offered",
-      "source": "Intigriti"
-    },
-    {
       "title": "Citymesh Responsible Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
       "bounty": "Bounty offered",
@@ -3374,6 +3368,12 @@
       "source": "Intigriti"
     },
     {
+      "title": "Here Technologies",
+      "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+      "bounty": "\u20ac2,000",
+      "source": "Intigriti"
+    },
+    {
       "title": "Het Laatste Nieuws",
       "url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
       "bounty": "\u20ac2,200",
@@ -3443,6 +3443,12 @@
       "title": "KU Leuven Vulnerability Disclosure Program (VDP)",
       "url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Kinepolis Group",
+      "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+      "bounty": "\u20ac5,000",
       "source": "Intigriti"
     },
     {

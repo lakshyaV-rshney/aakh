@@ -1,60 +1,60 @@
 {
-  "fetched_at": "2026-11-23T07:25:23.248594+00:00",
+  "fetched_at": "2026-11-24T09:45:22.587647+00:00",
   "stories": [
     {
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AFK-surf/xnulinux\">https://github.com/AFK-surf/xnulinux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50607261\">https://news.ycombinator.com/item?id=50607261</a></p>\n<p>Points: 163</p>\n<p># Comments: 72</p>",
-      "published": "Mon, 23 Nov 2026 03:49:24 +0000",
+      "title": "Rune: Rust VM for Emacs",
+      "url": "https://github.com/CeleritasCelery/rune",
+      "summary": "<p>Article URL: <a href=\"https://github.com/CeleritasCelery/rune\">https://github.com/CeleritasCelery/rune</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50622804\">https://news.ycombinator.com/item?id=50622804</a></p>\n<p>Points: 39</p>\n<p># Comments: 10</p>",
+      "published": "Tue, 24 Nov 2026 02:30:47 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions",
-      "url": "https://0rwx.com/",
-      "summary": "<p>Article URL: <a href=\"https://0rwx.com/\">https://0rwx.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605445\">https://news.ycombinator.com/item?id=50605445</a></p>\n<p>Points: 41</p>\n<p># Comments: 10</p>",
-      "published": "Sun, 22 Nov 2026 23:53:00 +0000",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.20031\">https://arxiv.org/abs/2602.20031</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50620328\">https://news.ycombinator.com/item?id=50620328</a></p>\n<p>Points: 58</p>\n<p># Comments: 4</p>",
+      "published": "Mon, 23 Nov 2026 22:29:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "summary": "<p>Article URL: <a href=\"https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605045\">https://news.ycombinator.com/item?id=50605045</a></p>\n<p>Points: 213</p>\n<p># Comments: 159</",
-      "published": "Sun, 22 Nov 2026 23:12:10 +0000",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "summary": "<p>Article URL: <a href=\"https://blog.kagi.com/kagi-mail-public-beta\">https://blog.kagi.com/kagi-mail-public-beta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50615481\">https://news.ycombinator.com/item?id=50615481</a></p>\n<p>Points: 421</p>\n<p># Comments: 336</p>",
+      "published": "Mon, 23 Nov 2026 17:17:01 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "summary": "<p>Article URL: <a href=\"https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20\">https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604988\">https://news.ycombinator.com/item?id=506049",
-      "published": "Sun, 22 Nov 2026 23:06:37 +0000",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "<p><a href=\"https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\" rel=\"nofollow\">https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j...</a><p><a href=\"https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\" rel=\"nofollo",
+      "published": "Mon, 23 Nov 2026 14:00:18 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Localcode, open source agentic coding on your Mac with one command",
-      "url": "https://github.com/mjwsolo/localcode",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mjwsolo/localcode\">https://github.com/mjwsolo/localcode</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604540\">https://news.ycombinator.com/item?id=50604540</a></p>\n<p>Points: 51</p>\n<p># Comments: 13</p>",
-      "published": "Sun, 22 Nov 2026 22:18:48 +0000",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "summary": "<p>We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding.<p>To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.",
+      "published": "Mon, 23 Nov 2026 13:42:38 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "summary": "<p>Article URL: <a href=\"https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603845\">https://news.ycombinator.com/item?id=",
-      "published": "Sun, 22 Nov 2026 21:01:16 +0000",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "summary": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.4\">https://z.ai/blog/glm-5.4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50609685\">https://news.ycombinator.com/item?id=50609685</a></p>\n<p>Points: 1120</p>\n<p># Comments: 366</p>",
+      "published": "Mon, 23 Nov 2026 10:06:43 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/perplexity-and-intelligence/\">https://openai.com/index/perplexity-and-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50601525\">https://news.ycombinator.com/item?id=50601525</a></p>\n<p>Points: 557</p>\n<p># Comment",
-      "published": "Sun, 22 Nov 2026 17:06:27 +0000",
+      "title": "Modernizing iperf/iperf3 and introducing fireperf",
+      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.daniel-baumann.ch/posts/20261122-1.html\">https://blog.daniel-baumann.ch/posts/20261122-1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604710\">https://news.ycombinator.com/item?id=50604710</a></p>\n<p>Points: 95</p>\n<p># Comments: ",
+      "published": "Sun, 22 Nov 2026 22:37:51 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
-      "summary": "<p>Article URL: <a href=\"https://github.com/gulivan/worker755\">https://github.com/gulivan/worker755</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50599762\">https://news.ycombinator.com/item?id=50599762</a></p>\n<p>Points: 309</p>\n<p># Comments: 74</p>",
-      "published": "Sun, 22 Nov 2026 13:56:58 +0000",
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "summary": "<p>Article URL: <a href=\"https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/\">https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/</a></p>\n<p>Comments URL: <a href=\"https:",
+      "published": "Sun, 22 Nov 2026 15:59:59 +0000",
       "source": "Hacker News"
     }
   ]

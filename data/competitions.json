@@ -1,25 +1,11 @@
 {
-  "fetched_at": "2026-11-23T07:25:26.784628+00:00",
+  "fetched_at": "2026-11-24T09:45:23.770974+00:00",
   "competitions": [
     {
-      "title": "Glushkov 2026 GameDev Contest",
-      "url": "https://glushkov-2026-gamedev-contest.devpost.com/",
-      "deadline": "Nov 21 - 23, 2026",
+      "title": "MLH Hack Day at AITR Indore 2026",
+      "url": "https://llhhackdayindore.devpost.com/",
+      "deadline": "Nov 24, 2026",
       "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "RT Audit Hack 777",
-      "url": "https://rt-audit-hack-777.devpost.com/",
-      "deadline": "Nov 21 - 23, 2026",
-      "prize": "$100",
-      "source": "Devpost"
-    },
-    {
-      "title": "OBSCURA: Satellite AI Research Challenge",
-      "url": "https://obscura.devpost.com/",
-      "deadline": "Nov 18 - 24, 2026",
-      "prize": "$50",
       "source": "Devpost"
     },
     {
@@ -30,6 +16,13 @@
       "source": "Devpost"
     },
     {
+      "title": "Creators AI Winter Challenge ",
+      "url": "https://creators-ai-winter-challenge.devpost.com/",
+      "deadline": "Nov 19 - 24, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "Taskforge",
       "url": "https://taskforge.devpost.com/",
       "deadline": "Oct 17 - Nov 24, 2026",
@@ -37,10 +30,10 @@
       "source": "Devpost"
     },
     {
-      "title": "Creators AI Winter Challenge ",
-      "url": "https://creators-ai-winter-challenge.devpost.com/",
-      "deadline": "Nov 19 - 24, 2026",
-      "prize": "$0",
+      "title": "Dev 2.0 ",
+      "url": "https://dev-2-0.devpost.com/",
+      "deadline": "Nov 23 - 25, 2026",
+      "prize": "$300",
       "source": "Devpost"
     },
     {
@@ -62,6 +55,13 @@
       "url": "https://hackwithaditya.devpost.com/",
       "deadline": "Oct 16 - Nov 25, 2026",
       "prize": "\u20b9 500,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "STEM Innovation Challenge 2026",
+      "url": "https://stem-innovation-challenge-2026.devpost.com/",
+      "deadline": "Nov 24 - 25, 2026",
+      "prize": "$100",
       "source": "Devpost"
     },
     {
