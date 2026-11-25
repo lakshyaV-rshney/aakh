@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T09:45:20.346191+00:00",
+  "fetched_at": "2026-11-25T08:20:34.732876+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -688,12 +688,6 @@
     {
       "title": "Box BB",
       "url": "https://hackerone.com/box_private",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Oasis Protocol Foundation",
-      "url": "https://hackerone.com/oasisprotocol",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3086,12 +3080,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Altera",
-      "url": "https://www.intigriti.com/programs/altera/altera/detail",
-      "bounty": "$4,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Anaconda Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
       "bounty": "Bounty offered",
@@ -3107,6 +3095,12 @@
       "title": "Arm",
       "url": "https://www.intigriti.com/programs/arm/arm/detail",
       "bounty": "$20,000",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Aspira VDP",
+      "url": "https://www.intigriti.com/programs/aspira/aspiravdp/detail",
+      "bounty": "Bounty offered",
       "source": "Intigriti"
     },
     {
@@ -3461,6 +3455,12 @@
       "title": "Kruidvat",
       "url": "https://www.intigriti.com/programs/aswatson/kruidvat/detail",
       "bounty": "$8,500",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Lansweeper Bug Bounty Program",
+      "url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+      "bounty": "\u20ac2,000",
       "source": "Intigriti"
     },
     {

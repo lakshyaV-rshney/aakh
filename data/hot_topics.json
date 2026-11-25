@@ -1,12 +1,6 @@
 {
-  "fetched_at": "2026-11-24T09:45:51.686585+00:00",
+  "fetched_at": "2026-11-25T08:21:03.723660+00:00",
   "hot_topics": [
-    {
-      "type": "repo",
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs"
-    },
     {
       "type": "repo",
       "title": "morluto/rea",
@@ -14,24 +8,30 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
     },
     {
-      "type": "hn",
-      "title": "Rune: Rust VM for Emacs",
-      "url": "https://github.com/CeleritasCelery/rune"
+      "type": "repo",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
     },
     {
       "type": "hn",
-      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "url": "https://arxiv.org/abs/2602.20031"
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/"
+    },
+    {
+      "type": "hn",
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
     },
     {
       "type": "competition",
-      "title": "MLH Hack Day at AITR Indore 2026",
-      "url": "https://llhhackdayindore.devpost.com/"
+      "title": "BuildyourOwnWebsite",
+      "url": "https://buildyourownwebsite.devpost.com/"
     },
     {
       "type": "competition",
-      "title": "Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition)",
-      "url": "https://theagent-to-agent-hackathon.devpost.com/"
+      "title": "HackWithAditya",
+      "url": "https://hackwithaditya.devpost.com/"
     },
     {
       "type": "bugbounty",

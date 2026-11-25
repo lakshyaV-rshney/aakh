@@ -1,48 +1,6 @@
 {
-  "fetched_at": "2026-11-24T09:45:23.770974+00:00",
+  "fetched_at": "2026-11-25T08:20:38.518761+00:00",
   "competitions": [
-    {
-      "title": "MLH Hack Day at AITR Indore 2026",
-      "url": "https://llhhackdayindore.devpost.com/",
-      "deadline": "Nov 24, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition)",
-      "url": "https://theagent-to-agent-hackathon.devpost.com/",
-      "deadline": "Nov 17 - 24, 2026",
-      "prize": "$700",
-      "source": "Devpost"
-    },
-    {
-      "title": "Creators AI Winter Challenge ",
-      "url": "https://creators-ai-winter-challenge.devpost.com/",
-      "deadline": "Nov 19 - 24, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Taskforge",
-      "url": "https://taskforge.devpost.com/",
-      "deadline": "Oct 17 - Nov 24, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "Dev 2.0 ",
-      "url": "https://dev-2-0.devpost.com/",
-      "deadline": "Nov 23 - 25, 2026",
-      "prize": "$300",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hackathon Ag\u00e9ntico SoftwareChido 2026B",
-      "url": "https://hackathon-agentico-2026b.devpost.com/",
-      "deadline": "Oct 05 - Nov 25, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
     {
       "title": "BuildyourOwnWebsite",
       "url": "https://buildyourownwebsite.devpost.com/",
@@ -58,9 +16,16 @@
       "source": "Devpost"
     },
     {
+      "title": "Creators AI Winter Challenge ",
+      "url": "https://creators-ai-winter-challenge.devpost.com/",
+      "deadline": "Nov 19 - 25, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "STEM Innovation Challenge 2026",
       "url": "https://stem-innovation-challenge-2026.devpost.com/",
-      "deadline": "Nov 24 - 25, 2026",
+      "deadline": "Nov 24 - 26, 2026",
       "prize": "$100",
       "source": "Devpost"
     },
@@ -68,6 +33,41 @@
       "title": "Free AWS Courses & Certifications for Students \u2013 NASSCOM Initiative",
       "url": "https://free-aws-courses.devpost.com/",
       "deadline": "Nov 19 - 26, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "SMBP FinHack",
+      "url": "https://smbp-finhack.devpost.com/",
+      "deadline": "Nov 18 - 27, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "Build Day 2",
+      "url": "https://build-day.devpost.com/",
+      "deadline": "Nov 24 - 28, 2026",
+      "prize": "\u00a31,000",
+      "source": "Devpost"
+    },
+    {
+      "title": "AlgoConnect Quantathon - 2026",
+      "url": "https://algoconnect-quantathon-2026.devpost.com/",
+      "deadline": "Nov 22 - 28, 2026",
+      "prize": "$700",
+      "source": "Devpost"
+    },
+    {
+      "title": "Global AI Builder\u2019s Challenge",
+      "url": "https://global-ai-builders-challenge.devpost.com/",
+      "deadline": "Nov 21 - 28, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "STEM2Connect AI Hackathon",
+      "url": "https://stem2connect-online-hackathon.devpost.com/",
+      "deadline": "Oct 17 - Nov 29, 2026",
       "prize": "$0",
       "source": "Devpost"
     }

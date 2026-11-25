@@ -1,60 +1,102 @@
 {
-  "fetched_at": "2026-11-24T09:45:22.587647+00:00",
+  "fetched_at": "2026-11-25T08:20:36.817399+00:00",
   "stories": [
     {
-      "title": "Rune: Rust VM for Emacs",
-      "url": "https://github.com/CeleritasCelery/rune",
-      "summary": "<p>Article URL: <a href=\"https://github.com/CeleritasCelery/rune\">https://github.com/CeleritasCelery/rune</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50622804\">https://news.ycombinator.com/item?id=50622804</a></p>\n<p>Points: 39</p>\n<p># Comments: 10</p>",
-      "published": "Tue, 24 Nov 2026 02:30:47 +0000",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "summary": "<p>Article URL: <a href=\"https://gpu-demo-gallery.pages.dev/\">https://gpu-demo-gallery.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50638503\">https://news.ycombinator.com/item?id=50638503</a></p>\n<p>Points: 73</p>\n<p># Comments: 14</p>",
+      "published": "Wed, 25 Nov 2026 04:31:48 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "url": "https://arxiv.org/abs/2602.20031",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.20031\">https://arxiv.org/abs/2602.20031</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50620328\">https://news.ycombinator.com/item?id=50620328</a></p>\n<p>Points: 58</p>\n<p># Comments: 4</p>",
-      "published": "Mon, 23 Nov 2026 22:29:48 +0000",
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "summary": "<p>Article URL: <a href=\"https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each\">https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50638478\">https://news.ycombinator.com/item?i",
+      "published": "Wed, 25 Nov 2026 04:27:55 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Kagi Mail (public beta)",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta",
-      "summary": "<p>Article URL: <a href=\"https://blog.kagi.com/kagi-mail-public-beta\">https://blog.kagi.com/kagi-mail-public-beta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50615481\">https://news.ycombinator.com/item?id=50615481</a></p>\n<p>Points: 421</p>\n<p># Comments: 336</p>",
-      "published": "Mon, 23 Nov 2026 17:17:01 +0000",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "summary": "<p>Article URL: <a href=\"https://www.marginalia.nu/log/a_141_marginalia_update/\">https://www.marginalia.nu/log/a_141_marginalia_update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50638220\">https://news.ycombinator.com/item?id=50638220</a></p>\n<p>Points: 87</p>\n<p># Commen",
+      "published": "Wed, 25 Nov 2026 03:47:42 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "summary": "<p><a href=\"https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\" rel=\"nofollow\">https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j...</a><p><a href=\"https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\" rel=\"nofollo",
-      "published": "Mon, 23 Nov 2026 14:00:18 +0000",
+      "title": "Macrohistory in Six Facts",
+      "url": "https://basilhalperin.com/essays/macrohistory.html",
+      "summary": "<p>Article URL: <a href=\"https://basilhalperin.com/essays/macrohistory.html\">https://basilhalperin.com/essays/macrohistory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637891\">https://news.ycombinator.com/item?id=50637891</a></p>\n<p>Points: 55</p>\n<p># Comments: 22</",
+      "published": "Wed, 25 Nov 2026 03:04:46 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "summary": "<p>We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding.<p>To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.",
-      "published": "Mon, 23 Nov 2026 13:42:38 +0000",
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "url": "https://www.proofatlas.ai/open-problems/",
+      "summary": "<p>Article URL: <a href=\"https://www.proofatlas.ai/open-problems/\">https://www.proofatlas.ai/open-problems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637871\">https://news.ycombinator.com/item?id=50637871</a></p>\n<p>Points: 42</p>\n<p># Comments: 11</p>",
+      "published": "Wed, 25 Nov 2026 03:01:36 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "url": "https://z.ai/blog/glm-5.4",
-      "summary": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.4\">https://z.ai/blog/glm-5.4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50609685\">https://news.ycombinator.com/item?id=50609685</a></p>\n<p>Points: 1120</p>\n<p># Comments: 366</p>",
-      "published": "Mon, 23 Nov 2026 10:06:43 +0000",
+      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p>\n<p>Comme",
+      "published": "Wed, 25 Nov 2026 01:19:26 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Modernizing iperf/iperf3 and introducing fireperf",
-      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
-      "summary": "<p>Article URL: <a href=\"https://blog.daniel-baumann.ch/posts/20261122-1.html\">https://blog.daniel-baumann.ch/posts/20261122-1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604710\">https://news.ycombinator.com/item?id=50604710</a></p>\n<p>Points: 95</p>\n<p># Comments: ",
-      "published": "Sun, 22 Nov 2026 22:37:51 +0000",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50634658\">https://news.yc",
+      "published": "Tue, 24 Nov 2026 21:02:22 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "C++26 is done (again): ISO C++ meeting trip report",
-      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-      "summary": "<p>Article URL: <a href=\"https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/\">https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/</a></p>\n<p>Comments URL: <a href=\"https:",
-      "published": "Sun, 22 Nov 2026 15:59:59 +0000",
+      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "summary": "<p>Hey HN, we\u2019re Harshith, Param, and Vishnu and we're building Versine (<a href=\"https://versine.com\">https://versine.com</a>). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We\u2019re software engineers who have worked on distributed systems ",
+      "published": "Tue, 24 Nov 2026 20:44:15 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "summary": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-2-5-27b\">https://prismml.com/news/bonsai-2-5-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50633922\">https://news.ycombinator.com/item?id=50633922</a></p>\n<p>Points: 430</p>\n<p># Comments: 136</p>",
+      "published": "Tue, 24 Nov 2026 20:08:03 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "summary": "<p>Basically the title.<p>Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models.<p>Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their",
+      "published": "Tue, 24 Nov 2026 16:45:44 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "summary": "<p>Article URL: <a href=\"https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\">https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50630594\">https://news.yc",
+      "published": "Tue, 24 Nov 2026 16:32:17 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "G\u00f6del Enigma",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "summary": "<p>Article URL: <a href=\"https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description\">https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50625265\">https://news.ycombinator.",
+      "published": "Tue, 24 Nov 2026 08:16:02 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The algebra of dependent types (2025)",
+      "url": "https://dotat.at/@/2025-05-28-types.html",
+      "summary": "<p>Article URL: <a href=\"https://dotat.at/@/2025-05-28-types.html\">https://dotat.at/@/2025-05-28-types.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50623866\">https://news.ycombinator.com/item?id=50623866</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+      "published": "Tue, 24 Nov 2026 04:49:58 +0000",
+      "source": "Hacker News"
+    },
+    {
+      "title": "When in Doubt, Flail About",
+      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
+      "summary": "<p>Article URL: <a href=\"https://www.seangoedecke.com/when-in-doubt-flail-about/\">https://www.seangoedecke.com/when-in-doubt-flail-about/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50613769\">https://news.ycombinator.com/item?id=50613769</a></p>\n<p>Points: 20</p>\n<p># Comm",
+      "published": "Mon, 23 Nov 2026 15:45:11 +0000",
       "source": "Hacker News"
     }
   ]
