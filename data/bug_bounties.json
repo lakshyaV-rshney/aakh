@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T08:20:34.732876+00:00",
+  "fetched_at": "2026-11-27T08:15:50.646078+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -94,6 +94,12 @@
     {
       "title": "Coupang",
       "url": "https://hackerone.com/coupang",
+      "bounty": "Bounty offered",
+      "source": "HackerOne"
+    },
+    {
+      "title": "Northern.tech",
+      "url": "https://hackerone.com/northerntechhq",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -1030,12 +1036,6 @@
     {
       "title": "Quora",
       "url": "https://hackerone.com/quora",
-      "bounty": "Bounty offered",
-      "source": "HackerOne"
-    },
-    {
-      "title": "Brave Software",
-      "url": "https://hackerone.com/brave",
       "bounty": "Bounty offered",
       "source": "HackerOne"
     },
@@ -3458,12 +3458,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Lansweeper Bug Bounty Program",
-      "url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-      "bounty": "\u20ac2,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Libelle",
       "url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
       "bounty": "\u20ac2,200",
@@ -3611,6 +3605,12 @@
       "title": "Posten Bring Responsible Disclosure",
       "url": "https://www.intigriti.com/programs/postenbringas/vdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Posti Bug Bounty ",
+      "url": "https://www.intigriti.com/programs/posti/postibugbounty/detail",
+      "bounty": "\u20ac2,000",
       "source": "Intigriti"
     },
     {
@@ -3815,6 +3815,12 @@
       "title": "Universit\u00e4tsspital Z\u00fcrich VDP",
       "url": "https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail",
       "bounty": "Bounty offered",
+      "source": "Intigriti"
+    },
+    {
+      "title": "Uphold",
+      "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+      "bounty": "\u20ac6,000",
       "source": "Intigriti"
     },
     {

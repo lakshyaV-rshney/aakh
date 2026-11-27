@@ -1,38 +1,17 @@
 {
-  "fetched_at": "2026-11-25T08:20:38.518761+00:00",
+  "fetched_at": "2026-11-27T08:15:53.765356+00:00",
   "competitions": [
     {
-      "title": "BuildyourOwnWebsite",
-      "url": "https://buildyourownwebsite.devpost.com/",
-      "deadline": "Nov 16 - 25, 2026",
-      "prize": "\u20b9 0",
-      "source": "Devpost"
-    },
-    {
-      "title": "HackWithAditya",
-      "url": "https://hackwithaditya.devpost.com/",
-      "deadline": "Oct 16 - Nov 25, 2026",
-      "prize": "\u20b9 500,000",
+      "title": "Hackathon Ag\u00e9ntico SoftwareChido 2026B",
+      "url": "https://hackathon-agentico-2026b.devpost.com/",
+      "deadline": "Oct 05 - Nov 27, 2026",
+      "prize": "$0",
       "source": "Devpost"
     },
     {
       "title": "Creators AI Winter Challenge ",
       "url": "https://creators-ai-winter-challenge.devpost.com/",
-      "deadline": "Nov 19 - 25, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "STEM Innovation Challenge 2026",
-      "url": "https://stem-innovation-challenge-2026.devpost.com/",
-      "deadline": "Nov 24 - 26, 2026",
-      "prize": "$100",
-      "source": "Devpost"
-    },
-    {
-      "title": "Free AWS Courses & Certifications for Students \u2013 NASSCOM Initiative",
-      "url": "https://free-aws-courses.devpost.com/",
-      "deadline": "Nov 19 - 26, 2026",
+      "deadline": "Nov 19 - 27, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
@@ -69,6 +48,27 @@
       "url": "https://stem2connect-online-hackathon.devpost.com/",
       "deadline": "Oct 17 - Nov 29, 2026",
       "prize": "$0",
+      "source": "Devpost"
+    },
+    {
+      "title": "CSC Winter Sparkathon",
+      "url": "https://csc-winter-sparkathon.devpost.com/",
+      "deadline": "Oct 29 - Nov 30, 2026",
+      "prize": "$300",
+      "source": "Devpost"
+    },
+    {
+      "title": "OBSCURA: Satellite AI Research Challenge",
+      "url": "https://obscura.devpost.com/",
+      "deadline": "Nov 18 - 30, 2026",
+      "prize": "$50",
+      "source": "Devpost"
+    },
+    {
+      "title": "Bath Game Jam 2026",
+      "url": "https://jam26.devpost.com/",
+      "deadline": "Nov 23 - 30, 2026",
+      "prize": "\u00a30",
       "source": "Devpost"
     }
   ]
