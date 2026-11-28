@@ -1,24 +1,17 @@
 {
-  "fetched_at": "2026-11-27T08:15:53.765356+00:00",
+  "fetched_at": "2026-11-28T07:38:12.365980+00:00",
   "competitions": [
     {
-      "title": "Hackathon Ag\u00e9ntico SoftwareChido 2026B",
-      "url": "https://hackathon-agentico-2026b.devpost.com/",
-      "deadline": "Oct 05 - Nov 27, 2026",
-      "prize": "$0",
+      "title": "hackaTUM 2026",
+      "url": "https://hackatum26.devpost.com/",
+      "deadline": "Nov 27 - 28, 2026",
+      "prize": "\u20ac0",
       "source": "Devpost"
     },
     {
-      "title": "Creators AI Winter Challenge ",
-      "url": "https://creators-ai-winter-challenge.devpost.com/",
-      "deadline": "Nov 19 - 27, 2026",
-      "prize": "$0",
-      "source": "Devpost"
-    },
-    {
-      "title": "SMBP FinHack",
-      "url": "https://smbp-finhack.devpost.com/",
-      "deadline": "Nov 18 - 27, 2026",
+      "title": "Project-ZH Hack Day",
+      "url": "https://project-zh.devpost.com/",
+      "deadline": "Nov 28, 2026",
       "prize": "$0",
       "source": "Devpost"
     },
@@ -37,6 +30,13 @@
       "source": "Devpost"
     },
     {
+      "title": "Creators AI Winter Challenge ",
+      "url": "https://creators-ai-winter-challenge.devpost.com/",
+      "deadline": "Nov 19 - 28, 2026",
+      "prize": "$0",
+      "source": "Devpost"
+    },
+    {
       "title": "Global AI Builder\u2019s Challenge",
       "url": "https://global-ai-builders-challenge.devpost.com/",
       "deadline": "Nov 21 - 28, 2026",
@@ -44,31 +44,31 @@
       "source": "Devpost"
     },
     {
-      "title": "STEM2Connect AI Hackathon",
-      "url": "https://stem2connect-online-hackathon.devpost.com/",
-      "deadline": "Oct 17 - Nov 29, 2026",
-      "prize": "$0",
+      "title": "HackEPS2026",
+      "url": "https://hackeps2026.devpost.com/",
+      "deadline": "Nov 28 - 29, 2026",
+      "prize": "\u20ac0",
       "source": "Devpost"
     },
     {
-      "title": "CSC Winter Sparkathon",
-      "url": "https://csc-winter-sparkathon.devpost.com/",
-      "deadline": "Oct 29 - Nov 30, 2026",
-      "prize": "$300",
-      "source": "Devpost"
-    },
-    {
-      "title": "OBSCURA: Satellite AI Research Challenge",
-      "url": "https://obscura.devpost.com/",
-      "deadline": "Nov 18 - 30, 2026",
-      "prize": "$50",
-      "source": "Devpost"
-    },
-    {
-      "title": "Bath Game Jam 2026",
-      "url": "https://jam26.devpost.com/",
-      "deadline": "Nov 23 - 30, 2026",
+      "title": "Mosque & Madrassah Hackathon 2026",
+      "url": "https://mosque-expo-hackathon-2026.devpost.com/",
+      "deadline": "Nov 27 - 29, 2026",
       "prize": "\u00a30",
+      "source": "Devpost"
+    },
+    {
+      "title": "LooHacks",
+      "url": "https://loohacks.devpost.com/",
+      "deadline": "Nov 27 - 29, 2026",
+      "prize": "$CAD 0",
+      "source": "Devpost"
+    },
+    {
+      "title": "K-Dub Hacks",
+      "url": "https://k-dub-hacks.devpost.com/",
+      "deadline": "Nov 27 - 29, 2026",
+      "prize": "$CAD 448,000",
       "source": "Devpost"
     }
   ]

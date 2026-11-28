@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T08:15:50.646078+00:00",
+  "fetched_at": "2026-11-28T07:38:08.968493+00:00",
   "bug_bounties": [
     {
       "title": "Omarchy",
@@ -3074,12 +3074,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "Allegro",
-      "url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
-      "bounty": "\u20ac4,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "Anaconda Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
       "bounty": "Bounty offered",
@@ -3506,12 +3500,6 @@
       "source": "Intigriti"
     },
     {
-      "title": "NVIDIA Public Bug Bounty",
-      "url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
-      "bounty": "$15,000",
-      "source": "Intigriti"
-    },
-    {
       "title": "NVIDIA Vulnerability Disclosure Program",
       "url": "https://www.intigriti.com/programs/nvidia/nvidiavdp/detail",
       "bounty": "Bounty offered",
@@ -3545,12 +3533,6 @@
       "title": "Nexuzhealth Web PACS",
       "url": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
       "bounty": "\u20ac1,000",
-      "source": "Intigriti"
-    },
-    {
-      "title": "Ninja Kiwi Games Bug Bounty program",
-      "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-      "bounty": "\u20ac4,125",
       "source": "Intigriti"
     },
     {

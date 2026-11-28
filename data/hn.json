@@ -1,102 +1,95 @@
 {
-  "fetched_at": "2026-11-27T08:15:57.429032+00:00",
+  "fetched_at": "2026-11-28T07:38:09.056384+00:00",
   "stories": [
     {
-      "title": "The group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "summary": "<p>Article URL: <a href=\"https://construct22.com/\">https://construct22.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663595\">https://news.ycombinator.com/item?id=50663595</a></p>\n<p>Points: 97</p>\n<p># Comments: 25</p>",
-      "published": "Fri, 27 Nov 2026 06:44:34 +0000",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "summary": "<p>Article URL: <a href=\"https://unkernel.dev\">https://unkernel.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50674218\">https://news.ycombinator.com/item?id=50674218</a></p>\n<p>Points: 165</p>\n<p># Comments: 21</p>",
+      "published": "Sat, 28 Nov 2026 03:19:20 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The need for a formally verifiable mainstream programming language",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "summary": "<p>Article URL: <a href=\"https://blainehansen.me/post/mainstream-verifiable-language/\">https://blainehansen.me/post/mainstream-verifiable-language/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663089\">https://news.ycombinator.com/item?id=50663089</a></p>\n<p>Points: 108</p",
-      "published": "Fri, 27 Nov 2026 05:22:06 +0000",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "<p>Article URL: <a href=\"https://research.google/blog/supercharging-transformer-residual-connections/\">https://research.google/blog/supercharging-transformer-residual-connections/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672565\">https://news.ycombinator.com/item?id=50",
+      "published": "Fri, 27 Nov 2026 23:06:29 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The Cutthroat Business of Shipwrecks",
-      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-      "summary": "<p>Article URL: <a href=\"https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/\">https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50661705\">https://news.ycombinator.com/item?id=50661705</a></p>\n<p>Points: 21</",
-      "published": "Fri, 27 Nov 2026 01:21:49 +0000",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "url": "https://sessiongraph.ai/",
+      "summary": "<p>Article URL: <a href=\"https://sessiongraph.ai/\">https://sessiongraph.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50671651\">https://news.ycombinator.com/item?id=50671651</a></p>\n<p>Points: 45</p>\n<p># Comments: 23</p>",
+      "published": "Fri, 27 Nov 2026 21:07:34 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "url": "https://kendell.dev/blog/arkwrapper/",
-      "summary": "<p>Article URL: <a href=\"https://kendell.dev/blog/arkwrapper/\">https://kendell.dev/blog/arkwrapper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50660273\">https://news.ycombinator.com/item?id=50660273</a></p>\n<p>Points: 92</p>\n<p># Comments: 13</p>",
-      "published": "Thu, 26 Nov 2026 21:59:19 +0000",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "summary": "<p>Article URL: <a href=\"https://github.com/skeeto/prospero\">https://github.com/skeeto/prospero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50671275\">https://news.ycombinator.com/item?id=50671275</a></p>\n<p>Points: 56</p>\n<p># Comments: 20</p>",
+      "published": "Fri, 27 Nov 2026 20:23:14 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "summary": "<p>Article URL: <a href=\"https://janlukas.blog/posts/ai-self-hosting\">https://janlukas.blog/posts/ai-self-hosting</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50660180\">https://news.ycombinator.com/item?id=50660180</a></p>\n<p>Points: 601</p>\n<p># Comments: 310</p>",
-      "published": "Thu, 26 Nov 2026 21:47:45 +0000",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "summary": "<p>Article URL: <a href=\"https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform\">https://www.oag.state",
+      "published": "Fri, 27 Nov 2026 19:42:25 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Rvoip: VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "summary": "<p>Article URL: <a href=\"https://github.com/eisenzopf/rvoip\">https://github.com/eisenzopf/rvoip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50658632\">https://news.ycombinator.com/item?id=50658632</a></p>\n<p>Points: 120</p>\n<p># Comments: 24</p>",
-      "published": "Thu, 26 Nov 2026 19:18:09 +0000",
+      "title": "False computer-checked proofs",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "summary": "<p>Article URL: <a href=\"https://cr.yp.to/proofs/falseccp.html\">https://cr.yp.to/proofs/falseccp.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667989\">https://news.ycombinator.com/item?id=50667989</a></p>\n<p>Points: 216</p>\n<p># Comments: 83</p>",
+      "published": "Fri, 27 Nov 2026 15:26:09 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "An introduction to uncertainty in machine learning",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "summary": "<p>Article URL: <a href=\"https://chrhenning.com/blog/2026/introduction-to-uncertainty/\">https://chrhenning.com/blog/2026/introduction-to-uncertainty/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50658498\">https://news.ycombinator.com/item?id=50658498</a></p>\n<p>Points: 67</",
-      "published": "Thu, 26 Nov 2026 19:04:50 +0000",
+      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "summary": "<p>a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed ",
+      "published": "Fri, 27 Nov 2026 15:01:50 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\">https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657645\">https://news.ycombinator.co",
-      "published": "Thu, 26 Nov 2026 17:47:45 +0000",
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "summary": "<p>Article URL: <a href=\"https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html\">https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667371\">https://news.ycombinator.com/item?id=50667371",
+      "published": "Fri, 27 Nov 2026 14:30:20 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "url": "http://themouseless.dev/vim/",
-      "summary": "<p>I'm glad to announce that I'm releasing my new book, Learning to Play Vim.<p>When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the",
-      "published": "Thu, 26 Nov 2026 14:44:22 +0000",
+      "title": "Citro\u00ebn Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "summary": "<p>Article URL: <a href=\"https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html\">https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50662313\">https://news.ycombinator.com/item?id=50662313</a>",
+      "published": "Fri, 27 Nov 2026 03:10:19 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "summary": "<p>Article URL: <a href=\"https://techstackups.com/articles/google-workspace-ai-agents-mcp/\">https://techstackups.com/articles/google-workspace-ai-agents-mcp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50653477\">https://news.ycombinator.com/item?id=50653477</a></p>\n<p>Poin",
-      "published": "Thu, 26 Nov 2026 09:44:23 +0000",
+      "title": "How WinHelp Files Work",
+      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "summary": "<p>Article URL: <a href=\"https://quin.fyi/posts/how-winhelp-files-work.html\">https://quin.fyi/posts/how-winhelp-files-work.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654773\">https://news.ycombinator.com/item?id=50654773</a></p>\n<p>Points: 29</p>\n<p># Comments: 23</",
+      "published": "Thu, 26 Nov 2026 12:51:37 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "Moat: OpenRouter replacement",
-      "url": "https://commandcode.ai/moat",
-      "summary": "<p>Article URL: <a href=\"https://commandcode.ai/moat\">https://commandcode.ai/moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652184\">https://news.ycombinator.com/item?id=50652184</a></p>\n<p>Points: 279</p>\n<p># Comments: 154</p>",
-      "published": "Thu, 26 Nov 2026 06:32:48 +0000",
+      "title": "Show HN: Analysis of Hacker News predictions since 2008",
+      "url": "https://hnpredictions.com/",
+      "summary": "<p>I've always been curious about market and technology predictions so I made HN Predictions.<p>I made it (prompted) in Antigravity using Gemini 4 Neon (High) orchestrator, and it took about 4 to 6 hours. Everything is hosted on Google Cloud and uses Vertex API and various Gemini models (still exper",
+      "published": "Tue, 24 Nov 2026 19:46:54 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "An algebraic quantization of gravity from the null cone",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2611.34924\">https://arxiv.org/abs/2611.34924</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651863\">https://news.ycombinator.com/item?id=50651863</a></p>\n<p>Points: 236</p>\n<p># Comments: 92</p>",
-      "published": "Thu, 26 Nov 2026 05:37:51 +0000",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "summary": "<p>Article URL: <a href=\"https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding\">https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50632052\">h",
+      "published": "Tue, 24 Nov 2026 18:10:45 +0000",
       "source": "Hacker News"
     },
     {
-      "title": "The USAID Files",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "summary": "<p>Article URL: <a href=\"https://reclaimthenet.org/usaid-files\">https://reclaimthenet.org/usaid-files</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50649040\">https://news.ycombinator.com/item?id=50649040</a></p>\n<p>Points: 242</p>\n<p># Comments: 294</p>",
-      "published": "Wed, 25 Nov 2026 23:15:52 +0000",
-      "source": "Hacker News"
-    },
-    {
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "summary": "<p>Article URL: <a href=\"https://1password.com/blog/update-on-nov-2026-security-incident\">https://1password.com/blog/update-on-nov-2026-security-incident</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644817\">https://news.ycombinator.com/item?id=50644817</a></p>\n<p>Points: ",
-      "published": "Wed, 25 Nov 2026 17:18:26 +0000",
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "summary": "<p>Article URL: <a href=\"https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit\">https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50631823\">https://news.ycombinator.com/",
+      "published": "Tue, 24 Nov 2026 17:55:27 +0000",
       "source": "Hacker News"
     }
   ]

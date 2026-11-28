@@ -1,69 +1,69 @@
 {
-  "fetched_at": "2026-11-27T08:16:18.418567+00:00",
+  "fetched_at": "2026-11-28T07:38:35.488683+00:00",
   "hot_topics": [
     {
       "type": "repo",
       "title": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "big_question": "Can structured agentic workflows actually replace traditional code review processes for student teams?",
-      "head_fake": "The lobster is coding your next project while you sleep."
+      "big_question": "How can structured agentic skills reduce the cognitive load of complex software development tasks?",
+      "head_fake": "\ud83e\udde0 Structuring agent skills for better dev workflows"
     },
     {
       "type": "repo",
-      "title": "EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "big_question": "Which free resource best bridges the gap between academic theory and industry practice for CS students?",
-      "head_fake": "Your library is now infinite and free."
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "big_question": "What are the most underrated free APIs for building rapid prototypes?",
+      "head_fake": "\ud83c\udf10 The ultimate cheat sheet for free API integration"
     },
     {
       "type": "hn",
-      "title": "The need for a formally verifiable mainstream programming language",
-      "description": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "big_question": "Will formal verification become a standard requirement for critical infrastructure software in the next decade?",
-      "head_fake": "Math is coming for your codebase."
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "description": "Article URL: https://unkernel.dev",
+      "url": "https://unkernel.dev",
+      "big_question": "What are the performance implications of running a full Linux kernel in a browser environment?",
+      "head_fake": "\ud83d\udc27 Linux in the browser? The WebAssembly frontier"
     },
     {
       "type": "hn",
-      "title": "An introduction to uncertainty in machine learning",
-      "description": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "big_question": "How can students effectively communicate model uncertainty to non-technical stakeholders?",
-      "head_fake": "Stop trusting the confidence score blindly."
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "description": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "big_question": "How does DeepCrossAttention optimize transformer efficiency without sacrificing accuracy?",
+      "head_fake": "\u26a1 3x faster transformers via DeepCrossAttention"
     },
     {
       "type": "competition",
-      "title": "Global AI Builder\u2019s Challenge",
-      "description": "Global AI Builder\u2019s Challenge",
-      "url": "https://global-ai-builders-challenge.devpost.com/",
-      "big_question": "What is the most impactful AI application a student team can build in 48 hours?",
-      "head_fake": "The global stage is waiting for your hack."
+      "title": "hackaTUM 2026",
+      "description": "https://hackatum26.devpost.com/",
+      "url": "https://hackatum26.devpost.com/",
+      "big_question": "What are the key themes for hackaTUM 2026 and how can students prepare effectively?",
+      "head_fake": "\ud83c\udfc6 Prepping for hackaTUM 2026: What to build"
     },
     {
       "type": "bugbounty",
       "title": "Twilio",
-      "description": "Twilio",
+      "description": "https://hackerone.com/twilio",
       "url": "https://hackerone.com/twilio",
-      "big_question": "What are the common API security pitfalls in communication platforms that students can learn from?",
-      "head_fake": "Break the comms, get the cash."
+      "big_question": "What are the common vulnerability classes in communication platforms like Twilio?",
+      "head_fake": "\ud83d\udee1\ufe0f Hunting bugs in Twilio's communication stack"
     },
     {
       "type": "floater",
-      "title": "Rust for Systems Programming",
-      "description": "Rust is gaining traction in systems programming due to its memory safety guarantees without garbage collection.",
-      "url": "https://www.rust-lang.org/",
-      "big_question": "Is now the right time for a CS student to switch their primary systems language from C++ to Rust?",
-      "head_fake": "Memory safety is the new hotness."
+      "title": "The Rise of Agentic Coding",
+      "description": "A trend analysis of how AI agents are changing the way developers write and review code.",
+      "url": "https://example.com/agentic-coding-trend",
+      "big_question": "Will agentic coding tools replace traditional IDEs in the next five years?",
+      "head_fake": "\ud83e\udd16 The shift from coding to directing AI agents"
     },
     {
       "type": "floater",
-      "title": "The Rise of Local LLMs",
-      "description": "Local Large Language Models are becoming powerful enough for private, on-device inference, reducing reliance on cloud APIs.",
-      "url": "https://huggingface.co/",
-      "big_question": "How will the shift to local LLMs change the data privacy landscape for developers?",
-      "head_fake": "Your laptop is now a data center."
+      "title": "WebAssembly Beyond the Browser",
+      "description": "Exploring the use cases of WebAssembly in server-side applications and edge computing.",
+      "url": "https://example.com/wasm-beyond-browser",
+      "big_question": "How is WebAssembly reshaping cloud-native architectures?",
+      "head_fake": "\ud83c\udf0d WebAssembly's role in the next generation of cloud computing"
     }
   ]
 }
